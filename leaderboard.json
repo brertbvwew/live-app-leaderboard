@@ -1,1 +1,7 @@
-{"last_withdraw": 1000, "user": "User_153"}
+{
+  "top_users": [
+    {"name": "User_474", "coins": 500},
+    {"name": "Previous_Top", "coins": 450},
+    {"name": "Lucky_Earner", "coins": 300}
+  ]
+}
