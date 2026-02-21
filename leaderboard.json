@@ -1,1 +1,18 @@
-{"last_withdraw": 10000, "user": "User_873"}
+{
+  "players": [
+    {
+      "username": "CosmoExplorer",
+      "time_on_app": 3600,
+      "points": 1500,
+      "ads_watched": 12,
+      "coins": 450
+    },
+    {
+      "username": "StarDust_01",
+      "time_on_app": 1200,
+      "points": 800,
+      "ads_watched": 5,
+      "coins": 120
+    }
+  ]
+}
