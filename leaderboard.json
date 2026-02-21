@@ -1,18 +1,1 @@
-{
-  "players": [
-    {
-      "username": "CosmoExplorer",
-      "time_on_app": 3600,
-      "points": 1500,
-      "ads_watched": 12,
-      "coins": 450
-    },
-    {
-      "username": "StarDust_01",
-      "time_on_app": 1200,
-      "points": 800,
-      "ads_watched": 5,
-      "coins": 120
-    }
-  ]
-}
+{"players":[{"ads_watched":12,"coins":450,"points":1500,"time_on_app":3600,"username":"CosmoExplorer"},{"ads_watched":5,"coins":120,"points":800,"time_on_app":1200,"username":"StarDust_01"},{"ads_watched":6,"coins":72,"points":6,"time_on_app":515,"username":"coderxsa"}]}
