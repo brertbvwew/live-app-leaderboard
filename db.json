@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": "10f8def8-4fc6-466e-ad84-e4a68acc5b14",
+      "username": "admin",
+      "email": "admin@cryptalis.com",
+      "passwordHash": "$2a$12$d8cMECOkK5urx9EafmVbGubgkTuty102bdMTA4WO5or1qvuV3KEE2",
+      "role": "admin",
+      "referralCode": "ADMIN-SEED",
+      "transferHash": "KBALIK8",
+      "coins": 0,
+      "tickets": 0,
+      "totalReferrals": 0,
+      "monthlyReferrals": 0,
+      "hasRedeemedReferral": false,
+      "totalSpins": 0,
+      "lastSpinAt": null,
+      "trophies": 0,
+      "banned": false,
+      "registrationIp": "::1",
+      "createdAt": "2026-07-30T16:07:21.303Z"
+    }
+  ],
+  "transactions": [],
+  "admin_attempts": {},
+  "settings": {},
+  "hall_of_fame": [],
+  "coin_conversions": []
+}
