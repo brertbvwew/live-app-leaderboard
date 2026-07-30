@@ -7,6 +7,17 @@
       "userId": "8b4428dc-8f76-43d8-b05e-efcc792e00f1",
       "username": "test",
       "referredBy": null
+    },
+    {
+      "id": "spin_1785404787521",
+      "type": "spin",
+      "timestamp": "2026-07-30T09:46:27.521Z",
+      "userId": "8b4428dc-8f76-43d8-b05e-efcc792e00f1",
+      "username": "test",
+      "result": "5 Coins",
+      "coins": 5,
+      "tickets": 0,
+      "jackpot": false
     }
   ],
   "stats": {
