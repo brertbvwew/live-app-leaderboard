@@ -18,6 +18,17 @@
       "coins": 5,
       "tickets": 0,
       "jackpot": false
+    },
+    {
+      "id": "spin_1785405017067",
+      "type": "spin",
+      "timestamp": "2026-07-30T09:50:17.067Z",
+      "userId": "02c020e3-77f1-41dd-a2c8-9f4a57d79f31",
+      "username": "admin",
+      "result": "5 Coins",
+      "coins": 5,
+      "tickets": 0,
+      "jackpot": false
     }
   ],
   "stats": {
