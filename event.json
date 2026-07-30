@@ -1,0 +1,14 @@
+{
+  "events": [
+    {
+      "id": "user_register_1785404672523",
+      "type": "user_register",
+      "timestamp": "2026-07-30T09:44:32.523Z",
+      "userId": "8b4428dc-8f76-43d8-b05e-efcc792e00f1",
+      "username": "test",
+      "referredBy": null
+    }
+  ],
+  "stats": {},
+  "lastReset": null
+}
