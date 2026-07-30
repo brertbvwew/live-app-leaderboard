@@ -10,6 +10,18 @@
       "coins": 10,
       "tickets": 0,
       "jackpot": false
+    },
+    {
+      "id": "ticket_purchased_1785430649796",
+      "type": "ticket_purchased",
+      "timestamp": "2026-07-30T16:57:29.796Z",
+      "userId": "5ddb03aa-8e63-4276-a390-eb8beb3bbfaa",
+      "username": "admin",
+      "coinsSpent": 2500,
+      "ticketsGranted": 1,
+      "transaction_id": "tx_1785430649166_jqf7v6zciwh",
+      "newCoinBalance": 3000,
+      "newTicketBalance": 1
     }
   ],
   "stats": {
