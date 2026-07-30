@@ -18,6 +18,25 @@
       "banned": false,
       "registrationIp": "::1",
       "createdAt": "2026-07-30T08:18:51.268Z"
+    },
+    {
+      "id": "8b4428dc-8f76-43d8-b05e-efcc792e00f1",
+      "username": "test",
+      "email": "test@gmail.com",
+      "passwordHash": "$2a$12$IwZvyTXRw1ObhHNgbwMlhex6JUMj8SavYqUXyd5CaNW0HCY7aDaDa",
+      "role": "user",
+      "referralCode": "TEST-ZVKL8",
+      "coins": 0,
+      "tickets": 0,
+      "totalReferrals": 0,
+      "monthlyReferrals": 0,
+      "hasRedeemedReferral": false,
+      "totalSpins": 0,
+      "lastSpinAt": null,
+      "trophies": 0,
+      "banned": false,
+      "registrationIp": "10.30.102.30",
+      "createdAt": "2026-07-30T09:44:32.090Z"
     }
   ],
   "transactions": [],
