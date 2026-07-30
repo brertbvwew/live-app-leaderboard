@@ -9,6 +9,31 @@
       "referredBy": null
     }
   ],
-  "stats": {},
-  "lastReset": null
+  "stats": {
+    "totalUsers": 2,
+    "totalTickets": 0,
+    "totalCoins": 0,
+    "lastReset": null,
+    "lastWinner": null,
+    "snapshotAt": "2026-07-30T09:44:37.095Z"
+  },
+  "lastReset": null,
+  "leaderboard": [
+    {
+      "rank": 1,
+      "username": "admin",
+      "monthlyReferrals": 0,
+      "totalReferrals": 0,
+      "tickets": 0,
+      "trophies": 0
+    },
+    {
+      "rank": 2,
+      "username": "test",
+      "monthlyReferrals": 0,
+      "totalReferrals": 0,
+      "tickets": 0,
+      "trophies": 0
+    }
+  ]
 }
