@@ -34,10 +34,10 @@
   "stats": {
     "totalUsers": 2,
     "totalTickets": 0,
-    "totalCoins": 10,
+    "totalCoins": 5005,
     "lastReset": null,
     "lastWinner": null,
-    "snapshotAt": "2026-07-30T10:45:25.135Z"
+    "snapshotAt": "2026-07-30T12:54:17.882Z"
   },
   "lastReset": null,
   "leaderboard": [
