@@ -19,6 +19,26 @@
       "banned": false,
       "registrationIp": "::1",
       "createdAt": "2026-07-30T16:50:46.862Z"
+    },
+    {
+      "id": "5abfab71-2c12-495b-bd01-a733461a5ef5",
+      "username": "test",
+      "email": "test@gmail.com",
+      "passwordHash": "$2a$12$L6g05Uhqu3GHFG4nKUdKuuuHcThs4uKw33GBwFzek8NnsJol112C2",
+      "role": "user",
+      "referralCode": "TEST-K82QL",
+      "transferHash": "AT8615T",
+      "coins": 0,
+      "tickets": 0,
+      "totalReferrals": 0,
+      "monthlyReferrals": 0,
+      "hasRedeemedReferral": false,
+      "totalSpins": 0,
+      "lastSpinAt": null,
+      "trophies": 0,
+      "banned": false,
+      "registrationIp": "::1",
+      "createdAt": "2026-07-30T16:58:30.620Z"
     }
   ],
   "transactions": [
