@@ -22,6 +22,14 @@
       "transaction_id": "tx_1785430649166_jqf7v6zciwh",
       "newCoinBalance": 3000,
       "newTicketBalance": 1
+    },
+    {
+      "id": "user_register_1785430711353",
+      "type": "user_register",
+      "timestamp": "2026-07-30T16:58:31.353Z",
+      "userId": "5abfab71-2c12-495b-bd01-a733461a5ef5",
+      "username": "test",
+      "referredBy": "ADMIN-SEED"
     }
   ],
   "stats": {
