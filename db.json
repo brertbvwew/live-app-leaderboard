@@ -22,7 +22,12 @@
     }
   ],
   "transactions": [],
-  "admin_attempts": {},
+  "admin_attempts": {
+    "::1": {
+      "count": 0,
+      "lockedUntil": null
+    }
+  },
   "settings": {},
   "hall_of_fame": [],
   "coin_conversions": []
