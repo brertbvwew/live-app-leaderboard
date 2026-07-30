@@ -1,5 +1,17 @@
 {
-  "events": [],
+  "events": [
+    {
+      "id": "spin_1785430338779",
+      "type": "spin",
+      "timestamp": "2026-07-30T16:52:18.779Z",
+      "userId": "5ddb03aa-8e63-4276-a390-eb8beb3bbfaa",
+      "username": "admin",
+      "result": "10 Coins",
+      "coins": 10,
+      "tickets": 0,
+      "jackpot": false
+    }
+  ],
   "stats": {
     "totalUsers": 1,
     "totalTickets": 0,
