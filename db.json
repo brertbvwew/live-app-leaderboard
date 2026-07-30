@@ -17,7 +17,8 @@
       "trophies": 0,
       "banned": false,
       "registrationIp": "::1",
-      "createdAt": "2026-07-30T08:18:51.268Z"
+      "createdAt": "2026-07-30T08:18:51.268Z",
+      "transferHash": "GJ51HQK"
     },
     {
       "id": "8b4428dc-8f76-43d8-b05e-efcc792e00f1",
@@ -36,7 +37,8 @@
       "trophies": 0,
       "banned": false,
       "registrationIp": "10.30.102.30",
-      "createdAt": "2026-07-30T09:44:32.090Z"
+      "createdAt": "2026-07-30T09:44:32.090Z",
+      "transferHash": "2AAHCNW"
     }
   ],
   "transactions": [],
