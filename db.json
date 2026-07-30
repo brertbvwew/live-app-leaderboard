@@ -8,8 +8,8 @@
       "role": "admin",
       "referralCode": "ADMIN-SEED",
       "transferHash": "1LUDFS0",
-      "coins": 10,
-      "tickets": 0,
+      "coins": 3000,
+      "tickets": 1,
       "totalReferrals": 0,
       "monthlyReferrals": 0,
       "hasRedeemedReferral": false,
@@ -21,7 +21,16 @@
       "createdAt": "2026-07-30T16:50:46.862Z"
     }
   ],
-  "transactions": [],
+  "transactions": [
+    {
+      "txId": "tx_1785430649166_jqf7v6zciwh",
+      "userId": "5ddb03aa-8e63-4276-a390-eb8beb3bbfaa",
+      "type": "buy_tickets",
+      "coinsSpent": 2500,
+      "ticketsGranted": 1,
+      "recordedAt": "2026-07-30T16:57:29.196Z"
+    }
+  ],
   "admin_attempts": {
     "::1": {
       "count": 0,
