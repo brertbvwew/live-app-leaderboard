@@ -81,7 +81,16 @@
   "settings": {},
   "hall_of_fame": [],
   "coin_conversions": [],
-  "events": [],
+  "events": [
+    {
+      "id": "user_register_1785539696223",
+      "type": "user_register",
+      "timestamp": "2026-07-31T23:14:56.223Z",
+      "userId": "cbfd72db-cf27-4b11-816c-1c8230e38340",
+      "username": "Disrespect",
+      "referredBy": null
+    }
+  ],
   "event_stats": {
     "totalUsers": 3,
     "totalTickets": 0,
