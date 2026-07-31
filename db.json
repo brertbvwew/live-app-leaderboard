@@ -8,10 +8,10 @@
       "role": "admin",
       "referralCode": "CRYPT",
       "transferHash": "SDMNHT6",
-      "coins": 1260,
+      "coins": 1510,
       "tickets": 0,
-      "totalReferrals": 1,
-      "monthlyReferrals": 1,
+      "totalReferrals": 2,
+      "monthlyReferrals": 2,
       "hasRedeemedReferral": false,
       "totalSpins": 1,
       "lastSpinAt": "2026-07-31T13:26:37.095Z",
@@ -39,6 +39,26 @@
       "banned": false,
       "registrationIp": "10.29.158.70",
       "createdAt": "2026-07-31T12:35:02.873Z"
+    },
+    {
+      "id": "945ac2d7-eacd-4e88-bffc-ee0aace337fa",
+      "username": "CODERXSA",
+      "email": "coderxsa@gmail.com",
+      "passwordHash": "$2a$12$gQ9FpZi2JwifKU/43Mfl/.t62tBIv0tRN7Z7Y2PIBmsXcbU9xVjYe",
+      "role": "user",
+      "referralCode": "CODE-M8E9F",
+      "transferHash": "NIJU6IZ",
+      "coins": 600,
+      "tickets": 0,
+      "totalReferrals": 0,
+      "monthlyReferrals": 0,
+      "hasRedeemedReferral": true,
+      "totalSpins": 1,
+      "lastSpinAt": "2026-07-31T14:09:35.263Z",
+      "trophies": 0,
+      "banned": false,
+      "registrationIp": "10.31.219.4",
+      "createdAt": "2026-07-31T14:09:25.166Z"
     }
   ],
   "transactions": [
@@ -61,56 +81,35 @@
   "settings": {},
   "hall_of_fame": [],
   "coin_conversions": [],
-  "events": [
-    {
-      "id": "referral_register_1785506965539",
-      "type": "referral_register",
-      "timestamp": "2026-07-31T14:09:25.539Z",
-      "newUserId": "945ac2d7-eacd-4e88-bffc-ee0aace337fa",
-      "newUsername": "CODERXSA",
-      "referrerId": "4cac7bc6-8e79-4c25-abf4-be6b9bd61845",
-      "referrerName": "admin"
-    },
-    {
-      "id": "user_register_1785506966709",
-      "type": "user_register",
-      "timestamp": "2026-07-31T14:09:26.709Z",
-      "userId": "945ac2d7-eacd-4e88-bffc-ee0aace337fa",
-      "username": "CODERXSA",
-      "referredBy": "CRYPT"
-    },
-    {
-      "id": "spin_1785506975618",
-      "type": "spin",
-      "timestamp": "2026-07-31T14:09:35.618Z",
-      "userId": "945ac2d7-eacd-4e88-bffc-ee0aace337fa",
-      "username": "CODERXSA",
-      "result": "50 Coins",
-      "coins": 50,
-      "tickets": 0,
-      "jackpot": false
-    }
-  ],
+  "events": [],
   "event_stats": {
-    "totalUsers": 2,
+    "totalUsers": 3,
     "totalTickets": 0,
-    "totalCoins": 2310,
+    "totalCoins": 3160,
     "lastReset": null,
     "lastWinner": null,
-    "snapshotAt": "2026-07-31T14:00:18.976Z"
+    "snapshotAt": "2026-07-31T14:10:18.978Z"
   },
   "leaderboard": [
     {
       "rank": 1,
       "username": "admin",
-      "monthlyReferrals": 1,
-      "totalReferrals": 1,
+      "monthlyReferrals": 2,
+      "totalReferrals": 2,
       "tickets": 0,
       "trophies": 0
     },
     {
       "rank": 2,
       "username": "test",
+      "monthlyReferrals": 0,
+      "totalReferrals": 0,
+      "tickets": 0,
+      "trophies": 0
+    },
+    {
+      "rank": 3,
+      "username": "CODERXSA",
       "monthlyReferrals": 0,
       "totalReferrals": 0,
       "tickets": 0,
