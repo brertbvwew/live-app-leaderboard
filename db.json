@@ -27,6 +27,17 @@
       "userId": "f7b8d0db-a841-456d-993f-cb6630a90dec",
       "username": "test",
       "referredBy": "CRYPT"
+    },
+    {
+      "id": "spin_1785501374559",
+      "type": "spin",
+      "timestamp": "2026-07-31T12:36:14.559Z",
+      "userId": "f7b8d0db-a841-456d-993f-cb6630a90dec",
+      "username": "test",
+      "result": "500 Coins",
+      "coins": 500,
+      "tickets": 0,
+      "jackpot": false
     }
   ]
 }
