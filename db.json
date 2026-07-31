@@ -17,12 +17,31 @@
       "trophies": 0,
       "banned": false,
       "registrationIp": "::1",
-      "createdAt": "2026-07-31T11:37:26.472Z"
+      "createdAt": "2026-07-31T11:37:26.472Z",
+      "transferHash": "JKPJ9YJ"
     }
   ],
   "transactions": [],
   "admin_attempts": {},
   "settings": {},
   "hall_of_fame": [],
-  "coin_conversions": []
+  "coin_conversions": [],
+  "event_stats": {
+    "totalUsers": 1,
+    "totalTickets": 0,
+    "totalCoins": 0,
+    "lastReset": null,
+    "lastWinner": null,
+    "snapshotAt": "2026-07-31T11:51:18.703Z"
+  },
+  "leaderboard": [
+    {
+      "rank": 1,
+      "username": "admin",
+      "monthlyReferrals": 0,
+      "totalReferrals": 0,
+      "tickets": 0,
+      "trophies": 0
+    }
+  ]
 }
