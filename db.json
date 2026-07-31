@@ -8,13 +8,13 @@
       "role": "admin",
       "referralCode": "CRYPT",
       "transferHash": "SDMNHT6",
-      "coins": 260,
+      "coins": 1260,
       "tickets": 0,
       "totalReferrals": 1,
       "monthlyReferrals": 1,
       "hasRedeemedReferral": false,
-      "totalSpins": 0,
-      "lastSpinAt": null,
+      "totalSpins": 1,
+      "lastSpinAt": "2026-07-31T13:26:37.095Z",
       "trophies": 0,
       "banned": false,
       "registrationIp": "::1",
@@ -61,26 +61,14 @@
   "settings": {},
   "hall_of_fame": [],
   "coin_conversions": [],
-  "events": [
-    {
-      "id": "spin_1785504397466",
-      "type": "spin",
-      "timestamp": "2026-07-31T13:26:37.466Z",
-      "userId": "4cac7bc6-8e79-4c25-abf4-be6b9bd61845",
-      "username": "admin",
-      "result": "1000 Coins",
-      "coins": 1000,
-      "tickets": 0,
-      "jackpot": false
-    }
-  ],
+  "events": [],
   "event_stats": {
     "totalUsers": 2,
     "totalTickets": 0,
-    "totalCoins": 1310,
+    "totalCoins": 2310,
     "lastReset": null,
     "lastWinner": null,
-    "snapshotAt": "2026-07-31T13:20:18.972Z"
+    "snapshotAt": "2026-07-31T13:30:18.973Z"
   },
   "leaderboard": [
     {
