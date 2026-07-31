@@ -78,6 +78,17 @@
       "userId": "945ac2d7-eacd-4e88-bffc-ee0aace337fa",
       "username": "CODERXSA",
       "referredBy": "CRYPT"
+    },
+    {
+      "id": "spin_1785506975618",
+      "type": "spin",
+      "timestamp": "2026-07-31T14:09:35.618Z",
+      "userId": "945ac2d7-eacd-4e88-bffc-ee0aace337fa",
+      "username": "CODERXSA",
+      "result": "50 Coins",
+      "coins": 50,
+      "tickets": 0,
+      "jackpot": false
     }
   ],
   "event_stats": {
