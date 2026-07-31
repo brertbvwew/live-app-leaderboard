@@ -1,43 +1,91 @@
 {
-  "events": [
+  "users": [
     {
-      "id": "coin_deposit_1785501224050",
-      "type": "coin_deposit",
-      "timestamp": "2026-07-31T12:33:44.050Z",
-      "transactionId": "c567f992-4b33-4f52-a79c-38dd4a6dc1a0",
+      "id": "4cac7bc6-8e79-4c25-abf4-be6b9bd61845",
+      "username": "admin",
+      "email": "admin@cryptalis.com",
+      "passwordHash": "$2a$12$/EqEzzYEJysjUKVE3RetM.ogPDkFMU/mPHhDta/ZuGHJMMwDkC3qG",
+      "role": "admin",
+      "referralCode": "CRYPT",
+      "transferHash": "SDMNHT6",
+      "coins": 260,
+      "tickets": 0,
+      "totalReferrals": 1,
+      "monthlyReferrals": 1,
+      "hasRedeemedReferral": false,
+      "totalSpins": 0,
+      "lastSpinAt": null,
+      "trophies": 0,
+      "banned": false,
+      "registrationIp": "::1",
+      "createdAt": "2026-07-31T12:30:18.966Z"
+    },
+    {
+      "id": "f7b8d0db-a841-456d-993f-cb6630a90dec",
+      "username": "test",
+      "email": "test@gmail.com",
+      "passwordHash": "$2a$12$9T5ZpD/EF530rRU/sXhZquQmbC5q6JeD4hhkJk9yHnNGFYD8AQZ/u",
+      "role": "user",
+      "referralCode": "TEST-8ECH6",
+      "transferHash": "TB3HAPI",
+      "coins": 1050,
+      "tickets": 0,
+      "totalReferrals": 0,
+      "monthlyReferrals": 0,
+      "hasRedeemedReferral": true,
+      "totalSpins": 1,
+      "lastSpinAt": "2026-07-31T12:36:14.193Z",
+      "trophies": 0,
+      "banned": false,
+      "registrationIp": "10.29.158.70",
+      "createdAt": "2026-07-31T12:35:02.873Z"
+    }
+  ],
+  "transactions": [
+    {
+      "txId": "c567f992-4b33-4f52-a79c-38dd4a6dc1a0",
+      "type": "deposit",
       "toUserId": "4cac7bc6-8e79-4c25-abf4-be6b9bd61845",
       "toUsername": "admin",
       "amount": 10,
-      "balanceBefore": 0,
-      "balanceAfter": 10
-    },
+      "source": "app_deposit",
+      "recordedAt": "2026-07-31T12:33:43.847Z"
+    }
+  ],
+  "admin_attempts": {
+    "10.29.158.70": {
+      "count": 0,
+      "lockedUntil": null
+    }
+  },
+  "settings": {},
+  "hall_of_fame": [],
+  "coin_conversions": [],
+  "events": [],
+  "event_stats": {
+    "totalUsers": 2,
+    "totalTickets": 0,
+    "totalCoins": 1310,
+    "lastReset": null,
+    "lastWinner": null,
+    "snapshotAt": "2026-07-31T12:40:18.970Z"
+  },
+  "leaderboard": [
     {
-      "id": "referral_register_1785501303407",
-      "type": "referral_register",
-      "timestamp": "2026-07-31T12:35:03.407Z",
-      "newUserId": "f7b8d0db-a841-456d-993f-cb6630a90dec",
-      "newUsername": "test",
-      "referrerId": "4cac7bc6-8e79-4c25-abf4-be6b9bd61845",
-      "referrerName": "admin"
-    },
-    {
-      "id": "user_register_1785501304416",
-      "type": "user_register",
-      "timestamp": "2026-07-31T12:35:04.416Z",
-      "userId": "f7b8d0db-a841-456d-993f-cb6630a90dec",
-      "username": "test",
-      "referredBy": "CRYPT"
-    },
-    {
-      "id": "spin_1785501374559",
-      "type": "spin",
-      "timestamp": "2026-07-31T12:36:14.559Z",
-      "userId": "f7b8d0db-a841-456d-993f-cb6630a90dec",
-      "username": "test",
-      "result": "500 Coins",
-      "coins": 500,
+      "rank": 1,
+      "username": "admin",
+      "monthlyReferrals": 1,
+      "totalReferrals": 1,
       "tickets": 0,
-      "jackpot": false
+      "trophies": 0
+    },
+    {
+      "rank": 2,
+      "username": "test",
+      "monthlyReferrals": 0,
+      "totalReferrals": 0,
+      "tickets": 0,
+      "trophies": 0
     }
   ]
 }
