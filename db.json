@@ -70,6 +70,14 @@
       "newUsername": "CODERXSA",
       "referrerId": "4cac7bc6-8e79-4c25-abf4-be6b9bd61845",
       "referrerName": "admin"
+    },
+    {
+      "id": "user_register_1785506966709",
+      "type": "user_register",
+      "timestamp": "2026-07-31T14:09:26.709Z",
+      "userId": "945ac2d7-eacd-4e88-bffc-ee0aace337fa",
+      "username": "CODERXSA",
+      "referredBy": "CRYPT"
     }
   ],
   "event_stats": {
