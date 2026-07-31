@@ -19,6 +19,14 @@
       "newUsername": "test",
       "referrerId": "4cac7bc6-8e79-4c25-abf4-be6b9bd61845",
       "referrerName": "admin"
+    },
+    {
+      "id": "user_register_1785501304416",
+      "type": "user_register",
+      "timestamp": "2026-07-31T12:35:04.416Z",
+      "userId": "f7b8d0db-a841-456d-993f-cb6630a90dec",
+      "username": "test",
+      "referredBy": "CRYPT"
     }
   ]
 }
