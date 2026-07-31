@@ -68,13 +68,13 @@
       "role": "user",
       "referralCode": "DISR-ZCTNL",
       "transferHash": "N7EKRQG",
-      "coins": 0,
+      "coins": 250,
       "tickets": 0,
       "totalReferrals": 0,
       "monthlyReferrals": 0,
       "hasRedeemedReferral": false,
-      "totalSpins": 0,
-      "lastSpinAt": null,
+      "totalSpins": 1,
+      "lastSpinAt": "2026-07-31T23:16:51.926Z",
       "trophies": 0,
       "banned": false,
       "registrationIp": "10.24.164.2",
@@ -101,26 +101,14 @@
   "settings": {},
   "hall_of_fame": [],
   "coin_conversions": [],
-  "events": [
-    {
-      "id": "spin_1785539812288",
-      "type": "spin",
-      "timestamp": "2026-07-31T23:16:52.288Z",
-      "userId": "cbfd72db-cf27-4b11-816c-1c8230e38340",
-      "username": "Disrespect",
-      "result": "250 Coins",
-      "coins": 250,
-      "tickets": 0,
-      "jackpot": false
-    }
-  ],
+  "events": [],
   "event_stats": {
     "totalUsers": 4,
     "totalTickets": 0,
-    "totalCoins": 3160,
+    "totalCoins": 3410,
     "lastReset": null,
     "lastWinner": null,
-    "snapshotAt": "2026-07-31T23:15:27.680Z"
+    "snapshotAt": "2026-07-31T23:25:27.681Z"
   },
   "leaderboard": [
     {
