@@ -7,7 +7,7 @@
       "passwordHash": "$2a$12$D5FcC/rwx.CgKQ..gLSIIO5iOEnC3sT8hJJ/j5y5JqPugMG5v3UFC",
       "role": "admin",
       "referralCode": "ADMIN-SEED",
-      "coins": 0,
+      "coins": 10,
       "tickets": 0,
       "totalReferrals": 0,
       "monthlyReferrals": 0,
@@ -21,7 +21,17 @@
       "transferHash": "JKPJ9YJ"
     }
   ],
-  "transactions": [],
+  "transactions": [
+    {
+      "txId": "53fa897a-bde6-4c56-9161-6ce301be2e61",
+      "type": "deposit",
+      "toUserId": "bf3ce0dc-dddf-473c-b511-16801c23596d",
+      "toUsername": "admin",
+      "amount": 10,
+      "source": "app_deposit",
+      "recordedAt": "2026-07-31T12:20:08.861Z"
+    }
+  ],
   "admin_attempts": {},
   "settings": {},
   "hall_of_fame": [],
@@ -29,10 +39,10 @@
   "event_stats": {
     "totalUsers": 1,
     "totalTickets": 0,
-    "totalCoins": 0,
+    "totalCoins": 10,
     "lastReset": null,
     "lastWinner": null,
-    "snapshotAt": "2026-07-31T12:11:18.702Z"
+    "snapshotAt": "2026-07-31T12:21:18.703Z"
   },
   "leaderboard": [
     {
@@ -42,19 +52,6 @@
       "totalReferrals": 0,
       "tickets": 0,
       "trophies": 0
-    }
-  ],
-  "events": [
-    {
-      "id": "coin_deposit_1785500409200",
-      "type": "coin_deposit",
-      "timestamp": "2026-07-31T12:20:09.200Z",
-      "transactionId": "53fa897a-bde6-4c56-9161-6ce301be2e61",
-      "toUserId": "bf3ce0dc-dddf-473c-b511-16801c23596d",
-      "toUsername": "admin",
-      "amount": 10,
-      "balanceBefore": 0,
-      "balanceAfter": 10
     }
   ]
 }
