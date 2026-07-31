@@ -101,7 +101,19 @@
   "settings": {},
   "hall_of_fame": [],
   "coin_conversions": [],
-  "events": [],
+  "events": [
+    {
+      "id": "spin_1785539812288",
+      "type": "spin",
+      "timestamp": "2026-07-31T23:16:52.288Z",
+      "userId": "cbfd72db-cf27-4b11-816c-1c8230e38340",
+      "username": "Disrespect",
+      "result": "250 Coins",
+      "coins": 250,
+      "tickets": 0,
+      "jackpot": false
+    }
+  ],
   "event_stats": {
     "totalUsers": 4,
     "totalTickets": 0,
