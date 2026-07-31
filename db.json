@@ -10,6 +10,15 @@
       "amount": 10,
       "balanceBefore": 0,
       "balanceAfter": 10
+    },
+    {
+      "id": "referral_register_1785501303407",
+      "type": "referral_register",
+      "timestamp": "2026-07-31T12:35:03.407Z",
+      "newUserId": "f7b8d0db-a841-456d-993f-cb6630a90dec",
+      "newUsername": "test",
+      "referrerId": "4cac7bc6-8e79-4c25-abf4-be6b9bd61845",
+      "referrerName": "admin"
     }
   ]
 }
