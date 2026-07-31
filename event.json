@@ -1,0 +1,22 @@
+{
+  "events": [],
+  "stats": {
+    "totalUsers": 1,
+    "totalTickets": 0,
+    "totalCoins": 0,
+    "lastReset": null,
+    "lastWinner": null,
+    "snapshotAt": "2026-07-31T11:37:31.474Z"
+  },
+  "lastReset": null,
+  "leaderboard": [
+    {
+      "rank": 1,
+      "username": "admin",
+      "monthlyReferrals": 0,
+      "totalReferrals": 0,
+      "tickets": 0,
+      "trophies": 0
+    }
+  ]
+}
