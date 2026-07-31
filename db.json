@@ -1,0 +1,15 @@
+{
+  "events": [
+    {
+      "id": "coin_deposit_1785501224050",
+      "type": "coin_deposit",
+      "timestamp": "2026-07-31T12:33:44.050Z",
+      "transactionId": "c567f992-4b33-4f52-a79c-38dd4a6dc1a0",
+      "toUserId": "4cac7bc6-8e79-4c25-abf4-be6b9bd61845",
+      "toUsername": "admin",
+      "amount": 10,
+      "balanceBefore": 0,
+      "balanceAfter": 10
+    }
+  ]
+}
