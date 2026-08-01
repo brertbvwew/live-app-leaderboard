@@ -287,6 +287,14 @@
       "newUsername": "mk",
       "referrerId": "cbfd72db-cf27-4b11-816c-1c8230e38340",
       "referrerName": "Disrespect"
+    },
+    {
+      "id": "user_register_1785582388003",
+      "type": "user_register",
+      "timestamp": "2026-08-01T11:06:28.003Z",
+      "userId": "fbd7e861-0fed-4eab-ad04-34ca4b8d1cda",
+      "username": "mk",
+      "referredBy": "DISR-ZCTNL"
     }
   ],
   "event_stats": {
