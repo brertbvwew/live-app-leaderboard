@@ -11,11 +11,11 @@
       "coins": 1510,
       "tickets": 0,
       "totalReferrals": 2,
-      "monthlyReferrals": 2,
+      "monthlyReferrals": 0,
       "hasRedeemedReferral": false,
       "totalSpins": 1,
       "lastSpinAt": "2026-07-31T13:26:37.095Z",
-      "trophies": 0,
+      "trophies": 1,
       "banned": false,
       "registrationIp": "::1",
       "createdAt": "2026-07-31T12:30:18.966Z"
@@ -98,43 +98,55 @@
       "lockedUntil": null
     }
   },
-  "settings": {},
-  "hall_of_fame": [],
-  "coin_conversions": [],
-  "events": [
-    {
-      "id": "monthly_reset_1785542428366",
-      "type": "monthly_reset",
-      "timestamp": "2026-08-01T00:00:28.366Z",
+  "settings": {
+    "lastReset": "2026-08-01T00:00:27.938Z",
+    "lastWinner": {
       "month": "2026-08",
-      "winner": {
-        "month": "2026-08",
-        "userId": "4cac7bc6-8e79-4c25-abf4-be6b9bd61845",
-        "username": "admin",
-        "monthlyReferrals": 2,
-        "tickets": 0,
-        "coins": 1510,
-        "crownedAt": "2026-08-01T00:00:27.938Z"
-      },
-      "totalUsers": 4
+      "userId": "4cac7bc6-8e79-4c25-abf4-be6b9bd61845",
+      "username": "admin",
+      "monthlyReferrals": 2,
+      "tickets": 0,
+      "coins": 1510,
+      "crownedAt": "2026-08-01T00:00:27.938Z"
+    }
+  },
+  "hall_of_fame": [
+    {
+      "month": "2026-08",
+      "userId": "4cac7bc6-8e79-4c25-abf4-be6b9bd61845",
+      "username": "admin",
+      "monthlyReferrals": 2,
+      "tickets": 0,
+      "coins": 1510,
+      "crownedAt": "2026-08-01T00:00:27.938Z"
     }
   ],
+  "coin_conversions": [],
+  "events": [],
   "event_stats": {
     "totalUsers": 4,
     "totalTickets": 0,
     "totalCoins": 3410,
-    "lastReset": null,
-    "lastWinner": null,
-    "snapshotAt": "2026-07-31T23:55:27.686Z"
+    "lastReset": "2026-08-01T00:00:27.938Z",
+    "lastWinner": {
+      "month": "2026-08",
+      "userId": "4cac7bc6-8e79-4c25-abf4-be6b9bd61845",
+      "username": "admin",
+      "monthlyReferrals": 2,
+      "tickets": 0,
+      "coins": 1510,
+      "crownedAt": "2026-08-01T00:00:27.938Z"
+    },
+    "snapshotAt": "2026-08-01T00:05:27.687Z"
   },
   "leaderboard": [
     {
       "rank": 1,
       "username": "admin",
-      "monthlyReferrals": 2,
+      "monthlyReferrals": 0,
       "totalReferrals": 2,
       "tickets": 0,
-      "trophies": 0
+      "trophies": 1
     },
     {
       "rank": 2,
