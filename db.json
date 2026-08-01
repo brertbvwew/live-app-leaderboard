@@ -9,73 +9,31 @@
       "role": "admin",
       "referralCode": "CRYPT",
       "transferHash": "SDMNHT6",
-      "coins": 1510,
+      "coins": 1610,
       "tickets": 0,
       "totalReferrals": 2,
       "monthlyReferrals": 0,
       "hasRedeemedReferral": false,
-      "totalSpins": 1,
-      "lastSpinAt": "2026-07-31T13:26:37.095Z",
+      "totalSpins": 2,
+      "lastSpinAt": "2026-08-01T14:35:27.651Z",
       "trophies": 1,
       "banned": false,
       "registrationIp": "::1",
       "createdAt": "2026-07-31T12:30:18.966Z"
     },
     {
-      "id": "f7b8d0db-a841-456d-993f-cb6630a90dec",
-      "username": "test",
-      "email": "test@gmail.com",
-      "password": "123456",
-      "passwordHash": null,
-      "role": "user",
-      "referralCode": "TEST-8ECH6",
-      "transferHash": "TB3HAPI",
-      "coins": 1050,
-      "tickets": 0,
-      "totalReferrals": 0,
-      "monthlyReferrals": 0,
-      "hasRedeemedReferral": true,
-      "totalSpins": 1,
-      "lastSpinAt": "2026-07-31T12:36:14.193Z",
-      "trophies": 0,
-      "banned": false,
-      "registrationIp": "10.29.158.70",
-      "createdAt": "2026-07-31T12:35:02.873Z"
-    },
-    {
-      "id": "945ac2d7-eacd-4e88-bffc-ee0aace337fa",
-      "username": "CODERXSA",
-      "email": "coderxsa@gmail.com",
-      "password": "Reset1234",
-      "passwordHash": null,
-      "role": "user",
-      "referralCode": "CODE-M8E9F",
-      "transferHash": "NIJU6IZ",
-      "coins": 850,
-      "tickets": 0,
-      "totalReferrals": 1,
-      "monthlyReferrals": 1,
-      "hasRedeemedReferral": true,
-      "totalSpins": 1,
-      "lastSpinAt": "2026-07-31T14:09:35.263Z",
-      "trophies": 0,
-      "banned": false,
-      "registrationIp": "10.31.219.4",
-      "createdAt": "2026-07-31T14:09:25.166Z"
-    },
-    {
       "id": "cbfd72db-cf27-4b11-816c-1c8230e38340",
       "username": "Disrespect",
       "email": "seanelias.67@gmail.com",
-      "password": "Reset1234",
+      "password": "$#ybgQW@1",
       "passwordHash": null,
       "role": "user",
       "referralCode": "DISR-ZCTNL",
       "transferHash": "N7EKRQG",
-      "coins": 250,
-      "tickets": 0,
-      "totalReferrals": 0,
-      "monthlyReferrals": 0,
+      "coins": 1700,
+      "tickets": 3,
+      "totalReferrals": 1,
+      "monthlyReferrals": 1,
       "hasRedeemedReferral": false,
       "totalSpins": 1,
       "lastSpinAt": "2026-07-31T23:16:51.926Z",
@@ -88,13 +46,13 @@
       "id": "d47f311f-d5d3-40be-86b4-8d69a74a4a81",
       "username": "kaab0._",
       "email": "kaabo1512@gmail.com",
-      "password": "Reset1234",
+      "password": "dsbn67!3S!",
       "passwordHash": null,
       "role": "user",
       "referralCode": "KAAB-QPJIT",
       "transferHash": "6S6Y8C0",
-      "coins": 800,
-      "tickets": 0,
+      "coins": 300,
+      "tickets": 5,
       "totalReferrals": 0,
       "monthlyReferrals": 0,
       "hasRedeemedReferral": true,
@@ -104,6 +62,27 @@
       "banned": false,
       "registrationIp": "10.24.164.2",
       "createdAt": "2026-08-01T07:15:43.139Z"
+    },
+    {
+      "id": "fbd7e861-0fed-4eab-ad04-34ca4b8d1cda",
+      "username": "mk",
+      "email": "eliaskaunda78@gmail.com",
+      "password": "disrespect",
+      "passwordHash": null,
+      "role": "user",
+      "referralCode": "MK-3533C",
+      "transferHash": "2LDET0X",
+      "coins": 1050,
+      "tickets": 0,
+      "totalReferrals": 0,
+      "monthlyReferrals": 0,
+      "hasRedeemedReferral": true,
+      "totalSpins": 1,
+      "lastSpinAt": "2026-08-01T11:08:23.527Z",
+      "trophies": 0,
+      "banned": false,
+      "registrationIp": "10.29.158.70",
+      "createdAt": "2026-08-01T11:06:26.537Z"
     }
   ],
   "transactions": [
@@ -115,10 +94,68 @@
       "amount": 10,
       "source": "app_deposit",
       "recordedAt": "2026-07-31T12:33:43.847Z"
+    },
+    {
+      "txId": "tx_1785575276743_zcwo4w3sc49",
+      "userId": "d47f311f-d5d3-40be-86b4-8d69a74a4a81",
+      "type": "buy_tickets",
+      "coinsSpent": 2500,
+      "ticketsGranted": 1,
+      "recordedAt": "2026-08-01T09:07:59.510Z"
+    },
+    {
+      "txId": "86efcb7b-0b1a-4c4d-ac54-6b5272799efc",
+      "type": "deposit",
+      "toUserId": "d47f311f-d5d3-40be-86b4-8d69a74a4a81",
+      "toUsername": "kaab0._",
+      "amount": 4000,
+      "source": "app_deposit",
+      "recordedAt": "2026-08-01T09:17:37.122Z"
+    },
+    {
+      "txId": "tx_1785575931773_m0rddtkpijj",
+      "userId": "d47f311f-d5d3-40be-86b4-8d69a74a4a81",
+      "type": "buy_tickets",
+      "coinsSpent": 2500,
+      "ticketsGranted": 1,
+      "recordedAt": "2026-08-01T09:18:54.254Z"
+    },
+    {
+      "txId": "tx_1785575934699_9oo6p3r9u19",
+      "userId": "d47f311f-d5d3-40be-86b4-8d69a74a4a81",
+      "type": "buy_tickets",
+      "coinsSpent": 2500,
+      "ticketsGranted": 1,
+      "recordedAt": "2026-08-01T09:18:57.162Z"
+    },
+    {
+      "txId": "29dbf31a-349e-4186-bf4a-586c996f7da7",
+      "type": "deposit",
+      "toUserId": "cbfd72db-cf27-4b11-816c-1c8230e38340",
+      "toUsername": "Disrespect",
+      "amount": 700,
+      "source": "app_deposit",
+      "recordedAt": "2026-08-01T11:16:20.983Z"
+    },
+    {
+      "txId": "tx_1785585283917_95nbmsm2z2c",
+      "userId": "cbfd72db-cf27-4b11-816c-1c8230e38340",
+      "type": "buy_tickets",
+      "coinsSpent": 2500,
+      "ticketsGranted": 1,
+      "recordedAt": "2026-08-01T11:54:45.446Z"
     }
   ],
   "admin_attempts": {
     "10.29.158.70": {
+      "count": 0,
+      "lockedUntil": null
+    },
+    "10.31.219.4": {
+      "count": 0,
+      "lockedUntil": null
+    },
+    "10.24.164.2": {
       "count": 0,
       "lockedUntil": null
     }
@@ -147,205 +184,11 @@
     }
   ],
   "coin_conversions": [],
-  "events": [
-    {
-      "id": "admin_delete_user_1785574166616",
-      "type": "admin_delete_user",
-      "timestamp": "2026-08-01T08:49:26.616Z",
-      "adminId": "4cac7bc6-8e79-4c25-abf4-be6b9bd61845",
-      "targetId": "f7b8d0db-a841-456d-993f-cb6630a90dec",
-      "username": "test",
-      "email": "test@gmail.com"
-    },
-    {
-      "id": "admin_password_edit_1785574311112",
-      "type": "admin_password_edit",
-      "timestamp": "2026-08-01T08:51:51.112Z",
-      "adminId": "4cac7bc6-8e79-4c25-abf4-be6b9bd61845",
-      "targetId": "cbfd72db-cf27-4b11-816c-1c8230e38340",
-      "targetUsername": "Disrespect"
-    },
-    {
-      "id": "admin_password_edit_1785574346007",
-      "type": "admin_password_edit",
-      "timestamp": "2026-08-01T08:52:26.007Z",
-      "adminId": "4cac7bc6-8e79-4c25-abf4-be6b9bd61845",
-      "targetId": "d47f311f-d5d3-40be-86b4-8d69a74a4a81",
-      "targetUsername": "kaab0._"
-    },
-    {
-      "id": "admin_balance_adjustment_1785574366929",
-      "type": "admin_balance_adjustment",
-      "timestamp": "2026-08-01T08:52:46.929Z",
-      "adminId": "4cac7bc6-8e79-4c25-abf4-be6b9bd61845",
-      "targetUserId": "cbfd72db-cf27-4b11-816c-1c8230e38340",
-      "targetUsername": "Disrespect",
-      "newCoins": 3250,
-      "newTickets": 0
-    },
-    {
-      "id": "admin_balance_adjustment_1785574368169",
-      "type": "admin_balance_adjustment",
-      "timestamp": "2026-08-01T08:52:48.169Z",
-      "adminId": "4cac7bc6-8e79-4c25-abf4-be6b9bd61845",
-      "targetUserId": "d47f311f-d5d3-40be-86b4-8d69a74a4a81",
-      "targetUsername": "kaab0._",
-      "newCoins": 800,
-      "newTickets": 0
-    },
-    {
-      "id": "admin_balance_adjustment_1785574375303",
-      "type": "admin_balance_adjustment",
-      "timestamp": "2026-08-01T08:52:55.303Z",
-      "adminId": "4cac7bc6-8e79-4c25-abf4-be6b9bd61845",
-      "targetUserId": "cbfd72db-cf27-4b11-816c-1c8230e38340",
-      "targetUsername": "Disrespect",
-      "newCoins": 3250,
-      "newTickets": 2
-    },
-    {
-      "id": "admin_balance_adjustment_1785574381858",
-      "type": "admin_balance_adjustment",
-      "timestamp": "2026-08-01T08:53:01.858Z",
-      "adminId": "4cac7bc6-8e79-4c25-abf4-be6b9bd61845",
-      "targetUserId": "d47f311f-d5d3-40be-86b4-8d69a74a4a81",
-      "targetUsername": "kaab0._",
-      "newCoins": 800,
-      "newTickets": 2
-    },
-    {
-      "id": "admin_balance_adjustment_1785574440334",
-      "type": "admin_balance_adjustment",
-      "timestamp": "2026-08-01T08:54:00.334Z",
-      "adminId": "4cac7bc6-8e79-4c25-abf4-be6b9bd61845",
-      "targetUserId": "d47f311f-d5d3-40be-86b4-8d69a74a4a81",
-      "targetUsername": "kaab0._",
-      "newCoins": 3800,
-      "newTickets": 2
-    },
-    {
-      "id": "admin_delete_user_1785574922550",
-      "type": "admin_delete_user",
-      "timestamp": "2026-08-01T09:02:02.550Z",
-      "adminId": "4cac7bc6-8e79-4c25-abf4-be6b9bd61845",
-      "targetId": "945ac2d7-eacd-4e88-bffc-ee0aace337fa",
-      "username": "CODERXSA",
-      "email": "coderxsa@gmail.com"
-    },
-    {
-      "id": "ticket_purchased_1785575279738",
-      "type": "ticket_purchased",
-      "timestamp": "2026-08-01T09:07:59.738Z",
-      "userId": "d47f311f-d5d3-40be-86b4-8d69a74a4a81",
-      "username": "kaab0._",
-      "coinsSpent": 2500,
-      "ticketsGranted": 1,
-      "transaction_id": "tx_1785575276743_zcwo4w3sc49",
-      "newCoinBalance": 1300,
-      "newTicketBalance": 3
-    },
-    {
-      "id": "coin_deposit_1785575857567",
-      "type": "coin_deposit",
-      "timestamp": "2026-08-01T09:17:37.567Z",
-      "transactionId": "86efcb7b-0b1a-4c4d-ac54-6b5272799efc",
-      "toUserId": "d47f311f-d5d3-40be-86b4-8d69a74a4a81",
-      "toUsername": "kaab0._",
-      "amount": 4000,
-      "balanceBefore": 1300,
-      "balanceAfter": 5300
-    },
-    {
-      "id": "ticket_purchased_1785575934684",
-      "type": "ticket_purchased",
-      "timestamp": "2026-08-01T09:18:54.684Z",
-      "userId": "d47f311f-d5d3-40be-86b4-8d69a74a4a81",
-      "username": "kaab0._",
-      "coinsSpent": 2500,
-      "ticketsGranted": 1,
-      "transaction_id": "tx_1785575931773_m0rddtkpijj",
-      "newCoinBalance": 2800,
-      "newTicketBalance": 4
-    },
-    {
-      "id": "ticket_purchased_1785575937344",
-      "type": "ticket_purchased",
-      "timestamp": "2026-08-01T09:18:57.344Z",
-      "userId": "d47f311f-d5d3-40be-86b4-8d69a74a4a81",
-      "username": "kaab0._",
-      "coinsSpent": 2500,
-      "ticketsGranted": 1,
-      "transaction_id": "tx_1785575934699_9oo6p3r9u19",
-      "newCoinBalance": 300,
-      "newTicketBalance": 5
-    },
-    {
-      "id": "referral_register_1785582386970",
-      "type": "referral_register",
-      "timestamp": "2026-08-01T11:06:26.970Z",
-      "newUserId": "fbd7e861-0fed-4eab-ad04-34ca4b8d1cda",
-      "newUsername": "mk",
-      "referrerId": "cbfd72db-cf27-4b11-816c-1c8230e38340",
-      "referrerName": "Disrespect"
-    },
-    {
-      "id": "user_register_1785582388003",
-      "type": "user_register",
-      "timestamp": "2026-08-01T11:06:28.003Z",
-      "userId": "fbd7e861-0fed-4eab-ad04-34ca4b8d1cda",
-      "username": "mk",
-      "referredBy": "DISR-ZCTNL"
-    },
-    {
-      "id": "spin_1785582503757",
-      "type": "spin",
-      "timestamp": "2026-08-01T11:08:23.757Z",
-      "userId": "fbd7e861-0fed-4eab-ad04-34ca4b8d1cda",
-      "username": "mk",
-      "result": "500 Coins",
-      "coins": 500,
-      "tickets": 0,
-      "jackpot": false
-    },
-    {
-      "id": "coin_deposit_1785582981361",
-      "type": "coin_deposit",
-      "timestamp": "2026-08-01T11:16:21.361Z",
-      "transactionId": "29dbf31a-349e-4186-bf4a-586c996f7da7",
-      "toUserId": "cbfd72db-cf27-4b11-816c-1c8230e38340",
-      "toUsername": "Disrespect",
-      "amount": 700,
-      "balanceBefore": 3500,
-      "balanceAfter": 4200
-    },
-    {
-      "id": "ticket_purchased_1785585285903",
-      "type": "ticket_purchased",
-      "timestamp": "2026-08-01T11:54:45.903Z",
-      "userId": "cbfd72db-cf27-4b11-816c-1c8230e38340",
-      "username": "Disrespect",
-      "coinsSpent": 2500,
-      "ticketsGranted": 1,
-      "transaction_id": "tx_1785585283917_95nbmsm2z2c",
-      "newCoinBalance": 1700,
-      "newTicketBalance": 3
-    },
-    {
-      "id": "spin_1785594927959",
-      "type": "spin",
-      "timestamp": "2026-08-01T14:35:27.959Z",
-      "userId": "4cac7bc6-8e79-4c25-abf4-be6b9bd61845",
-      "username": "admin",
-      "result": "100 Coins",
-      "coins": 100,
-      "tickets": 0,
-      "jackpot": false
-    }
-  ],
+  "events": [],
   "event_stats": {
-    "totalUsers": 5,
-    "totalTickets": 0,
-    "totalCoins": 4460,
+    "totalUsers": 4,
+    "totalTickets": 8,
+    "totalCoins": 4660,
     "lastReset": "2026-08-01T00:00:27.938Z",
     "lastWinner": {
       "month": "2026-08",
@@ -356,15 +199,15 @@
       "coins": 1510,
       "crownedAt": "2026-08-01T00:00:27.938Z"
     },
-    "snapshotAt": "2026-08-01T07:25:27.751Z"
+    "snapshotAt": "2026-08-01T19:48:28.471Z"
   },
   "leaderboard": [
     {
       "rank": 1,
-      "username": "CODERXSA",
+      "username": "Disrespect",
       "monthlyReferrals": 1,
       "totalReferrals": 1,
-      "tickets": 0,
+      "tickets": 3,
       "trophies": 0
     },
     {
@@ -377,23 +220,15 @@
     },
     {
       "rank": 3,
-      "username": "test",
+      "username": "kaab0._",
       "monthlyReferrals": 0,
       "totalReferrals": 0,
-      "tickets": 0,
+      "tickets": 5,
       "trophies": 0
     },
     {
       "rank": 4,
-      "username": "Disrespect",
-      "monthlyReferrals": 0,
-      "totalReferrals": 0,
-      "tickets": 0,
-      "trophies": 0
-    },
-    {
-      "rank": 5,
-      "username": "kaab0._",
+      "username": "mk",
       "monthlyReferrals": 0,
       "totalReferrals": 0,
       "tickets": 0,
