@@ -329,6 +329,17 @@
       "transaction_id": "tx_1785585283917_95nbmsm2z2c",
       "newCoinBalance": 1700,
       "newTicketBalance": 3
+    },
+    {
+      "id": "spin_1785594927959",
+      "type": "spin",
+      "timestamp": "2026-08-01T14:35:27.959Z",
+      "userId": "4cac7bc6-8e79-4c25-abf4-be6b9bd61845",
+      "username": "admin",
+      "result": "100 Coins",
+      "coins": 100,
+      "tickets": 0,
+      "jackpot": false
     }
   ],
   "event_stats": {
