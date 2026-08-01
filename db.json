@@ -48,10 +48,10 @@
       "role": "user",
       "referralCode": "CODE-M8E9F",
       "transferHash": "NIJU6IZ",
-      "coins": 600,
+      "coins": 850,
       "tickets": 0,
-      "totalReferrals": 0,
-      "monthlyReferrals": 0,
+      "totalReferrals": 1,
+      "monthlyReferrals": 1,
       "hasRedeemedReferral": true,
       "totalSpins": 1,
       "lastSpinAt": "2026-07-31T14:09:35.263Z",
@@ -79,6 +79,26 @@
       "banned": false,
       "registrationIp": "10.24.164.2",
       "createdAt": "2026-07-31T23:14:55.941Z"
+    },
+    {
+      "id": "d47f311f-d5d3-40be-86b4-8d69a74a4a81",
+      "username": "kaab0._",
+      "email": "kaabo1512@gmail.com",
+      "passwordHash": "$2a$12$8euui.93CBu2xEuoEvrAwucRI8/w5ClMB6OvJjZk5nNI9Pp.my3au",
+      "role": "user",
+      "referralCode": "KAAB-QPJIT",
+      "transferHash": "6S6Y8C0",
+      "coins": 800,
+      "tickets": 0,
+      "totalReferrals": 0,
+      "monthlyReferrals": 0,
+      "hasRedeemedReferral": true,
+      "totalSpins": 1,
+      "lastSpinAt": "2026-08-01T07:16:20.334Z",
+      "trophies": 0,
+      "banned": false,
+      "registrationIp": "10.24.164.2",
+      "createdAt": "2026-08-01T07:15:43.139Z"
     }
   ],
   "transactions": [
@@ -122,32 +142,11 @@
     }
   ],
   "coin_conversions": [],
-  "events": [
-    {
-      "id": "referral_register_1785568543368",
-      "type": "referral_register",
-      "timestamp": "2026-08-01T07:15:43.368Z",
-      "newUserId": "d47f311f-d5d3-40be-86b4-8d69a74a4a81",
-      "newUsername": "kaab0._",
-      "referrerId": "945ac2d7-eacd-4e88-bffc-ee0aace337fa",
-      "referrerName": "CODERXSA"
-    },
-    {
-      "id": "spin_1785568580576",
-      "type": "spin",
-      "timestamp": "2026-08-01T07:16:20.576Z",
-      "userId": "d47f311f-d5d3-40be-86b4-8d69a74a4a81",
-      "username": "kaab0._",
-      "result": "250 Coins",
-      "coins": 250,
-      "tickets": 0,
-      "jackpot": false
-    }
-  ],
+  "events": [],
   "event_stats": {
-    "totalUsers": 4,
+    "totalUsers": 5,
     "totalTickets": 0,
-    "totalCoins": 3410,
+    "totalCoins": 4460,
     "lastReset": "2026-08-01T00:00:27.938Z",
     "lastWinner": {
       "month": "2026-08",
@@ -158,11 +157,19 @@
       "coins": 1510,
       "crownedAt": "2026-08-01T00:00:27.938Z"
     },
-    "snapshotAt": "2026-08-01T07:15:27.751Z"
+    "snapshotAt": "2026-08-01T07:25:27.751Z"
   },
   "leaderboard": [
     {
       "rank": 1,
+      "username": "CODERXSA",
+      "monthlyReferrals": 1,
+      "totalReferrals": 1,
+      "tickets": 0,
+      "trophies": 0
+    },
+    {
+      "rank": 2,
       "username": "admin",
       "monthlyReferrals": 0,
       "totalReferrals": 2,
@@ -170,16 +177,8 @@
       "trophies": 1
     },
     {
-      "rank": 2,
-      "username": "test",
-      "monthlyReferrals": 0,
-      "totalReferrals": 0,
-      "tickets": 0,
-      "trophies": 0
-    },
-    {
       "rank": 3,
-      "username": "CODERXSA",
+      "username": "test",
       "monthlyReferrals": 0,
       "totalReferrals": 0,
       "tickets": 0,
@@ -188,6 +187,14 @@
     {
       "rank": 4,
       "username": "Disrespect",
+      "monthlyReferrals": 0,
+      "totalReferrals": 0,
+      "tickets": 0,
+      "trophies": 0
+    },
+    {
+      "rank": 5,
+      "username": "kaab0._",
       "monthlyReferrals": 0,
       "totalReferrals": 0,
       "tickets": 0,
