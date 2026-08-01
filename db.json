@@ -295,6 +295,17 @@
       "userId": "fbd7e861-0fed-4eab-ad04-34ca4b8d1cda",
       "username": "mk",
       "referredBy": "DISR-ZCTNL"
+    },
+    {
+      "id": "spin_1785582503757",
+      "type": "spin",
+      "timestamp": "2026-08-01T11:08:23.757Z",
+      "userId": "fbd7e861-0fed-4eab-ad04-34ca4b8d1cda",
+      "username": "mk",
+      "result": "500 Coins",
+      "coins": 500,
+      "tickets": 0,
+      "jackpot": false
     }
   ],
   "event_stats": {
