@@ -278,6 +278,15 @@
       "transaction_id": "tx_1785575934699_9oo6p3r9u19",
       "newCoinBalance": 300,
       "newTicketBalance": 5
+    },
+    {
+      "id": "referral_register_1785582386970",
+      "type": "referral_register",
+      "timestamp": "2026-08-01T11:06:26.970Z",
+      "newUserId": "fbd7e861-0fed-4eab-ad04-34ca4b8d1cda",
+      "newUsername": "mk",
+      "referrerId": "cbfd72db-cf27-4b11-816c-1c8230e38340",
+      "referrerName": "Disrespect"
     }
   ],
   "event_stats": {
