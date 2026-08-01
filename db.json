@@ -156,6 +156,14 @@
       "targetId": "f7b8d0db-a841-456d-993f-cb6630a90dec",
       "username": "test",
       "email": "test@gmail.com"
+    },
+    {
+      "id": "admin_password_edit_1785574311112",
+      "type": "admin_password_edit",
+      "timestamp": "2026-08-01T08:51:51.112Z",
+      "adminId": "4cac7bc6-8e79-4c25-abf4-be6b9bd61845",
+      "targetId": "cbfd72db-cf27-4b11-816c-1c8230e38340",
+      "targetUsername": "Disrespect"
     }
   ],
   "event_stats": {
