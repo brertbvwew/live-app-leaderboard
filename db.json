@@ -231,6 +231,18 @@
       "targetId": "945ac2d7-eacd-4e88-bffc-ee0aace337fa",
       "username": "CODERXSA",
       "email": "coderxsa@gmail.com"
+    },
+    {
+      "id": "ticket_purchased_1785575279738",
+      "type": "ticket_purchased",
+      "timestamp": "2026-08-01T09:07:59.738Z",
+      "userId": "d47f311f-d5d3-40be-86b4-8d69a74a4a81",
+      "username": "kaab0._",
+      "coinsSpent": 2500,
+      "ticketsGranted": 1,
+      "transaction_id": "tx_1785575276743_zcwo4w3sc49",
+      "newCoinBalance": 1300,
+      "newTicketBalance": 3
     }
   ],
   "event_stats": {
