@@ -147,7 +147,17 @@
     }
   ],
   "coin_conversions": [],
-  "events": [],
+  "events": [
+    {
+      "id": "admin_delete_user_1785574166616",
+      "type": "admin_delete_user",
+      "timestamp": "2026-08-01T08:49:26.616Z",
+      "adminId": "4cac7bc6-8e79-4c25-abf4-be6b9bd61845",
+      "targetId": "f7b8d0db-a841-456d-993f-cb6630a90dec",
+      "username": "test",
+      "email": "test@gmail.com"
+    }
+  ],
   "event_stats": {
     "totalUsers": 5,
     "totalTickets": 0,
