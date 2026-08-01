@@ -101,7 +101,24 @@
   "settings": {},
   "hall_of_fame": [],
   "coin_conversions": [],
-  "events": [],
+  "events": [
+    {
+      "id": "monthly_reset_1785542428366",
+      "type": "monthly_reset",
+      "timestamp": "2026-08-01T00:00:28.366Z",
+      "month": "2026-08",
+      "winner": {
+        "month": "2026-08",
+        "userId": "4cac7bc6-8e79-4c25-abf4-be6b9bd61845",
+        "username": "admin",
+        "monthlyReferrals": 2,
+        "tickets": 0,
+        "coins": 1510,
+        "crownedAt": "2026-08-01T00:00:27.938Z"
+      },
+      "totalUsers": 4
+    }
+  ],
   "event_stats": {
     "totalUsers": 4,
     "totalTickets": 0,
