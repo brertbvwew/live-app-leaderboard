@@ -9,10 +9,10 @@
       "role": "admin",
       "referralCode": "CRYPT",
       "transferHash": "SDMNHT6",
-      "coins": 1610,
+      "coins": 1860,
       "tickets": 0,
-      "totalReferrals": 2,
-      "monthlyReferrals": 0,
+      "totalReferrals": 3,
+      "monthlyReferrals": 1,
       "hasRedeemedReferral": false,
       "totalSpins": 2,
       "lastSpinAt": "2026-08-01T14:35:27.651Z",
@@ -51,13 +51,13 @@
       "role": "user",
       "referralCode": "KAAB-QPJIT",
       "transferHash": "6S6Y8C0",
-      "coins": 300,
+      "coins": 400,
       "tickets": 5,
       "totalReferrals": 0,
       "monthlyReferrals": 0,
       "hasRedeemedReferral": true,
-      "totalSpins": 1,
-      "lastSpinAt": "2026-08-01T07:16:20.334Z",
+      "totalSpins": 2,
+      "lastSpinAt": "2026-08-02T09:08:01.947Z",
       "trophies": 0,
       "banned": false,
       "registrationIp": "10.24.164.2",
@@ -83,6 +83,27 @@
       "banned": false,
       "registrationIp": "10.29.158.70",
       "createdAt": "2026-08-01T11:06:26.537Z"
+    },
+    {
+      "id": "78185520-f7fd-41e1-9a94-f9e0fb475a0e",
+      "username": "Sbervy",
+      "email": "spazdiscord006@gmail.com",
+      "password": "siphe333",
+      "passwordHash": null,
+      "role": "user",
+      "referralCode": "SBER-6YGG7",
+      "transferHash": "TP8VW0C",
+      "coins": 800,
+      "tickets": 0,
+      "totalReferrals": 0,
+      "monthlyReferrals": 0,
+      "hasRedeemedReferral": true,
+      "totalSpins": 1,
+      "lastSpinAt": "2026-08-02T08:22:48.916Z",
+      "trophies": 0,
+      "banned": false,
+      "registrationIp": "10.24.164.2",
+      "createdAt": "2026-08-02T08:22:22.201Z"
     }
   ],
   "transactions": [
@@ -184,43 +205,11 @@
     }
   ],
   "coin_conversions": [],
-  "events": [
-    {
-      "id": "referral_register_1785658942574",
-      "type": "referral_register",
-      "timestamp": "2026-08-02T08:22:22.574Z",
-      "newUserId": "78185520-f7fd-41e1-9a94-f9e0fb475a0e",
-      "newUsername": "Sbervy",
-      "referrerId": "4cac7bc6-8e79-4c25-abf4-be6b9bd61845",
-      "referrerName": "admin"
-    },
-    {
-      "id": "spin_1785658969266",
-      "type": "spin",
-      "timestamp": "2026-08-02T08:22:49.266Z",
-      "userId": "78185520-f7fd-41e1-9a94-f9e0fb475a0e",
-      "username": "Sbervy",
-      "result": "250 Coins",
-      "coins": 250,
-      "tickets": 0,
-      "jackpot": false
-    },
-    {
-      "id": "spin_1785661682296",
-      "type": "spin",
-      "timestamp": "2026-08-02T09:08:02.296Z",
-      "userId": "d47f311f-d5d3-40be-86b4-8d69a74a4a81",
-      "username": "kaab0._",
-      "result": "100 Coins",
-      "coins": 100,
-      "tickets": 0,
-      "jackpot": false
-    }
-  ],
+  "events": [],
   "event_stats": {
-    "totalUsers": 4,
+    "totalUsers": 5,
     "totalTickets": 8,
-    "totalCoins": 4660,
+    "totalCoins": 5810,
     "lastReset": "2026-08-01T00:00:27.938Z",
     "lastWinner": {
       "month": "2026-08",
@@ -231,24 +220,24 @@
       "coins": 1510,
       "crownedAt": "2026-08-01T00:00:27.938Z"
     },
-    "snapshotAt": "2026-08-02T06:48:28.472Z"
+    "snapshotAt": "2026-08-02T17:48:28.475Z"
   },
   "leaderboard": [
     {
       "rank": 1,
+      "username": "admin",
+      "monthlyReferrals": 1,
+      "totalReferrals": 3,
+      "tickets": 0,
+      "trophies": 1
+    },
+    {
+      "rank": 2,
       "username": "Disrespect",
       "monthlyReferrals": 1,
       "totalReferrals": 1,
       "tickets": 3,
       "trophies": 0
-    },
-    {
-      "rank": 2,
-      "username": "admin",
-      "monthlyReferrals": 0,
-      "totalReferrals": 2,
-      "tickets": 0,
-      "trophies": 1
     },
     {
       "rank": 3,
@@ -261,6 +250,14 @@
     {
       "rank": 4,
       "username": "mk",
+      "monthlyReferrals": 0,
+      "totalReferrals": 0,
+      "tickets": 0,
+      "trophies": 0
+    },
+    {
+      "rank": 5,
+      "username": "Sbervy",
       "monthlyReferrals": 0,
       "totalReferrals": 0,
       "tickets": 0,
