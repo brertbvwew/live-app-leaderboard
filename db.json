@@ -193,6 +193,17 @@
       "newUsername": "Sbervy",
       "referrerId": "4cac7bc6-8e79-4c25-abf4-be6b9bd61845",
       "referrerName": "admin"
+    },
+    {
+      "id": "spin_1785658969266",
+      "type": "spin",
+      "timestamp": "2026-08-02T08:22:49.266Z",
+      "userId": "78185520-f7fd-41e1-9a94-f9e0fb475a0e",
+      "username": "Sbervy",
+      "result": "250 Coins",
+      "coins": 250,
+      "tickets": 0,
+      "jackpot": false
     }
   ],
   "event_stats": {
