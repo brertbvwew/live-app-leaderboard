@@ -204,6 +204,17 @@
       "coins": 250,
       "tickets": 0,
       "jackpot": false
+    },
+    {
+      "id": "spin_1785661682296",
+      "type": "spin",
+      "timestamp": "2026-08-02T09:08:02.296Z",
+      "userId": "d47f311f-d5d3-40be-86b4-8d69a74a4a81",
+      "username": "kaab0._",
+      "result": "100 Coins",
+      "coins": 100,
+      "tickets": 0,
+      "jackpot": false
     }
   ],
   "event_stats": {
