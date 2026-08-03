@@ -214,6 +214,17 @@
       "newUsername": "demo",
       "referrerId": "4cac7bc6-8e79-4c25-abf4-be6b9bd61845",
       "referrerName": "admin"
+    },
+    {
+      "id": "spin_1785744588430",
+      "type": "spin",
+      "timestamp": "2026-08-03T08:09:48.430Z",
+      "userId": "04b82937-84da-4729-b4d3-e5b72042ca56",
+      "username": "demo",
+      "result": "50 Coins",
+      "coins": 50,
+      "tickets": 0,
+      "jackpot": false
     }
   ],
   "event_stats": {
