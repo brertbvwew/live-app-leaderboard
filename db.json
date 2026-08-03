@@ -250,6 +250,17 @@
       "coins": 0,
       "tickets": 1,
       "jackpot": false
+    },
+    {
+      "id": "spin_1785776785896",
+      "type": "spin",
+      "timestamp": "2026-08-03T17:06:25.896Z",
+      "userId": "4cac7bc6-8e79-4c25-abf4-be6b9bd61845",
+      "username": "admin",
+      "result": "50 Coins",
+      "coins": 50,
+      "tickets": 0,
+      "jackpot": false
     }
   ],
   "event_stats": {
