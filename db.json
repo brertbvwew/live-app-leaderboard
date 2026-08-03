@@ -9,10 +9,10 @@
       "role": "admin",
       "referralCode": "CRYPT",
       "transferHash": "SDMNHT6",
-      "coins": 1860,
+      "coins": 2110,
       "tickets": 0,
-      "totalReferrals": 3,
-      "monthlyReferrals": 1,
+      "totalReferrals": 4,
+      "monthlyReferrals": 2,
       "hasRedeemedReferral": false,
       "totalSpins": 2,
       "lastSpinAt": "2026-08-01T14:35:27.651Z",
@@ -30,13 +30,13 @@
       "role": "user",
       "referralCode": "DISR-ZCTNL",
       "transferHash": "N7EKRQG",
-      "coins": 1700,
-      "tickets": 3,
+      "coins": 800,
+      "tickets": 5,
       "totalReferrals": 1,
       "monthlyReferrals": 1,
       "hasRedeemedReferral": false,
-      "totalSpins": 1,
-      "lastSpinAt": "2026-07-31T23:16:51.926Z",
+      "totalSpins": 2,
+      "lastSpinAt": "2026-08-03T12:16:29.785Z",
       "trophies": 0,
       "banned": false,
       "registrationIp": "10.24.164.2",
@@ -165,6 +165,32 @@
       "coinsSpent": 2500,
       "ticketsGranted": 1,
       "recordedAt": "2026-08-01T11:54:45.446Z"
+    },
+    {
+      "txId": "f6072cee-db04-4c20-9161-1dc95dc2975c",
+      "type": "deposit",
+      "toUserId": "04b82937-84da-4729-b4d3-e5b72042ca56",
+      "toUsername": "demo",
+      "amount": 500,
+      "source": "app_deposit",
+      "recordedAt": "2026-08-03T08:10:42.577Z"
+    },
+    {
+      "txId": "0ed2efef-afec-4881-b6fd-0af8d8d61324",
+      "type": "deposit",
+      "toUserId": "cbfd72db-cf27-4b11-816c-1c8230e38340",
+      "toUsername": "Disrespect",
+      "amount": 4000,
+      "source": "app_deposit",
+      "recordedAt": "2026-08-03T12:17:23.132Z"
+    },
+    {
+      "txId": "tx_1785759471124_y98v676dbym",
+      "userId": "cbfd72db-cf27-4b11-816c-1c8230e38340",
+      "type": "buy_tickets",
+      "coinsSpent": 5000,
+      "ticketsGranted": 2,
+      "recordedAt": "2026-08-03T12:17:52.975Z"
     }
   ],
   "admin_attempts": {
@@ -205,86 +231,11 @@
     }
   ],
   "coin_conversions": [],
-  "events": [
-    {
-      "id": "referral_register_1785744579759",
-      "type": "referral_register",
-      "timestamp": "2026-08-03T08:09:39.759Z",
-      "newUserId": "04b82937-84da-4729-b4d3-e5b72042ca56",
-      "newUsername": "demo",
-      "referrerId": "4cac7bc6-8e79-4c25-abf4-be6b9bd61845",
-      "referrerName": "admin"
-    },
-    {
-      "id": "spin_1785744588430",
-      "type": "spin",
-      "timestamp": "2026-08-03T08:09:48.430Z",
-      "userId": "04b82937-84da-4729-b4d3-e5b72042ca56",
-      "username": "demo",
-      "result": "50 Coins",
-      "coins": 50,
-      "tickets": 0,
-      "jackpot": false
-    },
-    {
-      "id": "coin_deposit_1785744642947",
-      "type": "coin_deposit",
-      "timestamp": "2026-08-03T08:10:42.947Z",
-      "transactionId": "f6072cee-db04-4c20-9161-1dc95dc2975c",
-      "toUserId": "04b82937-84da-4729-b4d3-e5b72042ca56",
-      "toUsername": "demo",
-      "amount": 500,
-      "balanceBefore": 600,
-      "balanceAfter": 1100
-    },
-    {
-      "id": "admin_delete_user_1785750704259",
-      "type": "admin_delete_user",
-      "timestamp": "2026-08-03T09:51:44.259Z",
-      "adminId": "4cac7bc6-8e79-4c25-abf4-be6b9bd61845",
-      "targetId": "04b82937-84da-4729-b4d3-e5b72042ca56",
-      "username": "demo",
-      "email": "demo@gmail.com"
-    },
-    {
-      "id": "spin_1785759390149",
-      "type": "spin",
-      "timestamp": "2026-08-03T12:16:30.149Z",
-      "userId": "cbfd72db-cf27-4b11-816c-1c8230e38340",
-      "username": "Disrespect",
-      "result": "100 Coins",
-      "coins": 100,
-      "tickets": 0,
-      "jackpot": false
-    },
-    {
-      "id": "coin_deposit_1785759443430",
-      "type": "coin_deposit",
-      "timestamp": "2026-08-03T12:17:23.430Z",
-      "transactionId": "0ed2efef-afec-4881-b6fd-0af8d8d61324",
-      "toUserId": "cbfd72db-cf27-4b11-816c-1c8230e38340",
-      "toUsername": "Disrespect",
-      "amount": 4000,
-      "balanceBefore": 1800,
-      "balanceAfter": 5800
-    },
-    {
-      "id": "ticket_purchased_1785759473192",
-      "type": "ticket_purchased",
-      "timestamp": "2026-08-03T12:17:53.192Z",
-      "userId": "cbfd72db-cf27-4b11-816c-1c8230e38340",
-      "username": "Disrespect",
-      "coinsSpent": 5000,
-      "ticketsGranted": 2,
-      "transaction_id": "tx_1785759471124_y98v676dbym",
-      "newCoinBalance": 800,
-      "newTicketBalance": 5
-    }
-  ],
+  "events": [],
   "event_stats": {
     "totalUsers": 5,
-    "totalTickets": 8,
-    "totalCoins": 5810,
+    "totalTickets": 10,
+    "totalCoins": 5160,
     "lastReset": "2026-08-01T00:00:27.938Z",
     "lastWinner": {
       "month": "2026-08",
@@ -295,14 +246,14 @@
       "coins": 1510,
       "crownedAt": "2026-08-01T00:00:27.938Z"
     },
-    "snapshotAt": "2026-08-03T04:48:28.479Z"
+    "snapshotAt": "2026-08-03T15:48:28.479Z"
   },
   "leaderboard": [
     {
       "rank": 1,
       "username": "admin",
-      "monthlyReferrals": 1,
-      "totalReferrals": 3,
+      "monthlyReferrals": 2,
+      "totalReferrals": 4,
       "tickets": 0,
       "trophies": 1
     },
@@ -311,7 +262,7 @@
       "username": "Disrespect",
       "monthlyReferrals": 1,
       "totalReferrals": 1,
-      "tickets": 3,
+      "tickets": 5,
       "trophies": 0
     },
     {
