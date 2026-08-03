@@ -267,6 +267,18 @@
       "amount": 4000,
       "balanceBefore": 1800,
       "balanceAfter": 5800
+    },
+    {
+      "id": "ticket_purchased_1785759473192",
+      "type": "ticket_purchased",
+      "timestamp": "2026-08-03T12:17:53.192Z",
+      "userId": "cbfd72db-cf27-4b11-816c-1c8230e38340",
+      "username": "Disrespect",
+      "coinsSpent": 5000,
+      "ticketsGranted": 2,
+      "transaction_id": "tx_1785759471124_y98v676dbym",
+      "newCoinBalance": 800,
+      "newTicketBalance": 5
     }
   ],
   "event_stats": {
