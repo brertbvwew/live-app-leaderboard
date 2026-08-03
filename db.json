@@ -231,7 +231,16 @@
     }
   ],
   "coin_conversions": [],
-  "events": [],
+  "events": [
+    {
+      "id": "user_register_1785775081392",
+      "type": "user_register",
+      "timestamp": "2026-08-03T16:38:01.392Z",
+      "userId": "3e7c4f35-5df7-454c-a6fa-15503b73236d",
+      "username": "00PulsRxv1",
+      "referredBy": null
+    }
+  ],
   "event_stats": {
     "totalUsers": 5,
     "totalTickets": 10,
