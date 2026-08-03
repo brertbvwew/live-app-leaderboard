@@ -205,7 +205,17 @@
     }
   ],
   "coin_conversions": [],
-  "events": [],
+  "events": [
+    {
+      "id": "referral_register_1785744579759",
+      "type": "referral_register",
+      "timestamp": "2026-08-03T08:09:39.759Z",
+      "newUserId": "04b82937-84da-4729-b4d3-e5b72042ca56",
+      "newUsername": "demo",
+      "referrerId": "4cac7bc6-8e79-4c25-abf4-be6b9bd61845",
+      "referrerName": "admin"
+    }
+  ],
   "event_stats": {
     "totalUsers": 5,
     "totalTickets": 8,
