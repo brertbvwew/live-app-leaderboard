@@ -256,6 +256,17 @@
       "coins": 100,
       "tickets": 0,
       "jackpot": false
+    },
+    {
+      "id": "coin_deposit_1785759443430",
+      "type": "coin_deposit",
+      "timestamp": "2026-08-03T12:17:23.430Z",
+      "transactionId": "0ed2efef-afec-4881-b6fd-0af8d8d61324",
+      "toUserId": "cbfd72db-cf27-4b11-816c-1c8230e38340",
+      "toUsername": "Disrespect",
+      "amount": 4000,
+      "balanceBefore": 1800,
+      "balanceAfter": 5800
     }
   ],
   "event_stats": {
