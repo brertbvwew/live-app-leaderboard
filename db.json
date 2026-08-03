@@ -239,6 +239,17 @@
       "userId": "3e7c4f35-5df7-454c-a6fa-15503b73236d",
       "username": "00PulsRxv1",
       "referredBy": null
+    },
+    {
+      "id": "spin_1785775098143",
+      "type": "spin",
+      "timestamp": "2026-08-03T16:38:18.143Z",
+      "userId": "3e7c4f35-5df7-454c-a6fa-15503b73236d",
+      "username": "00PulsRxv1",
+      "result": "1 Ticket 🎫",
+      "coins": 0,
+      "tickets": 1,
+      "jackpot": false
     }
   ],
   "event_stats": {
