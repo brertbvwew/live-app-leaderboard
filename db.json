@@ -236,6 +236,15 @@
       "amount": 500,
       "balanceBefore": 600,
       "balanceAfter": 1100
+    },
+    {
+      "id": "admin_delete_user_1785750704259",
+      "type": "admin_delete_user",
+      "timestamp": "2026-08-03T09:51:44.259Z",
+      "adminId": "4cac7bc6-8e79-4c25-abf4-be6b9bd61845",
+      "targetId": "04b82937-84da-4729-b4d3-e5b72042ca56",
+      "username": "demo",
+      "email": "demo@gmail.com"
     }
   ],
   "event_stats": {
