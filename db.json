@@ -225,6 +225,17 @@
       "coins": 50,
       "tickets": 0,
       "jackpot": false
+    },
+    {
+      "id": "coin_deposit_1785744642947",
+      "type": "coin_deposit",
+      "timestamp": "2026-08-03T08:10:42.947Z",
+      "transactionId": "f6072cee-db04-4c20-9161-1dc95dc2975c",
+      "toUserId": "04b82937-84da-4729-b4d3-e5b72042ca56",
+      "toUsername": "demo",
+      "amount": 500,
+      "balanceBefore": 600,
+      "balanceAfter": 1100
     }
   ],
   "event_stats": {
