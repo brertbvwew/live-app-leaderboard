@@ -245,6 +245,17 @@
       "targetId": "04b82937-84da-4729-b4d3-e5b72042ca56",
       "username": "demo",
       "email": "demo@gmail.com"
+    },
+    {
+      "id": "spin_1785759390149",
+      "type": "spin",
+      "timestamp": "2026-08-03T12:16:30.149Z",
+      "userId": "cbfd72db-cf27-4b11-816c-1c8230e38340",
+      "username": "Disrespect",
+      "result": "100 Coins",
+      "coins": 100,
+      "tickets": 0,
+      "jackpot": false
     }
   ],
   "event_stats": {
