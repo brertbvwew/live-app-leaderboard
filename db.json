@@ -260,6 +260,15 @@
       "userId": "bf72a7bd-fe1a-4218-8b0f-2e2381817390",
       "username": "hack",
       "referredBy": null
+    },
+    {
+      "id": "admin_delete_user_1785835931280",
+      "type": "admin_delete_user",
+      "timestamp": "2026-08-04T09:32:11.280Z",
+      "adminId": "4cac7bc6-8e79-4c25-abf4-be6b9bd61845",
+      "targetId": "bf72a7bd-fe1a-4218-8b0f-2e2381817390",
+      "username": "hack",
+      "email": "hack@gmail.com"
     }
   ],
   "event_stats": {
