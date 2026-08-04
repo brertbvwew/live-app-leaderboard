@@ -9,13 +9,13 @@
       "role": "admin",
       "referralCode": "CRYPT",
       "transferHash": "SDMNHT6",
-      "coins": 2110,
+      "coins": 2160,
       "tickets": 0,
       "totalReferrals": 4,
       "monthlyReferrals": 2,
       "hasRedeemedReferral": false,
-      "totalSpins": 2,
-      "lastSpinAt": "2026-08-01T14:35:27.651Z",
+      "totalSpins": 3,
+      "lastSpinAt": "2026-08-03T17:06:25.503Z",
       "trophies": 1,
       "banned": false,
       "registrationIp": "::1",
@@ -104,6 +104,27 @@
       "banned": false,
       "registrationIp": "10.24.164.2",
       "createdAt": "2026-08-02T08:22:22.201Z"
+    },
+    {
+      "id": "3e7c4f35-5df7-454c-a6fa-15503b73236d",
+      "username": "00PulsRxv1",
+      "email": "tr4gicwayne@gmail.com",
+      "password": "Wayne@1724.",
+      "passwordHash": null,
+      "role": "user",
+      "referralCode": "00PU-S5LV7",
+      "transferHash": "HGSSQW7",
+      "coins": 0,
+      "tickets": 1,
+      "totalReferrals": 0,
+      "monthlyReferrals": 0,
+      "hasRedeemedReferral": false,
+      "totalSpins": 1,
+      "lastSpinAt": "2026-08-03T16:38:17.755Z",
+      "trophies": 0,
+      "banned": false,
+      "registrationIp": "10.31.219.4",
+      "createdAt": "2026-08-03T16:38:00.997Z"
     }
   ],
   "transactions": [
@@ -231,42 +252,11 @@
     }
   ],
   "coin_conversions": [],
-  "events": [
-    {
-      "id": "user_register_1785775081392",
-      "type": "user_register",
-      "timestamp": "2026-08-03T16:38:01.392Z",
-      "userId": "3e7c4f35-5df7-454c-a6fa-15503b73236d",
-      "username": "00PulsRxv1",
-      "referredBy": null
-    },
-    {
-      "id": "spin_1785775098143",
-      "type": "spin",
-      "timestamp": "2026-08-03T16:38:18.143Z",
-      "userId": "3e7c4f35-5df7-454c-a6fa-15503b73236d",
-      "username": "00PulsRxv1",
-      "result": "1 Ticket 🎫",
-      "coins": 0,
-      "tickets": 1,
-      "jackpot": false
-    },
-    {
-      "id": "spin_1785776785896",
-      "type": "spin",
-      "timestamp": "2026-08-03T17:06:25.896Z",
-      "userId": "4cac7bc6-8e79-4c25-abf4-be6b9bd61845",
-      "username": "admin",
-      "result": "50 Coins",
-      "coins": 50,
-      "tickets": 0,
-      "jackpot": false
-    }
-  ],
+  "events": [],
   "event_stats": {
-    "totalUsers": 5,
-    "totalTickets": 10,
-    "totalCoins": 5160,
+    "totalUsers": 6,
+    "totalTickets": 11,
+    "totalCoins": 5210,
     "lastReset": "2026-08-01T00:00:27.938Z",
     "lastWinner": {
       "month": "2026-08",
@@ -277,7 +267,7 @@
       "coins": 1510,
       "crownedAt": "2026-08-01T00:00:27.938Z"
     },
-    "snapshotAt": "2026-08-03T15:48:28.479Z"
+    "snapshotAt": "2026-08-04T02:48:28.482Z"
   },
   "leaderboard": [
     {
@@ -318,6 +308,14 @@
       "monthlyReferrals": 0,
       "totalReferrals": 0,
       "tickets": 0,
+      "trophies": 0
+    },
+    {
+      "rank": 6,
+      "username": "00PulsRxv1",
+      "monthlyReferrals": 0,
+      "totalReferrals": 0,
+      "tickets": 1,
       "trophies": 0
     }
   ]
