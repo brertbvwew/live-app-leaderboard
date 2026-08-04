@@ -277,6 +277,15 @@
       "userId": "d99f40b3-a844-458b-af50-43328465ed68",
       "username": "admin test",
       "referredBy": null
+    },
+    {
+      "id": "admin_delete_user_1785855235589",
+      "type": "admin_delete_user",
+      "timestamp": "2026-08-04T14:53:55.589Z",
+      "adminId": "4cac7bc6-8e79-4c25-abf4-be6b9bd61845",
+      "targetId": "d99f40b3-a844-458b-af50-43328465ed68",
+      "username": "admin test",
+      "email": "ad@gmail.com"
     }
   ],
   "event_stats": {
