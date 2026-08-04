@@ -252,7 +252,16 @@
     }
   ],
   "coin_conversions": [],
-  "events": [],
+  "events": [
+    {
+      "id": "user_register_1785835413432",
+      "type": "user_register",
+      "timestamp": "2026-08-04T09:23:33.432Z",
+      "userId": "bf72a7bd-fe1a-4218-8b0f-2e2381817390",
+      "username": "hack",
+      "referredBy": null
+    }
+  ],
   "event_stats": {
     "totalUsers": 6,
     "totalTickets": 11,
