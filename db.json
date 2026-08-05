@@ -93,13 +93,13 @@
       "role": "user",
       "referralCode": "SBER-6YGG7",
       "transferHash": "TP8VW0C",
-      "coins": 800,
+      "coins": 1050,
       "tickets": 0,
       "totalReferrals": 0,
       "monthlyReferrals": 0,
       "hasRedeemedReferral": true,
-      "totalSpins": 1,
-      "lastSpinAt": "2026-08-02T08:22:48.916Z",
+      "totalSpins": 2,
+      "lastSpinAt": "2026-08-05T15:25:54.244Z",
       "trophies": 0,
       "banned": false,
       "registrationIp": "10.24.164.2",
@@ -318,23 +318,12 @@
       "targetId": "bf72a7bd-fe1a-4218-8b0f-2e2381817390",
       "username": "hack",
       "email": "hack@gmail.com"
-    },
-    {
-      "id": "spin_1785943554582",
-      "type": "spin",
-      "timestamp": "2026-08-05T15:25:54.582Z",
-      "userId": "78185520-f7fd-41e1-9a94-f9e0fb475a0e",
-      "username": "Sbervy",
-      "result": "250 Coins",
-      "coins": 250,
-      "tickets": 0,
-      "jackpot": false
     }
   ],
   "event_stats": {
     "totalUsers": 6,
     "totalTickets": 16,
-    "totalCoins": 5260,
+    "totalCoins": 5510,
     "lastReset": "2026-08-01T00:00:27.938Z",
     "lastWinner": {
       "month": "2026-08",
@@ -345,7 +334,7 @@
       "coins": 1510,
       "crownedAt": "2026-08-01T00:00:27.938Z"
     },
-    "snapshotAt": "2026-08-05T07:39:04.140Z"
+    "snapshotAt": "2026-08-05T18:39:04.144Z"
   },
   "leaderboard": [
     {
