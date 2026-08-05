@@ -318,6 +318,17 @@
       "targetId": "bf72a7bd-fe1a-4218-8b0f-2e2381817390",
       "username": "hack",
       "email": "hack@gmail.com"
+    },
+    {
+      "id": "spin_1785943554582",
+      "type": "spin",
+      "timestamp": "2026-08-05T15:25:54.582Z",
+      "userId": "78185520-f7fd-41e1-9a94-f9e0fb475a0e",
+      "username": "Sbervy",
+      "result": "250 Coins",
+      "coins": 250,
+      "tickets": 0,
+      "jackpot": false
     }
   ],
   "event_stats": {
