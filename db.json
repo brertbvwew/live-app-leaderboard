@@ -318,23 +318,6 @@
       "targetId": "bf72a7bd-fe1a-4218-8b0f-2e2381817390",
       "username": "hack",
       "email": "hack@gmail.com"
-    },
-    {
-      "id": "user_register_1786004856240",
-      "type": "user_register",
-      "timestamp": "2026-08-06T08:27:36.240Z",
-      "userId": "873cd018-552b-4ede-b0c9-66c5b29e65c8",
-      "username": "ad",
-      "referredBy": null
-    },
-    {
-      "id": "admin_delete_user_1786012646867",
-      "type": "admin_delete_user",
-      "timestamp": "2026-08-06T10:37:26.867Z",
-      "adminId": "4cac7bc6-8e79-4c25-abf4-be6b9bd61845",
-      "targetId": "873cd018-552b-4ede-b0c9-66c5b29e65c8",
-      "username": "ad",
-      "email": "ad@gmail.com"
     }
   ],
   "event_stats": {
@@ -351,7 +334,7 @@
       "coins": 1510,
       "crownedAt": "2026-08-01T00:00:27.938Z"
     },
-    "snapshotAt": "2026-08-06T05:39:04.148Z"
+    "snapshotAt": "2026-08-06T16:39:04.152Z"
   },
   "leaderboard": [
     {
