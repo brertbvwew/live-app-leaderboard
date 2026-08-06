@@ -318,6 +318,14 @@
       "targetId": "bf72a7bd-fe1a-4218-8b0f-2e2381817390",
       "username": "hack",
       "email": "hack@gmail.com"
+    },
+    {
+      "id": "user_register_1786004856240",
+      "type": "user_register",
+      "timestamp": "2026-08-06T08:27:36.240Z",
+      "userId": "873cd018-552b-4ede-b0c9-66c5b29e65c8",
+      "username": "ad",
+      "referredBy": null
     }
   ],
   "event_stats": {
