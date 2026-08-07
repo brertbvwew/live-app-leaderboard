@@ -359,6 +359,17 @@
       "targetId": "bf72a7bd-fe1a-4218-8b0f-2e2381817390",
       "username": "hack",
       "email": "hack@gmail.com"
+    },
+    {
+      "id": "coin_deposit_1786120535956",
+      "type": "coin_deposit",
+      "timestamp": "2026-08-07T16:35:35.957Z",
+      "transactionId": "eb326aca-af29-4b7c-9b0b-c75f0e684514",
+      "toUserId": "d47f311f-d5d3-40be-86b4-8d69a74a4a81",
+      "toUsername": "kaab0._",
+      "amount": 9962,
+      "balanceBefore": 700,
+      "balanceAfter": 10662
     }
   ],
   "event_stats": {
