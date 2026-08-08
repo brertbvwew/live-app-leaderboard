@@ -400,6 +400,14 @@
       "targetId": "bf72a7bd-fe1a-4218-8b0f-2e2381817390",
       "username": "hack",
       "email": "hack@gmail.com"
+    },
+    {
+      "id": "user_register_1786183861861",
+      "type": "user_register",
+      "timestamp": "2026-08-08T10:11:01.861Z",
+      "userId": "e04ad8f1-4a6d-4826-997a-8e3f9c4560c9",
+      "username": "glyph",
+      "referredBy": null
     }
   ],
   "event_stats": {
