@@ -467,6 +467,17 @@
       "userId": "6e5ad43c-5410-4215-a476-55213edbd3c6",
       "username": "Diva Dollaire",
       "referredBy": null
+    },
+    {
+      "id": "spin_1786372649104",
+      "type": "spin",
+      "timestamp": "2026-08-10T14:37:29.104Z",
+      "userId": "6e5ad43c-5410-4215-a476-55213edbd3c6",
+      "username": "Diva Dollaire",
+      "result": "100 Coins",
+      "coins": 100,
+      "tickets": 0,
+      "jackpot": false
     }
   ],
   "event_stats": {
