@@ -459,6 +459,14 @@
       "targetId": "bf72a7bd-fe1a-4218-8b0f-2e2381817390",
       "username": "hack",
       "email": "hack@gmail.com"
+    },
+    {
+      "id": "user_register_1786372616761",
+      "type": "user_register",
+      "timestamp": "2026-08-10T14:36:56.761Z",
+      "userId": "6e5ad43c-5410-4215-a476-55213edbd3c6",
+      "username": "Diva Dollaire",
+      "referredBy": null
     }
   ],
   "event_stats": {
