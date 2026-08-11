@@ -51,13 +51,13 @@
       "role": "user",
       "referralCode": "KAAB-QPJIT",
       "transferHash": "6S6Y8C0",
-      "coins": 72,
+      "coins": 322,
       "tickets": 19,
       "totalReferrals": 0,
       "monthlyReferrals": 0,
       "hasRedeemedReferral": true,
-      "totalSpins": 5,
-      "lastSpinAt": "2026-08-08T23:11:00.066Z",
+      "totalSpins": 6,
+      "lastSpinAt": "2026-08-11T17:08:55.854Z",
       "trophies": 0,
       "banned": false,
       "registrationIp": "10.24.164.2",
@@ -480,23 +480,12 @@
       "targetId": "bf72a7bd-fe1a-4218-8b0f-2e2381817390",
       "username": "hack",
       "email": "hack@gmail.com"
-    },
-    {
-      "id": "spin_1786468136208",
-      "type": "spin",
-      "timestamp": "2026-08-11T17:08:56.208Z",
-      "userId": "d47f311f-d5d3-40be-86b4-8d69a74a4a81",
-      "username": "kaab0._",
-      "result": "250 Coins",
-      "coins": 250,
-      "tickets": 0,
-      "jackpot": false
     }
   ],
   "event_stats": {
     "totalUsers": 9,
     "totalTickets": 25,
-    "totalCoins": 5332,
+    "totalCoins": 5582,
     "lastReset": "2026-08-01T00:00:27.938Z",
     "lastWinner": {
       "month": "2026-08",
@@ -507,7 +496,7 @@
       "coins": 1510,
       "crownedAt": "2026-08-01T00:00:27.938Z"
     },
-    "snapshotAt": "2026-08-11T06:39:04.208Z"
+    "snapshotAt": "2026-08-11T17:39:04.197Z"
   },
   "leaderboard": [
     {
