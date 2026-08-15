@@ -72,10 +72,10 @@
       "role": "user",
       "referralCode": "MK-3533C",
       "transferHash": "2LDET0X",
-      "coins": 1050,
+      "coins": 1600,
       "tickets": 0,
-      "totalReferrals": 0,
-      "monthlyReferrals": 0,
+      "totalReferrals": 1,
+      "monthlyReferrals": 1,
       "hasRedeemedReferral": true,
       "totalSpins": 1,
       "lastSpinAt": "2026-08-01T11:08:23.527Z",
@@ -93,10 +93,10 @@
       "role": "user",
       "referralCode": "SBER-6YGG7",
       "transferHash": "TP8VW0C",
-      "coins": 1050,
+      "coins": 1600,
       "tickets": 0,
-      "totalReferrals": 0,
-      "monthlyReferrals": 0,
+      "totalReferrals": 1,
+      "monthlyReferrals": 1,
       "hasRedeemedReferral": true,
       "totalSpins": 2,
       "lastSpinAt": "2026-08-05T15:25:54.244Z",
@@ -177,10 +177,10 @@
       "role": "user",
       "referralCode": "DIVA-8EFIJ",
       "transferHash": "HWHKJS8",
-      "coins": 100,
+      "coins": 650,
       "tickets": 0,
-      "totalReferrals": 0,
-      "monthlyReferrals": 0,
+      "totalReferrals": 1,
+      "monthlyReferrals": 1,
       "hasRedeemedReferral": false,
       "totalSpins": 1,
       "lastSpinAt": "2026-08-10T14:37:28.858Z",
@@ -188,6 +188,78 @@
       "banned": false,
       "registrationIp": "10.31.219.4",
       "createdAt": "2026-08-10T14:36:56.445Z"
+    },
+    {
+      "id": "65566f34-1f84-4dad-a7d9-c651ec16526b",
+      "username": "NexusGeek777",
+      "email": "nexusgeek777@cyber-sec.org",
+      "password": "NW0EQHJ997",
+      "passwordHash": null,
+      "role": "user",
+      "referralCode": "NEXU-LYPIJ",
+      "transferHash": "Z7Z4O96",
+      "coins": 1257,
+      "tickets": 23,
+      "totalReferrals": 0,
+      "monthlyReferrals": 0,
+      "hasRedeemedReferral": true,
+      "totalSpins": 4,
+      "lastSpinAt": "2026-08-13T03:52:36.056Z",
+      "trophies": 0,
+      "banned": false,
+      "registrationIp": "224.93.97.202",
+      "createdAt": "2026-08-15T09:16:39.243Z",
+      "isBot": true,
+      "referredById": "6e5ad43c-5410-4215-a476-55213edbd3c6",
+      "referredByCode": "DIVA-8EFIJ"
+    },
+    {
+      "id": "e1fb6610-4f73-4e2f-a525-8599764dcfe4",
+      "username": "SpectrePro721",
+      "email": "spectrepro721@gmail.com",
+      "password": "Y0465H6Y26",
+      "passwordHash": null,
+      "role": "user",
+      "referralCode": "SPEC-LD4D1",
+      "transferHash": "1RVX4PL",
+      "coins": 1010,
+      "tickets": 20,
+      "totalReferrals": 0,
+      "monthlyReferrals": 0,
+      "hasRedeemedReferral": true,
+      "totalSpins": 6,
+      "lastSpinAt": "2026-08-13T02:52:57.027Z",
+      "trophies": 0,
+      "banned": false,
+      "registrationIp": "154.207.131.225",
+      "createdAt": "2026-08-15T09:16:39.245Z",
+      "isBot": true,
+      "referredById": "fbd7e861-0fed-4eab-ad04-34ca4b8d1cda",
+      "referredByCode": "MK-3533C"
+    },
+    {
+      "id": "4f2e25e8-cc9b-4d9f-8580-995e0f8af3a6",
+      "username": "NebulaKnight901",
+      "email": "nebulaknight901@random-mail.xyz",
+      "password": "R28YGP1L18",
+      "passwordHash": null,
+      "role": "user",
+      "referralCode": "NEBU-UOERK",
+      "transferHash": "JBY8NYC",
+      "coins": 1016,
+      "tickets": 24,
+      "totalReferrals": 0,
+      "monthlyReferrals": 0,
+      "hasRedeemedReferral": true,
+      "totalSpins": 8,
+      "lastSpinAt": "2026-08-13T21:39:42.665Z",
+      "trophies": 0,
+      "banned": false,
+      "registrationIp": "203.131.214.148",
+      "createdAt": "2026-08-15T09:16:39.247Z",
+      "isBot": true,
+      "referredById": "78185520-f7fd-41e1-9a94-f9e0fb475a0e",
+      "referredByCode": "SBER-6YGG7"
     }
   ],
   "transactions": [
@@ -488,20 +560,12 @@
       "targetId": "bf72a7bd-fe1a-4218-8b0f-2e2381817390",
       "username": "hack",
       "email": "hack@gmail.com"
-    },
-    {
-      "id": "bot_referral_generation_1786785399588",
-      "type": "bot_referral_generation",
-      "timestamp": "2026-08-15T09:16:39.588Z",
-      "referrerMode": "random",
-      "botsCount": 3,
-      "distinctReferrersCount": 3
     }
   ],
   "event_stats": {
-    "totalUsers": 9,
-    "totalTickets": 25,
-    "totalCoins": 6632,
+    "totalUsers": 12,
+    "totalTickets": 92,
+    "totalCoins": 11565,
     "lastReset": "2026-08-01T00:00:27.938Z",
     "lastWinner": {
       "month": "2026-08",
@@ -512,7 +576,7 @@
       "coins": 1510,
       "crownedAt": "2026-08-01T00:00:27.938Z"
     },
-    "snapshotAt": "2026-08-14T22:39:04.223Z"
+    "snapshotAt": "2026-08-15T20:15:43.876Z"
   },
   "leaderboard": [
     {
@@ -533,6 +597,30 @@
     },
     {
       "rank": 3,
+      "username": "mk",
+      "monthlyReferrals": 1,
+      "totalReferrals": 1,
+      "tickets": 0,
+      "trophies": 0
+    },
+    {
+      "rank": 4,
+      "username": "Sbervy",
+      "monthlyReferrals": 1,
+      "totalReferrals": 1,
+      "tickets": 0,
+      "trophies": 0
+    },
+    {
+      "rank": 5,
+      "username": "Diva Dollaire",
+      "monthlyReferrals": 1,
+      "totalReferrals": 1,
+      "tickets": 0,
+      "trophies": 0
+    },
+    {
+      "rank": 6,
       "username": "kaab0._",
       "monthlyReferrals": 0,
       "totalReferrals": 0,
@@ -540,23 +628,7 @@
       "trophies": 0
     },
     {
-      "rank": 4,
-      "username": "mk",
-      "monthlyReferrals": 0,
-      "totalReferrals": 0,
-      "tickets": 0,
-      "trophies": 0
-    },
-    {
-      "rank": 5,
-      "username": "Sbervy",
-      "monthlyReferrals": 0,
-      "totalReferrals": 0,
-      "tickets": 0,
-      "trophies": 0
-    },
-    {
-      "rank": 6,
+      "rank": 7,
       "username": "00PulsRxv1",
       "monthlyReferrals": 0,
       "totalReferrals": 0,
@@ -564,7 +636,7 @@
       "trophies": 0
     },
     {
-      "rank": 7,
+      "rank": 8,
       "username": "glyph",
       "monthlyReferrals": 0,
       "totalReferrals": 0,
@@ -572,7 +644,7 @@
       "trophies": 0
     },
     {
-      "rank": 8,
+      "rank": 9,
       "username": "terminatir",
       "monthlyReferrals": 0,
       "totalReferrals": 0,
@@ -580,11 +652,27 @@
       "trophies": 0
     },
     {
-      "rank": 9,
-      "username": "Diva Dollaire",
+      "rank": 10,
+      "username": "NexusGeek777",
       "monthlyReferrals": 0,
       "totalReferrals": 0,
-      "tickets": 0,
+      "tickets": 23,
+      "trophies": 0
+    },
+    {
+      "rank": 11,
+      "username": "SpectrePro721",
+      "monthlyReferrals": 0,
+      "totalReferrals": 0,
+      "tickets": 20,
+      "trophies": 0
+    },
+    {
+      "rank": 12,
+      "username": "NebulaKnight901",
+      "monthlyReferrals": 0,
+      "totalReferrals": 0,
+      "tickets": 24,
       "trophies": 0
     }
   ]
