@@ -488,6 +488,14 @@
       "targetId": "bf72a7bd-fe1a-4218-8b0f-2e2381817390",
       "username": "hack",
       "email": "hack@gmail.com"
+    },
+    {
+      "id": "bot_referral_generation_1786785399588",
+      "type": "bot_referral_generation",
+      "timestamp": "2026-08-15T09:16:39.588Z",
+      "referrerMode": "random",
+      "botsCount": 3,
+      "distinctReferrersCount": 3
     }
   ],
   "event_stats": {
