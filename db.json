@@ -517,6 +517,10 @@
     "10.24.8.46": {
       "count": 0,
       "lockedUntil": null
+    },
+    "10.24.47.129": {
+      "count": 0,
+      "lockedUntil": null
     }
   },
   "settings": {
@@ -576,7 +580,7 @@
       "coins": 1510,
       "crownedAt": "2026-08-01T00:00:27.938Z"
     },
-    "snapshotAt": "2026-08-16T07:15:43.881Z"
+    "snapshotAt": "2026-08-16T18:15:43.882Z"
   },
   "leaderboard": [
     {
