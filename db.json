@@ -584,6 +584,14 @@
       "newUsername": "kaabo",
       "referrerId": "d47f311f-d5d3-40be-86b4-8d69a74a4a81",
       "referrerName": "kaab0._"
+    },
+    {
+      "id": "user_register_1787089824932",
+      "type": "user_register",
+      "timestamp": "2026-08-18T21:50:24.932Z",
+      "userId": "defebf0b-be4a-4ba9-817e-888e274e39eb",
+      "username": "kaabo",
+      "referredBy": "KAAB-QPJIT"
     }
   ],
   "event_stats": {
