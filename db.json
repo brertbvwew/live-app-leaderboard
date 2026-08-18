@@ -114,13 +114,13 @@
       "role": "user",
       "referralCode": "00PU-S5LV7",
       "transferHash": "HGSSQW7",
-      "coins": 50,
+      "coins": 150,
       "tickets": 1,
       "totalReferrals": 0,
       "monthlyReferrals": 0,
       "hasRedeemedReferral": false,
-      "totalSpins": 2,
-      "lastSpinAt": "2026-08-07T13:58:43.246Z",
+      "totalSpins": 3,
+      "lastSpinAt": "2026-08-18T11:55:28.018Z",
       "trophies": 0,
       "banned": false,
       "registrationIp": "10.31.219.4",
@@ -564,23 +564,12 @@
       "targetId": "bf72a7bd-fe1a-4218-8b0f-2e2381817390",
       "username": "hack",
       "email": "hack@gmail.com"
-    },
-    {
-      "id": "spin_1787054128499",
-      "type": "spin",
-      "timestamp": "2026-08-18T11:55:28.499Z",
-      "userId": "3e7c4f35-5df7-454c-a6fa-15503b73236d",
-      "username": "00PulsRxv1",
-      "result": "100 Coins",
-      "coins": 100,
-      "tickets": 0,
-      "jackpot": false
     }
   ],
   "event_stats": {
     "totalUsers": 12,
     "totalTickets": 92,
-    "totalCoins": 11565,
+    "totalCoins": 11665,
     "lastReset": "2026-08-01T00:00:27.938Z",
     "lastWinner": {
       "month": "2026-08",
@@ -591,7 +580,7 @@
       "coins": 1510,
       "crownedAt": "2026-08-01T00:00:27.938Z"
     },
-    "snapshotAt": "2026-08-18T03:15:43.890Z"
+    "snapshotAt": "2026-08-18T14:15:43.891Z"
   },
   "leaderboard": [
     {
