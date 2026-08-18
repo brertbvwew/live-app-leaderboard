@@ -575,6 +575,15 @@
       "coins": 1000,
       "tickets": 0,
       "jackpot": false
+    },
+    {
+      "id": "referral_register_1787089823795",
+      "type": "referral_register",
+      "timestamp": "2026-08-18T21:50:23.795Z",
+      "newUserId": "defebf0b-be4a-4ba9-817e-888e274e39eb",
+      "newUsername": "kaabo",
+      "referrerId": "d47f311f-d5d3-40be-86b4-8d69a74a4a81",
+      "referrerName": "kaab0._"
     }
   ],
   "event_stats": {
