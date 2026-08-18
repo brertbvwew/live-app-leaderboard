@@ -592,6 +592,17 @@
       "userId": "defebf0b-be4a-4ba9-817e-888e274e39eb",
       "username": "kaabo",
       "referredBy": "KAAB-QPJIT"
+    },
+    {
+      "id": "coin_deposit_1787089847314",
+      "type": "coin_deposit",
+      "timestamp": "2026-08-18T21:50:47.314Z",
+      "transactionId": "5ab1c7f7-1808-4791-89f5-accc85ee5e31",
+      "toUserId": "d47f311f-d5d3-40be-86b4-8d69a74a4a81",
+      "toUsername": "kaab0._",
+      "amount": 16617,
+      "balanceBefore": 2622,
+      "balanceAfter": 19239
     }
   ],
   "event_stats": {
