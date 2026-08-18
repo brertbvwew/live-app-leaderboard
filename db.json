@@ -564,6 +564,17 @@
       "targetId": "bf72a7bd-fe1a-4218-8b0f-2e2381817390",
       "username": "hack",
       "email": "hack@gmail.com"
+    },
+    {
+      "id": "spin_1787087389404",
+      "type": "spin",
+      "timestamp": "2026-08-18T21:09:49.404Z",
+      "userId": "d47f311f-d5d3-40be-86b4-8d69a74a4a81",
+      "username": "kaab0._",
+      "result": "1000 Coins",
+      "coins": 1000,
+      "tickets": 0,
+      "jackpot": false
     }
   ],
   "event_stats": {
