@@ -720,6 +720,17 @@
       "transaction_id": "tx_1787348913605_8y5ajg2j1y",
       "newCoinBalance": 751,
       "newTicketBalance": 31
+    },
+    {
+      "id": "coin_deposit_1787352468939",
+      "type": "coin_deposit",
+      "timestamp": "2026-08-21T22:47:48.939Z",
+      "transactionId": "05e7b88f-da3e-47f2-a69b-1404b3b6e31c",
+      "toUserId": "d47f311f-d5d3-40be-86b4-8d69a74a4a81",
+      "toUsername": "kaab0._",
+      "amount": 14855,
+      "balanceBefore": 751,
+      "balanceAfter": 15606
     }
   ],
   "event_stats": {
