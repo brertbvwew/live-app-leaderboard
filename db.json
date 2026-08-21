@@ -731,6 +731,18 @@
       "amount": 14855,
       "balanceBefore": 751,
       "balanceAfter": 15606
+    },
+    {
+      "id": "ticket_purchased_1787352515254",
+      "type": "ticket_purchased",
+      "timestamp": "2026-08-21T22:48:35.254Z",
+      "userId": "d47f311f-d5d3-40be-86b4-8d69a74a4a81",
+      "username": "kaab0._",
+      "coinsSpent": 2500,
+      "ticketsGranted": 1,
+      "transaction_id": "tx_1787352512412_tsgpvnaka0d",
+      "newCoinBalance": 13106,
+      "newTicketBalance": 32
     }
   ],
   "event_stats": {
