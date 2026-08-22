@@ -199,7 +199,7 @@
       "referralCode": "NEXU-LYPIJ",
       "transferHash": "Z7Z4O96",
       "coins": 1257,
-      "tickets": 34,
+      "tickets": 42,
       "totalReferrals": 0,
       "monthlyReferrals": 0,
       "hasRedeemedReferral": true,
@@ -223,7 +223,7 @@
       "referralCode": "SPEC-LD4D1",
       "transferHash": "1RVX4PL",
       "coins": 1010,
-      "tickets": 29,
+      "tickets": 45,
       "totalReferrals": 0,
       "monthlyReferrals": 0,
       "hasRedeemedReferral": true,
@@ -247,7 +247,7 @@
       "referralCode": "NEBU-UOERK",
       "transferHash": "JBY8NYC",
       "coins": 1016,
-      "tickets": 37,
+      "tickets": 41,
       "totalReferrals": 0,
       "monthlyReferrals": 0,
       "hasRedeemedReferral": true,
@@ -748,41 +748,11 @@
       "targetId": "bf72a7bd-fe1a-4218-8b0f-2e2381817390",
       "username": "hack",
       "email": "hack@gmail.com"
-    },
-    {
-      "id": "admin_balance_adjustment_1787404146102",
-      "type": "admin_balance_adjustment",
-      "timestamp": "2026-08-22T13:09:06.102Z",
-      "adminId": "4cac7bc6-8e79-4c25-abf4-be6b9bd61845",
-      "targetUserId": "e1fb6610-4f73-4e2f-a525-8599764dcfe4",
-      "targetUsername": "SpectrePro721",
-      "newCoins": 1010,
-      "newTickets": 45
-    },
-    {
-      "id": "admin_balance_adjustment_1787404158773",
-      "type": "admin_balance_adjustment",
-      "timestamp": "2026-08-22T13:09:18.773Z",
-      "adminId": "4cac7bc6-8e79-4c25-abf4-be6b9bd61845",
-      "targetUserId": "4f2e25e8-cc9b-4d9f-8580-995e0f8af3a6",
-      "targetUsername": "NebulaKnight901",
-      "newCoins": 1016,
-      "newTickets": 41
-    },
-    {
-      "id": "admin_balance_adjustment_1787404167887",
-      "type": "admin_balance_adjustment",
-      "timestamp": "2026-08-22T13:09:27.887Z",
-      "adminId": "4cac7bc6-8e79-4c25-abf4-be6b9bd61845",
-      "targetUserId": "65566f34-1f84-4dad-a7d9-c651ec16526b",
-      "targetUsername": "NexusGeek777",
-      "newCoins": 1257,
-      "newTickets": 42
     }
   ],
   "event_stats": {
     "totalUsers": 13,
-    "totalTickets": 143,
+    "totalTickets": 171,
     "totalCoins": 11449,
     "lastReset": "2026-08-01T00:00:27.938Z",
     "lastWinner": {
@@ -794,7 +764,7 @@
       "coins": 1510,
       "crownedAt": "2026-08-01T00:00:27.938Z"
     },
-    "snapshotAt": "2026-08-22T06:15:43.910Z"
+    "snapshotAt": "2026-08-22T17:15:43.911Z"
   },
   "leaderboard": [
     {
@@ -874,7 +844,7 @@
       "username": "NexusGeek777",
       "monthlyReferrals": 0,
       "totalReferrals": 0,
-      "tickets": 34,
+      "tickets": 42,
       "trophies": 0
     },
     {
@@ -882,7 +852,7 @@
       "username": "SpectrePro721",
       "monthlyReferrals": 0,
       "totalReferrals": 0,
-      "tickets": 29,
+      "tickets": 45,
       "trophies": 0
     },
     {
@@ -890,7 +860,7 @@
       "username": "NebulaKnight901",
       "monthlyReferrals": 0,
       "totalReferrals": 0,
-      "tickets": 37,
+      "tickets": 41,
       "trophies": 0
     },
     {
