@@ -821,6 +821,16 @@
       "targetId": "bf72a7bd-fe1a-4218-8b0f-2e2381817390",
       "username": "hack",
       "email": "hack@gmail.com"
+    },
+    {
+      "id": "admin_balance_adjustment_1787464105199",
+      "type": "admin_balance_adjustment",
+      "timestamp": "2026-08-23T05:48:25.199Z",
+      "adminId": "4cac7bc6-8e79-4c25-abf4-be6b9bd61845",
+      "targetUserId": "cbfd72db-cf27-4b11-816c-1c8230e38340",
+      "targetUsername": "Disrespect",
+      "newCoins": 800,
+      "newTickets": 10
     }
   ],
   "event_stats": {
