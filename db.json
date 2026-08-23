@@ -831,6 +831,16 @@
       "targetUsername": "Disrespect",
       "newCoins": 800,
       "newTickets": 10
+    },
+    {
+      "id": "admin_balance_adjustment_1787464113397",
+      "type": "admin_balance_adjustment",
+      "timestamp": "2026-08-23T05:48:33.397Z",
+      "adminId": "4cac7bc6-8e79-4c25-abf4-be6b9bd61845",
+      "targetUserId": "78185520-f7fd-41e1-9a94-f9e0fb475a0e",
+      "targetUsername": "Sbervy",
+      "newCoins": 1600,
+      "newTickets": 12
     }
   ],
   "event_stats": {
