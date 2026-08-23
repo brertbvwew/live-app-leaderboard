@@ -31,7 +31,7 @@
       "referralCode": "DISR-ZCTNL",
       "transferHash": "N7EKRQG",
       "coins": 800,
-      "tickets": 5,
+      "tickets": 10,
       "totalReferrals": 1,
       "monthlyReferrals": 1,
       "hasRedeemedReferral": false,
@@ -94,7 +94,7 @@
       "referralCode": "SBER-6YGG7",
       "transferHash": "TP8VW0C",
       "coins": 1600,
-      "tickets": 0,
+      "tickets": 12,
       "totalReferrals": 1,
       "monthlyReferrals": 1,
       "hasRedeemedReferral": true,
@@ -157,7 +157,7 @@
       "referralCode": "TERM-KDIFH",
       "transferHash": "G98J0E6",
       "coins": 50,
-      "tickets": 0,
+      "tickets": 22,
       "totalReferrals": 0,
       "monthlyReferrals": 0,
       "hasRedeemedReferral": false,
@@ -178,7 +178,7 @@
       "referralCode": "DIVA-8EFIJ",
       "transferHash": "HWHKJS8",
       "coins": 650,
-      "tickets": 0,
+      "tickets": 25,
       "totalReferrals": 1,
       "monthlyReferrals": 1,
       "hasRedeemedReferral": false,
@@ -199,7 +199,7 @@
       "referralCode": "NEXU-LYPIJ",
       "transferHash": "Z7Z4O96",
       "coins": 1257,
-      "tickets": 42,
+      "tickets": 54,
       "totalReferrals": 0,
       "monthlyReferrals": 0,
       "hasRedeemedReferral": true,
@@ -223,7 +223,7 @@
       "referralCode": "SPEC-LD4D1",
       "transferHash": "1RVX4PL",
       "coins": 1010,
-      "tickets": 45,
+      "tickets": 48,
       "totalReferrals": 0,
       "monthlyReferrals": 0,
       "hasRedeemedReferral": true,
@@ -821,71 +821,11 @@
       "targetId": "bf72a7bd-fe1a-4218-8b0f-2e2381817390",
       "username": "hack",
       "email": "hack@gmail.com"
-    },
-    {
-      "id": "admin_balance_adjustment_1787464105199",
-      "type": "admin_balance_adjustment",
-      "timestamp": "2026-08-23T05:48:25.199Z",
-      "adminId": "4cac7bc6-8e79-4c25-abf4-be6b9bd61845",
-      "targetUserId": "cbfd72db-cf27-4b11-816c-1c8230e38340",
-      "targetUsername": "Disrespect",
-      "newCoins": 800,
-      "newTickets": 10
-    },
-    {
-      "id": "admin_balance_adjustment_1787464113397",
-      "type": "admin_balance_adjustment",
-      "timestamp": "2026-08-23T05:48:33.397Z",
-      "adminId": "4cac7bc6-8e79-4c25-abf4-be6b9bd61845",
-      "targetUserId": "78185520-f7fd-41e1-9a94-f9e0fb475a0e",
-      "targetUsername": "Sbervy",
-      "newCoins": 1600,
-      "newTickets": 12
-    },
-    {
-      "id": "admin_balance_adjustment_1787464118396",
-      "type": "admin_balance_adjustment",
-      "timestamp": "2026-08-23T05:48:38.396Z",
-      "adminId": "4cac7bc6-8e79-4c25-abf4-be6b9bd61845",
-      "targetUserId": "6729fb30-1bd2-4b28-a2ad-ef00f8b48d26",
-      "targetUsername": "terminatir",
-      "newCoins": 50,
-      "newTickets": 22
-    },
-    {
-      "id": "admin_balance_adjustment_1787464125775",
-      "type": "admin_balance_adjustment",
-      "timestamp": "2026-08-23T05:48:45.775Z",
-      "adminId": "4cac7bc6-8e79-4c25-abf4-be6b9bd61845",
-      "targetUserId": "65566f34-1f84-4dad-a7d9-c651ec16526b",
-      "targetUsername": "NexusGeek777",
-      "newCoins": 1257,
-      "newTickets": 54
-    },
-    {
-      "id": "admin_balance_adjustment_1787464133421",
-      "type": "admin_balance_adjustment",
-      "timestamp": "2026-08-23T05:48:53.421Z",
-      "adminId": "4cac7bc6-8e79-4c25-abf4-be6b9bd61845",
-      "targetUserId": "e1fb6610-4f73-4e2f-a525-8599764dcfe4",
-      "targetUsername": "SpectrePro721",
-      "newCoins": 1010,
-      "newTickets": 48
-    },
-    {
-      "id": "admin_balance_adjustment_1787464145223",
-      "type": "admin_balance_adjustment",
-      "timestamp": "2026-08-23T05:49:05.223Z",
-      "adminId": "4cac7bc6-8e79-4c25-abf4-be6b9bd61845",
-      "targetUserId": "6e5ad43c-5410-4215-a476-55213edbd3c6",
-      "targetUsername": "Diva Dollaire",
-      "newCoins": 650,
-      "newTickets": 25
     }
   ],
   "event_stats": {
     "totalUsers": 13,
-    "totalTickets": 179,
+    "totalTickets": 258,
     "totalCoins": 12853,
     "lastReset": "2026-08-01T00:00:27.938Z",
     "lastWinner": {
@@ -897,7 +837,7 @@
       "coins": 1510,
       "crownedAt": "2026-08-01T00:00:27.938Z"
     },
-    "snapshotAt": "2026-08-23T04:15:43.915Z"
+    "snapshotAt": "2026-08-23T15:15:43.920Z"
   },
   "leaderboard": [
     {
@@ -913,7 +853,7 @@
       "username": "Disrespect",
       "monthlyReferrals": 1,
       "totalReferrals": 1,
-      "tickets": 5,
+      "tickets": 10,
       "trophies": 0
     },
     {
@@ -937,7 +877,7 @@
       "username": "Sbervy",
       "monthlyReferrals": 1,
       "totalReferrals": 1,
-      "tickets": 0,
+      "tickets": 12,
       "trophies": 0
     },
     {
@@ -945,7 +885,7 @@
       "username": "Diva Dollaire",
       "monthlyReferrals": 1,
       "totalReferrals": 1,
-      "tickets": 0,
+      "tickets": 25,
       "trophies": 0
     },
     {
@@ -969,7 +909,7 @@
       "username": "terminatir",
       "monthlyReferrals": 0,
       "totalReferrals": 0,
-      "tickets": 0,
+      "tickets": 22,
       "trophies": 0
     },
     {
@@ -977,7 +917,7 @@
       "username": "NexusGeek777",
       "monthlyReferrals": 0,
       "totalReferrals": 0,
-      "tickets": 42,
+      "tickets": 54,
       "trophies": 0
     },
     {
@@ -985,7 +925,7 @@
       "username": "SpectrePro721",
       "monthlyReferrals": 0,
       "totalReferrals": 0,
-      "tickets": 45,
+      "tickets": 48,
       "trophies": 0
     },
     {
