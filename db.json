@@ -871,6 +871,16 @@
       "targetUsername": "SpectrePro721",
       "newCoins": 1010,
       "newTickets": 48
+    },
+    {
+      "id": "admin_balance_adjustment_1787464145223",
+      "type": "admin_balance_adjustment",
+      "timestamp": "2026-08-23T05:49:05.223Z",
+      "adminId": "4cac7bc6-8e79-4c25-abf4-be6b9bd61845",
+      "targetUserId": "6e5ad43c-5410-4215-a476-55213edbd3c6",
+      "targetUsername": "Diva Dollaire",
+      "newCoins": 650,
+      "newTickets": 25
     }
   ],
   "event_stats": {
