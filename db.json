@@ -832,6 +832,17 @@
       "amount": 11274,
       "balanceBefore": 2010,
       "balanceAfter": 13284
+    },
+    {
+      "id": "coin_deposit_1787517001922",
+      "type": "coin_deposit",
+      "timestamp": "2026-08-23T20:30:01.922Z",
+      "transactionId": "de090f67-ed8c-4011-b6eb-82d1af48aa62",
+      "toUserId": "d47f311f-d5d3-40be-86b4-8d69a74a4a81",
+      "toUsername": "kaab0._",
+      "amount": 11274,
+      "balanceBefore": 13284,
+      "balanceAfter": 24558
     }
   ],
   "event_stats": {
