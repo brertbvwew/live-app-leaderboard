@@ -841,6 +841,16 @@
       "targetUsername": "Sbervy",
       "newCoins": 1600,
       "newTickets": 12
+    },
+    {
+      "id": "admin_balance_adjustment_1787464118396",
+      "type": "admin_balance_adjustment",
+      "timestamp": "2026-08-23T05:48:38.396Z",
+      "adminId": "4cac7bc6-8e79-4c25-abf4-be6b9bd61845",
+      "targetUserId": "6729fb30-1bd2-4b28-a2ad-ef00f8b48d26",
+      "targetUsername": "terminatir",
+      "newCoins": 50,
+      "newTickets": 22
     }
   ],
   "event_stats": {
