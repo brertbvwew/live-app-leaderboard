@@ -921,6 +921,16 @@
       "targetUsername": "glyph",
       "newCoins": 0,
       "newTickets": 28
+    },
+    {
+      "id": "admin_balance_adjustment_1787551999742",
+      "type": "admin_balance_adjustment",
+      "timestamp": "2026-08-24T06:13:19.742Z",
+      "adminId": "4cac7bc6-8e79-4c25-abf4-be6b9bd61845",
+      "targetUserId": "e1fb6610-4f73-4e2f-a525-8599764dcfe4",
+      "targetUsername": "SpectrePro721",
+      "newCoins": 1010,
+      "newTickets": 59
     }
   ],
   "event_stats": {
