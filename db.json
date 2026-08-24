@@ -51,8 +51,8 @@
       "role": "user",
       "referralCode": "KAAB-QPJIT",
       "transferHash": "6S6Y8C0",
-      "coins": 2010,
-      "tickets": 45,
+      "coins": 2058,
+      "tickets": 54,
       "totalReferrals": 1,
       "monthlyReferrals": 1,
       "hasRedeemedReferral": true,
@@ -752,6 +752,96 @@
       "coinsSpent": 2500,
       "ticketsGranted": 1,
       "recordedAt": "2026-08-22T23:02:00.638Z"
+    },
+    {
+      "txId": "e52581dc-80a9-4ec3-b33f-cb3cc6e76440",
+      "type": "deposit",
+      "toUserId": "d47f311f-d5d3-40be-86b4-8d69a74a4a81",
+      "toUsername": "kaab0._",
+      "amount": 11274,
+      "source": "app_deposit",
+      "recordedAt": "2026-08-23T20:29:50.262Z"
+    },
+    {
+      "txId": "de090f67-ed8c-4011-b6eb-82d1af48aa62",
+      "type": "deposit",
+      "toUserId": "d47f311f-d5d3-40be-86b4-8d69a74a4a81",
+      "toUsername": "kaab0._",
+      "amount": 11274,
+      "source": "app_deposit",
+      "recordedAt": "2026-08-23T20:30:01.527Z"
+    },
+    {
+      "txId": "tx_1787517086444_iw6fpoemqp",
+      "userId": "d47f311f-d5d3-40be-86b4-8d69a74a4a81",
+      "type": "buy_tickets",
+      "coinsSpent": 2500,
+      "ticketsGranted": 1,
+      "recordedAt": "2026-08-23T20:31:37.768Z"
+    },
+    {
+      "txId": "tx_1787517105483_od9h86wprx",
+      "userId": "d47f311f-d5d3-40be-86b4-8d69a74a4a81",
+      "type": "buy_tickets",
+      "coinsSpent": 2500,
+      "ticketsGranted": 1,
+      "recordedAt": "2026-08-23T20:31:55.815Z"
+    },
+    {
+      "txId": "tx_1787517116392_ql08hl1eznj",
+      "userId": "d47f311f-d5d3-40be-86b4-8d69a74a4a81",
+      "type": "buy_tickets",
+      "coinsSpent": 2500,
+      "ticketsGranted": 1,
+      "recordedAt": "2026-08-23T20:32:00.096Z"
+    },
+    {
+      "txId": "tx_1787517124892_j9v50lpfal",
+      "userId": "d47f311f-d5d3-40be-86b4-8d69a74a4a81",
+      "type": "buy_tickets",
+      "coinsSpent": 2500,
+      "ticketsGranted": 1,
+      "recordedAt": "2026-08-23T20:32:06.046Z"
+    },
+    {
+      "txId": "tx_1787517127480_ruy3puadiyk",
+      "userId": "d47f311f-d5d3-40be-86b4-8d69a74a4a81",
+      "type": "buy_tickets",
+      "coinsSpent": 2500,
+      "ticketsGranted": 1,
+      "recordedAt": "2026-08-23T20:32:08.433Z"
+    },
+    {
+      "txId": "tx_1787517129420_d5qi5artb1v",
+      "userId": "d47f311f-d5d3-40be-86b4-8d69a74a4a81",
+      "type": "buy_tickets",
+      "coinsSpent": 2500,
+      "ticketsGranted": 1,
+      "recordedAt": "2026-08-23T20:32:10.414Z"
+    },
+    {
+      "txId": "tx_1787517131223_xoauu47iu4",
+      "userId": "d47f311f-d5d3-40be-86b4-8d69a74a4a81",
+      "type": "buy_tickets",
+      "coinsSpent": 2500,
+      "ticketsGranted": 1,
+      "recordedAt": "2026-08-23T20:32:12.299Z"
+    },
+    {
+      "txId": "tx_1787517132938_bsu3igusn34",
+      "userId": "d47f311f-d5d3-40be-86b4-8d69a74a4a81",
+      "type": "buy_tickets",
+      "coinsSpent": 2500,
+      "ticketsGranted": 1,
+      "recordedAt": "2026-08-23T20:32:13.895Z"
+    },
+    {
+      "txId": "tx_1787517134383_srs9jnicofc",
+      "userId": "d47f311f-d5d3-40be-86b4-8d69a74a4a81",
+      "type": "buy_tickets",
+      "coinsSpent": 2500,
+      "ticketsGranted": 1,
+      "recordedAt": "2026-08-23T20:32:17.363Z"
     }
   ],
   "admin_attempts": {
@@ -821,142 +911,12 @@
       "targetId": "bf72a7bd-fe1a-4218-8b0f-2e2381817390",
       "username": "hack",
       "email": "hack@gmail.com"
-    },
-    {
-      "id": "coin_deposit_1787516990546",
-      "type": "coin_deposit",
-      "timestamp": "2026-08-23T20:29:50.546Z",
-      "transactionId": "e52581dc-80a9-4ec3-b33f-cb3cc6e76440",
-      "toUserId": "d47f311f-d5d3-40be-86b4-8d69a74a4a81",
-      "toUsername": "kaab0._",
-      "amount": 11274,
-      "balanceBefore": 2010,
-      "balanceAfter": 13284
-    },
-    {
-      "id": "coin_deposit_1787517001922",
-      "type": "coin_deposit",
-      "timestamp": "2026-08-23T20:30:01.922Z",
-      "transactionId": "de090f67-ed8c-4011-b6eb-82d1af48aa62",
-      "toUserId": "d47f311f-d5d3-40be-86b4-8d69a74a4a81",
-      "toUsername": "kaab0._",
-      "amount": 11274,
-      "balanceBefore": 13284,
-      "balanceAfter": 24558
-    },
-    {
-      "id": "ticket_purchased_1787517098209",
-      "type": "ticket_purchased",
-      "timestamp": "2026-08-23T20:31:38.209Z",
-      "userId": "d47f311f-d5d3-40be-86b4-8d69a74a4a81",
-      "username": "kaab0._",
-      "coinsSpent": 2500,
-      "ticketsGranted": 1,
-      "transaction_id": "tx_1787517086444_iw6fpoemqp",
-      "newCoinBalance": 22058,
-      "newTicketBalance": 46
-    },
-    {
-      "id": "ticket_purchased_1787517116272",
-      "type": "ticket_purchased",
-      "timestamp": "2026-08-23T20:31:56.273Z",
-      "userId": "d47f311f-d5d3-40be-86b4-8d69a74a4a81",
-      "username": "kaab0._",
-      "coinsSpent": 2500,
-      "ticketsGranted": 1,
-      "transaction_id": "tx_1787517105483_od9h86wprx",
-      "newCoinBalance": 19558,
-      "newTicketBalance": 47
-    },
-    {
-      "id": "ticket_purchased_1787517120289",
-      "type": "ticket_purchased",
-      "timestamp": "2026-08-23T20:32:00.289Z",
-      "userId": "d47f311f-d5d3-40be-86b4-8d69a74a4a81",
-      "username": "kaab0._",
-      "coinsSpent": 2500,
-      "ticketsGranted": 1,
-      "transaction_id": "tx_1787517116392_ql08hl1eznj",
-      "newCoinBalance": 17058,
-      "newTicketBalance": 48
-    },
-    {
-      "id": "ticket_purchased_1787517126574",
-      "type": "ticket_purchased",
-      "timestamp": "2026-08-23T20:32:06.574Z",
-      "userId": "d47f311f-d5d3-40be-86b4-8d69a74a4a81",
-      "username": "kaab0._",
-      "coinsSpent": 2500,
-      "ticketsGranted": 1,
-      "transaction_id": "tx_1787517124892_j9v50lpfal",
-      "newCoinBalance": 14558,
-      "newTicketBalance": 49
-    },
-    {
-      "id": "ticket_purchased_1787517128624",
-      "type": "ticket_purchased",
-      "timestamp": "2026-08-23T20:32:08.624Z",
-      "userId": "d47f311f-d5d3-40be-86b4-8d69a74a4a81",
-      "username": "kaab0._",
-      "coinsSpent": 2500,
-      "ticketsGranted": 1,
-      "transaction_id": "tx_1787517127480_ruy3puadiyk",
-      "newCoinBalance": 12058,
-      "newTicketBalance": 50
-    },
-    {
-      "id": "ticket_purchased_1787517130603",
-      "type": "ticket_purchased",
-      "timestamp": "2026-08-23T20:32:10.603Z",
-      "userId": "d47f311f-d5d3-40be-86b4-8d69a74a4a81",
-      "username": "kaab0._",
-      "coinsSpent": 2500,
-      "ticketsGranted": 1,
-      "transaction_id": "tx_1787517129420_d5qi5artb1v",
-      "newCoinBalance": 9558,
-      "newTicketBalance": 51
-    },
-    {
-      "id": "ticket_purchased_1787517132484",
-      "type": "ticket_purchased",
-      "timestamp": "2026-08-23T20:32:12.484Z",
-      "userId": "d47f311f-d5d3-40be-86b4-8d69a74a4a81",
-      "username": "kaab0._",
-      "coinsSpent": 2500,
-      "ticketsGranted": 1,
-      "transaction_id": "tx_1787517131223_xoauu47iu4",
-      "newCoinBalance": 7058,
-      "newTicketBalance": 52
-    },
-    {
-      "id": "ticket_purchased_1787517134126",
-      "type": "ticket_purchased",
-      "timestamp": "2026-08-23T20:32:14.126Z",
-      "userId": "d47f311f-d5d3-40be-86b4-8d69a74a4a81",
-      "username": "kaab0._",
-      "coinsSpent": 2500,
-      "ticketsGranted": 1,
-      "transaction_id": "tx_1787517132938_bsu3igusn34",
-      "newCoinBalance": 4558,
-      "newTicketBalance": 53
-    },
-    {
-      "id": "ticket_purchased_1787517137573",
-      "type": "ticket_purchased",
-      "timestamp": "2026-08-23T20:32:17.573Z",
-      "userId": "d47f311f-d5d3-40be-86b4-8d69a74a4a81",
-      "username": "kaab0._",
-      "coinsSpent": 2500,
-      "ticketsGranted": 1,
-      "transaction_id": "tx_1787517134383_srs9jnicofc",
-      "newCoinBalance": 2058,
-      "newTicketBalance": 54
     }
   ],
   "event_stats": {
     "totalUsers": 13,
-    "totalTickets": 258,
-    "totalCoins": 12853,
+    "totalTickets": 267,
+    "totalCoins": 12901,
     "lastReset": "2026-08-01T00:00:27.938Z",
     "lastWinner": {
       "month": "2026-08",
@@ -967,7 +927,7 @@
       "coins": 1510,
       "crownedAt": "2026-08-01T00:00:27.938Z"
     },
-    "snapshotAt": "2026-08-23T15:15:43.920Z"
+    "snapshotAt": "2026-08-24T02:15:43.922Z"
   },
   "leaderboard": [
     {
@@ -991,7 +951,7 @@
       "username": "kaab0._",
       "monthlyReferrals": 1,
       "totalReferrals": 1,
-      "tickets": 45,
+      "tickets": 54,
       "trophies": 0
     },
     {
