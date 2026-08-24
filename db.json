@@ -136,7 +136,7 @@
       "referralCode": "GLYP-IG1F0",
       "transferHash": "M9IUGLD",
       "coins": 0,
-      "tickets": 0,
+      "tickets": 28,
       "totalReferrals": 0,
       "monthlyReferrals": 0,
       "hasRedeemedReferral": false,
@@ -223,7 +223,7 @@
       "referralCode": "SPEC-LD4D1",
       "transferHash": "1RVX4PL",
       "coins": 1010,
-      "tickets": 48,
+      "tickets": 59,
       "totalReferrals": 0,
       "monthlyReferrals": 0,
       "hasRedeemedReferral": true,
@@ -911,31 +911,11 @@
       "targetId": "bf72a7bd-fe1a-4218-8b0f-2e2381817390",
       "username": "hack",
       "email": "hack@gmail.com"
-    },
-    {
-      "id": "admin_balance_adjustment_1787551988152",
-      "type": "admin_balance_adjustment",
-      "timestamp": "2026-08-24T06:13:08.152Z",
-      "adminId": "4cac7bc6-8e79-4c25-abf4-be6b9bd61845",
-      "targetUserId": "e04ad8f1-4a6d-4826-997a-8e3f9c4560c9",
-      "targetUsername": "glyph",
-      "newCoins": 0,
-      "newTickets": 28
-    },
-    {
-      "id": "admin_balance_adjustment_1787551999742",
-      "type": "admin_balance_adjustment",
-      "timestamp": "2026-08-24T06:13:19.742Z",
-      "adminId": "4cac7bc6-8e79-4c25-abf4-be6b9bd61845",
-      "targetUserId": "e1fb6610-4f73-4e2f-a525-8599764dcfe4",
-      "targetUsername": "SpectrePro721",
-      "newCoins": 1010,
-      "newTickets": 59
     }
   ],
   "event_stats": {
     "totalUsers": 13,
-    "totalTickets": 267,
+    "totalTickets": 306,
     "totalCoins": 12901,
     "lastReset": "2026-08-01T00:00:27.938Z",
     "lastWinner": {
@@ -947,7 +927,7 @@
       "coins": 1510,
       "crownedAt": "2026-08-01T00:00:27.938Z"
     },
-    "snapshotAt": "2026-08-24T02:15:43.922Z"
+    "snapshotAt": "2026-08-24T13:15:43.919Z"
   },
   "leaderboard": [
     {
@@ -1011,7 +991,7 @@
       "username": "glyph",
       "monthlyReferrals": 0,
       "totalReferrals": 0,
-      "tickets": 0,
+      "tickets": 28,
       "trophies": 0
     },
     {
@@ -1035,7 +1015,7 @@
       "username": "SpectrePro721",
       "monthlyReferrals": 0,
       "totalReferrals": 0,
-      "tickets": 48,
+      "tickets": 59,
       "trophies": 0
     },
     {
