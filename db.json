@@ -951,6 +951,17 @@
       "targetUsername": "mk",
       "newCoins": 1600,
       "newTickets": 33
+    },
+    {
+      "id": "spin_1787680247762",
+      "type": "spin",
+      "timestamp": "2026-08-25T17:50:47.762Z",
+      "userId": "d47f311f-d5d3-40be-86b4-8d69a74a4a81",
+      "username": "kaab0._",
+      "result": "50 Coins",
+      "coins": 50,
+      "tickets": 0,
+      "jackpot": false
     }
   ],
   "event_stats": {
