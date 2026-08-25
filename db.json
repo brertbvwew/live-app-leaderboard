@@ -1057,6 +1057,18 @@
       "transaction_id": "tx_1787695162655_trv6mz5tgy7",
       "newCoinBalance": 4046,
       "newTicketBalance": 61
+    },
+    {
+      "id": "ticket_purchased_1787695165587",
+      "type": "ticket_purchased",
+      "timestamp": "2026-08-25T21:59:25.587Z",
+      "userId": "d47f311f-d5d3-40be-86b4-8d69a74a4a81",
+      "username": "kaab0._",
+      "coinsSpent": 2500,
+      "ticketsGranted": 1,
+      "transaction_id": "tx_1787695164501_snbknt58avo",
+      "newCoinBalance": 1546,
+      "newTicketBalance": 62
     }
   ],
   "event_stats": {
