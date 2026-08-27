@@ -1044,6 +1044,17 @@
       "userId": "d297d4ae-5f4b-435a-a6c1-b9de376c15d6",
       "username": "₭€ñ§ħï尺ø",
       "referredBy": null
+    },
+    {
+      "id": "spin_1787852890084",
+      "type": "spin",
+      "timestamp": "2026-08-27T17:48:10.084Z",
+      "userId": "d297d4ae-5f4b-435a-a6c1-b9de376c15d6",
+      "username": "₭€ñ§ħï尺ø",
+      "result": "100 Coins",
+      "coins": 100,
+      "tickets": 0,
+      "jackpot": false
     }
   ],
   "event_stats": {
