@@ -1036,6 +1036,14 @@
       "targetUsername": "NebulaKnight901",
       "newCoins": 1016,
       "newTickets": 67
+    },
+    {
+      "id": "user_register_1787852799737",
+      "type": "user_register",
+      "timestamp": "2026-08-27T17:46:39.737Z",
+      "userId": "d297d4ae-5f4b-435a-a6c1-b9de376c15d6",
+      "username": "₭€ñ§ħï尺ø",
+      "referredBy": null
     }
   ],
   "event_stats": {
