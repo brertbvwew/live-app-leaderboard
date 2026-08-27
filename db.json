@@ -1016,6 +1016,16 @@
       "coins": 0,
       "tickets": 1,
       "jackpot": false
+    },
+    {
+      "id": "admin_balance_adjustment_1787831842717",
+      "type": "admin_balance_adjustment",
+      "timestamp": "2026-08-27T11:57:22.717Z",
+      "adminId": "4cac7bc6-8e79-4c25-abf4-be6b9bd61845",
+      "targetUserId": "65566f34-1f84-4dad-a7d9-c651ec16526b",
+      "targetUsername": "NexusGeek777",
+      "newCoins": 1257,
+      "newTickets": 73
     }
   ],
   "event_stats": {
