@@ -1026,6 +1026,17 @@
       "targetId": "bf72a7bd-fe1a-4218-8b0f-2e2381817390",
       "username": "hack",
       "email": "hack@gmail.com"
+    },
+    {
+      "id": "coin_deposit_1787894871423",
+      "type": "coin_deposit",
+      "timestamp": "2026-08-28T05:27:51.423Z",
+      "transactionId": "9e4a0a2d-4e52-481c-8b84-a55db5a410ca",
+      "toUserId": "4cac7bc6-8e79-4c25-abf4-be6b9bd61845",
+      "toUsername": "admin",
+      "amount": 500,
+      "balanceBefore": 2160,
+      "balanceAfter": 2660
     }
   ],
   "event_stats": {
