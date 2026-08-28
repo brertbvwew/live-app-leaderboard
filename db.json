@@ -1131,6 +1131,16 @@
       "transaction_id": "tx_1787904778985_gw3ienenju6",
       "newCoinBalance": 128,
       "newTicketBalance": 70
+    },
+    {
+      "id": "admin_balance_adjustment_1787908217644",
+      "type": "admin_balance_adjustment",
+      "timestamp": "2026-08-28T09:10:17.644Z",
+      "adminId": "4cac7bc6-8e79-4c25-abf4-be6b9bd61845",
+      "targetUserId": "e1fb6610-4f73-4e2f-a525-8599764dcfe4",
+      "targetUsername": "SpectrePro721",
+      "newCoins": 1010,
+      "newTickets": 88
     }
   ],
   "event_stats": {
