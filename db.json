@@ -1229,6 +1229,17 @@
       "transaction_id": "tx_1788101500415_rgtfdg175ni",
       "newCoinBalance": 178,
       "newTicketBalance": 78
+    },
+    {
+      "id": "spin_1788119930795",
+      "type": "spin",
+      "timestamp": "2026-08-30T19:58:50.795Z",
+      "userId": "d47f311f-d5d3-40be-86b4-8d69a74a4a81",
+      "username": "kaab0._",
+      "result": "250 Coins",
+      "coins": 250,
+      "tickets": 0,
+      "jackpot": false
     }
   ],
   "event_stats": {
