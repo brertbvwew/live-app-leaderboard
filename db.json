@@ -1112,6 +1112,16 @@
       "targetId": "bf72a7bd-fe1a-4218-8b0f-2e2381817390",
       "username": "hack",
       "email": "hack@gmail.com"
+    },
+    {
+      "id": "admin_balance_adjustment_1788092869841",
+      "type": "admin_balance_adjustment",
+      "timestamp": "2026-08-30T12:27:49.841Z",
+      "adminId": "4cac7bc6-8e79-4c25-abf4-be6b9bd61845",
+      "targetUserId": "6e5ad43c-5410-4215-a476-55213edbd3c6",
+      "targetUsername": "Diva Dollaire",
+      "newCoins": 650,
+      "newTickets": 72
     }
   ],
   "event_stats": {
