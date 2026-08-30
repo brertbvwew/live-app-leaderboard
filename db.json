@@ -1122,6 +1122,17 @@
       "targetUsername": "Diva Dollaire",
       "newCoins": 650,
       "newTickets": 72
+    },
+    {
+      "id": "coin_deposit_1788101395630",
+      "type": "coin_deposit",
+      "timestamp": "2026-08-30T14:49:55.630Z",
+      "transactionId": "b571773d-473d-4d60-b944-64190ea5236e",
+      "toUserId": "d47f311f-d5d3-40be-86b4-8d69a74a4a81",
+      "toUsername": "kaab0._",
+      "amount": 20000,
+      "balanceBefore": 178,
+      "balanceAfter": 20178
     }
   ],
   "event_stats": {
