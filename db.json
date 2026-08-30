@@ -199,7 +199,7 @@
       "referralCode": "NEXU-LYPIJ",
       "transferHash": "Z7Z4O96",
       "coins": 1257,
-      "tickets": 73,
+      "tickets": 76,
       "totalReferrals": 0,
       "monthlyReferrals": 0,
       "hasRedeemedReferral": true,
@@ -1065,6 +1065,10 @@
     "10.24.166.180": {
       "count": 0,
       "lockedUntil": null
+    },
+    "10.24.1.2": {
+      "count": 0,
+      "lockedUntil": null
     }
   },
   "settings": {
@@ -1108,21 +1112,11 @@
       "targetId": "bf72a7bd-fe1a-4218-8b0f-2e2381817390",
       "username": "hack",
       "email": "hack@gmail.com"
-    },
-    {
-      "id": "admin_balance_adjustment_1788067628422",
-      "type": "admin_balance_adjustment",
-      "timestamp": "2026-08-30T05:27:08.422Z",
-      "adminId": "4cac7bc6-8e79-4c25-abf4-be6b9bd61845",
-      "targetUserId": "65566f34-1f84-4dad-a7d9-c651ec16526b",
-      "targetUsername": "NexusGeek777",
-      "newCoins": 1257,
-      "newTickets": 76
     }
   ],
   "event_stats": {
     "totalUsers": 14,
-    "totalTickets": 451,
+    "totalTickets": 454,
     "totalCoins": 11621,
     "lastReset": "2026-08-01T00:00:27.938Z",
     "lastWinner": {
@@ -1134,7 +1128,7 @@
       "coins": 1510,
       "crownedAt": "2026-08-01T00:00:27.938Z"
     },
-    "snapshotAt": "2026-08-30T01:15:43.947Z"
+    "snapshotAt": "2026-08-30T12:15:43.949Z"
   },
   "leaderboard": [
     {
@@ -1214,7 +1208,7 @@
       "username": "NexusGeek777",
       "monthlyReferrals": 0,
       "totalReferrals": 0,
-      "tickets": 73,
+      "tickets": 76,
       "trophies": 0
     },
     {
