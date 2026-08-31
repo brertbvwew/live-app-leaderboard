@@ -1312,6 +1312,17 @@
       "targetUsername": "NebulaKnight901",
       "newCoins": 1016,
       "newTickets": 98
+    },
+    {
+      "id": "spin_1788162849557",
+      "type": "spin",
+      "timestamp": "2026-08-31T07:54:09.557Z",
+      "userId": "d297d4ae-5f4b-435a-a6c1-b9de376c15d6",
+      "username": "₭€ñ§ħï尺ø",
+      "result": "250 Coins",
+      "coins": 250,
+      "tickets": 0,
+      "jackpot": false
     }
   ],
   "event_stats": {
