@@ -1325,6 +1325,17 @@
       "coins": 250,
       "tickets": 0,
       "jackpot": false
+    },
+    {
+      "id": "coin_deposit_1788206629159",
+      "type": "coin_deposit",
+      "timestamp": "2026-08-31T20:03:49.159Z",
+      "transactionId": "a001a197-6540-49a9-8024-1c1f85139d67",
+      "toUserId": "d47f311f-d5d3-40be-86b4-8d69a74a4a81",
+      "toUsername": "kaab0._",
+      "amount": 19015,
+      "balanceBefore": 61678,
+      "balanceAfter": 80693
     }
   ],
   "event_stats": {
