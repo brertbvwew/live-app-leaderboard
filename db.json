@@ -1314,6 +1314,17 @@
       "amount": 30500,
       "balanceBefore": 30928,
       "balanceAfter": 61428
+    },
+    {
+      "id": "spin_1788206351880",
+      "type": "spin",
+      "timestamp": "2026-08-31T19:59:11.880Z",
+      "userId": "d47f311f-d5d3-40be-86b4-8d69a74a4a81",
+      "username": "kaab0._",
+      "result": "250 Coins",
+      "coins": 250,
+      "tickets": 0,
+      "jackpot": false
     }
   ],
   "event_stats": {
