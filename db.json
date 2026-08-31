@@ -136,7 +136,7 @@
       "referralCode": "GLYP-IG1F0",
       "transferHash": "M9IUGLD",
       "coins": 0,
-      "tickets": 28,
+      "tickets": 55,
       "totalReferrals": 0,
       "monthlyReferrals": 0,
       "hasRedeemedReferral": false,
@@ -157,7 +157,7 @@
       "referralCode": "TERM-KDIFH",
       "transferHash": "G98J0E6",
       "coins": 50,
-      "tickets": 22,
+      "tickets": 68,
       "totalReferrals": 0,
       "monthlyReferrals": 0,
       "hasRedeemedReferral": false,
@@ -199,7 +199,7 @@
       "referralCode": "NEXU-LYPIJ",
       "transferHash": "Z7Z4O96",
       "coins": 1257,
-      "tickets": 76,
+      "tickets": 93,
       "totalReferrals": 0,
       "monthlyReferrals": 0,
       "hasRedeemedReferral": true,
@@ -223,7 +223,7 @@
       "referralCode": "SPEC-LD4D1",
       "transferHash": "1RVX4PL",
       "coins": 1010,
-      "tickets": 88,
+      "tickets": 109,
       "totalReferrals": 0,
       "monthlyReferrals": 0,
       "hasRedeemedReferral": true,
@@ -247,7 +247,7 @@
       "referralCode": "NEBU-UOERK",
       "transferHash": "JBY8NYC",
       "coins": 1016,
-      "tickets": 76,
+      "tickets": 98,
       "totalReferrals": 0,
       "monthlyReferrals": 0,
       "hasRedeemedReferral": true,
@@ -291,13 +291,13 @@
       "role": "user",
       "referralCode": "₭€Ñ§-DJ9L0",
       "transferHash": "462NL8W",
-      "coins": 100,
+      "coins": 350,
       "tickets": 0,
       "totalReferrals": 0,
       "monthlyReferrals": 0,
       "hasRedeemedReferral": false,
-      "totalSpins": 1,
-      "lastSpinAt": "2026-08-27T17:48:09.505Z",
+      "totalSpins": 2,
+      "lastSpinAt": "2026-08-31T07:54:09.220Z",
       "trophies": 0,
       "banned": false,
       "registrationIp": "10.26.110.3",
@@ -1262,73 +1262,12 @@
       "targetId": "bf72a7bd-fe1a-4218-8b0f-2e2381817390",
       "username": "hack",
       "email": "hack@gmail.com"
-    },
-    {
-      "id": "admin_balance_adjustment_1788159230635",
-      "type": "admin_balance_adjustment",
-      "timestamp": "2026-08-31T06:53:50.635Z",
-      "adminId": "4cac7bc6-8e79-4c25-abf4-be6b9bd61845",
-      "targetUserId": "e04ad8f1-4a6d-4826-997a-8e3f9c4560c9",
-      "targetUsername": "glyph",
-      "newCoins": 0,
-      "newTickets": 55
-    },
-    {
-      "id": "admin_balance_adjustment_1788159235084",
-      "type": "admin_balance_adjustment",
-      "timestamp": "2026-08-31T06:53:55.084Z",
-      "adminId": "4cac7bc6-8e79-4c25-abf4-be6b9bd61845",
-      "targetUserId": "6729fb30-1bd2-4b28-a2ad-ef00f8b48d26",
-      "targetUsername": "terminatir",
-      "newCoins": 50,
-      "newTickets": 68
-    },
-    {
-      "id": "admin_balance_adjustment_1788159244068",
-      "type": "admin_balance_adjustment",
-      "timestamp": "2026-08-31T06:54:04.068Z",
-      "adminId": "4cac7bc6-8e79-4c25-abf4-be6b9bd61845",
-      "targetUserId": "65566f34-1f84-4dad-a7d9-c651ec16526b",
-      "targetUsername": "NexusGeek777",
-      "newCoins": 1257,
-      "newTickets": 93
-    },
-    {
-      "id": "admin_balance_adjustment_1788159250482",
-      "type": "admin_balance_adjustment",
-      "timestamp": "2026-08-31T06:54:10.482Z",
-      "adminId": "4cac7bc6-8e79-4c25-abf4-be6b9bd61845",
-      "targetUserId": "e1fb6610-4f73-4e2f-a525-8599764dcfe4",
-      "targetUsername": "SpectrePro721",
-      "newCoins": 1010,
-      "newTickets": 109
-    },
-    {
-      "id": "admin_balance_adjustment_1788159256949",
-      "type": "admin_balance_adjustment",
-      "timestamp": "2026-08-31T06:54:16.949Z",
-      "adminId": "4cac7bc6-8e79-4c25-abf4-be6b9bd61845",
-      "targetUserId": "4f2e25e8-cc9b-4d9f-8580-995e0f8af3a6",
-      "targetUsername": "NebulaKnight901",
-      "newCoins": 1016,
-      "newTickets": 98
-    },
-    {
-      "id": "spin_1788162849557",
-      "type": "spin",
-      "timestamp": "2026-08-31T07:54:09.557Z",
-      "userId": "d297d4ae-5f4b-435a-a6c1-b9de376c15d6",
-      "username": "₭€ñ§ħï尺ø",
-      "result": "250 Coins",
-      "coins": 250,
-      "tickets": 0,
-      "jackpot": false
     }
   ],
   "event_stats": {
     "totalUsers": 14,
-    "totalTickets": 517,
-    "totalCoins": 11871,
+    "totalTickets": 650,
+    "totalCoins": 12121,
     "lastReset": "2026-08-01T00:00:27.938Z",
     "lastWinner": {
       "month": "2026-08",
@@ -1339,7 +1278,7 @@
       "coins": 1510,
       "crownedAt": "2026-08-01T00:00:27.938Z"
     },
-    "snapshotAt": "2026-08-30T23:15:43.951Z"
+    "snapshotAt": "2026-08-31T10:15:43.984Z"
   },
   "leaderboard": [
     {
@@ -1403,7 +1342,7 @@
       "username": "glyph",
       "monthlyReferrals": 0,
       "totalReferrals": 0,
-      "tickets": 28,
+      "tickets": 55,
       "trophies": 0
     },
     {
@@ -1411,7 +1350,7 @@
       "username": "terminatir",
       "monthlyReferrals": 0,
       "totalReferrals": 0,
-      "tickets": 22,
+      "tickets": 68,
       "trophies": 0
     },
     {
@@ -1419,7 +1358,7 @@
       "username": "NexusGeek777",
       "monthlyReferrals": 0,
       "totalReferrals": 0,
-      "tickets": 76,
+      "tickets": 93,
       "trophies": 0
     },
     {
@@ -1427,7 +1366,7 @@
       "username": "SpectrePro721",
       "monthlyReferrals": 0,
       "totalReferrals": 0,
-      "tickets": 88,
+      "tickets": 109,
       "trophies": 0
     },
     {
@@ -1435,7 +1374,7 @@
       "username": "NebulaKnight901",
       "monthlyReferrals": 0,
       "totalReferrals": 0,
-      "tickets": 76,
+      "tickets": 98,
       "trophies": 0
     },
     {
