@@ -1334,17 +1334,9 @@
     "totalUsers": 14,
     "totalTickets": 710,
     "totalCoins": 92386,
-    "lastReset": "2026-08-01T00:00:27.938Z",
-    "lastWinner": {
-      "month": "2026-08",
-      "userId": "4cac7bc6-8e79-4c25-abf4-be6b9bd61845",
-      "username": "admin",
-      "monthlyReferrals": 2,
-      "tickets": 0,
-      "coins": 1510,
-      "crownedAt": "2026-08-01T00:00:27.938Z"
-    },
-    "snapshotAt": "2026-08-31T21:15:43.956Z"
+    "lastReset": "2026-09-01T00:00:12.939Z",
+    "lastWinner": "admin",
+    "snapshotAt": "2026-09-01T00:00:15.295Z"
   },
   "leaderboard": [
     {
