@@ -1418,6 +1418,16 @@
       "targetUsername": "00PulsRxv1",
       "newCoins": 150,
       "newTickets": 0
+    },
+    {
+      "id": "admin_balance_adjustment_1788239359854",
+      "type": "admin_balance_adjustment",
+      "timestamp": "2026-09-01T05:09:19.854Z",
+      "adminId": "4cac7bc6-8e79-4c25-abf4-be6b9bd61845",
+      "targetUserId": "e04ad8f1-4a6d-4826-997a-8e3f9c4560c9",
+      "targetUsername": "glyph",
+      "newCoins": 0,
+      "newTickets": 92
     }
   ],
   "event_stats": {
