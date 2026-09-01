@@ -1438,6 +1438,16 @@
       "targetUsername": "glyph",
       "newCoins": 0,
       "newTickets": 0
+    },
+    {
+      "id": "admin_balance_adjustment_1788239367996",
+      "type": "admin_balance_adjustment",
+      "timestamp": "2026-09-01T05:09:27.996Z",
+      "adminId": "4cac7bc6-8e79-4c25-abf4-be6b9bd61845",
+      "targetUserId": "6729fb30-1bd2-4b28-a2ad-ef00f8b48d26",
+      "targetUsername": "terminatir",
+      "newCoins": 50,
+      "newTickets": 0
     }
   ],
   "event_stats": {
