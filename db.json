@@ -1312,6 +1312,22 @@
       "transaction_id": "tx_1788213526128_0km37y6ktv5",
       "newCoinBalance": 463,
       "newTicketBalance": 122
+    },
+    {
+      "id": "monthly_reset_1788220813221",
+      "type": "monthly_reset",
+      "timestamp": "2026-09-01T00:00:13.221Z",
+      "month": "2026-09",
+      "winner": {
+        "month": "2026-09",
+        "userId": "4cac7bc6-8e79-4c25-abf4-be6b9bd61845",
+        "username": "admin",
+        "monthlyReferrals": 2,
+        "tickets": 0,
+        "coins": 2660,
+        "crownedAt": "2026-09-01T00:00:12.939Z"
+      },
+      "totalUsers": 14
     }
   ],
   "event_stats": {
