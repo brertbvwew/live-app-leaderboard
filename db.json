@@ -1488,6 +1488,16 @@
       "targetUsername": "NebulaKnight901",
       "newCoins": 1016,
       "newTickets": 0
+    },
+    {
+      "id": "admin_balance_adjustment_1788244457614",
+      "type": "admin_balance_adjustment",
+      "timestamp": "2026-09-01T06:34:17.614Z",
+      "adminId": "4cac7bc6-8e79-4c25-abf4-be6b9bd61845",
+      "targetUserId": "65566f34-1f84-4dad-a7d9-c651ec16526b",
+      "targetUsername": "NexusGeek777",
+      "newCoins": 1257,
+      "newTickets": 12
     }
   ],
   "event_stats": {
