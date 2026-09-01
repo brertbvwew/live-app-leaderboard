@@ -1448,6 +1448,16 @@
       "targetUsername": "terminatir",
       "newCoins": 50,
       "newTickets": 0
+    },
+    {
+      "id": "admin_balance_adjustment_1788239371629",
+      "type": "admin_balance_adjustment",
+      "timestamp": "2026-09-01T05:09:31.629Z",
+      "adminId": "4cac7bc6-8e79-4c25-abf4-be6b9bd61845",
+      "targetUserId": "6e5ad43c-5410-4215-a476-55213edbd3c6",
+      "targetUsername": "Diva Dollaire",
+      "newCoins": 650,
+      "newTickets": 0
     }
   ],
   "event_stats": {
