@@ -1498,6 +1498,14 @@
       "targetUsername": "NexusGeek777",
       "newCoins": 1257,
       "newTickets": 12
+    },
+    {
+      "id": "bot_referral_generation_1788245242287",
+      "type": "bot_referral_generation",
+      "timestamp": "2026-09-01T06:47:22.287Z",
+      "referrerMode": "random",
+      "botsCount": 2,
+      "distinctReferrersCount": 2
     }
   ],
   "event_stats": {
