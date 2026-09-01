@@ -1388,6 +1388,16 @@
       "targetUsername": "kaab0._",
       "newCoins": 463,
       "newTickets": 0
+    },
+    {
+      "id": "admin_balance_adjustment_1788239342991",
+      "type": "admin_balance_adjustment",
+      "timestamp": "2026-09-01T05:09:02.991Z",
+      "adminId": "4cac7bc6-8e79-4c25-abf4-be6b9bd61845",
+      "targetUserId": "fbd7e861-0fed-4eab-ad04-34ca4b8d1cda",
+      "targetUsername": "mk",
+      "newCoins": 1600,
+      "newTickets": 0
     }
   ],
   "event_stats": {
