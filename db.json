@@ -1371,6 +1371,14 @@
       "targetId": "bf72a7bd-fe1a-4218-8b0f-2e2381817390",
       "username": "hack",
       "email": "hack@gmail.com"
+    },
+    {
+      "id": "user_register_1789677242658",
+      "type": "user_register",
+      "timestamp": "2026-09-17T20:34:02.658Z",
+      "userId": "fa76623d-d160-4a17-927d-149218eaf057",
+      "username": "TUMEX",
+      "referredBy": null
     }
   ],
   "event_stats": {
