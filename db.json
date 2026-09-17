@@ -1379,6 +1379,17 @@
       "userId": "fa76623d-d160-4a17-927d-149218eaf057",
       "username": "TUMEX",
       "referredBy": null
+    },
+    {
+      "id": "spin_1789677260034",
+      "type": "spin",
+      "timestamp": "2026-09-17T20:34:20.034Z",
+      "userId": "fa76623d-d160-4a17-927d-149218eaf057",
+      "username": "TUMEX",
+      "result": "500 Coins",
+      "coins": 500,
+      "tickets": 0,
+      "jackpot": false
     }
   ],
   "event_stats": {
