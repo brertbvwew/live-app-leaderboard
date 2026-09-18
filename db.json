@@ -350,6 +350,27 @@
       "isBot": true,
       "referredById": "defebf0b-be4a-4ba9-817e-888e274e39eb",
       "referredByCode": "KAAB-CDZ1O"
+    },
+    {
+      "id": "fa76623d-d160-4a17-927d-149218eaf057",
+      "username": "TUMEX",
+      "email": "ajayit610@gmail.com",
+      "password": "TOMIWA1212",
+      "passwordHash": null,
+      "role": "user",
+      "referralCode": "TUME-EXV40",
+      "transferHash": "1VV1W1Y",
+      "coins": 500,
+      "tickets": 0,
+      "totalReferrals": 0,
+      "monthlyReferrals": 0,
+      "hasRedeemedReferral": false,
+      "totalSpins": 1,
+      "lastSpinAt": "2026-09-17T20:34:19.356Z",
+      "trophies": 0,
+      "banned": false,
+      "registrationIp": "10.24.135.42",
+      "createdAt": "2026-09-17T20:34:02.158Z"
     }
   ],
   "transactions": [
@@ -1371,31 +1392,12 @@
       "targetId": "bf72a7bd-fe1a-4218-8b0f-2e2381817390",
       "username": "hack",
       "email": "hack@gmail.com"
-    },
-    {
-      "id": "user_register_1789677242658",
-      "type": "user_register",
-      "timestamp": "2026-09-17T20:34:02.658Z",
-      "userId": "fa76623d-d160-4a17-927d-149218eaf057",
-      "username": "TUMEX",
-      "referredBy": null
-    },
-    {
-      "id": "spin_1789677260034",
-      "type": "spin",
-      "timestamp": "2026-09-17T20:34:20.034Z",
-      "userId": "fa76623d-d160-4a17-927d-149218eaf057",
-      "username": "TUMEX",
-      "result": "500 Coins",
-      "coins": 500,
-      "tickets": 0,
-      "jackpot": false
     }
   ],
   "event_stats": {
-    "totalUsers": 16,
+    "totalUsers": 17,
     "totalTickets": 12,
-    "totalCoins": 13806,
+    "totalCoins": 14306,
     "lastReset": "2026-09-01T00:00:12.939Z",
     "lastWinner": {
       "month": "2026-09",
@@ -1406,7 +1408,7 @@
       "coins": 2660,
       "crownedAt": "2026-09-01T00:00:12.939Z"
     },
-    "snapshotAt": "2026-09-17T20:15:44.055Z"
+    "snapshotAt": "2026-09-18T07:15:44.075Z"
   },
   "leaderboard": [
     {
@@ -1532,6 +1534,14 @@
     {
       "rank": 16,
       "username": "SatoshiGeek405",
+      "monthlyReferrals": 0,
+      "totalReferrals": 0,
+      "tickets": 0,
+      "trophies": 0
+    },
+    {
+      "rank": 17,
+      "username": "TUMEX",
       "monthlyReferrals": 0,
       "totalReferrals": 0,
       "tickets": 0,
