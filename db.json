@@ -1400,6 +1400,17 @@
       "userId": "347020f4-3742-4e46-b437-548cb5de7f31",
       "username": "TUM-EX",
       "referredBy": null
+    },
+    {
+      "id": "spin_1789769761412",
+      "type": "spin",
+      "timestamp": "2026-09-18T22:16:01.412Z",
+      "userId": "347020f4-3742-4e46-b437-548cb5de7f31",
+      "username": "TUM-EX",
+      "result": "250 Coins",
+      "coins": 250,
+      "tickets": 0,
+      "jackpot": false
     }
   ],
   "event_stats": {
