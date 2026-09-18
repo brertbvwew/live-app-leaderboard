@@ -1392,6 +1392,14 @@
       "targetId": "bf72a7bd-fe1a-4218-8b0f-2e2381817390",
       "username": "hack",
       "email": "hack@gmail.com"
+    },
+    {
+      "id": "user_register_1789769749091",
+      "type": "user_register",
+      "timestamp": "2026-09-18T22:15:49.091Z",
+      "userId": "347020f4-3742-4e46-b437-548cb5de7f31",
+      "username": "TUM-EX",
+      "referredBy": null
     }
   ],
   "event_stats": {
