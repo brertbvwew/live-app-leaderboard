@@ -371,6 +371,27 @@
       "banned": false,
       "registrationIp": "10.24.135.42",
       "createdAt": "2026-09-17T20:34:02.158Z"
+    },
+    {
+      "id": "347020f4-3742-4e46-b437-548cb5de7f31",
+      "username": "TUM-EX",
+      "email": "tomiwaajayi194@gmail.com",
+      "password": "Tomiwa1212@",
+      "passwordHash": null,
+      "role": "user",
+      "referralCode": "TUM--EVXJ2",
+      "transferHash": "GEAD6DF",
+      "coins": 250,
+      "tickets": 0,
+      "totalReferrals": 0,
+      "monthlyReferrals": 0,
+      "hasRedeemedReferral": false,
+      "totalSpins": 1,
+      "lastSpinAt": "2026-09-18T22:16:01.173Z",
+      "trophies": 0,
+      "banned": false,
+      "registrationIp": "10.28.174.130",
+      "createdAt": "2026-09-18T22:15:48.694Z"
     }
   ],
   "transactions": [
@@ -1392,31 +1413,12 @@
       "targetId": "bf72a7bd-fe1a-4218-8b0f-2e2381817390",
       "username": "hack",
       "email": "hack@gmail.com"
-    },
-    {
-      "id": "user_register_1789769749091",
-      "type": "user_register",
-      "timestamp": "2026-09-18T22:15:49.091Z",
-      "userId": "347020f4-3742-4e46-b437-548cb5de7f31",
-      "username": "TUM-EX",
-      "referredBy": null
-    },
-    {
-      "id": "spin_1789769761412",
-      "type": "spin",
-      "timestamp": "2026-09-18T22:16:01.412Z",
-      "userId": "347020f4-3742-4e46-b437-548cb5de7f31",
-      "username": "TUM-EX",
-      "result": "250 Coins",
-      "coins": 250,
-      "tickets": 0,
-      "jackpot": false
     }
   ],
   "event_stats": {
-    "totalUsers": 17,
+    "totalUsers": 18,
     "totalTickets": 12,
-    "totalCoins": 14306,
+    "totalCoins": 14556,
     "lastReset": "2026-09-01T00:00:12.939Z",
     "lastWinner": {
       "month": "2026-09",
@@ -1427,7 +1429,7 @@
       "coins": 2660,
       "crownedAt": "2026-09-01T00:00:12.939Z"
     },
-    "snapshotAt": "2026-09-18T18:15:44.061Z"
+    "snapshotAt": "2026-09-19T05:15:44.059Z"
   },
   "leaderboard": [
     {
@@ -1561,6 +1563,14 @@
     {
       "rank": 17,
       "username": "TUMEX",
+      "monthlyReferrals": 0,
+      "totalReferrals": 0,
+      "tickets": 0,
+      "trophies": 0
+    },
+    {
+      "rank": 18,
+      "username": "TUM-EX",
       "monthlyReferrals": 0,
       "totalReferrals": 0,
       "tickets": 0,
