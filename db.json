@@ -1413,6 +1413,17 @@
       "targetId": "bf72a7bd-fe1a-4218-8b0f-2e2381817390",
       "username": "hack",
       "email": "hack@gmail.com"
+    },
+    {
+      "id": "spin_1789947025730",
+      "type": "spin",
+      "timestamp": "2026-09-20T23:30:25.730Z",
+      "userId": "347020f4-3742-4e46-b437-548cb5de7f31",
+      "username": "TUM-EX",
+      "result": "100 Coins",
+      "coins": 100,
+      "tickets": 0,
+      "jackpot": false
     }
   ],
   "event_stats": {
