@@ -381,13 +381,13 @@
       "role": "user",
       "referralCode": "TUM--EVXJ2",
       "transferHash": "GEAD6DF",
-      "coins": 250,
+      "coins": 350,
       "tickets": 0,
       "totalReferrals": 0,
       "monthlyReferrals": 0,
       "hasRedeemedReferral": false,
-      "totalSpins": 1,
-      "lastSpinAt": "2026-09-18T22:16:01.173Z",
+      "totalSpins": 2,
+      "lastSpinAt": "2026-09-20T23:30:25.083Z",
       "trophies": 0,
       "banned": false,
       "registrationIp": "10.28.174.130",
@@ -1413,23 +1413,12 @@
       "targetId": "bf72a7bd-fe1a-4218-8b0f-2e2381817390",
       "username": "hack",
       "email": "hack@gmail.com"
-    },
-    {
-      "id": "spin_1789947025730",
-      "type": "spin",
-      "timestamp": "2026-09-20T23:30:25.730Z",
-      "userId": "347020f4-3742-4e46-b437-548cb5de7f31",
-      "username": "TUM-EX",
-      "result": "100 Coins",
-      "coins": 100,
-      "tickets": 0,
-      "jackpot": false
     }
   ],
   "event_stats": {
     "totalUsers": 18,
     "totalTickets": 12,
-    "totalCoins": 14556,
+    "totalCoins": 14656,
     "lastReset": "2026-09-01T00:00:12.939Z",
     "lastWinner": {
       "month": "2026-09",
@@ -1440,7 +1429,7 @@
       "coins": 2660,
       "crownedAt": "2026-09-01T00:00:12.939Z"
     },
-    "snapshotAt": "2026-09-20T14:15:44.074Z"
+    "snapshotAt": "2026-09-21T01:15:44.073Z"
   },
   "leaderboard": [
     {
