@@ -1413,6 +1413,22 @@
       "targetId": "bf72a7bd-fe1a-4218-8b0f-2e2381817390",
       "username": "hack",
       "email": "hack@gmail.com"
+    },
+    {
+      "id": "monthly_reset_1790812807112",
+      "type": "monthly_reset",
+      "timestamp": "2026-10-01T00:00:07.112Z",
+      "month": "2026-10",
+      "winner": {
+        "month": "2026-10",
+        "userId": "defebf0b-be4a-4ba9-817e-888e274e39eb",
+        "username": "kaabo",
+        "monthlyReferrals": 1,
+        "tickets": 0,
+        "coins": 1100,
+        "crownedAt": "2026-10-01T00:00:06.529Z"
+      },
+      "totalUsers": 18
     }
   ],
   "event_stats": {
