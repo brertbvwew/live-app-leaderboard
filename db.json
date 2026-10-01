@@ -273,11 +273,11 @@
       "coins": 1100,
       "tickets": 0,
       "totalReferrals": 1,
-      "monthlyReferrals": 1,
+      "monthlyReferrals": 0,
       "hasRedeemedReferral": true,
       "totalSpins": 0,
       "lastSpinAt": null,
-      "trophies": 0,
+      "trophies": 1,
       "banned": false,
       "registrationIp": "10.24.8.46",
       "createdAt": "2026-08-18T21:50:23.369Z"
@@ -294,7 +294,7 @@
       "coins": 950,
       "tickets": 0,
       "totalReferrals": 1,
-      "monthlyReferrals": 1,
+      "monthlyReferrals": 0,
       "hasRedeemedReferral": false,
       "totalSpins": 3,
       "lastSpinAt": "2026-09-03T08:26:49.280Z",
@@ -1364,15 +1364,15 @@
     }
   },
   "settings": {
-    "lastReset": "2026-09-01T00:00:12.939Z",
+    "lastReset": "2026-10-01T00:00:06.529Z",
     "lastWinner": {
-      "month": "2026-09",
-      "userId": "4cac7bc6-8e79-4c25-abf4-be6b9bd61845",
-      "username": "admin",
-      "monthlyReferrals": 2,
+      "month": "2026-10",
+      "userId": "defebf0b-be4a-4ba9-817e-888e274e39eb",
+      "username": "kaabo",
+      "monthlyReferrals": 1,
       "tickets": 0,
-      "coins": 2660,
-      "crownedAt": "2026-09-01T00:00:12.939Z"
+      "coins": 1100,
+      "crownedAt": "2026-10-01T00:00:06.529Z"
     }
   },
   "hall_of_fame": [
@@ -1393,6 +1393,15 @@
       "tickets": 0,
       "coins": 2660,
       "crownedAt": "2026-09-01T00:00:12.939Z"
+    },
+    {
+      "month": "2026-10",
+      "userId": "defebf0b-be4a-4ba9-817e-888e274e39eb",
+      "username": "kaabo",
+      "monthlyReferrals": 1,
+      "tickets": 0,
+      "coins": 1100,
+      "crownedAt": "2026-10-01T00:00:06.529Z"
     }
   ],
   "coin_conversions": [],
@@ -1413,22 +1422,6 @@
       "targetId": "bf72a7bd-fe1a-4218-8b0f-2e2381817390",
       "username": "hack",
       "email": "hack@gmail.com"
-    },
-    {
-      "id": "monthly_reset_1790812807112",
-      "type": "monthly_reset",
-      "timestamp": "2026-10-01T00:00:07.112Z",
-      "month": "2026-10",
-      "winner": {
-        "month": "2026-10",
-        "userId": "defebf0b-be4a-4ba9-817e-888e274e39eb",
-        "username": "kaabo",
-        "monthlyReferrals": 1,
-        "tickets": 0,
-        "coins": 1100,
-        "crownedAt": "2026-10-01T00:00:06.529Z"
-      },
-      "totalUsers": 18
     }
   ],
   "event_stats": {
@@ -1436,28 +1429,20 @@
     "totalTickets": 12,
     "totalCoins": 14656,
     "lastReset": "2026-10-01T00:00:06.529Z",
-    "lastWinner": "kaabo",
-    "snapshotAt": "2026-10-01T00:00:08.885Z"
+    "lastWinner": {
+      "month": "2026-10",
+      "userId": "defebf0b-be4a-4ba9-817e-888e274e39eb",
+      "username": "kaabo",
+      "monthlyReferrals": 1,
+      "tickets": 0,
+      "coins": 1100,
+      "crownedAt": "2026-10-01T00:00:06.529Z"
+    },
+    "snapshotAt": "2026-10-01T03:15:44.136Z"
   },
   "leaderboard": [
     {
       "rank": 1,
-      "username": "kaabo",
-      "monthlyReferrals": 1,
-      "totalReferrals": 1,
-      "tickets": 0,
-      "trophies": 0
-    },
-    {
-      "rank": 2,
-      "username": "₭€ñ§ħï尺ø",
-      "monthlyReferrals": 1,
-      "totalReferrals": 1,
-      "tickets": 0,
-      "trophies": 0
-    },
-    {
-      "rank": 3,
       "username": "admin",
       "monthlyReferrals": 0,
       "totalReferrals": 4,
@@ -1465,7 +1450,7 @@
       "trophies": 2
     },
     {
-      "rank": 4,
+      "rank": 2,
       "username": "Disrespect",
       "monthlyReferrals": 0,
       "totalReferrals": 1,
@@ -1473,7 +1458,7 @@
       "trophies": 0
     },
     {
-      "rank": 5,
+      "rank": 3,
       "username": "kaab0._",
       "monthlyReferrals": 0,
       "totalReferrals": 1,
@@ -1481,7 +1466,7 @@
       "trophies": 0
     },
     {
-      "rank": 6,
+      "rank": 4,
       "username": "mk",
       "monthlyReferrals": 0,
       "totalReferrals": 1,
@@ -1489,7 +1474,7 @@
       "trophies": 0
     },
     {
-      "rank": 7,
+      "rank": 5,
       "username": "Sbervy",
       "monthlyReferrals": 0,
       "totalReferrals": 1,
@@ -1497,7 +1482,7 @@
       "trophies": 0
     },
     {
-      "rank": 8,
+      "rank": 6,
       "username": "00PulsRxv1",
       "monthlyReferrals": 0,
       "totalReferrals": 0,
@@ -1505,7 +1490,7 @@
       "trophies": 0
     },
     {
-      "rank": 9,
+      "rank": 7,
       "username": "glyph",
       "monthlyReferrals": 0,
       "totalReferrals": 0,
@@ -1513,7 +1498,7 @@
       "trophies": 0
     },
     {
-      "rank": 10,
+      "rank": 8,
       "username": "terminatir",
       "monthlyReferrals": 0,
       "totalReferrals": 0,
@@ -1521,7 +1506,7 @@
       "trophies": 0
     },
     {
-      "rank": 11,
+      "rank": 9,
       "username": "Diva Dollaire",
       "monthlyReferrals": 0,
       "totalReferrals": 1,
@@ -1529,7 +1514,7 @@
       "trophies": 0
     },
     {
-      "rank": 12,
+      "rank": 10,
       "username": "NexusGeek777",
       "monthlyReferrals": 0,
       "totalReferrals": 0,
@@ -1537,7 +1522,7 @@
       "trophies": 0
     },
     {
-      "rank": 13,
+      "rank": 11,
       "username": "SpectrePro721",
       "monthlyReferrals": 0,
       "totalReferrals": 0,
@@ -1545,10 +1530,26 @@
       "trophies": 0
     },
     {
-      "rank": 14,
+      "rank": 12,
       "username": "NebulaKnight901",
       "monthlyReferrals": 0,
       "totalReferrals": 0,
+      "tickets": 0,
+      "trophies": 0
+    },
+    {
+      "rank": 13,
+      "username": "kaabo",
+      "monthlyReferrals": 0,
+      "totalReferrals": 1,
+      "tickets": 0,
+      "trophies": 1
+    },
+    {
+      "rank": 14,
+      "username": "₭€ñ§ħï尺ø",
+      "monthlyReferrals": 0,
+      "totalReferrals": 1,
       "tickets": 0,
       "trophies": 0
     },
