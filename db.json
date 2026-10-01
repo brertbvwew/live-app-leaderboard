@@ -1435,17 +1435,9 @@
     "totalUsers": 18,
     "totalTickets": 12,
     "totalCoins": 14656,
-    "lastReset": "2026-09-01T00:00:12.939Z",
-    "lastWinner": {
-      "month": "2026-09",
-      "userId": "4cac7bc6-8e79-4c25-abf4-be6b9bd61845",
-      "username": "admin",
-      "monthlyReferrals": 2,
-      "tickets": 0,
-      "coins": 2660,
-      "crownedAt": "2026-09-01T00:00:12.939Z"
-    },
-    "snapshotAt": "2026-09-30T16:15:44.132Z"
+    "lastReset": "2026-10-01T00:00:06.529Z",
+    "lastWinner": "kaabo",
+    "snapshotAt": "2026-10-01T00:00:08.885Z"
   },
   "leaderboard": [
     {
