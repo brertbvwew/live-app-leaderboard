@@ -41,6 +41,7 @@
   "challenges": [],
   "user_challenges": [],
   "daily_bonuses": [],
+  "social_program_submissions": [],
   "service_ratings": [],
   "emails": [],
   "event_settings": {
@@ -53,7 +54,7 @@
     "totalCoins": 0,
     "lastReset": null,
     "lastWinner": null,
-    "snapshotAt": "2026-10-02T16:11:17.764Z"
+    "snapshotAt": "2026-10-02T17:02:00.727Z"
   },
   "leaderboard": [
     {
