@@ -33,6 +33,7 @@
     }
   ],
   "transactions": [],
+  "activity_logs": [],
   "rewards": [],
   "reward_claims": [],
   "achievements": [],
@@ -52,7 +53,7 @@
     "totalCoins": 0,
     "lastReset": null,
     "lastWinner": null,
-    "snapshotAt": "2026-10-02T07:47:20.294Z"
+    "snapshotAt": "2026-10-02T16:11:17.764Z"
   },
   "leaderboard": [
     {
