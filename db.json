@@ -1,0 +1,68 @@
+{
+  "users": [
+    {
+      "id": "afdd6b55-1597-4a45-86f7-1579c8325dc8",
+      "username": "admin",
+      "email": "admin@cryptalis.com",
+      "password": "Admin@C$#@uyb!",
+      "passwordHash": null,
+      "role": "admin",
+      "referralCode": "CRYPT",
+      "transferHash": "4KLYW1E",
+      "coins": 0,
+      "tickets": 0,
+      "totalReferrals": 0,
+      "monthlyReferrals": 0,
+      "hasRedeemedReferral": false,
+      "totalSpins": 0,
+      "lastSpinAt": null,
+      "trophies": 0,
+      "banned": false,
+      "registrationIp": "::1",
+      "createdAt": "2026-10-02T07:47:19.896Z",
+      "currentStreak": 0,
+      "longestStreak": 0,
+      "lastClaimDate": null,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "lifetimeCoinsEarned": 0,
+      "lifetimeCoinsSpent": 0,
+      "level": 1,
+      "xp": 0,
+      "rewardCoins": 0
+    }
+  ],
+  "transactions": [],
+  "rewards": [],
+  "reward_claims": [],
+  "achievements": [],
+  "user_achievements": [],
+  "challenges": [],
+  "user_challenges": [],
+  "daily_bonuses": [],
+  "service_ratings": [],
+  "emails": [],
+  "event_settings": {
+    "ticketPurchasesEnabled": true,
+    "giveawaySpinEnabled": true
+  },
+  "event_stats": {
+    "totalUsers": 1,
+    "totalTickets": 0,
+    "totalCoins": 0,
+    "lastReset": null,
+    "lastWinner": null,
+    "snapshotAt": "2026-10-02T07:47:20.294Z"
+  },
+  "leaderboard": [
+    {
+      "rank": 1,
+      "username": "admin",
+      "monthlyReferrals": 0,
+      "totalReferrals": 0,
+      "tickets": 0,
+      "trophies": 0
+    }
+  ],
+  "events": []
+}
