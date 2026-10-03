@@ -30,10 +30,69 @@
       "level": 1,
       "xp": 0,
       "rewardCoins": 0
+    },
+    {
+      "id": "b0e117e9-e88b-4601-952f-8d656beabbdf",
+      "username": "bsus",
+      "email": "robloxdeved2020@gmail.com",
+      "password": "12345678",
+      "passwordHash": null,
+      "role": "user",
+      "referralCode": "BSUS-5MAC2",
+      "transferHash": "QMGFUVN",
+      "coins": 100,
+      "tickets": 0,
+      "totalReferrals": 0,
+      "monthlyReferrals": 0,
+      "hasRedeemedReferral": false,
+      "totalSpins": 0,
+      "lastSpinAt": null,
+      "lastCoinPurchaseAt": null,
+      "trophies": 0,
+      "banned": false,
+      "registrationIp": "10.28.103.150",
+      "createdAt": "2026-10-02T17:17:50.293Z",
+      "currentStreak": 1,
+      "longestStreak": 1,
+      "lastClaimDate": null,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "lifetimeCoinsEarned": 100,
+      "lifetimeCoinsSpent": 0,
+      "level": 1,
+      "xp": 25
     }
   ],
-  "transactions": [],
-  "activity_logs": [],
+  "transactions": [
+    {
+      "txId": "76a4b110-7554-4c79-9d3b-a13aa71f4818",
+      "userId": "b0e117e9-e88b-4601-952f-8d656beabbdf",
+      "type": "CREDIT",
+      "currency": "coins",
+      "amount": 100,
+      "reason": "Daily Streak Bonus (Day 1)",
+      "referenceId": null,
+      "balanceBefore": 0,
+      "balanceAfter": 100,
+      "createdAt": "2026-10-02T17:18:40.650Z",
+      "recordedAt": "2026-10-02T17:18:40.650Z"
+    }
+  ],
+  "activity_logs": [
+    {
+      "type": "new_user",
+      "username": "bsus",
+      "referredBy": null,
+      "ts": "2026-10-02T17:17:50.596Z"
+    },
+    {
+      "type": "daily_bonus",
+      "username": "bsus",
+      "coins": 100,
+      "streak": 1,
+      "ts": "2026-10-02T17:18:40.651Z"
+    }
+  ],
   "rewards": [
     {
       "id": "free-fire-100",
@@ -602,21 +661,42 @@
     }
   ],
   "user_challenges": [],
-  "daily_bonuses": [],
+  "daily_bonuses": [
+    {
+      "userId": "b0e117e9-e88b-4601-952f-8d656beabbdf",
+      "streak": 1,
+      "lastClaimDate": "2026-10-02",
+      "lastClaimAt": "2026-10-02T17:18:40.648Z"
+    }
+  ],
   "social_program_submissions": [],
   "service_ratings": [],
-  "emails": [],
+  "emails": [
+    {
+      "id": "mail_1790961470295_8x3ip",
+      "createdAt": "2026-10-02T17:17:50.295Z",
+      "to": "robloxdeved2020@gmail.com",
+      "subject": "Welcome to CRYPTALIS  Your Gaming Rewards Journey Begins",
+      "html": "\n<!DOCTYPE html>\n<html>\n<head><meta charset=\"UTF-8\"></head>\n<body style=\"margin:0;padding:0;background:#0a0c14;font-family:'Segoe UI',Arial,sans-serif;\">\n<div style=\"max-width:560px;margin:0 auto;padding:32px 24px;\">\n\n  <div style=\"text-align:center;margin-bottom:28px;\">\n    <div style=\"display:inline-block;background:linear-gradient(135deg,#00f0ff,#7000ff);padding:12px 28px;border-radius:12px;\">\n      <span style=\"color:#fff;font-size:22px;font-weight:900;letter-spacing:2px;\">⚡ CRYPTALIS</span>\n    </div>\n    <p style=\"color:#596179;font-size:13px;margin-top:8px;\">Next-Gen Gaming Rewards &amp; Casino</p>\n  </div>\n\n  <div style=\"background:#0d1020;border:1px solid rgba(0,240,255,0.2);border-radius:16px;padding:28px;\">\n    <h2 style=\"color:#00f0ff;margin:0 0 12px;font-size:20px;\">Welcome aboard, <span style=\"color:#fff;\">@bsus</span>!</h2>\n    <p style=\"color:#c8d0e0;line-height:1.7;font-size:15px;\">\n      Your verified Gmail account is now active. You have instant access to our dual-currency economy:\n    </p>\n\n    <div style=\"display:flex;gap:12px;margin:20px 0;\">\n      <div style=\"flex:1;background:rgba(255,255,255,0.04);border:1px solid rgba(255,255,255,0.08);border-radius:12px;padding:16px;text-align:center;\">\n        <div style=\"font-size:24px;margin-bottom:6px;\">🪙</div>\n        <div style=\"color:#fff;font-weight:700;font-size:14px;\">Normal Coins</div>\n        <div style=\"color:#949db5;font-size:12px;margin-top:4px;\">Earn from referrals &amp; daily activity</div>\n      </div>\n      <div style=\"flex:1;background:rgba(255,184,0,0.06);border:1px solid rgba(255,184,0,0.25);border-radius:12px;padding:16px;text-align:center;\">\n        <div style=\"font-size:24px;margin-bottom:6px;\">💳</div>\n        <div style=\"color:#ffb800;font-weight:700;font-size:14px;\">Casino Vault Coins</div>\n        <div style=\"color:#949db5;font-size:12px;margin-top:4px;\">Play games &amp; redeem gift cards</div>\n      </div>\n    </div>\n\n    <div style=\"background:rgba(255,184,0,0.06);border:1px solid rgba(255,184,0,0.2);border-radius:10px;padding:14px;text-align:center;margin-bottom:20px;\">\n      <div style=\"color:#949db5;font-size:12px;text-transform:uppercase;letter-spacing:1px;\">Exchange Rate</div>\n      <div style=\"color:#ffb800;font-size:18px;font-weight:800;margin-top:4px;\">2,500 Normal = 150 Vault Coins</div>\n    </div>\n\n    <div style=\"background:rgba(0,230,118,0.06);border:1px solid rgba(0,230,118,0.2);border-radius:10px;padding:14px;margin-bottom:20px;\">\n      <div style=\"color:#00e676;font-weight:700;font-size:13px;\">🎁 Your Referral Code: <span style=\"font-family:monospace;font-size:15px;color:#fff;\">BSUS-5MAC2</span></div>\n      <div style=\"color:#949db5;font-size:12px;margin-top:4px;\">Share it  you earn +250 coins for every friend who joins.</div>\n    </div>\n\n    <p style=\"color:#596179;font-size:12px;text-align:center;margin:0;\">\n      Questions? Reply to this email or visit our Discord. We respond within 24 hours.\n    </p>\n  </div>\n\n  <div style=\"text-align:center;margin-top:20px;color:#363d50;font-size:11px;\">\n    CRYPTALIS Verification Systems &bull; Autonomous Dispatch &bull; 2026\n  </div>\n</div>\n</body>\n</html>\n    ",
+      "text": "Welcome to CRYPTALIS  Your Gaming Rewards Journey Begins",
+      "type": "welcome",
+      "metadata": {
+        "userId": "b0e117e9-e88b-4601-952f-8d656beabbdf",
+        "username": "bsus"
+      }
+    }
+  ],
   "event_settings": {
     "ticketPurchasesEnabled": false,
     "giveawaySpinEnabled": false
   },
   "event_stats": {
-    "totalUsers": 1,
+    "totalUsers": 2,
     "totalTickets": 0,
-    "totalCoins": 0,
+    "totalCoins": 100,
     "lastReset": null,
     "lastWinner": null,
-    "snapshotAt": "2026-10-02T17:03:22.265Z"
+    "snapshotAt": "2026-10-03T04:02:00.719Z"
   },
   "leaderboard": [
     {
@@ -626,7 +706,24 @@
       "totalReferrals": 0,
       "tickets": 0,
       "trophies": 0
+    },
+    {
+      "rank": 2,
+      "username": "bsus",
+      "monthlyReferrals": 0,
+      "totalReferrals": 0,
+      "tickets": 0,
+      "trophies": 0
     }
   ],
-  "events": []
+  "events": [
+    {
+      "id": "user_register_1790961470595",
+      "type": "user_register",
+      "timestamp": "2026-10-02T17:17:50.595Z",
+      "userId": "b0e117e9-e88b-4601-952f-8d656beabbdf",
+      "username": "bsus",
+      "referredBy": null
+    }
+  ]
 }
