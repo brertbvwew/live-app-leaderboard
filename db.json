@@ -126,6 +126,37 @@
       "level": 1,
       "xp": 0,
       "rewardCoins": 0
+    },
+    {
+      "id": "8dcadfce-64b9-4926-ac36-42e4de57f14d",
+      "username": "1",
+      "email": "1@gmail.com",
+      "password": "1234",
+      "passwordHash": null,
+      "role": "user",
+      "referralCode": "1-B3JBS",
+      "transferHash": "XGRSVQT",
+      "coins": 0,
+      "tickets": 0,
+      "totalReferrals": 0,
+      "monthlyReferrals": 0,
+      "hasRedeemedReferral": false,
+      "totalSpins": 0,
+      "lastSpinAt": null,
+      "lastCoinPurchaseAt": null,
+      "trophies": 0,
+      "banned": false,
+      "registrationIp": "10.30.203.20",
+      "createdAt": "2026-10-04T12:45:26.839Z",
+      "currentStreak": 0,
+      "longestStreak": 0,
+      "lastClaimDate": null,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "lifetimeCoinsEarned": 0,
+      "lifetimeCoinsSpent": 0,
+      "level": 1,
+      "xp": 0
     }
   ],
   "transactions": [
@@ -152,7 +183,20 @@
       "recordedAt": "2026-10-03T23:00:56.951Z"
     }
   ],
-  "coin_orders": [],
+  "coin_orders": [
+    {
+      "id": "COIN-162E8C13",
+      "reference": "CR-1-COIN-162E8C13-50000",
+      "userId": "8dcadfce-64b9-4926-ac36-42e4de57f14d",
+      "username": "1",
+      "email": "1@gmail.com",
+      "coins": 50000,
+      "amount": 15,
+      "currency": "ZAR",
+      "status": "pending",
+      "createdAt": "2026-10-04T12:45:52.120Z"
+    }
+  ],
   "activity_logs": [
     {
       "type": "new_user",
@@ -165,6 +209,12 @@
       "username": "viki loves gift 🌷😘",
       "referredBy": null,
       "ts": "2026-10-04T11:04:37.344Z"
+    },
+    {
+      "type": "new_user",
+      "username": "1",
+      "referredBy": null,
+      "ts": "2026-10-04T12:45:26.855Z"
     }
   ],
   "rewards": [
@@ -771,10 +821,23 @@
         "userId": "f11b6f52-1cbc-45ed-8f4e-fac4fc713de8",
         "username": "viki loves gift 🌷😘"
       }
+    },
+    {
+      "id": "mail_1791117926842_52jgz",
+      "createdAt": "2026-10-04T12:45:26.842Z",
+      "to": "1@gmail.com",
+      "subject": "Welcome to CRYPTALIS  Your Gaming Rewards Journey Begins",
+      "html": "\n<!DOCTYPE html>\n<html>\n<head><meta charset=\"UTF-8\"></head>\n<body style=\"margin:0;padding:0;background:#0a0c14;font-family:'Segoe UI',Arial,sans-serif;\">\n<div style=\"max-width:560px;margin:0 auto;padding:32px 24px;\">\n\n  <div style=\"text-align:center;margin-bottom:28px;\">\n    <div style=\"display:inline-block;background:linear-gradient(135deg,#00f0ff,#7000ff);padding:12px 28px;border-radius:12px;\">\n      <span style=\"color:#fff;font-size:22px;font-weight:900;letter-spacing:2px;\">⚡ CRYPTALIS</span>\n    </div>\n    <p style=\"color:#596179;font-size:13px;margin-top:8px;\">Next-Gen Gaming Rewards &amp; Casino</p>\n  </div>\n\n  <div style=\"background:#0d1020;border:1px solid rgba(0,240,255,0.2);border-radius:16px;padding:28px;\">\n    <h2 style=\"color:#00f0ff;margin:0 0 12px;font-size:20px;\">Welcome aboard, <span style=\"color:#fff;\">@1</span>!</h2>\n    <p style=\"color:#c8d0e0;line-height:1.7;font-size:15px;\">\n      Your verified Gmail account is now active. You have instant access to our dual-currency economy:\n    </p>\n\n    <div style=\"display:flex;gap:12px;margin:20px 0;\">\n      <div style=\"flex:1;background:rgba(255,255,255,0.04);border:1px solid rgba(255,255,255,0.08);border-radius:12px;padding:16px;text-align:center;\">\n        <div style=\"font-size:24px;margin-bottom:6px;\">🪙</div>\n        <div style=\"color:#fff;font-weight:700;font-size:14px;\">Normal Coins</div>\n        <div style=\"color:#949db5;font-size:12px;margin-top:4px;\">Earn from referrals &amp; daily activity</div>\n      </div>\n      <div style=\"flex:1;background:rgba(255,184,0,0.06);border:1px solid rgba(255,184,0,0.25);border-radius:12px;padding:16px;text-align:center;\">\n        <div style=\"font-size:24px;margin-bottom:6px;\">💳</div>\n        <div style=\"color:#ffb800;font-weight:700;font-size:14px;\">Casino Vault Coins</div>\n        <div style=\"color:#949db5;font-size:12px;margin-top:4px;\">Play games &amp; redeem gift cards</div>\n      </div>\n    </div>\n\n    <div style=\"background:rgba(255,184,0,0.06);border:1px solid rgba(255,184,0,0.2);border-radius:10px;padding:14px;text-align:center;margin-bottom:20px;\">\n      <div style=\"color:#949db5;font-size:12px;text-transform:uppercase;letter-spacing:1px;\">Exchange Rate</div>\n      <div style=\"color:#ffb800;font-size:18px;font-weight:800;margin-top:4px;\">2,500 Normal = 150 Vault Coins</div>\n    </div>\n\n    <div style=\"background:rgba(0,230,118,0.06);border:1px solid rgba(0,230,118,0.2);border-radius:10px;padding:14px;margin-bottom:20px;\">\n      <div style=\"color:#00e676;font-weight:700;font-size:13px;\">🎁 Your Referral Code: <span style=\"font-family:monospace;font-size:15px;color:#fff;\">1-B3JBS</span></div>\n      <div style=\"color:#949db5;font-size:12px;margin-top:4px;\">Share it  you earn +2,500 coins for every friend who joins.</div>\n    </div>\n\n    <p style=\"color:#596179;font-size:12px;text-align:center;margin:0;\">\n      Questions? Reply to this email or visit our Discord. We respond within 24 hours.\n    </p>\n  </div>\n\n  <div style=\"text-align:center;margin-top:20px;color:#363d50;font-size:11px;\">\n    CRYPTALIS Verification Systems &bull; Autonomous Dispatch &bull; 2026\n  </div>\n</div>\n</body>\n</html>\n    ",
+      "text": "Welcome to CRYPTALIS  Your Gaming Rewards Journey Begins",
+      "type": "welcome",
+      "metadata": {
+        "userId": "8dcadfce-64b9-4926-ac36-42e4de57f14d",
+        "username": "1"
+      }
     }
   ],
   "site_settings": {
-    "theme": "default"
+    "theme": "halloween"
   },
   "email_delivery": {
     "apiEnabled": true
@@ -784,12 +847,12 @@
     "giveawaySpinEnabled": false
   },
   "event_stats": {
-    "totalUsers": 4,
+    "totalUsers": 5,
     "totalTickets": 0,
     "totalCoins": 1690,
     "lastReset": null,
     "lastWinner": null,
-    "snapshotAt": "2026-10-04T12:43:31.203Z"
+    "snapshotAt": "2026-10-04T12:59:44.154Z"
   },
   "leaderboard": [
     {
@@ -819,6 +882,14 @@
     {
       "rank": 4,
       "username": "viki loves gift 🌷😘",
+      "monthlyReferrals": 0,
+      "totalReferrals": 0,
+      "tickets": 0,
+      "trophies": 0
+    },
+    {
+      "rank": 5,
+      "username": "1",
       "monthlyReferrals": 0,
       "totalReferrals": 0,
       "tickets": 0,
@@ -936,6 +1007,29 @@
       "userId": "f11b6f52-1cbc-45ed-8f4e-fac4fc713de8",
       "username": "viki loves gift 🌷😘",
       "referredBy": null
+    },
+    {
+      "id": "admin_site_theme_updated_1791117839505",
+      "type": "admin_site_theme_updated",
+      "timestamp": "2026-10-04T12:43:59.505Z",
+      "adminId": "afdd6b55-1597-4a45-86f7-1579c8325dc8",
+      "theme": "halloween"
+    },
+    {
+      "id": "user_register_1791117926855",
+      "type": "user_register",
+      "timestamp": "2026-10-04T12:45:26.855Z",
+      "userId": "8dcadfce-64b9-4926-ac36-42e4de57f14d",
+      "username": "1",
+      "referredBy": null
+    },
+    {
+      "id": "admin_password_edit_1791118774094",
+      "type": "admin_password_edit",
+      "timestamp": "2026-10-04T12:59:34.094Z",
+      "adminId": "afdd6b55-1597-4a45-86f7-1579c8325dc8",
+      "targetId": "8dcadfce-64b9-4926-ac36-42e4de57f14d",
+      "targetUsername": "1"
     }
   ]
 }
