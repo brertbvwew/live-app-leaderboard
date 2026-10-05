@@ -160,86 +160,9 @@
       "rewardCoins": 0
     }
   ],
-  "transactions": [
-    {
-      "txId": "76a4b110-7554-4c79-9d3b-a13aa71f4818",
-      "userId": "b0e117e9-e88b-4601-952f-8d656beabbdf",
-      "type": "CREDIT",
-      "currency": "coins",
-      "amount": 100,
-      "reason": "Daily Streak Bonus (Day 1)",
-      "referenceId": null,
-      "balanceBefore": 0,
-      "balanceAfter": 100,
-      "createdAt": "2026-10-02T17:18:40.650Z",
-      "recordedAt": "2026-10-02T17:18:40.650Z"
-    },
-    {
-      "txId": "3d6695d8-5d86-43cc-a783-251944b63d53",
-      "type": "deposit",
-      "toUserId": "51378108-d6dd-46a4-9d88-d5112bfb73f0",
-      "toUsername": "alpha",
-      "amount": 1690,
-      "source": "app_deposit",
-      "recordedAt": "2026-10-03T23:00:56.951Z"
-    },
-    {
-      "txId": "1621b64f-197b-4b58-be7b-e762b2e8a09b",
-      "userId": "8dcadfce-64b9-4926-ac36-42e4de57f14d",
-      "type": "CREDIT",
-      "currency": "coins",
-      "amount": 100,
-      "reason": "Daily Streak Bonus (Day 1)",
-      "referenceId": null,
-      "balanceBefore": 0,
-      "balanceAfter": 100,
-      "createdAt": "2026-10-04T14:51:17.131Z",
-      "recordedAt": "2026-10-04T14:51:17.131Z"
-    },
-    {
-      "txId": "7730365c-4933-4dec-baf4-99d0d68e06a3",
-      "type": "deposit",
-      "toUserId": "51378108-d6dd-46a4-9d88-d5112bfb73f0",
-      "toUsername": "alpha",
-      "amount": 7068,
-      "source": "app_deposit",
-      "recordedAt": "2026-10-04T15:07:12.406Z"
-    },
-    {
-      "txId": "6c10f790-63ef-4e0b-9d0b-fb11ba247946",
-      "userId": "51378108-d6dd-46a4-9d88-d5112bfb73f0",
-      "type": "CREDIT",
-      "currency": "coins",
-      "amount": 100,
-      "reason": "Daily Streak Bonus (Day 1)",
-      "referenceId": null,
-      "balanceBefore": 8758,
-      "balanceAfter": 8858,
-      "createdAt": "2026-10-04T22:17:29.988Z",
-      "recordedAt": "2026-10-04T22:17:29.990Z"
-    },
-    {
-      "txId": "235c29ed-c87f-4d14-a29f-e4b9a1bfbdb8",
-      "userId": "8dcadfce-64b9-4926-ac36-42e4de57f14d",
-      "type": "CREDIT",
-      "currency": "coins",
-      "amount": 150,
-      "reason": "Daily Streak Bonus (Day 2)",
-      "referenceId": null,
-      "balanceBefore": 100,
-      "balanceAfter": 250,
-      "createdAt": "2026-10-05T06:57:09.285Z",
-      "recordedAt": "2026-10-05T06:57:09.285Z"
-    }
-  ],
+  "transactions": [],
   "coin_orders": [],
   "activity_logs": [
-    {
-      "type": "new_user",
-      "username": "viki loves gift 🌷😘",
-      "referredBy": null,
-      "ts": "2026-10-04T11:04:37.344Z"
-    },
     {
       "type": "new_user",
       "username": "1",
@@ -915,7 +838,7 @@
     "totalCoins": 9108,
     "lastReset": null,
     "lastWinner": null,
-    "snapshotAt": "2026-10-05T11:45:28.607Z"
+    "snapshotAt": "2026-10-05T11:49:53.634Z"
   },
   "leaderboard": [
     {
