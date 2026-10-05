@@ -188,7 +188,8 @@
       "lifetimeCoinsEarned": 100,
       "lifetimeCoinsSpent": 0,
       "level": 1,
-      "xp": 225
+      "xp": 225,
+      "rewardCoins": 0
     },
     {
       "id": "6870c0c5-afa8-4107-8013-dc1cd0e70adc",
@@ -219,7 +220,8 @@
       "lifetimeCoinsEarned": 0,
       "lifetimeCoinsSpent": 500,
       "level": 1,
-      "xp": 130
+      "xp": 130,
+      "rewardCoins": 0
     }
   ],
   "transactions": [
@@ -4370,7 +4372,7 @@
     "totalCoins": 19408,
     "lastReset": null,
     "lastWinner": null,
-    "snapshotAt": "2026-10-05T18:00:33.106Z"
+    "snapshotAt": "2026-10-05T18:00:57.153Z"
   },
   "leaderboard": [
     {
