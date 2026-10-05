@@ -72,27 +72,27 @@
       "role": "user",
       "referralCode": "ALPH-3YKG9",
       "transferHash": "7PQK2HD",
-      "coins": 1690,
+      "coins": 8858,
       "tickets": 0,
       "totalReferrals": 0,
       "monthlyReferrals": 0,
       "hasRedeemedReferral": false,
       "totalSpins": 0,
       "lastSpinAt": null,
-      "lastCoinPurchaseAt": "2026-10-03T23:00:56.949Z",
+      "lastCoinPurchaseAt": "2026-10-04T15:07:12.404Z",
       "trophies": 0,
       "banned": false,
       "registrationIp": "10.27.25.223",
       "createdAt": "2026-10-03T19:32:55.626Z",
-      "currentStreak": 0,
-      "longestStreak": 0,
+      "currentStreak": 1,
+      "longestStreak": 1,
       "lastClaimDate": null,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "lifetimeCoinsEarned": 0,
+      "lifetimeCoinsEarned": 100,
       "lifetimeCoinsSpent": 0,
       "level": 1,
-      "xp": 0,
+      "xp": 25,
       "rewardCoins": 0
     },
     {
@@ -136,7 +136,7 @@
       "role": "user",
       "referralCode": "1-B3JBS",
       "transferHash": "XGRSVQT",
-      "coins": 0,
+      "coins": 100,
       "tickets": 0,
       "totalReferrals": 0,
       "monthlyReferrals": 0,
@@ -148,15 +148,15 @@
       "banned": false,
       "registrationIp": "10.30.203.20",
       "createdAt": "2026-10-04T12:45:26.839Z",
-      "currentStreak": 0,
-      "longestStreak": 0,
+      "currentStreak": 1,
+      "longestStreak": 1,
       "lastClaimDate": null,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "lifetimeCoinsEarned": 0,
+      "lifetimeCoinsEarned": 100,
       "lifetimeCoinsSpent": 0,
       "level": 1,
-      "xp": 0,
+      "xp": 25,
       "rewardCoins": 0
     }
   ],
@@ -182,6 +182,41 @@
       "amount": 1690,
       "source": "app_deposit",
       "recordedAt": "2026-10-03T23:00:56.951Z"
+    },
+    {
+      "txId": "1621b64f-197b-4b58-be7b-e762b2e8a09b",
+      "userId": "8dcadfce-64b9-4926-ac36-42e4de57f14d",
+      "type": "CREDIT",
+      "currency": "coins",
+      "amount": 100,
+      "reason": "Daily Streak Bonus (Day 1)",
+      "referenceId": null,
+      "balanceBefore": 0,
+      "balanceAfter": 100,
+      "createdAt": "2026-10-04T14:51:17.131Z",
+      "recordedAt": "2026-10-04T14:51:17.131Z"
+    },
+    {
+      "txId": "7730365c-4933-4dec-baf4-99d0d68e06a3",
+      "type": "deposit",
+      "toUserId": "51378108-d6dd-46a4-9d88-d5112bfb73f0",
+      "toUsername": "alpha",
+      "amount": 7068,
+      "source": "app_deposit",
+      "recordedAt": "2026-10-04T15:07:12.406Z"
+    },
+    {
+      "txId": "6c10f790-63ef-4e0b-9d0b-fb11ba247946",
+      "userId": "51378108-d6dd-46a4-9d88-d5112bfb73f0",
+      "type": "CREDIT",
+      "currency": "coins",
+      "amount": 100,
+      "reason": "Daily Streak Bonus (Day 1)",
+      "referenceId": null,
+      "balanceBefore": 8758,
+      "balanceAfter": 8858,
+      "createdAt": "2026-10-04T22:17:29.988Z",
+      "recordedAt": "2026-10-04T22:17:29.990Z"
     }
   ],
   "coin_orders": [
@@ -196,15 +231,21 @@
       "currency": "ZAR",
       "status": "pending",
       "createdAt": "2026-10-04T12:45:52.120Z"
+    },
+    {
+      "id": "COIN-FEC4F941",
+      "reference": "CR-1-COIN-FEC4F941-50000",
+      "userId": "8dcadfce-64b9-4926-ac36-42e4de57f14d",
+      "username": "1",
+      "email": "1@gmail.com",
+      "coins": 50000,
+      "amount": 15,
+      "currency": "ZAR",
+      "status": "pending",
+      "createdAt": "2026-10-04T13:57:16.520Z"
     }
   ],
   "activity_logs": [
-    {
-      "type": "new_user",
-      "username": "alpha",
-      "referredBy": null,
-      "ts": "2026-10-03T19:32:55.634Z"
-    },
     {
       "type": "new_user",
       "username": "viki loves gift 🌷😘",
@@ -216,6 +257,20 @@
       "username": "1",
       "referredBy": null,
       "ts": "2026-10-04T12:45:26.855Z"
+    },
+    {
+      "type": "daily_bonus",
+      "username": "1",
+      "coins": 100,
+      "streak": 1,
+      "ts": "2026-10-04T14:51:17.133Z"
+    },
+    {
+      "type": "daily_bonus",
+      "username": "alpha",
+      "coins": 100,
+      "streak": 1,
+      "ts": "2026-10-04T22:17:29.992Z"
     }
   ],
   "rewards": [
@@ -792,6 +847,18 @@
       "streak": 1,
       "lastClaimDate": "2026-10-02",
       "lastClaimAt": "2026-10-02T17:18:40.648Z"
+    },
+    {
+      "userId": "8dcadfce-64b9-4926-ac36-42e4de57f14d",
+      "streak": 1,
+      "lastClaimDate": "2026-10-04",
+      "lastClaimAt": "2026-10-04T14:51:17.127Z"
+    },
+    {
+      "userId": "51378108-d6dd-46a4-9d88-d5112bfb73f0",
+      "streak": 1,
+      "lastClaimDate": "2026-10-04",
+      "lastClaimAt": "2026-10-04T22:17:29.983Z"
     }
   ],
   "social_program_submissions": [],
@@ -850,10 +917,10 @@
   "event_stats": {
     "totalUsers": 5,
     "totalTickets": 0,
-    "totalCoins": 1690,
+    "totalCoins": 8958,
     "lastReset": null,
     "lastWinner": null,
-    "snapshotAt": "2026-10-04T13:01:53.083Z"
+    "snapshotAt": "2026-10-05T00:01:53.009Z"
   },
   "leaderboard": [
     {
@@ -1031,6 +1098,17 @@
       "adminId": "afdd6b55-1597-4a45-86f7-1579c8325dc8",
       "targetId": "8dcadfce-64b9-4926-ac36-42e4de57f14d",
       "targetUsername": "1"
+    },
+    {
+      "id": "coin_deposit_1791126432407",
+      "type": "coin_deposit",
+      "timestamp": "2026-10-04T15:07:12.407Z",
+      "transactionId": "7730365c-4933-4dec-baf4-99d0d68e06a3",
+      "toUserId": "51378108-d6dd-46a4-9d88-d5112bfb73f0",
+      "toUsername": "alpha",
+      "amount": 7068,
+      "balanceBefore": 1690,
+      "balanceAfter": 8758
     }
   ]
 }
