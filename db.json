@@ -136,7 +136,7 @@
       "role": "user",
       "referralCode": "1-B3JBS",
       "transferHash": "XGRSVQT",
-      "coins": 100,
+      "coins": 250,
       "tickets": 0,
       "totalReferrals": 0,
       "monthlyReferrals": 0,
@@ -148,15 +148,15 @@
       "banned": false,
       "registrationIp": "10.30.203.20",
       "createdAt": "2026-10-04T12:45:26.839Z",
-      "currentStreak": 1,
-      "longestStreak": 1,
+      "currentStreak": 2,
+      "longestStreak": 2,
       "lastClaimDate": null,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "lifetimeCoinsEarned": 100,
+      "lifetimeCoinsEarned": 250,
       "lifetimeCoinsSpent": 0,
       "level": 1,
-      "xp": 25,
+      "xp": 75,
       "rewardCoins": 0
     }
   ],
@@ -217,34 +217,22 @@
       "balanceAfter": 8858,
       "createdAt": "2026-10-04T22:17:29.988Z",
       "recordedAt": "2026-10-04T22:17:29.990Z"
-    }
-  ],
-  "coin_orders": [
-    {
-      "id": "COIN-162E8C13",
-      "reference": "CR-1-COIN-162E8C13-50000",
-      "userId": "8dcadfce-64b9-4926-ac36-42e4de57f14d",
-      "username": "1",
-      "email": "1@gmail.com",
-      "coins": 50000,
-      "amount": 15,
-      "currency": "ZAR",
-      "status": "pending",
-      "createdAt": "2026-10-04T12:45:52.120Z"
     },
     {
-      "id": "COIN-FEC4F941",
-      "reference": "CR-1-COIN-FEC4F941-50000",
+      "txId": "235c29ed-c87f-4d14-a29f-e4b9a1bfbdb8",
       "userId": "8dcadfce-64b9-4926-ac36-42e4de57f14d",
-      "username": "1",
-      "email": "1@gmail.com",
-      "coins": 50000,
-      "amount": 15,
-      "currency": "ZAR",
-      "status": "pending",
-      "createdAt": "2026-10-04T13:57:16.520Z"
+      "type": "CREDIT",
+      "currency": "coins",
+      "amount": 150,
+      "reason": "Daily Streak Bonus (Day 2)",
+      "referenceId": null,
+      "balanceBefore": 100,
+      "balanceAfter": 250,
+      "createdAt": "2026-10-05T06:57:09.285Z",
+      "recordedAt": "2026-10-05T06:57:09.285Z"
     }
   ],
+  "coin_orders": [],
   "activity_logs": [
     {
       "type": "new_user",
@@ -271,6 +259,13 @@
       "coins": 100,
       "streak": 1,
       "ts": "2026-10-04T22:17:29.992Z"
+    },
+    {
+      "type": "daily_bonus",
+      "username": "1",
+      "coins": 150,
+      "streak": 2,
+      "ts": "2026-10-05T06:57:09.286Z"
     }
   ],
   "rewards": [
@@ -850,9 +845,9 @@
     },
     {
       "userId": "8dcadfce-64b9-4926-ac36-42e4de57f14d",
-      "streak": 1,
-      "lastClaimDate": "2026-10-04",
-      "lastClaimAt": "2026-10-04T14:51:17.127Z"
+      "streak": 2,
+      "lastClaimDate": "2026-10-05",
+      "lastClaimAt": "2026-10-05T06:57:09.282Z"
     },
     {
       "userId": "51378108-d6dd-46a4-9d88-d5112bfb73f0",
@@ -917,10 +912,10 @@
   "event_stats": {
     "totalUsers": 5,
     "totalTickets": 0,
-    "totalCoins": 8958,
+    "totalCoins": 9108,
     "lastReset": null,
     "lastWinner": null,
-    "snapshotAt": "2026-10-05T00:01:53.009Z"
+    "snapshotAt": "2026-10-05T11:01:52.734Z"
   },
   "leaderboard": [
     {
@@ -1109,6 +1104,33 @@
       "amount": 7068,
       "balanceBefore": 1690,
       "balanceAfter": 8758
+    },
+    {
+      "id": "admin_coin_order_deleted_1791183604980",
+      "type": "admin_coin_order_deleted",
+      "timestamp": "2026-10-05T07:00:04.980Z",
+      "adminId": "afdd6b55-1597-4a45-86f7-1579c8325dc8",
+      "orderId": "COIN-162E8C13",
+      "userId": "8dcadfce-64b9-4926-ac36-42e4de57f14d",
+      "reference": "CR-1-COIN-162E8C13-50000"
+    },
+    {
+      "id": "admin_coin_order_deleted_1791183607519",
+      "type": "admin_coin_order_deleted",
+      "timestamp": "2026-10-05T07:00:07.519Z",
+      "adminId": "afdd6b55-1597-4a45-86f7-1579c8325dc8",
+      "orderId": "COIN-FEC4F941",
+      "userId": "8dcadfce-64b9-4926-ac36-42e4de57f14d",
+      "reference": "CR-1-COIN-FEC4F941-50000"
+    },
+    {
+      "id": "admin_coin_order_deleted_1791183623726",
+      "type": "admin_coin_order_deleted",
+      "timestamp": "2026-10-05T07:00:23.726Z",
+      "adminId": "afdd6b55-1597-4a45-86f7-1579c8325dc8",
+      "orderId": "COIN-C8DE2753",
+      "userId": "8dcadfce-64b9-4926-ac36-42e4de57f14d",
+      "reference": "CR-1-COIN-C8DE2753-1000000"
     }
   ]
 }
