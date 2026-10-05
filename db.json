@@ -128,38 +128,6 @@
       "rewardCoins": 0
     },
     {
-      "id": "8dcadfce-64b9-4926-ac36-42e4de57f14d",
-      "username": "1",
-      "email": "1@gmail.com",
-      "password": "1234",
-      "passwordHash": null,
-      "role": "user",
-      "referralCode": "1-B3JBS",
-      "transferHash": "XGRSVQT",
-      "coins": 2350,
-      "tickets": 0,
-      "totalReferrals": 1,
-      "monthlyReferrals": 1,
-      "hasRedeemedReferral": false,
-      "totalSpins": 0,
-      "lastSpinAt": null,
-      "lastCoinPurchaseAt": "2026-10-05T12:01:33.211Z",
-      "trophies": 0,
-      "banned": false,
-      "registrationIp": "10.30.203.20",
-      "createdAt": "2026-10-04T12:45:26.839Z",
-      "currentStreak": 2,
-      "longestStreak": 2,
-      "lastClaimDate": null,
-      "gamesPlayed": 245,
-      "gamesWon": 72,
-      "lifetimeCoinsEarned": 1100,
-      "lifetimeCoinsSpent": 61250,
-      "level": 5,
-      "xp": 923,
-      "rewardCoins": 1440
-    },
-    {
       "id": "13746bbd-147f-4979-945f-4f7eb28f19e3",
       "username": "匚尺乇卂ㄒㄖ尺",
       "email": "brandonanthonywolfe@gmail.com",
@@ -4197,12 +4165,12 @@
     "giveawaySpinEnabled": false
   },
   "event_stats": {
-    "totalUsers": 7,
+    "totalUsers": 6,
     "totalTickets": 0,
-    "totalCoins": 19408,
+    "totalCoins": 17058,
     "lastReset": null,
     "lastWinner": null,
-    "snapshotAt": "2026-10-05T19:46:03.159Z"
+    "snapshotAt": "2026-10-05T19:48:34.031Z"
   },
   "leaderboard": [
     {
@@ -4215,14 +4183,6 @@
     },
     {
       "rank": 2,
-      "username": "1",
-      "monthlyReferrals": 1,
-      "totalReferrals": 1,
-      "tickets": 0,
-      "trophies": 0
-    },
-    {
-      "rank": 3,
       "username": "admin",
       "monthlyReferrals": 0,
       "totalReferrals": 0,
@@ -4230,7 +4190,7 @@
       "trophies": 0
     },
     {
-      "rank": 4,
+      "rank": 3,
       "username": "kaab0._",
       "monthlyReferrals": 0,
       "totalReferrals": 0,
@@ -4238,7 +4198,7 @@
       "trophies": 0
     },
     {
-      "rank": 5,
+      "rank": 4,
       "username": "alpha",
       "monthlyReferrals": 0,
       "totalReferrals": 0,
@@ -4246,7 +4206,7 @@
       "trophies": 0
     },
     {
-      "rank": 6,
+      "rank": 5,
       "username": "viki loves gift 🌷😘",
       "monthlyReferrals": 0,
       "totalReferrals": 0,
@@ -4254,7 +4214,7 @@
       "trophies": 0
     },
     {
-      "rank": 7,
+      "rank": 6,
       "username": "kingtim920",
       "monthlyReferrals": 0,
       "totalReferrals": 0,
@@ -4588,6 +4548,15 @@
       "adminId": "afdd6b55-1597-4a45-86f7-1579c8325dc8",
       "announcementId": "3aec0227-4611-4c6d-9170-3d4b264f002b",
       "title": "fuck u phyco"
+    },
+    {
+      "id": "admin_delete_user_1791229695954",
+      "type": "admin_delete_user",
+      "timestamp": "2026-10-05T19:48:15.954Z",
+      "adminId": "afdd6b55-1597-4a45-86f7-1579c8325dc8",
+      "targetId": "8dcadfce-64b9-4926-ac36-42e4de57f14d",
+      "username": "1",
+      "email": "1@gmail.com"
     }
   ]
 }
