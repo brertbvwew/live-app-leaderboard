@@ -217,43 +217,7 @@
       "rewardCoins": 1000
     }
   ],
-  "transactions": [
-    {
-      "txId": "339bc2c0-7cfc-4290-a9b3-da094655d8d2",
-      "type": "deposit",
-      "toUserId": "f37cbcb5-80ed-4869-a4e4-2e7e19b0c0aa",
-      "toUsername": "kaab0._",
-      "amount": 30500,
-      "source": "app_deposit",
-      "recordedAt": "2026-10-06T10:01:26.197Z"
-    },
-    {
-      "txId": "4b9af890-547f-43fa-8c5e-313480c37fae",
-      "userId": "f37cbcb5-80ed-4869-a4e4-2e7e19b0c0aa",
-      "type": "DEBIT",
-      "currency": "coins",
-      "amount": 250,
-      "reason": "Casino wager",
-      "referenceId": null,
-      "balanceBefore": 30500,
-      "balanceAfter": 30250,
-      "createdAt": "2026-10-06T10:03:36.492Z",
-      "recordedAt": "2026-10-06T10:03:36.496Z"
-    },
-    {
-      "txId": "achievement:f37cbcb5-80ed-4869-a4e4-2e7e19b0c0aa:first_game",
-      "userId": "f37cbcb5-80ed-4869-a4e4-2e7e19b0c0aa",
-      "type": "CREDIT",
-      "currency": "coins",
-      "amount": 250,
-      "reason": "Achievement: First Blood",
-      "referenceId": "first_game",
-      "balanceBefore": 30250,
-      "balanceAfter": 30500,
-      "createdAt": "2026-10-06T10:03:37.006Z",
-      "recordedAt": "2026-10-06T10:03:37.095Z"
-    }
-  ],
+  "transactions": [],
   "coin_orders": [
     {
       "id": "COIN-F4378BF7",
@@ -6255,7 +6219,7 @@
     "totalCoins": 58408,
     "lastReset": null,
     "lastWinner": null,
-    "snapshotAt": "2026-10-06T11:37:31.620Z"
+    "snapshotAt": "2026-10-06T11:38:18.826Z"
   },
   "leaderboard": [
     {
