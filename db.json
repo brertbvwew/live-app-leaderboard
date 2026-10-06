@@ -220,7 +220,8 @@
       "lifetimeCoinsEarned": 0,
       "lifetimeCoinsSpent": 0,
       "level": 1,
-      "xp": 0
+      "xp": 0,
+      "rewardCoins": 0
     }
   ],
   "transactions": [],
@@ -241,13 +242,6 @@
     }
   ],
   "activity_logs": [
-    {
-      "type": "daily_bonus",
-      "username": "alpha",
-      "coins": 100,
-      "streak": 1,
-      "ts": "2026-10-04T22:17:29.992Z"
-    },
     {
       "type": "daily_bonus",
       "username": "1",
@@ -4239,7 +4233,7 @@
     "totalCoins": 17058,
     "lastReset": null,
     "lastWinner": null,
-    "snapshotAt": "2026-10-05T19:59:33.195Z"
+    "snapshotAt": "2026-10-06T05:10:41.299Z"
   },
   "leaderboard": [
     {
