@@ -39,26 +39,26 @@
       "role": "user",
       "referralCode": "KAAB-9TVEA",
       "transferHash": "9DDVA1O",
-      "coins": 0,
+      "coins": 30500,
       "tickets": 0,
       "totalReferrals": 0,
       "monthlyReferrals": 0,
       "hasRedeemedReferral": false,
       "totalSpins": 0,
       "lastSpinAt": null,
-      "lastCoinPurchaseAt": null,
+      "lastCoinPurchaseAt": "2026-10-06T10:01:26.183Z",
       "trophies": 0,
       "banned": false,
       "createdAt": "2026-10-03T09:40:14.782Z",
       "currentStreak": 0,
       "longestStreak": 0,
       "lastClaimDate": null,
-      "gamesPlayed": 0,
+      "gamesPlayed": 1,
       "gamesWon": 0,
-      "lifetimeCoinsEarned": 0,
-      "lifetimeCoinsSpent": 0,
+      "lifetimeCoinsEarned": 250,
+      "lifetimeCoinsSpent": 250,
       "level": 1,
-      "xp": 0,
+      "xp": 115,
       "rewardCoins": 0
     },
     {
@@ -189,12 +189,12 @@
       "id": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
       "username": "1",
       "email": "1@gmail.com",
-      "password": "12345678",
+      "password": "1234",
       "passwordHash": null,
       "role": "user",
       "referralCode": "1-GI1UX",
       "transferHash": "D0ASA08",
-      "coins": 0,
+      "coins": 10850,
       "tickets": 0,
       "totalReferrals": 0,
       "monthlyReferrals": 0,
@@ -205,19 +205,55 @@
       "trophies": 0,
       "banned": false,
       "createdAt": "2026-10-05T19:58:48.380Z",
-      "currentStreak": 0,
-      "longestStreak": 0,
+      "currentStreak": 1,
+      "longestStreak": 1,
       "lastClaimDate": null,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "lifetimeCoinsEarned": 0,
-      "lifetimeCoinsSpent": 0,
-      "level": 1,
-      "xp": 0,
-      "rewardCoins": 0
+      "gamesPlayed": 177,
+      "gamesWon": 50,
+      "lifetimeCoinsEarned": 55100,
+      "lifetimeCoinsSpent": 44250,
+      "level": 80,
+      "xp": 20775,
+      "rewardCoins": 1000
     }
   ],
-  "transactions": [],
+  "transactions": [
+    {
+      "txId": "339bc2c0-7cfc-4290-a9b3-da094655d8d2",
+      "type": "deposit",
+      "toUserId": "f37cbcb5-80ed-4869-a4e4-2e7e19b0c0aa",
+      "toUsername": "kaab0._",
+      "amount": 30500,
+      "source": "app_deposit",
+      "recordedAt": "2026-10-06T10:01:26.197Z"
+    },
+    {
+      "txId": "4b9af890-547f-43fa-8c5e-313480c37fae",
+      "userId": "f37cbcb5-80ed-4869-a4e4-2e7e19b0c0aa",
+      "type": "DEBIT",
+      "currency": "coins",
+      "amount": 250,
+      "reason": "Casino wager",
+      "referenceId": null,
+      "balanceBefore": 30500,
+      "balanceAfter": 30250,
+      "createdAt": "2026-10-06T10:03:36.492Z",
+      "recordedAt": "2026-10-06T10:03:36.496Z"
+    },
+    {
+      "txId": "achievement:f37cbcb5-80ed-4869-a4e4-2e7e19b0c0aa:first_game",
+      "userId": "f37cbcb5-80ed-4869-a4e4-2e7e19b0c0aa",
+      "type": "CREDIT",
+      "currency": "coins",
+      "amount": 250,
+      "reason": "Achievement: First Blood",
+      "referenceId": "first_game",
+      "balanceBefore": 30250,
+      "balanceAfter": 30500,
+      "createdAt": "2026-10-06T10:03:37.006Z",
+      "recordedAt": "2026-10-06T10:03:37.095Z"
+    }
+  ],
   "coin_orders": [
     {
       "id": "COIN-F4378BF7",
@@ -235,13 +271,6 @@
     }
   ],
   "activity_logs": [
-    {
-      "type": "daily_bonus",
-      "username": "1",
-      "coins": 150,
-      "streak": 2,
-      "ts": "2026-10-05T06:57:09.286Z"
-    },
     {
       "type": "casino_limbo",
       "username": "1",
@@ -3359,6 +3388,1981 @@
       "username": "2",
       "referredBy": null,
       "ts": "2026-10-05T19:59:11.979Z"
+    },
+    {
+      "type": "daily_bonus",
+      "username": "1",
+      "coins": 100,
+      "streak": 1,
+      "ts": "2026-10-06T06:43:52.293Z"
+    },
+    {
+      "type": "casino_slots",
+      "username": "1",
+      "bet": 250,
+      "symbols": "🔔 🍇 7️⃣",
+      "isWin": false,
+      "winType": null,
+      "payout": 0,
+      "multiplier": 0,
+      "ts": "2026-10-06T07:21:39.703Z"
+    },
+    {
+      "type": "casino_slots",
+      "username": "1",
+      "bet": 250,
+      "symbols": "💎 🪙 🍇",
+      "isWin": false,
+      "winType": null,
+      "payout": 0,
+      "multiplier": 0,
+      "ts": "2026-10-06T07:21:46.794Z"
+    },
+    {
+      "type": "casino_slots",
+      "username": "1",
+      "bet": 250,
+      "symbols": "⭐ 🍇 🍫",
+      "isWin": false,
+      "winType": null,
+      "payout": 0,
+      "multiplier": 0,
+      "ts": "2026-10-06T07:21:51.294Z"
+    },
+    {
+      "type": "casino_limbo",
+      "username": "1",
+      "action": "target_1.95x",
+      "bet": 250,
+      "isWin": true,
+      "payout": 20,
+      "multiplier": 0.08,
+      "target": 1.95,
+      "resultMultiplier": 1,
+      "ts": "2026-10-06T07:22:05.105Z"
+    },
+    {
+      "type": "casino_limbo",
+      "username": "1",
+      "action": "target_2.96x",
+      "bet": 250,
+      "isWin": false,
+      "payout": 0,
+      "multiplier": 0,
+      "target": 2.96,
+      "resultMultiplier": 1,
+      "ts": "2026-10-06T07:22:10.095Z"
+    },
+    {
+      "type": "casino_limbo",
+      "username": "1",
+      "action": "target_1.91x",
+      "bet": 250,
+      "isWin": true,
+      "payout": 20,
+      "multiplier": 0.08,
+      "target": 1.91,
+      "resultMultiplier": 1,
+      "ts": "2026-10-06T07:22:12.506Z"
+    },
+    {
+      "type": "casino_limbo",
+      "username": "1",
+      "action": "target_2.48x",
+      "bet": 250,
+      "isWin": false,
+      "payout": 0,
+      "multiplier": 0,
+      "target": 2.48,
+      "resultMultiplier": 1,
+      "ts": "2026-10-06T07:22:14.505Z"
+    },
+    {
+      "type": "casino_limbo",
+      "username": "1",
+      "action": "target_2.38x",
+      "bet": 250,
+      "isWin": false,
+      "payout": 0,
+      "multiplier": 0,
+      "target": 2.38,
+      "resultMultiplier": 1,
+      "ts": "2026-10-06T07:22:16.895Z"
+    },
+    {
+      "type": "casino_limbo",
+      "username": "1",
+      "action": "target_1.41x",
+      "bet": 250,
+      "isWin": false,
+      "payout": 0,
+      "multiplier": 0,
+      "target": 1.41,
+      "resultMultiplier": 1,
+      "ts": "2026-10-06T07:22:18.799Z"
+    },
+    {
+      "type": "casino_limbo",
+      "username": "1",
+      "action": "target_2.73x",
+      "bet": 250,
+      "isWin": false,
+      "payout": 0,
+      "multiplier": 0,
+      "target": 2.73,
+      "resultMultiplier": 1,
+      "ts": "2026-10-06T07:22:21.605Z"
+    },
+    {
+      "type": "casino_limbo",
+      "username": "1",
+      "action": "target_2.71x",
+      "bet": 250,
+      "isWin": true,
+      "payout": 20,
+      "multiplier": 0.08,
+      "target": 2.71,
+      "resultMultiplier": 1,
+      "ts": "2026-10-06T07:22:23.803Z"
+    },
+    {
+      "type": "casino_limbo",
+      "username": "1",
+      "action": "target_1.67x",
+      "bet": 250,
+      "isWin": false,
+      "payout": 0,
+      "multiplier": 0,
+      "target": 1.67,
+      "resultMultiplier": 1,
+      "ts": "2026-10-06T07:22:26.099Z"
+    },
+    {
+      "type": "casino_limbo",
+      "username": "1",
+      "action": "target_1.03x",
+      "bet": 250,
+      "isWin": true,
+      "payout": 20,
+      "multiplier": 0.08,
+      "target": 1.03,
+      "resultMultiplier": 1,
+      "ts": "2026-10-06T07:22:28.794Z"
+    },
+    {
+      "type": "casino_slots",
+      "username": "1",
+      "bet": 250,
+      "symbols": "🍋 👑 7️⃣",
+      "isWin": false,
+      "winType": null,
+      "payout": 0,
+      "multiplier": 0,
+      "ts": "2026-10-06T09:26:30.802Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 17,
+      "dealerTotal": 17,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:26:37.493Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "BLACKJACK",
+      "playerTotal": 21,
+      "dealerTotal": 12,
+      "isWin": true,
+      "payout": 20,
+      "ts": "2026-10-06T09:26:40.401Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "WIN",
+      "playerTotal": 16,
+      "dealerTotal": 26,
+      "isWin": true,
+      "payout": 20,
+      "ts": "2026-10-06T09:26:42.999Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "WIN",
+      "playerTotal": 20,
+      "dealerTotal": 17,
+      "isWin": true,
+      "payout": 20,
+      "ts": "2026-10-06T09:26:45.003Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 14,
+      "dealerTotal": 17,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:26:46.502Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 20,
+      "dealerTotal": 21,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:26:47.997Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 10,
+      "dealerTotal": 18,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:26:49.400Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "WIN",
+      "playerTotal": 20,
+      "dealerTotal": 18,
+      "isWin": true,
+      "payout": 20,
+      "ts": "2026-10-06T09:26:51.004Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 16,
+      "dealerTotal": 19,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:26:52.707Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 13,
+      "dealerTotal": 17,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:26:54.398Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 19,
+      "dealerTotal": 23,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:26:56.198Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 20,
+      "dealerTotal": 21,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:26:57.900Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 13,
+      "dealerTotal": 17,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:26:59.404Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 19,
+      "dealerTotal": 22,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:27:01.100Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "BLACKJACK",
+      "playerTotal": 21,
+      "dealerTotal": 9,
+      "isWin": true,
+      "payout": 20,
+      "ts": "2026-10-06T09:27:02.794Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 13,
+      "dealerTotal": 20,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:27:04.999Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 15,
+      "dealerTotal": 17,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:27:06.894Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 13,
+      "dealerTotal": 17,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:27:08.499Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 15,
+      "dealerTotal": 18,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:27:10.902Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 12,
+      "dealerTotal": 17,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:27:13.296Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 20,
+      "dealerTotal": 18,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:27:15.497Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 21,
+      "dealerTotal": 9,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:27:17.597Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 9,
+      "dealerTotal": 20,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:27:19.593Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "WIN",
+      "playerTotal": 15,
+      "dealerTotal": 22,
+      "isWin": true,
+      "payout": 20,
+      "ts": "2026-10-06T09:27:22.004Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 20,
+      "dealerTotal": 20,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:27:24.505Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 12,
+      "dealerTotal": 20,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:27:26.701Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 19,
+      "dealerTotal": 19,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:27:28.793Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "WIN",
+      "playerTotal": 12,
+      "dealerTotal": 26,
+      "isWin": true,
+      "payout": 20,
+      "ts": "2026-10-06T09:27:31.499Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 6,
+      "dealerTotal": 20,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:27:33.494Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 7,
+      "dealerTotal": 18,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:27:35.102Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 12,
+      "dealerTotal": 21,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:27:38.305Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 8,
+      "dealerTotal": 17,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:27:40.594Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 20,
+      "dealerTotal": 21,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:27:42.392Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "WIN",
+      "playerTotal": 10,
+      "dealerTotal": 24,
+      "isWin": true,
+      "payout": 20,
+      "ts": "2026-10-06T09:27:44.699Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "WIN",
+      "playerTotal": 20,
+      "dealerTotal": 19,
+      "isWin": true,
+      "payout": 20,
+      "ts": "2026-10-06T09:27:47.005Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 10,
+      "dealerTotal": 18,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:27:49.094Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "WIN",
+      "playerTotal": 13,
+      "dealerTotal": 25,
+      "isWin": true,
+      "payout": 20,
+      "ts": "2026-10-06T09:27:50.995Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "WIN",
+      "playerTotal": 15,
+      "dealerTotal": 23,
+      "isWin": true,
+      "payout": 20,
+      "ts": "2026-10-06T09:27:53.505Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "WIN",
+      "playerTotal": 4,
+      "dealerTotal": 26,
+      "isWin": true,
+      "payout": 20,
+      "ts": "2026-10-06T09:27:55.906Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 18,
+      "dealerTotal": 20,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:27:57.799Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 14,
+      "dealerTotal": 21,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:27:59.497Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "WIN",
+      "playerTotal": 12,
+      "dealerTotal": 24,
+      "isWin": true,
+      "payout": 20,
+      "ts": "2026-10-06T09:28:01.305Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "BLACKJACK",
+      "playerTotal": 21,
+      "dealerTotal": 12,
+      "isWin": true,
+      "payout": 20,
+      "ts": "2026-10-06T09:28:05.295Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "WIN",
+      "playerTotal": 20,
+      "dealerTotal": 18,
+      "isWin": true,
+      "payout": 20,
+      "ts": "2026-10-06T09:28:07.403Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "WIN",
+      "playerTotal": 15,
+      "dealerTotal": 23,
+      "isWin": true,
+      "payout": 20,
+      "ts": "2026-10-06T09:28:09.397Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "WIN",
+      "playerTotal": 20,
+      "dealerTotal": 18,
+      "isWin": true,
+      "payout": 20,
+      "ts": "2026-10-06T09:28:11.497Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 17,
+      "dealerTotal": 19,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:28:13.095Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "WIN",
+      "playerTotal": 20,
+      "dealerTotal": 17,
+      "isWin": true,
+      "payout": 20,
+      "ts": "2026-10-06T09:28:15.098Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 12,
+      "dealerTotal": 20,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:28:17.098Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 9,
+      "dealerTotal": 19,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:28:19.402Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "BLACKJACK",
+      "playerTotal": 21,
+      "dealerTotal": 14,
+      "isWin": true,
+      "payout": 20,
+      "ts": "2026-10-06T09:28:22.701Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "WIN",
+      "playerTotal": 20,
+      "dealerTotal": 25,
+      "isWin": true,
+      "payout": 20,
+      "ts": "2026-10-06T09:28:25.195Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 12,
+      "dealerTotal": 20,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:28:26.799Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 15,
+      "dealerTotal": 18,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:28:28.502Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "WIN",
+      "playerTotal": 13,
+      "dealerTotal": 22,
+      "isWin": true,
+      "payout": 20,
+      "ts": "2026-10-06T09:28:30.494Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 9,
+      "dealerTotal": 17,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:28:35.007Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 14,
+      "dealerTotal": 17,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:28:38.001Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "WIN",
+      "playerTotal": 8,
+      "dealerTotal": 23,
+      "isWin": true,
+      "payout": 20,
+      "ts": "2026-10-06T09:28:40.294Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 12,
+      "dealerTotal": 17,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:28:42.204Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 6,
+      "dealerTotal": 17,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:28:44.404Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "WIN",
+      "playerTotal": 9,
+      "dealerTotal": 22,
+      "isWin": true,
+      "payout": 20,
+      "ts": "2026-10-06T09:28:46.601Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "WIN",
+      "playerTotal": 18,
+      "dealerTotal": 17,
+      "isWin": true,
+      "payout": 20,
+      "ts": "2026-10-06T09:28:48.804Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 14,
+      "dealerTotal": 19,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:28:50.704Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 20,
+      "dealerTotal": 17,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:28:52.501Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 20,
+      "dealerTotal": 20,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:28:54.299Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 15,
+      "dealerTotal": 21,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:28:56.095Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 14,
+      "dealerTotal": 20,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:28:57.806Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 8,
+      "dealerTotal": 21,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:28:59.501Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 7,
+      "dealerTotal": 21,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:29:01.296Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 16,
+      "dealerTotal": 20,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:29:02.905Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "WIN",
+      "playerTotal": 20,
+      "dealerTotal": 23,
+      "isWin": true,
+      "payout": 20,
+      "ts": "2026-10-06T09:29:04.999Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 7,
+      "dealerTotal": 21,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:29:07.005Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 12,
+      "dealerTotal": 22,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:29:17.001Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 18,
+      "dealerTotal": 21,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:29:20.205Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 4,
+      "dealerTotal": 18,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:29:22.698Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "WIN",
+      "playerTotal": 17,
+      "dealerTotal": 25,
+      "isWin": true,
+      "payout": 20,
+      "ts": "2026-10-06T09:29:24.705Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 19,
+      "dealerTotal": 20,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:29:26.695Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 19,
+      "dealerTotal": 25,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:29:28.605Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 13,
+      "dealerTotal": 20,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:29:30.707Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "BLACKJACK",
+      "playerTotal": 21,
+      "dealerTotal": 12,
+      "isWin": true,
+      "payout": 20,
+      "ts": "2026-10-06T09:29:32.705Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 12,
+      "dealerTotal": 20,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:29:34.903Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 15,
+      "dealerTotal": 20,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:29:37.196Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 5,
+      "dealerTotal": 26,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:29:39.101Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 18,
+      "dealerTotal": 21,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:29:40.902Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 12,
+      "dealerTotal": 18,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:29:42.905Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 17,
+      "dealerTotal": 20,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:29:45.205Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "WIN",
+      "playerTotal": 13,
+      "dealerTotal": 24,
+      "isWin": true,
+      "payout": 20,
+      "ts": "2026-10-06T09:29:47.104Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 15,
+      "dealerTotal": 20,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:29:49.094Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 9,
+      "dealerTotal": 19,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:29:51.093Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 12,
+      "dealerTotal": 20,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:29:53.092Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 12,
+      "dealerTotal": 20,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:29:54.804Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 8,
+      "dealerTotal": 21,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:29:56.697Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 8,
+      "dealerTotal": 17,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:29:58.706Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 12,
+      "dealerTotal": 17,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:30:00.600Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "WIN",
+      "playerTotal": 17,
+      "dealerTotal": 23,
+      "isWin": true,
+      "payout": 20,
+      "ts": "2026-10-06T09:30:02.795Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "WIN",
+      "playerTotal": 19,
+      "dealerTotal": 24,
+      "isWin": true,
+      "payout": 20,
+      "ts": "2026-10-06T09:30:05.297Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 19,
+      "dealerTotal": 21,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:30:07.500Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "WIN",
+      "playerTotal": 20,
+      "dealerTotal": 19,
+      "isWin": true,
+      "payout": 20,
+      "ts": "2026-10-06T09:30:09.503Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 11,
+      "dealerTotal": 18,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:30:14.704Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "BLACKJACK",
+      "playerTotal": 21,
+      "dealerTotal": 18,
+      "isWin": true,
+      "payout": 20,
+      "ts": "2026-10-06T09:30:17.099Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "WIN",
+      "playerTotal": 15,
+      "dealerTotal": 22,
+      "isWin": true,
+      "payout": 20,
+      "ts": "2026-10-06T09:30:19.399Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 12,
+      "dealerTotal": 21,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:30:21.301Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 13,
+      "dealerTotal": 18,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:30:23.601Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "WIN",
+      "playerTotal": 15,
+      "dealerTotal": 23,
+      "isWin": true,
+      "payout": 20,
+      "ts": "2026-10-06T09:30:25.700Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 11,
+      "dealerTotal": 20,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:30:27.807Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 7,
+      "dealerTotal": 21,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:30:29.895Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 16,
+      "dealerTotal": 19,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:30:32.304Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 12,
+      "dealerTotal": 23,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:30:33.905Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 12,
+      "dealerTotal": 20,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:30:35.698Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "BLACKJACK",
+      "playerTotal": 21,
+      "dealerTotal": 17,
+      "isWin": true,
+      "payout": 20,
+      "ts": "2026-10-06T09:30:48.706Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 10,
+      "dealerTotal": 23,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:30:50.697Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 12,
+      "dealerTotal": 22,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:30:52.603Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 16,
+      "dealerTotal": 21,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:30:54.302Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 18,
+      "dealerTotal": 24,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:30:55.805Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "WIN",
+      "playerTotal": 11,
+      "dealerTotal": 23,
+      "isWin": true,
+      "payout": 20,
+      "ts": "2026-10-06T09:30:57.793Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 15,
+      "dealerTotal": 26,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:31:00.111Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 13,
+      "dealerTotal": 18,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:31:02.095Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "WIN",
+      "playerTotal": 17,
+      "dealerTotal": 23,
+      "isWin": true,
+      "payout": 20,
+      "ts": "2026-10-06T09:31:04.004Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 12,
+      "dealerTotal": 24,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:31:08.996Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 11,
+      "dealerTotal": 19,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:31:10.904Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "BLACKJACK",
+      "playerTotal": 21,
+      "dealerTotal": 12,
+      "isWin": true,
+      "payout": 20,
+      "ts": "2026-10-06T09:31:12.993Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 9,
+      "dealerTotal": 18,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:31:14.793Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "WIN",
+      "playerTotal": 19,
+      "dealerTotal": 23,
+      "isWin": true,
+      "payout": 20,
+      "ts": "2026-10-06T09:31:17.007Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 15,
+      "dealerTotal": 20,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:31:19.093Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "PUSH",
+      "playerTotal": 21,
+      "dealerTotal": 21,
+      "isWin": false,
+      "payout": 250,
+      "ts": "2026-10-06T09:31:21.194Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 20,
+      "dealerTotal": 21,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:31:22.801Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 12,
+      "dealerTotal": 20,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:31:24.503Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 17,
+      "dealerTotal": 19,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:31:26.294Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 19,
+      "dealerTotal": 18,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:31:28.196Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 17,
+      "dealerTotal": 20,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:31:32.499Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "WIN",
+      "playerTotal": 20,
+      "dealerTotal": 22,
+      "isWin": true,
+      "payout": 20,
+      "ts": "2026-10-06T09:31:34.504Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 9,
+      "dealerTotal": 20,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:31:36.503Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 19,
+      "dealerTotal": 19,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:31:38.195Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 10,
+      "dealerTotal": 17,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:31:39.902Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "WIN",
+      "playerTotal": 20,
+      "dealerTotal": 17,
+      "isWin": true,
+      "payout": 20,
+      "ts": "2026-10-06T09:31:42.099Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 11,
+      "dealerTotal": 24,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:31:44.003Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 17,
+      "dealerTotal": 20,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:31:45.902Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "WIN",
+      "playerTotal": 20,
+      "dealerTotal": 18,
+      "isWin": true,
+      "payout": 20,
+      "ts": "2026-10-06T09:31:47.792Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 12,
+      "dealerTotal": 23,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:31:49.602Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 12,
+      "dealerTotal": 17,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:31:51.303Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 15,
+      "dealerTotal": 20,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:31:53.094Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 13,
+      "dealerTotal": 17,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:31:54.692Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 13,
+      "dealerTotal": 18,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:31:56.501Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "WIN",
+      "playerTotal": 17,
+      "dealerTotal": 25,
+      "isWin": true,
+      "payout": 20,
+      "ts": "2026-10-06T09:31:58.493Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "WIN",
+      "playerTotal": 10,
+      "dealerTotal": 26,
+      "isWin": true,
+      "payout": 20,
+      "ts": "2026-10-06T09:32:00.996Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 7,
+      "dealerTotal": 19,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:32:06.192Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 16,
+      "dealerTotal": 18,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:32:07.903Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 18,
+      "dealerTotal": 19,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:32:09.695Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 18,
+      "dealerTotal": 20,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:32:11.305Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 11,
+      "dealerTotal": 25,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:32:13.101Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 8,
+      "dealerTotal": 19,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:32:15.004Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 14,
+      "dealerTotal": 18,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:32:16.805Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "WIN",
+      "playerTotal": 15,
+      "dealerTotal": 23,
+      "isWin": true,
+      "payout": 20,
+      "ts": "2026-10-06T09:32:18.993Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 9,
+      "dealerTotal": 18,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:32:21.094Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 17,
+      "dealerTotal": 20,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:32:22.997Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 11,
+      "dealerTotal": 18,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:32:24.607Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 15,
+      "dealerTotal": 21,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:32:26.403Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 14,
+      "dealerTotal": 20,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:32:28.399Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 20,
+      "dealerTotal": 20,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:32:30.196Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 17,
+      "dealerTotal": 19,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:32:31.997Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "WIN",
+      "playerTotal": 12,
+      "dealerTotal": 22,
+      "isWin": true,
+      "payout": 20,
+      "ts": "2026-10-06T09:32:34.904Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 6,
+      "dealerTotal": 19,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:32:42.702Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "1",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 20,
+      "dealerTotal": 17,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-06T09:32:45.198Z"
+    },
+    {
+      "type": "casino_slots",
+      "username": "kaab0._",
+      "bet": 250,
+      "symbols": "🍋 🍫 7️⃣",
+      "isWin": false,
+      "winType": null,
+      "payout": 0,
+      "multiplier": 0,
+      "ts": "2026-10-06T10:03:37.198Z"
     }
   ],
   "rewards": [
@@ -3973,6 +5977,84 @@
       "achievementId": "first_game",
       "name": "First Blood",
       "unlockedAt": "2026-10-05T17:17:38.105Z"
+    },
+    {
+      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
+      "achievementId": "level_5",
+      "name": "Rising Star",
+      "unlockedAt": "2026-10-06T06:43:52.402Z"
+    },
+    {
+      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
+      "achievementId": "level_10",
+      "name": "Dedicated Player",
+      "unlockedAt": "2026-10-06T06:43:52.604Z"
+    },
+    {
+      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
+      "achievementId": "level_20",
+      "name": "Seasoned Pro",
+      "unlockedAt": "2026-10-06T06:43:52.804Z"
+    },
+    {
+      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
+      "achievementId": "level_35",
+      "name": "Platinum Legend",
+      "unlockedAt": "2026-10-06T06:43:53.006Z"
+    },
+    {
+      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
+      "achievementId": "level_50",
+      "name": "Diamond Overlord",
+      "unlockedAt": "2026-10-06T06:43:53.304Z"
+    },
+    {
+      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
+      "achievementId": "first_game",
+      "name": "First Blood",
+      "unlockedAt": "2026-10-06T07:21:39.597Z"
+    },
+    {
+      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
+      "achievementId": "first_win",
+      "name": "Winner!",
+      "unlockedAt": "2026-10-06T07:22:04.994Z"
+    },
+    {
+      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
+      "achievementId": "games_10",
+      "name": "Getting Warmed Up",
+      "unlockedAt": "2026-10-06T07:22:21.405Z"
+    },
+    {
+      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
+      "achievementId": "wins_10",
+      "name": "On A Roll",
+      "unlockedAt": "2026-10-06T09:27:21.799Z"
+    },
+    {
+      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
+      "achievementId": "games_50",
+      "name": "Addicted",
+      "unlockedAt": "2026-10-06T09:27:48.895Z"
+    },
+    {
+      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
+      "achievementId": "games_100",
+      "name": "High Roller",
+      "unlockedAt": "2026-10-06T09:29:44.796Z"
+    },
+    {
+      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
+      "achievementId": "wins_50",
+      "name": "Lucky Charm",
+      "unlockedAt": "2026-10-06T09:32:34.512Z"
+    },
+    {
+      "userId": "f37cbcb5-80ed-4869-a4e4-2e7e19b0c0aa",
+      "achievementId": "first_game",
+      "name": "First Blood",
+      "unlockedAt": "2026-10-06T10:03:36.899Z"
     }
   ],
   "challenges": [
@@ -4075,6 +6157,38 @@
       "completed": false,
       "claimed": false,
       "updatedAt": "2026-10-05T17:17:51.397Z"
+    },
+    {
+      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
+      "challengeId": "chal_play3",
+      "progress": 177,
+      "completed": true,
+      "claimed": false,
+      "updatedAt": "2026-10-06T09:32:44.802Z"
+    },
+    {
+      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
+      "challengeId": "chal_win1",
+      "progress": 50,
+      "completed": true,
+      "claimed": false,
+      "updatedAt": "2026-10-06T09:32:34.096Z"
+    },
+    {
+      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
+      "challengeId": "chal_earn2k",
+      "progress": 1250,
+      "completed": false,
+      "claimed": false,
+      "updatedAt": "2026-10-06T09:32:34.197Z"
+    },
+    {
+      "userId": "f37cbcb5-80ed-4869-a4e4-2e7e19b0c0aa",
+      "challengeId": "chal_play3",
+      "progress": 1,
+      "completed": false,
+      "claimed": false,
+      "updatedAt": "2026-10-06T10:03:36.698Z"
     }
   ],
   "daily_bonuses": [
@@ -4113,103 +6227,17 @@
       "streak": 1,
       "lastClaimDate": "2026-10-05",
       "lastClaimAt": "2026-10-05T17:29:19.441Z"
+    },
+    {
+      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
+      "streak": 1,
+      "lastClaimDate": "2026-10-06",
+      "lastClaimAt": "2026-10-06T06:43:52.102Z"
     }
   ],
   "social_program_submissions": [],
   "service_ratings": [],
-  "emails": [
-    {
-      "id": "mail_1791214133004_h8xk4",
-      "createdAt": "2026-10-05T15:28:53.004Z",
-      "to": "brandonanthonywolfe@gmail.com",
-      "subject": "Welcome to CRYPTALIS  Your Gaming Rewards Journey Begins",
-      "html": "\n<!DOCTYPE html>\n<html>\n<head><meta charset=\"UTF-8\"></head>\n<body style=\"margin:0;padding:0;background:#0a0c14;font-family:'Segoe UI',Arial,sans-serif;\">\n<div style=\"max-width:560px;margin:0 auto;padding:32px 24px;\">\n\n  <div style=\"text-align:center;margin-bottom:28px;\">\n    <div style=\"display:inline-block;background:linear-gradient(135deg,#00f0ff,#7000ff);padding:12px 28px;border-radius:12px;\">\n      <span style=\"color:#fff;font-size:22px;font-weight:900;letter-spacing:2px;\">⚡ CRYPTALIS</span>\n    </div>\n    <p style=\"color:#596179;font-size:13px;margin-top:8px;\">Next-Gen Gaming Rewards &amp; Casino</p>\n  </div>\n\n  <div style=\"background:#0d1020;border:1px solid rgba(0,240,255,0.2);border-radius:16px;padding:28px;\">\n    <h2 style=\"color:#00f0ff;margin:0 0 12px;font-size:20px;\">Welcome aboard, <span style=\"color:#fff;\">@匚尺乇卂ㄒㄖ尺</span>!</h2>\n    <p style=\"color:#c8d0e0;line-height:1.7;font-size:15px;\">\n      Your verified Gmail account is now active. You have instant access to our dual-currency economy:\n    </p>\n\n    <div style=\"display:flex;gap:12px;margin:20px 0;\">\n      <div style=\"flex:1;background:rgba(255,255,255,0.04);border:1px solid rgba(255,255,255,0.08);border-radius:12px;padding:16px;text-align:center;\">\n        <div style=\"font-size:24px;margin-bottom:6px;\">🪙</div>\n        <div style=\"color:#fff;font-weight:700;font-size:14px;\">Normal Coins</div>\n        <div style=\"color:#949db5;font-size:12px;margin-top:4px;\">Earn from referrals &amp; daily activity</div>\n      </div>\n      <div style=\"flex:1;background:rgba(255,184,0,0.06);border:1px solid rgba(255,184,0,0.25);border-radius:12px;padding:16px;text-align:center;\">\n        <div style=\"font-size:24px;margin-bottom:6px;\">💳</div>\n        <div style=\"color:#ffb800;font-weight:700;font-size:14px;\">Casino Vault Coins</div>\n        <div style=\"color:#949db5;font-size:12px;margin-top:4px;\">Play games &amp; redeem gift cards</div>\n      </div>\n    </div>\n\n    <div style=\"background:rgba(255,184,0,0.06);border:1px solid rgba(255,184,0,0.2);border-radius:10px;padding:14px;text-align:center;margin-bottom:20px;\">\n      <div style=\"color:#949db5;font-size:12px;text-transform:uppercase;letter-spacing:1px;\">Exchange Rate</div>\n      <div style=\"color:#ffb800;font-size:18px;font-weight:800;margin-top:4px;\">2,500 Normal = 150 Vault Coins</div>\n    </div>\n\n    <div style=\"background:rgba(0,230,118,0.06);border:1px solid rgba(0,230,118,0.2);border-radius:10px;padding:14px;margin-bottom:20px;\">\n      <div style=\"color:#00e676;font-weight:700;font-size:13px;\">🎁 Your Referral Code: <span style=\"font-family:monospace;font-size:15px;color:#fff;\">匚尺乇卂-U3JA6</span></div>\n      <div style=\"color:#949db5;font-size:12px;margin-top:4px;\">Share it  you earn +2,500 coins for every friend who joins.</div>\n    </div>\n\n    <p style=\"color:#596179;font-size:12px;text-align:center;margin:0;\">\n      Questions? Reply to this email or visit our Discord. We respond within 24 hours.\n    </p>\n  </div>\n\n  <div style=\"text-align:center;margin-top:20px;color:#363d50;font-size:11px;\">\n    CRYPTALIS Verification Systems &bull; Autonomous Dispatch &bull; 2026\n  </div>\n</div>\n</body>\n</html>\n    ",
-      "text": "Welcome to CRYPTALIS  Your Gaming Rewards Journey Begins",
-      "type": "welcome",
-      "metadata": {
-        "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-        "username": "匚尺乇卂ㄒㄖ尺"
-      }
-    },
-    {
-      "id": "mail_1791219399701_uc4r6",
-      "createdAt": "2026-10-05T16:56:39.701Z",
-      "to": "abc123@gmail.com",
-      "subject": "Welcome to CRYPTALIS  Your Gaming Rewards Journey Begins",
-      "html": "\n<!DOCTYPE html>\n<html>\n<head><meta charset=\"UTF-8\"></head>\n<body style=\"margin:0;padding:0;background:#0a0c14;font-family:'Segoe UI',Arial,sans-serif;\">\n<div style=\"max-width:560px;margin:0 auto;padding:32px 24px;\">\n\n  <div style=\"text-align:center;margin-bottom:28px;\">\n    <div style=\"display:inline-block;background:linear-gradient(135deg,#00f0ff,#7000ff);padding:12px 28px;border-radius:12px;\">\n      <span style=\"color:#fff;font-size:22px;font-weight:900;letter-spacing:2px;\">⚡ CRYPTALIS</span>\n    </div>\n    <p style=\"color:#596179;font-size:13px;margin-top:8px;\">Next-Gen Gaming Rewards &amp; Casino</p>\n  </div>\n\n  <div style=\"background:#0d1020;border:1px solid rgba(0,240,255,0.2);border-radius:16px;padding:28px;\">\n    <h2 style=\"color:#00f0ff;margin:0 0 12px;font-size:20px;\">Welcome aboard, <span style=\"color:#fff;\">@Test</span>!</h2>\n    <p style=\"color:#c8d0e0;line-height:1.7;font-size:15px;\">\n      Your verified Gmail account is now active. You have instant access to our dual-currency economy:\n    </p>\n\n    <div style=\"display:flex;gap:12px;margin:20px 0;\">\n      <div style=\"flex:1;background:rgba(255,255,255,0.04);border:1px solid rgba(255,255,255,0.08);border-radius:12px;padding:16px;text-align:center;\">\n        <div style=\"font-size:24px;margin-bottom:6px;\">🪙</div>\n        <div style=\"color:#fff;font-weight:700;font-size:14px;\">Normal Coins</div>\n        <div style=\"color:#949db5;font-size:12px;margin-top:4px;\">Earn from referrals &amp; daily activity</div>\n      </div>\n      <div style=\"flex:1;background:rgba(255,184,0,0.06);border:1px solid rgba(255,184,0,0.25);border-radius:12px;padding:16px;text-align:center;\">\n        <div style=\"font-size:24px;margin-bottom:6px;\">💳</div>\n        <div style=\"color:#ffb800;font-weight:700;font-size:14px;\">Casino Vault Coins</div>\n        <div style=\"color:#949db5;font-size:12px;margin-top:4px;\">Play games &amp; redeem gift cards</div>\n      </div>\n    </div>\n\n    <div style=\"background:rgba(255,184,0,0.06);border:1px solid rgba(255,184,0,0.2);border-radius:10px;padding:14px;text-align:center;margin-bottom:20px;\">\n      <div style=\"color:#949db5;font-size:12px;text-transform:uppercase;letter-spacing:1px;\">Exchange Rate</div>\n      <div style=\"color:#ffb800;font-size:18px;font-weight:800;margin-top:4px;\">2,500 Normal = 150 Vault Coins</div>\n    </div>\n\n    <div style=\"background:rgba(0,230,118,0.06);border:1px solid rgba(0,230,118,0.2);border-radius:10px;padding:14px;margin-bottom:20px;\">\n      <div style=\"color:#00e676;font-weight:700;font-size:13px;\">🎁 Your Referral Code: <span style=\"font-family:monospace;font-size:15px;color:#fff;\">TEST-SLOJT</span></div>\n      <div style=\"color:#949db5;font-size:12px;margin-top:4px;\">Share it  you earn +2,500 coins for every friend who joins.</div>\n    </div>\n\n    <p style=\"color:#596179;font-size:12px;text-align:center;margin:0;\">\n      Questions? Reply to this email or visit our Discord. We respond within 24 hours.\n    </p>\n  </div>\n\n  <div style=\"text-align:center;margin-top:20px;color:#363d50;font-size:11px;\">\n    CRYPTALIS Verification Systems &bull; Autonomous Dispatch &bull; 2026\n  </div>\n</div>\n</body>\n</html>\n    ",
-      "text": "Welcome to CRYPTALIS  Your Gaming Rewards Journey Begins",
-      "type": "welcome",
-      "metadata": {
-        "userId": "eb72ac6a-fa22-4e52-ac48-1a6d07612a4a",
-        "username": "Test"
-      }
-    },
-    {
-      "id": "mail_1791219791595_g8cyr",
-      "createdAt": "2026-10-05T17:03:11.595Z",
-      "to": "timothydekock454@gmail.com",
-      "subject": "Welcome to CRYPTALIS  Your Gaming Rewards Journey Begins",
-      "html": "\n<!DOCTYPE html>\n<html>\n<head><meta charset=\"UTF-8\"></head>\n<body style=\"margin:0;padding:0;background:#0a0c14;font-family:'Segoe UI',Arial,sans-serif;\">\n<div style=\"max-width:560px;margin:0 auto;padding:32px 24px;\">\n\n  <div style=\"text-align:center;margin-bottom:28px;\">\n    <div style=\"display:inline-block;background:linear-gradient(135deg,#00f0ff,#7000ff);padding:12px 28px;border-radius:12px;\">\n      <span style=\"color:#fff;font-size:22px;font-weight:900;letter-spacing:2px;\">⚡ CRYPTALIS</span>\n    </div>\n    <p style=\"color:#596179;font-size:13px;margin-top:8px;\">Next-Gen Gaming Rewards &amp; Casino</p>\n  </div>\n\n  <div style=\"background:#0d1020;border:1px solid rgba(0,240,255,0.2);border-radius:16px;padding:28px;\">\n    <h2 style=\"color:#00f0ff;margin:0 0 12px;font-size:20px;\">Welcome aboard, <span style=\"color:#fff;\">@kingtim920</span>!</h2>\n    <p style=\"color:#c8d0e0;line-height:1.7;font-size:15px;\">\n      Your verified Gmail account is now active. You have instant access to our dual-currency economy:\n    </p>\n\n    <div style=\"display:flex;gap:12px;margin:20px 0;\">\n      <div style=\"flex:1;background:rgba(255,255,255,0.04);border:1px solid rgba(255,255,255,0.08);border-radius:12px;padding:16px;text-align:center;\">\n        <div style=\"font-size:24px;margin-bottom:6px;\">🪙</div>\n        <div style=\"color:#fff;font-weight:700;font-size:14px;\">Normal Coins</div>\n        <div style=\"color:#949db5;font-size:12px;margin-top:4px;\">Earn from referrals &amp; daily activity</div>\n      </div>\n      <div style=\"flex:1;background:rgba(255,184,0,0.06);border:1px solid rgba(255,184,0,0.25);border-radius:12px;padding:16px;text-align:center;\">\n        <div style=\"font-size:24px;margin-bottom:6px;\">💳</div>\n        <div style=\"color:#ffb800;font-weight:700;font-size:14px;\">Casino Vault Coins</div>\n        <div style=\"color:#949db5;font-size:12px;margin-top:4px;\">Play games &amp; redeem gift cards</div>\n      </div>\n    </div>\n\n    <div style=\"background:rgba(255,184,0,0.06);border:1px solid rgba(255,184,0,0.2);border-radius:10px;padding:14px;text-align:center;margin-bottom:20px;\">\n      <div style=\"color:#949db5;font-size:12px;text-transform:uppercase;letter-spacing:1px;\">Exchange Rate</div>\n      <div style=\"color:#ffb800;font-size:18px;font-weight:800;margin-top:4px;\">2,500 Normal = 150 Vault Coins</div>\n    </div>\n\n    <div style=\"background:rgba(0,230,118,0.06);border:1px solid rgba(0,230,118,0.2);border-radius:10px;padding:14px;margin-bottom:20px;\">\n      <div style=\"color:#00e676;font-weight:700;font-size:13px;\">🎁 Your Referral Code: <span style=\"font-family:monospace;font-size:15px;color:#fff;\">KING-F3ZAL</span></div>\n      <div style=\"color:#949db5;font-size:12px;margin-top:4px;\">Share it  you earn +2,500 coins for every friend who joins.</div>\n    </div>\n\n    <p style=\"color:#596179;font-size:12px;text-align:center;margin:0;\">\n      Questions? Reply to this email or visit our Discord. We respond within 24 hours.\n    </p>\n  </div>\n\n  <div style=\"text-align:center;margin-top:20px;color:#363d50;font-size:11px;\">\n    CRYPTALIS Verification Systems &bull; Autonomous Dispatch &bull; 2026\n  </div>\n</div>\n</body>\n</html>\n    ",
-      "text": "Welcome to CRYPTALIS  Your Gaming Rewards Journey Begins",
-      "type": "welcome",
-      "metadata": {
-        "userId": "6870c0c5-afa8-4107-8013-dc1cd0e70adc",
-        "username": "kingtim920"
-      }
-    },
-    {
-      "id": "mail_1791219943405_9kdnf",
-      "createdAt": "2026-10-05T17:05:43.405Z",
-      "to": "test123@gmail.com",
-      "subject": "Welcome to CRYPTALIS  Your Gaming Rewards Journey Begins",
-      "html": "\n<!DOCTYPE html>\n<html>\n<head><meta charset=\"UTF-8\"></head>\n<body style=\"margin:0;padding:0;background:#0a0c14;font-family:'Segoe UI',Arial,sans-serif;\">\n<div style=\"max-width:560px;margin:0 auto;padding:32px 24px;\">\n\n  <div style=\"text-align:center;margin-bottom:28px;\">\n    <div style=\"display:inline-block;background:linear-gradient(135deg,#00f0ff,#7000ff);padding:12px 28px;border-radius:12px;\">\n      <span style=\"color:#fff;font-size:22px;font-weight:900;letter-spacing:2px;\">⚡ CRYPTALIS</span>\n    </div>\n    <p style=\"color:#596179;font-size:13px;margin-top:8px;\">Next-Gen Gaming Rewards &amp; Casino</p>\n  </div>\n\n  <div style=\"background:#0d1020;border:1px solid rgba(0,240,255,0.2);border-radius:16px;padding:28px;\">\n    <h2 style=\"color:#00f0ff;margin:0 0 12px;font-size:20px;\">Welcome aboard, <span style=\"color:#fff;\">@abc</span>!</h2>\n    <p style=\"color:#c8d0e0;line-height:1.7;font-size:15px;\">\n      Your verified Gmail account is now active. You have instant access to our dual-currency economy:\n    </p>\n\n    <div style=\"display:flex;gap:12px;margin:20px 0;\">\n      <div style=\"flex:1;background:rgba(255,255,255,0.04);border:1px solid rgba(255,255,255,0.08);border-radius:12px;padding:16px;text-align:center;\">\n        <div style=\"font-size:24px;margin-bottom:6px;\">🪙</div>\n        <div style=\"color:#fff;font-weight:700;font-size:14px;\">Normal Coins</div>\n        <div style=\"color:#949db5;font-size:12px;margin-top:4px;\">Earn from referrals &amp; daily activity</div>\n      </div>\n      <div style=\"flex:1;background:rgba(255,184,0,0.06);border:1px solid rgba(255,184,0,0.25);border-radius:12px;padding:16px;text-align:center;\">\n        <div style=\"font-size:24px;margin-bottom:6px;\">💳</div>\n        <div style=\"color:#ffb800;font-weight:700;font-size:14px;\">Casino Vault Coins</div>\n        <div style=\"color:#949db5;font-size:12px;margin-top:4px;\">Play games &amp; redeem gift cards</div>\n      </div>\n    </div>\n\n    <div style=\"background:rgba(255,184,0,0.06);border:1px solid rgba(255,184,0,0.2);border-radius:10px;padding:14px;text-align:center;margin-bottom:20px;\">\n      <div style=\"color:#949db5;font-size:12px;text-transform:uppercase;letter-spacing:1px;\">Exchange Rate</div>\n      <div style=\"color:#ffb800;font-size:18px;font-weight:800;margin-top:4px;\">2,500 Normal = 150 Vault Coins</div>\n    </div>\n\n    <div style=\"background:rgba(0,230,118,0.06);border:1px solid rgba(0,230,118,0.2);border-radius:10px;padding:14px;margin-bottom:20px;\">\n      <div style=\"color:#00e676;font-weight:700;font-size:13px;\">🎁 Your Referral Code: <span style=\"font-family:monospace;font-size:15px;color:#fff;\">ABC-3S0GV</span></div>\n      <div style=\"color:#949db5;font-size:12px;margin-top:4px;\">Share it  you earn +2,500 coins for every friend who joins.</div>\n    </div>\n\n    <p style=\"color:#596179;font-size:12px;text-align:center;margin:0;\">\n      Questions? Reply to this email or visit our Discord. We respond within 24 hours.\n    </p>\n  </div>\n\n  <div style=\"text-align:center;margin-top:20px;color:#363d50;font-size:11px;\">\n    CRYPTALIS Verification Systems &bull; Autonomous Dispatch &bull; 2026\n  </div>\n</div>\n</body>\n</html>\n    ",
-      "text": "Welcome to CRYPTALIS  Your Gaming Rewards Journey Begins",
-      "type": "welcome",
-      "metadata": {
-        "userId": "2c3a5833-7441-4b26-9d25-77b77c048763",
-        "username": "abc"
-      }
-    },
-    {
-      "id": "mail_1791222573216_wp9ag",
-      "createdAt": "2026-10-05T17:49:33.216Z",
-      "to": "ejej@gmail.com",
-      "subject": "Welcome to CRYPTALIS  Your Gaming Rewards Journey Begins",
-      "html": "\n<!DOCTYPE html>\n<html>\n<head><meta charset=\"UTF-8\"></head>\n<body style=\"margin:0;padding:0;background:#0a0c14;font-family:'Segoe UI',Arial,sans-serif;\">\n<div style=\"max-width:560px;margin:0 auto;padding:32px 24px;\">\n\n  <div style=\"text-align:center;margin-bottom:28px;\">\n    <div style=\"display:inline-block;background:linear-gradient(135deg,#00f0ff,#7000ff);padding:12px 28px;border-radius:12px;\">\n      <span style=\"color:#fff;font-size:22px;font-weight:900;letter-spacing:2px;\">⚡ CRYPTALIS</span>\n    </div>\n    <p style=\"color:#596179;font-size:13px;margin-top:8px;\">Next-Gen Gaming Rewards &amp; Casino</p>\n  </div>\n\n  <div style=\"background:#0d1020;border:1px solid rgba(0,240,255,0.2);border-radius:16px;padding:28px;\">\n    <h2 style=\"color:#00f0ff;margin:0 0 12px;font-size:20px;\">Welcome aboard, <span style=\"color:#fff;\">@ejej</span>!</h2>\n    <p style=\"color:#c8d0e0;line-height:1.7;font-size:15px;\">\n      Your verified Gmail account is now active. You have instant access to our dual-currency economy:\n    </p>\n\n    <div style=\"display:flex;gap:12px;margin:20px 0;\">\n      <div style=\"flex:1;background:rgba(255,255,255,0.04);border:1px solid rgba(255,255,255,0.08);border-radius:12px;padding:16px;text-align:center;\">\n        <div style=\"font-size:24px;margin-bottom:6px;\">🪙</div>\n        <div style=\"color:#fff;font-weight:700;font-size:14px;\">Normal Coins</div>\n        <div style=\"color:#949db5;font-size:12px;margin-top:4px;\">Earn from referrals &amp; daily activity</div>\n      </div>\n      <div style=\"flex:1;background:rgba(255,184,0,0.06);border:1px solid rgba(255,184,0,0.25);border-radius:12px;padding:16px;text-align:center;\">\n        <div style=\"font-size:24px;margin-bottom:6px;\">💳</div>\n        <div style=\"color:#ffb800;font-weight:700;font-size:14px;\">Casino Vault Coins</div>\n        <div style=\"color:#949db5;font-size:12px;margin-top:4px;\">Play games &amp; redeem gift cards</div>\n      </div>\n    </div>\n\n    <div style=\"background:rgba(255,184,0,0.06);border:1px solid rgba(255,184,0,0.2);border-radius:10px;padding:14px;text-align:center;margin-bottom:20px;\">\n      <div style=\"color:#949db5;font-size:12px;text-transform:uppercase;letter-spacing:1px;\">Exchange Rate</div>\n      <div style=\"color:#ffb800;font-size:18px;font-weight:800;margin-top:4px;\">2,500 Normal = 150 Vault Coins</div>\n    </div>\n\n    <div style=\"background:rgba(0,230,118,0.06);border:1px solid rgba(0,230,118,0.2);border-radius:10px;padding:14px;margin-bottom:20px;\">\n      <div style=\"color:#00e676;font-weight:700;font-size:13px;\">🎁 Your Referral Code: <span style=\"font-family:monospace;font-size:15px;color:#fff;\">EJEJ-S9D61</span></div>\n      <div style=\"color:#949db5;font-size:12px;margin-top:4px;\">Share it  you earn +2,500 coins for every friend who joins.</div>\n    </div>\n\n    <p style=\"color:#596179;font-size:12px;text-align:center;margin:0;\">\n      Questions? Reply to this email or visit our Discord. We respond within 24 hours.\n    </p>\n  </div>\n\n  <div style=\"text-align:center;margin-top:20px;color:#363d50;font-size:11px;\">\n    CRYPTALIS Verification Systems &bull; Autonomous Dispatch &bull; 2026\n  </div>\n</div>\n</body>\n</html>\n    ",
-      "text": "Welcome to CRYPTALIS  Your Gaming Rewards Journey Begins",
-      "type": "welcome",
-      "metadata": {
-        "userId": "b2df9215-1373-44ac-9cc5-986b3d7f289d",
-        "username": "ejej"
-      }
-    },
-    {
-      "id": "mail_1791230328386_4ax8b",
-      "createdAt": "2026-10-05T19:58:48.386Z",
-      "to": "1@gmail.com",
-      "subject": "Welcome to CRYPTALIS  Your Gaming Rewards Journey Begins",
-      "html": "\n<!DOCTYPE html>\n<html>\n<head><meta charset=\"UTF-8\"></head>\n<body style=\"margin:0;padding:0;background:#0a0c14;font-family:'Segoe UI',Arial,sans-serif;\">\n<div style=\"max-width:560px;margin:0 auto;padding:32px 24px;\">\n\n  <div style=\"text-align:center;margin-bottom:28px;\">\n    <div style=\"display:inline-block;background:linear-gradient(135deg,#00f0ff,#7000ff);padding:12px 28px;border-radius:12px;\">\n      <span style=\"color:#fff;font-size:22px;font-weight:900;letter-spacing:2px;\">⚡ CRYPTALIS</span>\n    </div>\n    <p style=\"color:#596179;font-size:13px;margin-top:8px;\">Next-Gen Gaming Rewards &amp; Casino</p>\n  </div>\n\n  <div style=\"background:#0d1020;border:1px solid rgba(0,240,255,0.2);border-radius:16px;padding:28px;\">\n    <h2 style=\"color:#00f0ff;margin:0 0 12px;font-size:20px;\">Welcome aboard, <span style=\"color:#fff;\">@1</span>!</h2>\n    <p style=\"color:#c8d0e0;line-height:1.7;font-size:15px;\">\n      Your verified Gmail account is now active. You have instant access to our dual-currency economy:\n    </p>\n\n    <div style=\"display:flex;gap:12px;margin:20px 0;\">\n      <div style=\"flex:1;background:rgba(255,255,255,0.04);border:1px solid rgba(255,255,255,0.08);border-radius:12px;padding:16px;text-align:center;\">\n        <div style=\"font-size:24px;margin-bottom:6px;\">🪙</div>\n        <div style=\"color:#fff;font-weight:700;font-size:14px;\">Normal Coins</div>\n        <div style=\"color:#949db5;font-size:12px;margin-top:4px;\">Earn from referrals &amp; daily activity</div>\n      </div>\n      <div style=\"flex:1;background:rgba(255,184,0,0.06);border:1px solid rgba(255,184,0,0.25);border-radius:12px;padding:16px;text-align:center;\">\n        <div style=\"font-size:24px;margin-bottom:6px;\">💳</div>\n        <div style=\"color:#ffb800;font-weight:700;font-size:14px;\">Casino Vault Coins</div>\n        <div style=\"color:#949db5;font-size:12px;margin-top:4px;\">Play games &amp; redeem gift cards</div>\n      </div>\n    </div>\n\n    <div style=\"background:rgba(255,184,0,0.06);border:1px solid rgba(255,184,0,0.2);border-radius:10px;padding:14px;text-align:center;margin-bottom:20px;\">\n      <div style=\"color:#949db5;font-size:12px;text-transform:uppercase;letter-spacing:1px;\">Exchange Rate</div>\n      <div style=\"color:#ffb800;font-size:18px;font-weight:800;margin-top:4px;\">2,500 Normal = 150 Vault Coins</div>\n    </div>\n\n    <div style=\"background:rgba(0,230,118,0.06);border:1px solid rgba(0,230,118,0.2);border-radius:10px;padding:14px;margin-bottom:20px;\">\n      <div style=\"color:#00e676;font-weight:700;font-size:13px;\">🎁 Your Referral Code: <span style=\"font-family:monospace;font-size:15px;color:#fff;\">1-GI1UX</span></div>\n      <div style=\"color:#949db5;font-size:12px;margin-top:4px;\">Share it  you earn +2,500 coins for every friend who joins.</div>\n    </div>\n\n    <p style=\"color:#596179;font-size:12px;text-align:center;margin:0;\">\n      Questions? Reply to this email or visit our Discord. We respond within 24 hours.\n    </p>\n  </div>\n\n  <div style=\"text-align:center;margin-top:20px;color:#363d50;font-size:11px;\">\n    CRYPTALIS Verification Systems &bull; Autonomous Dispatch &bull; 2026\n  </div>\n</div>\n</body>\n</html>\n    ",
-      "text": "Welcome to CRYPTALIS  Your Gaming Rewards Journey Begins",
-      "type": "welcome",
-      "metadata": {
-        "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
-        "username": "1"
-      }
-    },
-    {
-      "id": "mail_1791230351883_pe3x9",
-      "createdAt": "2026-10-05T19:59:11.883Z",
-      "to": "2@gmail.com",
-      "subject": "Welcome to CRYPTALIS  Your Gaming Rewards Journey Begins",
-      "html": "\n<!DOCTYPE html>\n<html>\n<head><meta charset=\"UTF-8\"></head>\n<body style=\"margin:0;padding:0;background:#0a0c14;font-family:'Segoe UI',Arial,sans-serif;\">\n<div style=\"max-width:560px;margin:0 auto;padding:32px 24px;\">\n\n  <div style=\"text-align:center;margin-bottom:28px;\">\n    <div style=\"display:inline-block;background:linear-gradient(135deg,#00f0ff,#7000ff);padding:12px 28px;border-radius:12px;\">\n      <span style=\"color:#fff;font-size:22px;font-weight:900;letter-spacing:2px;\">⚡ CRYPTALIS</span>\n    </div>\n    <p style=\"color:#596179;font-size:13px;margin-top:8px;\">Next-Gen Gaming Rewards &amp; Casino</p>\n  </div>\n\n  <div style=\"background:#0d1020;border:1px solid rgba(0,240,255,0.2);border-radius:16px;padding:28px;\">\n    <h2 style=\"color:#00f0ff;margin:0 0 12px;font-size:20px;\">Welcome aboard, <span style=\"color:#fff;\">@2</span>!</h2>\n    <p style=\"color:#c8d0e0;line-height:1.7;font-size:15px;\">\n      Your verified Gmail account is now active. You have instant access to our dual-currency economy:\n    </p>\n\n    <div style=\"display:flex;gap:12px;margin:20px 0;\">\n      <div style=\"flex:1;background:rgba(255,255,255,0.04);border:1px solid rgba(255,255,255,0.08);border-radius:12px;padding:16px;text-align:center;\">\n        <div style=\"font-size:24px;margin-bottom:6px;\">🪙</div>\n        <div style=\"color:#fff;font-weight:700;font-size:14px;\">Normal Coins</div>\n        <div style=\"color:#949db5;font-size:12px;margin-top:4px;\">Earn from referrals &amp; daily activity</div>\n      </div>\n      <div style=\"flex:1;background:rgba(255,184,0,0.06);border:1px solid rgba(255,184,0,0.25);border-radius:12px;padding:16px;text-align:center;\">\n        <div style=\"font-size:24px;margin-bottom:6px;\">💳</div>\n        <div style=\"color:#ffb800;font-weight:700;font-size:14px;\">Casino Vault Coins</div>\n        <div style=\"color:#949db5;font-size:12px;margin-top:4px;\">Play games &amp; redeem gift cards</div>\n      </div>\n    </div>\n\n    <div style=\"background:rgba(255,184,0,0.06);border:1px solid rgba(255,184,0,0.2);border-radius:10px;padding:14px;text-align:center;margin-bottom:20px;\">\n      <div style=\"color:#949db5;font-size:12px;text-transform:uppercase;letter-spacing:1px;\">Exchange Rate</div>\n      <div style=\"color:#ffb800;font-size:18px;font-weight:800;margin-top:4px;\">2,500 Normal = 150 Vault Coins</div>\n    </div>\n\n    <div style=\"background:rgba(0,230,118,0.06);border:1px solid rgba(0,230,118,0.2);border-radius:10px;padding:14px;margin-bottom:20px;\">\n      <div style=\"color:#00e676;font-weight:700;font-size:13px;\">🎁 Your Referral Code: <span style=\"font-family:monospace;font-size:15px;color:#fff;\">2-URYPE</span></div>\n      <div style=\"color:#949db5;font-size:12px;margin-top:4px;\">Share it  you earn +2,500 coins for every friend who joins.</div>\n    </div>\n\n    <p style=\"color:#596179;font-size:12px;text-align:center;margin:0;\">\n      Questions? Reply to this email or visit our Discord. We respond within 24 hours.\n    </p>\n  </div>\n\n  <div style=\"text-align:center;margin-top:20px;color:#363d50;font-size:11px;\">\n    CRYPTALIS Verification Systems &bull; Autonomous Dispatch &bull; 2026\n  </div>\n</div>\n</body>\n</html>\n    ",
-      "text": "Welcome to CRYPTALIS  Your Gaming Rewards Journey Begins",
-      "type": "welcome",
-      "metadata": {
-        "userId": "cb5f7265-be05-4ef8-ba0a-5c2553f326e3",
-        "username": "2"
-      }
-    }
-  ],
+  "emails": [],
   "site_settings": {
     "theme": "cosmo"
   },
@@ -4224,10 +6252,10 @@
   "event_stats": {
     "totalUsers": 7,
     "totalTickets": 0,
-    "totalCoins": 17058,
+    "totalCoins": 58408,
     "lastReset": null,
     "lastWinner": null,
-    "snapshotAt": "2026-10-06T06:41:01.557Z"
+    "snapshotAt": "2026-10-06T11:37:31.620Z"
   },
   "leaderboard": [
     {
@@ -4647,6 +6675,37 @@
       "targetId": "cb5f7265-be05-4ef8-ba0a-5c2553f326e3",
       "username": "2",
       "email": "2@gmail.com"
+    },
+    {
+      "id": "admin_user_details_updated_1791268879631",
+      "type": "admin_user_details_updated",
+      "timestamp": "2026-10-06T06:41:19.631Z",
+      "adminId": "afdd6b55-1597-4a45-86f7-1579c8325dc8",
+      "targetUserId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
+      "targetUsername": "1",
+      "previous": {
+        "level": 1
+      },
+      "level": 80
+    },
+    {
+      "id": "admin_password_edit_1791268889041",
+      "type": "admin_password_edit",
+      "timestamp": "2026-10-06T06:41:29.041Z",
+      "adminId": "afdd6b55-1597-4a45-86f7-1579c8325dc8",
+      "targetId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
+      "targetUsername": "1"
+    },
+    {
+      "id": "coin_deposit_1791280886203",
+      "type": "coin_deposit",
+      "timestamp": "2026-10-06T10:01:26.203Z",
+      "transactionId": "339bc2c0-7cfc-4290-a9b3-da094655d8d2",
+      "toUserId": "f37cbcb5-80ed-4869-a4e4-2e7e19b0c0aa",
+      "toUsername": "kaab0._",
+      "amount": 30500,
+      "balanceBefore": 0,
+      "balanceAfter": 30500
     }
   ]
 }
