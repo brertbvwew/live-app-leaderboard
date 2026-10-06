@@ -212,7 +212,7 @@
       "gamesWon": 50,
       "lifetimeCoinsEarned": 55100,
       "lifetimeCoinsSpent": 44250,
-      "level": 80,
+      "level": 100,
       "xp": 20775,
       "rewardCoins": 1000
     }
@@ -5425,7 +5425,7 @@
     "totalCoins": 58408,
     "lastReset": null,
     "lastWinner": null,
-    "snapshotAt": "2026-10-06T12:19:02.024Z"
+    "snapshotAt": "2026-10-06T12:21:34.945Z"
   },
   "leaderboard": [
     {
@@ -5876,6 +5876,18 @@
       "amount": 30500,
       "balanceBefore": 0,
       "balanceAfter": 30500
+    },
+    {
+      "id": "admin_user_details_updated_1791289289657",
+      "type": "admin_user_details_updated",
+      "timestamp": "2026-10-06T12:21:29.657Z",
+      "adminId": "afdd6b55-1597-4a45-86f7-1579c8325dc8",
+      "targetUserId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
+      "targetUsername": "1",
+      "previous": {
+        "level": 80
+      },
+      "level": 100
     }
   ]
 }
