@@ -4219,7 +4219,7 @@
   "event_settings": {
     "ticketPurchasesEnabled": false,
     "giveawaySpinEnabled": false,
-    "referralsEnabled": true
+    "referralsEnabled": false
   },
   "event_stats": {
     "totalUsers": 7,
@@ -4227,7 +4227,7 @@
     "totalCoins": 17058,
     "lastReset": null,
     "lastWinner": null,
-    "snapshotAt": "2026-10-06T06:39:24.153Z"
+    "snapshotAt": "2026-10-06T06:41:01.557Z"
   },
   "leaderboard": [
     {
