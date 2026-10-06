@@ -18,7 +18,6 @@
       "lastSpinAt": null,
       "trophies": 0,
       "banned": false,
-      "registrationIp": "::1",
       "createdAt": "2026-10-02T07:47:19.896Z",
       "currentStreak": 0,
       "longestStreak": 0,
@@ -50,7 +49,6 @@
       "lastCoinPurchaseAt": null,
       "trophies": 0,
       "banned": false,
-      "registrationIp": "10.27.25.223",
       "createdAt": "2026-10-03T09:40:14.782Z",
       "currentStreak": 0,
       "longestStreak": 0,
@@ -82,7 +80,6 @@
       "lastCoinPurchaseAt": "2026-10-04T15:07:12.404Z",
       "trophies": 0,
       "banned": false,
-      "registrationIp": "10.27.25.223",
       "createdAt": "2026-10-03T19:32:55.626Z",
       "currentStreak": 1,
       "longestStreak": 1,
@@ -114,7 +111,6 @@
       "lastCoinPurchaseAt": null,
       "trophies": 0,
       "banned": false,
-      "registrationIp": "10.28.103.150",
       "createdAt": "2026-10-04T11:04:37.337Z",
       "currentStreak": 0,
       "longestStreak": 0,
@@ -146,7 +142,6 @@
       "lastCoinPurchaseAt": null,
       "trophies": 0,
       "banned": false,
-      "registrationIp": "10.28.103.150",
       "createdAt": "2026-10-05T15:28:52.837Z",
       "currentStreak": 1,
       "longestStreak": 1,
@@ -178,7 +173,6 @@
       "lastCoinPurchaseAt": null,
       "trophies": 0,
       "banned": false,
-      "registrationIp": "10.30.203.20",
       "createdAt": "2026-10-05T17:03:11.450Z",
       "currentStreak": 0,
       "longestStreak": 0,
@@ -210,7 +204,6 @@
       "lastCoinPurchaseAt": null,
       "trophies": 0,
       "banned": false,
-      "registrationIp": "10.27.25.223",
       "createdAt": "2026-10-05T19:58:48.380Z",
       "currentStreak": 0,
       "longestStreak": 0,
@@ -4225,7 +4218,8 @@
   },
   "event_settings": {
     "ticketPurchasesEnabled": false,
-    "giveawaySpinEnabled": false
+    "giveawaySpinEnabled": false,
+    "referralsEnabled": true
   },
   "event_stats": {
     "totalUsers": 7,
@@ -4233,7 +4227,7 @@
     "totalCoins": 17058,
     "lastReset": null,
     "lastWinner": null,
-    "snapshotAt": "2026-10-06T05:10:41.299Z"
+    "snapshotAt": "2026-10-06T06:30:08.441Z"
   },
   "leaderboard": [
     {
