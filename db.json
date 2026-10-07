@@ -194,7 +194,7 @@
       "role": "user",
       "referralCode": "1-GI1UX",
       "transferHash": "D0ASA08",
-      "coins": 100,
+      "coins": 0,
       "tickets": 0,
       "totalReferrals": 0,
       "monthlyReferrals": 0,
@@ -205,15 +205,15 @@
       "trophies": 0,
       "banned": false,
       "createdAt": "2026-10-05T19:58:48.380Z",
-      "currentStreak": 1,
-      "longestStreak": 1,
+      "currentStreak": 2,
+      "longestStreak": 2,
       "lastClaimDate": null,
       "gamesPlayed": 180,
       "gamesWon": 51,
-      "lifetimeCoinsEarned": 55950,
+      "lifetimeCoinsEarned": 159599,
       "lifetimeCoinsSpent": 45000,
       "level": 100,
-      "xp": 21105,
+      "xp": 72005,
       "rewardCoins": 1020
     },
     {
@@ -392,6 +392,13 @@
       "coins": 150,
       "streak": 2,
       "ts": "2026-10-06T21:33:55.118Z"
+    },
+    {
+      "type": "daily_bonus",
+      "username": "1",
+      "coins": 150,
+      "streak": 2,
+      "ts": "2026-10-07T10:54:13.166Z"
     }
   ],
   "rewards": [
@@ -1096,6 +1103,24 @@
       "achievementId": "first_win",
       "name": "Winner!",
       "unlockedAt": "2026-10-06T15:30:40.120Z"
+    },
+    {
+      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
+      "achievementId": "coins_10k",
+      "name": "Pocket Change",
+      "unlockedAt": "2026-10-07T10:54:13.174Z"
+    },
+    {
+      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
+      "achievementId": "coins_50k",
+      "name": "Coin Hoarder",
+      "unlockedAt": "2026-10-07T10:54:13.222Z"
+    },
+    {
+      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
+      "achievementId": "level_100",
+      "name": "THE IMMORTAL",
+      "unlockedAt": "2026-10-07T10:54:13.317Z"
     }
   ],
   "challenges": [
@@ -1299,9 +1324,9 @@
     },
     {
       "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
-      "streak": 1,
-      "lastClaimDate": "2026-10-06",
-      "lastClaimAt": "2026-10-06T06:43:52.102Z"
+      "streak": 2,
+      "lastClaimDate": "2026-10-07",
+      "lastClaimAt": "2026-10-07T10:54:13.161Z"
     }
   ],
   "social_program_submissions": [],
@@ -1335,10 +1360,10 @@
   "event_stats": {
     "totalUsers": 8,
     "totalTickets": 0,
-    "totalCoins": 48708,
+    "totalCoins": 48608,
     "lastReset": null,
     "lastWinner": null,
-    "snapshotAt": "2026-10-07T10:19:02.048Z"
+    "snapshotAt": "2026-10-07T13:39:56.625Z"
   },
   "leaderboard": [
     {
@@ -1834,6 +1859,16 @@
       "id": "admin_balance_adjustment_1791302118701",
       "type": "admin_balance_adjustment",
       "timestamp": "2026-10-06T15:55:18.701Z",
+      "adminId": "afdd6b55-1597-4a45-86f7-1579c8325dc8",
+      "targetUserId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
+      "targetUsername": "1",
+      "newCoins": 0,
+      "newTickets": 0
+    },
+    {
+      "id": "admin_balance_adjustment_1791374272791",
+      "type": "admin_balance_adjustment",
+      "timestamp": "2026-10-07T11:57:52.791Z",
       "adminId": "afdd6b55-1597-4a45-86f7-1579c8325dc8",
       "targetUserId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
       "targetUsername": "1",
