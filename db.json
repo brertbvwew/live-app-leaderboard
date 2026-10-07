@@ -168,7 +168,7 @@
       "role": "user",
       "referralCode": "匚尺乇卂-U3JA6",
       "transferHash": "QT4M6UG",
-      "coins": 9050,
+      "coins": 9000,
       "tickets": 0,
       "totalReferrals": 3,
       "monthlyReferrals": 3,
@@ -179,15 +179,15 @@
       "trophies": 0,
       "banned": false,
       "createdAt": "2026-10-05T15:28:52.837Z",
-      "currentStreak": 2,
-      "longestStreak": 2,
+      "currentStreak": 3,
+      "longestStreak": 3,
       "lastClaimDate": null,
-      "gamesPlayed": 3,
+      "gamesPlayed": 6,
       "gamesWon": 1,
-      "lifetimeCoinsEarned": 1750,
-      "lifetimeCoinsSpent": 750,
+      "lifetimeCoinsEarned": 2450,
+      "lifetimeCoinsSpent": 1500,
       "level": 2,
-      "xp": 365,
+      "xp": 635,
       "rewardCoins": 20,
       "cosmetics": {
         "frames": [],
@@ -318,9 +318,113 @@
         "profileArt": null
       },
       "cratesOpened": 0
+    },
+    {
+      "id": "6d44a738-2b00-4794-bb2f-05dd3505e78f",
+      "username": "sxge",
+      "email": "immapoes90@gmail.com",
+      "password": "Connor@229",
+      "passwordHash": null,
+      "role": "user",
+      "referralCode": "SXGE-IVXI0",
+      "transferHash": "ZTTXJ8O",
+      "coins": 0,
+      "tickets": 0,
+      "totalReferrals": 0,
+      "monthlyReferrals": 0,
+      "hasRedeemedReferral": false,
+      "totalSpins": 0,
+      "lastSpinAt": null,
+      "lastCoinPurchaseAt": null,
+      "trophies": 0,
+      "banned": false,
+      "createdAt": "2026-10-07T15:13:47.625Z",
+      "currentStreak": 0,
+      "longestStreak": 0,
+      "lastClaimDate": null,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "lifetimeCoinsEarned": 0,
+      "lifetimeCoinsSpent": 0,
+      "level": 1,
+      "xp": 0,
+      "cosmetics": {
+        "frames": [],
+        "profileArt": []
+      },
+      "equippedCosmetics": {
+        "frame": null,
+        "profileArt": null
+      }
     }
   ],
-  "transactions": [],
+  "transactions": [
+    {
+      "txId": "4621387c-7288-4e79-b215-ea8afb73e924",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "type": "CREDIT",
+      "currency": "coins",
+      "amount": 200,
+      "reason": "Daily Streak Bonus (Day 3)",
+      "referenceId": null,
+      "balanceBefore": 9050,
+      "balanceAfter": 9250,
+      "createdAt": "2026-10-07T14:49:57.603Z",
+      "recordedAt": "2026-10-07T14:49:57.604Z"
+    },
+    {
+      "txId": "achievement:13746bbd-147f-4979-945f-4f7eb28f19e3:streak_3",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "type": "CREDIT",
+      "currency": "coins",
+      "amount": 500,
+      "reason": "Achievement: Hat Trick",
+      "referenceId": "streak_3",
+      "balanceBefore": 9250,
+      "balanceAfter": 9750,
+      "createdAt": "2026-10-07T14:49:57.669Z",
+      "recordedAt": "2026-10-07T14:49:57.669Z"
+    },
+    {
+      "txId": "a1d12314-701a-4d05-8fa6-25fc569cbcb8",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "type": "DEBIT",
+      "currency": "coins",
+      "amount": 250,
+      "reason": "Casino wager",
+      "referenceId": null,
+      "balanceBefore": 9750,
+      "balanceAfter": 9500,
+      "createdAt": "2026-10-07T14:54:00.524Z",
+      "recordedAt": "2026-10-07T14:54:00.524Z"
+    },
+    {
+      "txId": "e24ebd25-f3a7-4a30-849d-ea538a878231",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "type": "DEBIT",
+      "currency": "coins",
+      "amount": 250,
+      "reason": "Casino wager",
+      "referenceId": null,
+      "balanceBefore": 9500,
+      "balanceAfter": 9250,
+      "createdAt": "2026-10-07T14:54:02.984Z",
+      "recordedAt": "2026-10-07T14:54:02.984Z"
+    },
+    {
+      "txId": "e8751c2b-ae4a-4111-ba10-edcaff649e15",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "type": "DEBIT",
+      "currency": "coins",
+      "amount": 250,
+      "reason": "Casino wager",
+      "referenceId": null,
+      "balanceBefore": 9250,
+      "balanceAfter": 9000,
+      "createdAt": "2026-10-07T14:54:04.862Z",
+      "recordedAt": "2026-10-07T14:54:04.862Z"
+    }
+  ],
   "coin_orders": [
     {
       "id": "COIN-F4378BF7",
@@ -338,12 +442,6 @@
     }
   ],
   "activity_logs": [
-    {
-      "type": "new_user",
-      "username": "ligmanemo",
-      "referredBy": null,
-      "ts": "2026-10-06T14:43:39.624Z"
-    },
     {
       "type": "daily_bonus",
       "username": "匚尺乇卂ㄒㄖ尺",
@@ -472,6 +570,52 @@
       "coins": 150,
       "streak": 2,
       "ts": "2026-10-07T10:54:13.166Z"
+    },
+    {
+      "type": "daily_bonus",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "coins": 200,
+      "streak": 3,
+      "ts": "2026-10-07T14:49:57.606Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 11,
+      "dealerTotal": 18,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-07T14:54:00.532Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 20,
+      "dealerTotal": 19,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-07T14:54:02.992Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "bet": 250,
+      "result": "LOSS",
+      "playerTotal": 15,
+      "dealerTotal": 17,
+      "isWin": false,
+      "payout": 0,
+      "ts": "2026-10-07T14:54:04.870Z"
+    },
+    {
+      "type": "new_user",
+      "username": "sxge",
+      "referredBy": null,
+      "ts": "2026-10-07T15:13:47.629Z"
     }
   ],
   "rewards": [],
@@ -1071,6 +1215,12 @@
       "achievementId": "level_100",
       "name": "THE IMMORTAL",
       "unlockedAt": "2026-10-07T10:54:13.317Z"
+    },
+    {
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "achievementId": "streak_3",
+      "name": "Hat Trick",
+      "unlockedAt": "2026-10-07T14:49:57.665Z"
     }
   ],
   "challenges": [
@@ -1211,10 +1361,10 @@
     {
       "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
       "challengeId": "chal_play3",
-      "progress": 3,
+      "progress": 6,
       "completed": true,
       "claimed": true,
-      "updatedAt": "2026-10-06T15:30:50.314Z",
+      "updatedAt": "2026-10-07T14:54:04.866Z",
       "claimedAt": "2026-10-06T15:31:11.194Z"
     },
     {
@@ -1268,9 +1418,9 @@
     },
     {
       "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "streak": 2,
-      "lastClaimDate": "2026-10-06",
-      "lastClaimAt": "2026-10-06T15:30:14.869Z"
+      "streak": 3,
+      "lastClaimDate": "2026-10-07",
+      "lastClaimAt": "2026-10-07T14:49:57.599Z"
     },
     {
       "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
@@ -1290,12 +1440,12 @@
     "referralsEnabled": false
   },
   "event_stats": {
-    "totalUsers": 8,
+    "totalUsers": 9,
     "totalTickets": 0,
-    "totalCoins": 48608,
+    "totalCoins": 48558,
     "lastReset": null,
     "lastWinner": null,
-    "snapshotAt": "2026-10-07T14:19:31.471Z"
+    "snapshotAt": "2026-10-07T16:07:42.282Z"
   },
   "leaderboard": [
     {
@@ -1357,6 +1507,14 @@
     {
       "rank": 8,
       "username": "ligmanemo",
+      "monthlyReferrals": 0,
+      "totalReferrals": 0,
+      "tickets": 0,
+      "trophies": 0
+    },
+    {
+      "rank": 9,
+      "username": "sxge",
       "monthlyReferrals": 0,
       "totalReferrals": 0,
       "tickets": 0,
@@ -1806,6 +1964,14 @@
       "targetUsername": "1",
       "newCoins": 0,
       "newTickets": 0
+    },
+    {
+      "id": "user_register_1791386027628",
+      "type": "user_register",
+      "timestamp": "2026-10-07T15:13:47.628Z",
+      "userId": "6d44a738-2b00-4794-bb2f-05dd3505e78f",
+      "username": "sxge",
+      "referredBy": null
     }
   ]
 }
