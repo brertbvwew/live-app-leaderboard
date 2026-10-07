@@ -244,7 +244,8 @@
       "lifetimeCoinsEarned": 0,
       "lifetimeCoinsSpent": 0,
       "level": 1,
-      "xp": 0
+      "xp": 0,
+      "rewardCoins": 0
     }
   ],
   "transactions": [],
@@ -1240,7 +1241,7 @@
     "totalCoins": 48608,
     "lastReset": null,
     "lastWinner": null,
-    "snapshotAt": "2026-10-07T13:39:56.625Z"
+    "snapshotAt": "2026-10-07T13:41:56.508Z"
   },
   "leaderboard": [
     {
