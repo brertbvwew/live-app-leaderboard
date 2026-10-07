@@ -28,7 +28,16 @@
       "lifetimeCoinsSpent": 0,
       "level": 100,
       "xp": 0,
-      "rewardCoins": 0
+      "rewardCoins": 0,
+      "cosmetics": {
+        "frames": [],
+        "profileArt": []
+      },
+      "equippedCosmetics": {
+        "frame": null,
+        "profileArt": null
+      },
+      "cratesOpened": 0
     },
     {
       "id": "f37cbcb5-80ed-4869-a4e4-2e7e19b0c0aa",
@@ -59,7 +68,16 @@
       "lifetimeCoinsSpent": 250,
       "level": 1,
       "xp": 115,
-      "rewardCoins": 0
+      "rewardCoins": 0,
+      "cosmetics": {
+        "frames": [],
+        "profileArt": []
+      },
+      "equippedCosmetics": {
+        "frame": null,
+        "profileArt": null
+      },
+      "cratesOpened": 0
     },
     {
       "id": "51378108-d6dd-46a4-9d88-d5112bfb73f0",
@@ -90,7 +108,16 @@
       "lifetimeCoinsSpent": 0,
       "level": 1,
       "xp": 75,
-      "rewardCoins": 0
+      "rewardCoins": 0,
+      "cosmetics": {
+        "frames": [],
+        "profileArt": []
+      },
+      "equippedCosmetics": {
+        "frame": null,
+        "profileArt": null
+      },
+      "cratesOpened": 0
     },
     {
       "id": "f11b6f52-1cbc-45ed-8f4e-fac4fc713de8",
@@ -121,7 +148,16 @@
       "lifetimeCoinsSpent": 0,
       "level": 1,
       "xp": 0,
-      "rewardCoins": 0
+      "rewardCoins": 0,
+      "cosmetics": {
+        "frames": [],
+        "profileArt": []
+      },
+      "equippedCosmetics": {
+        "frame": null,
+        "profileArt": null
+      },
+      "cratesOpened": 0
     },
     {
       "id": "13746bbd-147f-4979-945f-4f7eb28f19e3",
@@ -152,7 +188,16 @@
       "lifetimeCoinsSpent": 750,
       "level": 2,
       "xp": 365,
-      "rewardCoins": 20
+      "rewardCoins": 20,
+      "cosmetics": {
+        "frames": [],
+        "profileArt": []
+      },
+      "equippedCosmetics": {
+        "frame": null,
+        "profileArt": null
+      },
+      "cratesOpened": 0
     },
     {
       "id": "6870c0c5-afa8-4107-8013-dc1cd0e70adc",
@@ -183,7 +228,16 @@
       "lifetimeCoinsSpent": 500,
       "level": 1,
       "xp": 130,
-      "rewardCoins": 0
+      "rewardCoins": 0,
+      "cosmetics": {
+        "frames": [],
+        "profileArt": []
+      },
+      "equippedCosmetics": {
+        "frame": null,
+        "profileArt": null
+      },
+      "cratesOpened": 0
     },
     {
       "id": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
@@ -214,7 +268,16 @@
       "lifetimeCoinsSpent": 45000,
       "level": 100,
       "xp": 72005,
-      "rewardCoins": 1020
+      "rewardCoins": 1020,
+      "cosmetics": {
+        "frames": [],
+        "profileArt": []
+      },
+      "equippedCosmetics": {
+        "frame": null,
+        "profileArt": null
+      },
+      "cratesOpened": 0
     },
     {
       "id": "f3276275-7884-4cad-9771-2b5a41a1c868",
@@ -245,7 +308,16 @@
       "lifetimeCoinsSpent": 0,
       "level": 1,
       "xp": 0,
-      "rewardCoins": 0
+      "rewardCoins": 0,
+      "cosmetics": {
+        "frames": [],
+        "profileArt": []
+      },
+      "equippedCosmetics": {
+        "frame": null,
+        "profileArt": null
+      },
+      "cratesOpened": 0
     }
   ],
   "transactions": [],
@@ -1209,26 +1281,8 @@
   ],
   "social_program_submissions": [],
   "service_ratings": [],
-  "emails": [
-    {
-      "id": "mail_1791297819606_e9n6g",
-      "createdAt": "2026-10-06T14:43:39.606Z",
-      "to": "ligma2balls3@gmail.com",
-      "subject": "Welcome to CRYPTALIS  Your Gaming Rewards Journey Begins",
-      "html": "\n<!DOCTYPE html>\n<html>\n<head><meta charset=\"UTF-8\"></head>\n<body style=\"margin:0;padding:0;background:#0a0c14;font-family:'Segoe UI',Arial,sans-serif;\">\n<div style=\"max-width:560px;margin:0 auto;padding:32px 24px;\">\n\n  <div style=\"text-align:center;margin-bottom:28px;\">\n    <div style=\"display:inline-block;background:linear-gradient(135deg,#00f0ff,#7000ff);padding:12px 28px;border-radius:12px;\">\n      <span style=\"color:#fff;font-size:22px;font-weight:900;letter-spacing:2px;\">⚡ CRYPTALIS</span>\n    </div>\n    <p style=\"color:#596179;font-size:13px;margin-top:8px;\">Next-Gen Gaming Rewards &amp; Casino</p>\n  </div>\n\n  <div style=\"background:#0d1020;border:1px solid rgba(0,240,255,0.2);border-radius:16px;padding:28px;\">\n    <h2 style=\"color:#00f0ff;margin:0 0 12px;font-size:20px;\">Welcome aboard, <span style=\"color:#fff;\">@ligmanemo</span>!</h2>\n    <p style=\"color:#c8d0e0;line-height:1.7;font-size:15px;\">\n      Your verified Gmail account is now active. You have instant access to our dual-currency economy:\n    </p>\n\n    <div style=\"display:flex;gap:12px;margin:20px 0;\">\n      <div style=\"flex:1;background:rgba(255,255,255,0.04);border:1px solid rgba(255,255,255,0.08);border-radius:12px;padding:16px;text-align:center;\">\n        <div style=\"font-size:24px;margin-bottom:6px;\">🪙</div>\n        <div style=\"color:#fff;font-weight:700;font-size:14px;\">Normal Coins</div>\n        <div style=\"color:#949db5;font-size:12px;margin-top:4px;\">Earn from referrals &amp; daily activity</div>\n      </div>\n      <div style=\"flex:1;background:rgba(255,184,0,0.06);border:1px solid rgba(255,184,0,0.25);border-radius:12px;padding:16px;text-align:center;\">\n        <div style=\"font-size:24px;margin-bottom:6px;\">💳</div>\n        <div style=\"color:#ffb800;font-weight:700;font-size:14px;\">Casino Vault Coins</div>\n        <div style=\"color:#949db5;font-size:12px;margin-top:4px;\">Play games &amp; redeem gift cards</div>\n      </div>\n    </div>\n\n    <div style=\"background:rgba(255,184,0,0.06);border:1px solid rgba(255,184,0,0.2);border-radius:10px;padding:14px;text-align:center;margin-bottom:20px;\">\n      <div style=\"color:#949db5;font-size:12px;text-transform:uppercase;letter-spacing:1px;\">Exchange Rate</div>\n      <div style=\"color:#ffb800;font-size:18px;font-weight:800;margin-top:4px;\">2,500 Normal = 150 Vault Coins</div>\n    </div>\n\n    \n\n    <p style=\"color:#596179;font-size:12px;text-align:center;margin:0;\">\n      Questions? Reply to this email or visit our Discord. We respond within 24 hours.\n    </p>\n  </div>\n\n  <div style=\"text-align:center;margin-top:20px;color:#363d50;font-size:11px;\">\n    CRYPTALIS Verification Systems &bull; Autonomous Dispatch &bull; 2026\n  </div>\n</div>\n</body>\n</html>\n    ",
-      "text": "Welcome to CRYPTALIS  Your Gaming Rewards Journey Begins",
-      "type": "welcome",
-      "metadata": {
-        "userId": "f3276275-7884-4cad-9771-2b5a41a1c868",
-        "username": "ligmanemo"
-      }
-    }
-  ],
   "site_settings": {
     "theme": "cosmo"
-  },
-  "email_delivery": {
-    "apiEnabled": true
   },
   "event_settings": {
     "ticketPurchasesEnabled": false,
@@ -1241,7 +1295,7 @@
     "totalCoins": 48608,
     "lastReset": null,
     "lastWinner": null,
-    "snapshotAt": "2026-10-07T13:42:57.925Z"
+    "snapshotAt": "2026-10-07T13:44:35.465Z"
   },
   "leaderboard": [
     {
