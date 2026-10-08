@@ -248,7 +248,7 @@
       "role": "user",
       "referralCode": "1-GI1UX",
       "transferHash": "D0ASA08",
-      "coins": 0,
+      "coins": 1000,
       "tickets": 0,
       "totalReferrals": 0,
       "monthlyReferrals": 0,
@@ -264,11 +264,11 @@
       "lastClaimDate": null,
       "gamesPlayed": 180,
       "gamesWon": 51,
-      "lifetimeCoinsEarned": 159599,
+      "lifetimeCoinsEarned": 160599,
       "lifetimeCoinsSpent": 45000,
       "level": 100,
-      "xp": 72005,
-      "rewardCoins": 1020,
+      "xp": 72305,
+      "rewardCoins": 1000,
       "cosmetics": {
         "frames": [],
         "profileArt": []
@@ -358,73 +358,7 @@
       }
     }
   ],
-  "transactions": [
-    {
-      "txId": "4621387c-7288-4e79-b215-ea8afb73e924",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "type": "CREDIT",
-      "currency": "coins",
-      "amount": 200,
-      "reason": "Daily Streak Bonus (Day 3)",
-      "referenceId": null,
-      "balanceBefore": 9050,
-      "balanceAfter": 9250,
-      "createdAt": "2026-10-07T14:49:57.603Z",
-      "recordedAt": "2026-10-07T14:49:57.604Z"
-    },
-    {
-      "txId": "achievement:13746bbd-147f-4979-945f-4f7eb28f19e3:streak_3",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "type": "CREDIT",
-      "currency": "coins",
-      "amount": 500,
-      "reason": "Achievement: Hat Trick",
-      "referenceId": "streak_3",
-      "balanceBefore": 9250,
-      "balanceAfter": 9750,
-      "createdAt": "2026-10-07T14:49:57.669Z",
-      "recordedAt": "2026-10-07T14:49:57.669Z"
-    },
-    {
-      "txId": "a1d12314-701a-4d05-8fa6-25fc569cbcb8",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "type": "DEBIT",
-      "currency": "coins",
-      "amount": 250,
-      "reason": "Casino wager",
-      "referenceId": null,
-      "balanceBefore": 9750,
-      "balanceAfter": 9500,
-      "createdAt": "2026-10-07T14:54:00.524Z",
-      "recordedAt": "2026-10-07T14:54:00.524Z"
-    },
-    {
-      "txId": "e24ebd25-f3a7-4a30-849d-ea538a878231",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "type": "DEBIT",
-      "currency": "coins",
-      "amount": 250,
-      "reason": "Casino wager",
-      "referenceId": null,
-      "balanceBefore": 9500,
-      "balanceAfter": 9250,
-      "createdAt": "2026-10-07T14:54:02.984Z",
-      "recordedAt": "2026-10-07T14:54:02.984Z"
-    },
-    {
-      "txId": "e8751c2b-ae4a-4111-ba10-edcaff649e15",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "type": "DEBIT",
-      "currency": "coins",
-      "amount": 250,
-      "reason": "Casino wager",
-      "referenceId": null,
-      "balanceBefore": 9250,
-      "balanceAfter": 9000,
-      "createdAt": "2026-10-07T14:54:04.862Z",
-      "recordedAt": "2026-10-07T14:54:04.862Z"
-    }
-  ],
+  "transactions": [],
   "coin_orders": [
     {
       "id": "COIN-F4378BF7",
@@ -442,128 +376,6 @@
     }
   ],
   "activity_logs": [
-    {
-      "type": "daily_bonus",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "coins": 150,
-      "streak": 2,
-      "ts": "2026-10-06T15:30:14.913Z"
-    },
-    {
-      "type": "casino_blackjack",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "bet": 250,
-      "result": "WIN",
-      "playerTotal": 16,
-      "dealerTotal": 23,
-      "isWin": true,
-      "payout": 20,
-      "ts": "2026-10-06T15:30:40.220Z"
-    },
-    {
-      "type": "casino_blackjack",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "bet": 250,
-      "result": "LOSS",
-      "playerTotal": 21,
-      "dealerTotal": 13,
-      "isWin": false,
-      "payout": 0,
-      "ts": "2026-10-06T15:30:46.316Z"
-    },
-    {
-      "type": "casino_blackjack",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "bet": 250,
-      "result": "LOSS",
-      "playerTotal": 12,
-      "dealerTotal": 20,
-      "isWin": false,
-      "payout": 0,
-      "ts": "2026-10-06T15:30:50.322Z"
-    },
-    {
-      "type": "challenge_claim",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "challengeTitle": "Action Packed",
-      "coins": 500,
-      "xp": 150,
-      "ts": "2026-10-06T15:31:11.219Z"
-    },
-    {
-      "type": "challenge_claim",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "challengeTitle": "Winner Circle",
-      "coins": 350,
-      "xp": 100,
-      "ts": "2026-10-06T15:31:13.119Z"
-    },
-    {
-      "type": "challenge_claim",
-      "username": "1",
-      "challengeTitle": "Action Packed",
-      "coins": 500,
-      "xp": 150,
-      "ts": "2026-10-06T19:31:46.314Z"
-    },
-    {
-      "type": "challenge_claim",
-      "username": "1",
-      "challengeTitle": "Winner Circle",
-      "coins": 350,
-      "xp": 100,
-      "ts": "2026-10-06T19:31:49.025Z"
-    },
-    {
-      "type": "casino_slots",
-      "username": "1",
-      "bet": 250,
-      "symbols": "💎 💎 👑",
-      "isWin": true,
-      "winType": "pair",
-      "payout": 20,
-      "multiplier": 0.08,
-      "ts": "2026-10-06T19:32:16.525Z"
-    },
-    {
-      "type": "casino_plinko",
-      "username": "1",
-      "action": "drop_1_8_medium",
-      "bet": 250,
-      "isWin": false,
-      "payout": 0,
-      "multiplier": 0,
-      "rows": 8,
-      "risk": "medium",
-      "balls": 1,
-      "bins": [
-        4
-      ],
-      "ts": "2026-10-06T20:25:07.323Z"
-    },
-    {
-      "type": "casino_plinko",
-      "username": "1",
-      "action": "drop_1_8_medium",
-      "bet": 250,
-      "isWin": false,
-      "payout": 0,
-      "multiplier": 0,
-      "rows": 8,
-      "risk": "medium",
-      "balls": 1,
-      "bins": [
-        6
-      ],
-      "ts": "2026-10-06T20:25:11.222Z"
-    },
-    {
-      "type": "daily_bonus",
-      "username": "alpha",
-      "coins": 150,
-      "streak": 2,
-      "ts": "2026-10-06T21:33:55.118Z"
-    },
     {
       "type": "daily_bonus",
       "username": "1",
@@ -616,10 +428,315 @@
       "username": "sxge",
       "referredBy": null,
       "ts": "2026-10-07T15:13:47.629Z"
+    },
+    {
+      "type": "reward_claim",
+      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
+      "username": "1",
+      "rewardName": "20 Insta Folowers",
+      "cost": 20,
+      "ref": "#claim_1791389442240_yzh74",
+      "ts": "2026-10-07T16:10:42.242Z"
+    },
+    {
+      "type": "reward_fulfilled",
+      "username": "1",
+      "rewardName": "20 Insta Folowers",
+      "ts": "2026-10-07T16:11:18.332Z"
     }
   ],
-  "rewards": [],
-  "reward_claims": [],
+  "rewards": [
+    {
+      "id": "free-fire-100",
+      "name": "Free Fire 100 Diamonds",
+      "category": "Mobile Games",
+      "coinCost": 15000,
+      "description": "Instant 100 Diamonds voucher directly credited to your Player ID.",
+      "icon": "💎",
+      "asset": "https://raw.githubusercontent.com/coderxsa/Assets/refs/heads/main/images/rewards/free-fire.png",
+      "fallbackIcon": "💎",
+      "requiredInput": "Player ID",
+      "status": "ACTIVE",
+      "processingEstimate": "1 Days"
+    },
+    {
+      "id": "cod-points-80",
+      "name": "Call of Duty 80 CP",
+      "category": "Mobile Games",
+      "coinCost": 15000,
+      "description": "80 Call of Duty Points code for Mobile battle pass & crates.",
+      "icon": "🎯",
+      "asset": "https://raw.githubusercontent.com/coderxsa/Assets/refs/heads/main/images/rewards/cod-points.png",
+      "fallbackIcon": "🎯",
+      "requiredInput": "Player ID",
+      "status": "ACTIVE",
+      "processingEstimate": "1 Days"
+    },
+    {
+      "id": "roblox-500",
+      "name": "Roblox 500 Robux",
+      "category": "Mobile Games",
+      "coinCost": 35000,
+      "description": "500 Robux digital gift card code redeemable on Roblox account.",
+      "icon": "🧱",
+      "asset": "https://raw.githubusercontent.com/coderxsa/Assets/refs/heads/main/images/rewards/roblox.png",
+      "fallbackIcon": "🧱",
+      "requiredInput": "Enter Email",
+      "status": "ACTIVE",
+      "processingEstimate": "1 Days"
+    },
+    {
+      "id": "pubg-uc-60",
+      "name": "PUBG Mobile 60 UC",
+      "category": "Mobile Games",
+      "coinCost": 15000,
+      "description": "60 Unknown Cash pin code for character skins & royale pass.",
+      "icon": "🪖",
+      "asset": "https://raw.githubusercontent.com/coderxsa/Assets/refs/heads/main/images/rewards/pubg.png",
+      "fallbackIcon": "🪖",
+      "requiredInput": "Player ID",
+      "status": "ACTIVE",
+      "processingEstimate": "1 Days"
+    },
+    {
+      "id": "playstore-redeem",
+      "name": "Play Store Redeem",
+      "category": "Mobile Games",
+      "coinCost": 15000,
+      "description": "60 Unknown Cash pin code for character skins & royale pass.",
+      "icon": "🪖",
+      "asset": "https://raw.githubusercontent.com/coderxsa/Assets/refs/heads/main/images/rewards/google-play.png",
+      "fallbackIcon": "🪖",
+      "requiredInput": "Enter Email",
+      "status": "ACTIVE",
+      "processingEstimate": "1 Days"
+    },
+    {
+      "id": "instagram-followers-500",
+      "name": "Instagram 500 Followers",
+      "category": "Social Media",
+      "coinCost": 35000,
+      "description": "Instagram promotion package for 500 followers.",
+      "icon": "📸",
+      "asset": "https://raw.githubusercontent.com/coderxsa/Assets/refs/heads/main/images/rewards/insta-500.png",
+      "fallbackIcon": "📸",
+      "requiredInput": "Instagram username",
+      "status": "ACTIVE",
+      "processingEstimate": "1 Days"
+    },
+    {
+      "id": "tiktok-followers-500",
+      "name": "TikTok 500 Followers",
+      "category": "Social Media",
+      "coinCost": 35000,
+      "description": "TikTok promotion package for 500 followers.",
+      "icon": "🎵",
+      "asset": "https://raw.githubusercontent.com/coderxsa/Assets/refs/heads/main/images/rewards/tiktok-500.png",
+      "fallbackIcon": "🎵",
+      "requiredInput": "TikTok username",
+      "status": "ACTIVE",
+      "processingEstimate": "1 Days"
+    },
+    {
+      "id": "tiktok-followers-1000",
+      "name": "TikTok 1000 Followers",
+      "category": "Social Media",
+      "coinCost": 35000,
+      "description": "TikTok promotion package for 1000 followers.",
+      "icon": "🎵",
+      "asset": "https://raw.githubusercontent.com/coderxsa/Assets/refs/heads/main/images/rewards/tiktok-1000.png",
+      "fallbackIcon": "🎵",
+      "requiredInput": "TikTok username",
+      "status": "ACTIVE",
+      "processingEstimate": "1 Days"
+    },
+    {
+      "id": "mobile-data-1gb",
+      "name": "1 GB Mobile Data",
+      "category": "Mobile Data",
+      "coinCost": 18000,
+      "description": "A 1 GB mobile data top-up.",
+      "icon": "📶",
+      "asset": "https://raw.githubusercontent.com/coderxsa/Assets/refs/heads/main/images/rewards/mobiledata.png",
+      "requiredInput": "Phone number and carrier",
+      "packagePlans": [
+        "1 GB"
+      ],
+      "networkProviders": [
+        "Cell C",
+        "Vodacom",
+        "MTN",
+        "Telkom"
+      ],
+      "status": "ACTIVE",
+      "processingEstimate": "1 Days"
+    },
+    {
+      "id": "netflix-subscription",
+      "name": "Netflix Subscription",
+      "category": "Movie Streaming",
+      "coinCost": 35000,
+      "description": "A Netflix subscription reward. Provide the email address for the account.",
+      "icon": "🎬",
+      "asset": "https://raw.githubusercontent.com/coderxsa/Assets/refs/heads/main/images/rewards/netflix.png",
+      "requiredInput": "Netflix account email",
+      "status": "ACTIVE",
+      "processingEstimate": "1 Days"
+    },
+    {
+      "id": "disney-plus-subscription",
+      "name": "Disney+ Subscription",
+      "category": "Movie Streaming",
+      "coinCost": 35000,
+      "description": "A Disney+ subscription reward. Provide the email address for the account.",
+      "icon": "✨",
+      "asset": "https://raw.githubusercontent.com/coderxsa/Assets/refs/heads/main/images/rewards/disney-plus.png",
+      "requiredInput": "Disney+ account email",
+      "status": "ACTIVE",
+      "processingEstimate": "1 Days"
+    },
+    {
+      "id": "betway-top-up",
+      "name": "Betway Top-Up",
+      "category": "Gamble",
+      "coinCost": 15000,
+      "description": "Top up your betway account Select Deposit and Enter Redeem Pin.",
+      "icon": "🎰",
+      "asset": "https://raw.githubusercontent.com/coderxsa/Assets/refs/heads/main/images/rewards/betway.png",
+      "requiredInput": "Enter Email",
+      "status": "ACTIVE",
+      "processingEstimate": "1 Days"
+    },
+    {
+      "id": "hollywoodbets-top-up",
+      "name": "Hollywoodbets Top-Up",
+      "category": "Gamble",
+      "coinCost": 15000,
+      "description": "Top up your hollywoodbet account Select Deposit and Enter Redeem Pin.",
+      "icon": "🎰",
+      "asset": "https://raw.githubusercontent.com/coderxsa/Assets/refs/heads/main/images/rewards/hollywoodbet.png",
+      "requiredInput": "Enter Email",
+      "status": "ACTIVE",
+      "processingEstimate": "1 Days"
+    },
+    {
+      "id": "playstation",
+      "name": "PS Top-Up",
+      "category": "consoles",
+      "coinCost": 35000,
+      "description": "Top up your ps account and Enter Redeem Code.",
+      "icon": "🎰",
+      "asset": "https://raw.githubusercontent.com/coderxsa/Assets/refs/heads/main/images/rewards/play-station.png",
+      "requiredInput": "Enter Email",
+      "status": "ACTIVE",
+      "processingEstimate": "1 Days"
+    },
+    {
+      "id": "xbox",
+      "name": "Xbox Top-Up",
+      "category": "consoles",
+      "coinCost": 35000,
+      "description": "Top up your xbox account and Enter Redeem code.",
+      "icon": "🎰",
+      "asset": "https://raw.githubusercontent.com/coderxsa/Assets/refs/heads/main/images/rewards/xbox.png",
+      "requiredInput": "Enter Email",
+      "status": "ACTIVE",
+      "processingEstimate": "1 Days"
+    },
+    {
+      "id": "free-insta-follow",
+      "name": "20 Insta Folowers",
+      "category": "Social Order Boosting",
+      "coinCost": 20,
+      "description": "Followers will not always send make sure your account is public.",
+      "icon": "🎰",
+      "asset": "https://raw.githubusercontent.com/coderxsa/Assets/refs/heads/main/images/rewards/free-instagram-20.png",
+      "requiredInput": "Enter Username",
+      "status": "ACTIVE",
+      "processingEstimate": "1 Days"
+    },
+    {
+      "id": "free-insta-views",
+      "name": "2500 Insta Views",
+      "category": "Social Order Boosting",
+      "coinCost": 20,
+      "description": "Views will not always send make sure your account is public.",
+      "icon": "🎰",
+      "asset": "https://raw.githubusercontent.com/coderxsa/Assets/refs/heads/main/images/rewards/free-insta-views.png",
+      "requiredInput": "Enter Video Link",
+      "status": "ACTIVE",
+      "processingEstimate": "1 Days"
+    },
+    {
+      "id": "free-insta-likes",
+      "name": "200 Insta Likes",
+      "category": "Social Order Boosting",
+      "coinCost": 20,
+      "description": "Likes will not always send make sure your account is public.",
+      "icon": "🎰",
+      "asset": "https://raw.githubusercontent.com/coderxsa/Assets/refs/heads/main/images/rewards/free-insta-likes.png",
+      "requiredInput": "Enter Video Link",
+      "status": "ACTIVE",
+      "processingEstimate": "1 Days"
+    },
+    {
+      "id": "free-titkok-follow",
+      "name": "15 Tiktok Followers",
+      "category": "Social Order Boosting",
+      "coinCost": 20,
+      "description": "Followers will not always send make sure your account is public.",
+      "icon": "🎰",
+      "asset": "https://raw.githubusercontent.com/coderxsa/Assets/refs/heads/main/images/rewards/free-tiktok-15.png",
+      "requiredInput": "Enter Username",
+      "status": "ACTIVE",
+      "processingEstimate": "1 Days"
+    },
+    {
+      "id": "free-tiktok-views",
+      "name": "500 Tiktok Views",
+      "category": "Social Order Boosting",
+      "coinCost": 20,
+      "description": "Views will not always send make sure your account is public.",
+      "icon": "🎰",
+      "asset": "https://raw.githubusercontent.com/coderxsa/Assets/refs/heads/main/images/rewards/free-tiktok-views.png",
+      "requiredInput": "Enter Video Link",
+      "status": "ACTIVE",
+      "processingEstimate": "1 Days"
+    },
+    {
+      "id": "free-tiktok-likes",
+      "name": "20 Tiktok Likes",
+      "category": "Social Order Boosting",
+      "coinCost": 20,
+      "description": "Likes will not always send make sure your account is public.",
+      "icon": "🎰",
+      "asset": "https://raw.githubusercontent.com/coderxsa/Assets/refs/heads/main/images/rewards/free-tiktok-likes.png",
+      "requiredInput": "Enter Video Link",
+      "status": "ACTIVE",
+      "processingEstimate": "1 Days"
+    }
+  ],
+  "reward_claims": [
+    {
+      "id": "claim_1791389442240_vn5qf",
+      "status": "FULFILLED",
+      "createdAt": "2026-10-07T16:10:42.240Z",
+      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
+      "username": "1",
+      "rewardId": "free-insta-follow",
+      "rewardName": "20 Insta Folowers",
+      "title": "20 Insta Folowers",
+      "referenceHash": "#claim_1791389442240_yzh74",
+      "recipientId": "Test",
+      "icon": "🎰",
+      "coinCost": 20,
+      "voucherCode": "",
+      "idempotencyKey": "claim_a1c50954-9f7a-4a2e-bd52-d2f4cc03b772_free-insta-follow_1791389442234",
+      "processingEstimate": "1 Days",
+      "processedAt": "2026-10-07T16:11:18.329Z",
+      "processedBy": "admin"
+    }
+  ],
   "achievements": [
     {
       "id": "first_game",
@@ -1221,6 +1338,12 @@
       "achievementId": "streak_3",
       "name": "Hat Trick",
       "unlockedAt": "2026-10-07T14:49:57.665Z"
+    },
+    {
+      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
+      "achievementId": "first_claim",
+      "name": "First Redemption",
+      "unlockedAt": "2026-10-07T16:10:42.260Z"
     }
   ],
   "challenges": [
@@ -1430,7 +1553,17 @@
     }
   ],
   "social_program_submissions": [],
-  "service_ratings": [],
+  "service_ratings": [
+    {
+      "id": "rcpt_1791389489903_oe9xi",
+      "claimId": "claim_1791389442240_vn5qf",
+      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
+      "username": "1",
+      "rewardName": "20 Insta Folowers",
+      "received": true,
+      "createdAt": "2026-10-07T16:11:29.903Z"
+    }
+  ],
   "site_settings": {
     "theme": "cosmo"
   },
@@ -1442,10 +1575,10 @@
   "event_stats": {
     "totalUsers": 9,
     "totalTickets": 0,
-    "totalCoins": 48558,
+    "totalCoins": 49558,
     "lastReset": null,
     "lastWinner": null,
-    "snapshotAt": "2026-10-07T16:07:42.282Z"
+    "snapshotAt": "2026-10-08T01:19:31.452Z"
   },
   "leaderboard": [
     {
