@@ -355,7 +355,9 @@
       "equippedCosmetics": {
         "frame": null,
         "profileArt": null
-      }
+      },
+      "rewardCoins": 0,
+      "cratesOpened": 0
     }
   ],
   "transactions": [],
@@ -446,6 +448,7 @@
     }
   ],
   "rewards": [],
+  "reward_claims": [],
   "achievements": [
     {
       "id": "first_game",
@@ -1287,7 +1290,7 @@
     "totalCoins": 49558,
     "lastReset": null,
     "lastWinner": null,
-    "snapshotAt": "2026-10-08T09:26:44.492Z"
+    "snapshotAt": "2026-10-08T09:31:59.133Z"
   },
   "leaderboard": [
     {
