@@ -437,54 +437,6 @@
   ],
   "activity_logs": [
     {
-      "type": "new_user",
-      "username": "Glockonmolly",
-      "referredBy": null,
-      "ts": "2026-10-08T11:26:36.722Z"
-    },
-    {
-      "type": "daily_bonus",
-      "username": "admin",
-      "coins": 100,
-      "streak": 1,
-      "ts": "2026-10-08T12:40:01.205Z"
-    },
-    {
-      "type": "casino_limbo",
-      "username": "1",
-      "action": "target_2.20x",
-      "bet": 250,
-      "isWin": false,
-      "payout": 0,
-      "multiplier": 0,
-      "target": 2.2,
-      "resultMultiplier": 1,
-      "ts": "2026-10-08T12:51:52.425Z"
-    },
-    {
-      "type": "casino_limbo",
-      "username": "1",
-      "action": "target_2.86x",
-      "bet": 250,
-      "isWin": true,
-      "payout": 20,
-      "multiplier": 0.08,
-      "target": 2.86,
-      "resultMultiplier": 1,
-      "ts": "2026-10-08T12:51:55.920Z"
-    },
-    {
-      "type": "casino_tower",
-      "username": "1",
-      "action": "cashout_floor_2",
-      "bet": 250,
-      "isWin": true,
-      "payout": 20,
-      "multiplier": 0.08,
-      "floor": 2,
-      "ts": "2026-10-08T12:52:10.629Z"
-    },
-    {
       "type": "daily_bonus",
       "username": "1",
       "coins": 200,
@@ -1622,7 +1574,7 @@
     "totalCoins": 49508,
     "lastReset": null,
     "lastWinner": null,
-    "snapshotAt": "2026-10-09T10:23:02.941Z"
+    "snapshotAt": "2026-10-09T16:42:39.230Z"
   },
   "leaderboard": [
     {
