@@ -1324,6 +1324,16 @@
   "site_settings": {
     "theme": "cosmo"
   },
+  "lottery_state": {
+    "pool": 0,
+    "jackpot": 0,
+    "drawNumber": 1,
+    "lastWinner": null,
+    "lastDrawAt": "2026-10-09T16:46:13.223Z",
+    "lastDraw": null,
+    "status": "open",
+    "results": []
+  },
   "event_settings": {
     "ticketPurchasesEnabled": false,
     "giveawaySpinEnabled": false,
@@ -1335,7 +1345,7 @@
     "totalCoins": 49508,
     "lastReset": null,
     "lastWinner": null,
-    "snapshotAt": "2026-10-09T16:44:33.416Z"
+    "snapshotAt": "2026-10-09T16:46:15.959Z"
   },
   "leaderboard": [
     {
