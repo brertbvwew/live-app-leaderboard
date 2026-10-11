@@ -251,7 +251,7 @@
       "role": "user",
       "referralCode": "1-GI1UX",
       "transferHash": "D0ASA08",
-      "coins": 164,
+      "coins": 664,
       "tickets": 0,
       "totalReferrals": 0,
       "monthlyReferrals": 0,
@@ -262,15 +262,15 @@
       "trophies": 0,
       "banned": false,
       "createdAt": "2026-10-05T19:58:48.380Z",
-      "currentStreak": 4,
-      "longestStreak": 4,
+      "currentStreak": 5,
+      "longestStreak": 5,
       "lastClaimDate": null,
       "gamesPlayed": 186,
       "gamesWon": 54,
-      "lifetimeCoinsEarned": 161724,
+      "lifetimeCoinsEarned": 162224,
       "lifetimeCoinsSpent": 46500,
       "level": 100,
-      "xp": 72953,
+      "xp": 73078,
       "rewardCoins": 1060,
       "cosmetics": {
         "frames": [],
@@ -281,8 +281,8 @@
         "profileArt": null
       },
       "cratesOpened": 0,
-      "lastLoginAt": "2026-10-10T10:27:56.517Z",
-      "lastActiveAt": "2026-10-10T10:27:56.517Z"
+      "lastLoginAt": "2026-10-10T19:31:23.444Z",
+      "lastActiveAt": "2026-10-10T19:31:23.444Z"
     },
     {
       "id": "f3276275-7884-4cad-9771-2b5a41a1c868",
@@ -442,95 +442,10 @@
   "activity_logs": [
     {
       "type": "daily_bonus",
-      "username": "admin",
-      "coins": 150,
-      "streak": 2,
-      "ts": "2026-10-09T16:48:01.035Z"
-    },
-    {
-      "type": "daily_bonus",
       "username": "1",
-      "coins": 300,
-      "streak": 4,
-      "ts": "2026-10-09T16:53:15.465Z"
-    },
-    {
-      "type": "pack_opened",
-      "username": "1",
-      "pack": "common",
-      "cards": 3,
-      "ts": "2026-10-09T16:54:24.873Z"
-    },
-    {
-      "type": "pack_opened",
-      "username": "1",
-      "pack": "common",
-      "cards": 3,
-      "ts": "2026-10-09T16:54:40.919Z"
-    },
-    {
-      "type": "casino_blackjack",
-      "username": "1",
-      "action": "hold",
-      "bet": 250,
-      "isWin": false,
-      "payout": 0,
-      "multiplier": 0,
-      "playerCards": [
-        "Q♥",
-        "10♥"
-      ],
-      "dealerCards": [
-        "3♣",
-        "J♣",
-        "8♠"
-      ],
-      "playerTotal": 20,
-      "dealerTotal": 21,
-      "ts": "2026-10-09T19:20:39.946Z"
-    },
-    {
-      "type": "casino_blackjack",
-      "username": "1",
-      "action": "hold",
-      "bet": 250,
-      "isWin": true,
-      "payout": 20,
-      "multiplier": 0.08,
-      "playerCards": [
-        "4♣",
-        "9♥",
-        "6♠"
-      ],
-      "dealerCards": [
-        "9♠",
-        "4♥",
-        "3♣",
-        "6♣"
-      ],
-      "playerTotal": 19,
-      "dealerTotal": 22,
-      "ts": "2026-10-09T19:20:51.242Z"
-    },
-    {
-      "type": "casino_blackjack",
-      "username": "1",
-      "action": "fold",
-      "bet": 250,
-      "isWin": false,
-      "payout": 0,
-      "multiplier": 0,
-      "playerCards": [
-        "7♠",
-        "K♥"
-      ],
-      "dealerCards": [
-        "8♦",
-        "3♣"
-      ],
-      "playerTotal": 17,
-      "dealerTotal": 11,
-      "ts": "2026-10-09T19:34:17.430Z"
+      "coins": 500,
+      "streak": 5,
+      "ts": "2026-10-10T19:32:02.728Z"
     }
   ],
   "rewards": [
@@ -1638,9 +1553,9 @@
     },
     {
       "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
-      "streak": 4,
-      "lastClaimDate": "2026-10-09",
-      "lastClaimAt": "2026-10-09T16:53:15.459Z"
+      "streak": 5,
+      "lastClaimDate": "2026-10-10",
+      "lastClaimAt": "2026-10-10T19:32:02.719Z"
     },
     {
       "userId": "afdd6b55-1597-4a45-86f7-1579c8325dc8",
@@ -1669,7 +1584,7 @@
     "jackpot": 0,
     "drawNumber": 1,
     "lastWinner": null,
-    "lastDrawAt": "2026-10-09T16:46:13.223Z",
+    "lastDrawAt": "2026-10-10T16:46:17.296Z",
     "lastDraw": null,
     "status": "open",
     "results": []
@@ -1682,10 +1597,10 @@
   "event_stats": {
     "totalUsers": 10,
     "totalTickets": 0,
-    "totalCoins": 48722,
+    "totalCoins": 49222,
     "lastReset": null,
     "lastWinner": null,
-    "snapshotAt": "2026-10-10T14:46:15.915Z"
+    "snapshotAt": "2026-10-11T01:46:15.910Z"
   },
   "leaderboard": [
     {
