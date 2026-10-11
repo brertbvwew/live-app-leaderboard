@@ -39,8 +39,8 @@
       },
       "cratesOpened": 0,
       "lastCoinPurchaseAt": "2026-10-08T12:27:31.647Z",
-      "lastActiveAt": "2026-10-10T13:16:38.786Z",
-      "lastLoginAt": "2026-10-10T13:16:38.786Z"
+      "lastActiveAt": "2026-10-11T16:49:36.811Z",
+      "lastLoginAt": "2026-10-11T16:49:36.811Z"
     },
     {
       "id": "f37cbcb5-80ed-4869-a4e4-2e7e19b0c0aa",
@@ -171,7 +171,7 @@
       "role": "user",
       "referralCode": "匚尺乇卂-U3JA6",
       "transferHash": "QT4M6UG",
-      "coins": 9000,
+      "coins": 9100,
       "tickets": 0,
       "totalReferrals": 3,
       "monthlyReferrals": 3,
@@ -182,15 +182,15 @@
       "trophies": 0,
       "banned": false,
       "createdAt": "2026-10-05T15:28:52.837Z",
-      "currentStreak": 3,
+      "currentStreak": 1,
       "longestStreak": 3,
       "lastClaimDate": null,
       "gamesPlayed": 6,
       "gamesWon": 1,
-      "lifetimeCoinsEarned": 2450,
+      "lifetimeCoinsEarned": 2550,
       "lifetimeCoinsSpent": 1500,
       "level": 2,
-      "xp": 635,
+      "xp": 660,
       "rewardCoins": 20,
       "cosmetics": {
         "frames": [],
@@ -200,7 +200,9 @@
         "frame": null,
         "profileArt": null
       },
-      "cratesOpened": 0
+      "cratesOpened": 0,
+      "lastLoginAt": "2026-10-11T15:35:19.131Z",
+      "lastActiveAt": "2026-10-11T15:35:19.131Z"
     },
     {
       "id": "6870c0c5-afa8-4107-8013-dc1cd0e70adc",
@@ -442,10 +444,10 @@
   "activity_logs": [
     {
       "type": "daily_bonus",
-      "username": "1",
-      "coins": 500,
-      "streak": 5,
-      "ts": "2026-10-10T19:32:02.728Z"
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "coins": 100,
+      "streak": 1,
+      "ts": "2026-10-11T15:35:44.459Z"
     }
   ],
   "rewards": [
@@ -1547,9 +1549,9 @@
     },
     {
       "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "streak": 3,
-      "lastClaimDate": "2026-10-07",
-      "lastClaimAt": "2026-10-07T14:49:57.599Z"
+      "streak": 1,
+      "lastClaimDate": "2026-10-11",
+      "lastClaimAt": "2026-10-11T15:35:44.451Z"
     },
     {
       "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
@@ -1584,7 +1586,7 @@
     "jackpot": 0,
     "drawNumber": 1,
     "lastWinner": null,
-    "lastDrawAt": "2026-10-10T16:46:17.296Z",
+    "lastDrawAt": "2026-10-11T16:46:19.181Z",
     "lastDraw": null,
     "status": "open",
     "results": []
@@ -1597,10 +1599,10 @@
   "event_stats": {
     "totalUsers": 10,
     "totalTickets": 0,
-    "totalCoins": 49222,
+    "totalCoins": 49322,
     "lastReset": null,
     "lastWinner": null,
-    "snapshotAt": "2026-10-11T12:46:15.862Z"
+    "snapshotAt": "2026-10-11T23:46:15.899Z"
   },
   "leaderboard": [
     {
