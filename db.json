@@ -441,15 +441,7 @@
       "confirmedBy": "afdd6b55-1597-4a45-86f7-1579c8325dc8"
     }
   ],
-  "activity_logs": [
-    {
-      "type": "daily_bonus",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "coins": 100,
-      "streak": 1,
-      "ts": "2026-10-11T15:35:44.459Z"
-    }
-  ],
+  "activity_logs": [],
   "rewards": [
     {
       "id": "freefire-100",
@@ -1586,7 +1578,7 @@
     "jackpot": 0,
     "drawNumber": 1,
     "lastWinner": null,
-    "lastDrawAt": "2026-10-11T16:46:19.181Z",
+    "lastDrawAt": "2026-10-12T16:46:23.382Z",
     "lastDraw": null,
     "status": "open",
     "results": []
@@ -1602,7 +1594,7 @@
     "totalCoins": 49322,
     "lastReset": null,
     "lastWinner": null,
-    "snapshotAt": "2026-10-12T10:46:15.680Z"
+    "snapshotAt": "2026-10-12T21:46:15.978Z"
   },
   "leaderboard": [
     {
