@@ -441,6 +441,7 @@
       "confirmedBy": "afdd6b55-1597-4a45-86f7-1579c8325dc8"
     }
   ],
+  "withdrawal_requests": [],
   "activity_logs": [],
   "rewards": [
     {
@@ -1594,7 +1595,7 @@
     "totalCoins": 49322,
     "lastReset": null,
     "lastWinner": null,
-    "snapshotAt": "2026-10-14T13:01:22.715Z"
+    "snapshotAt": "2026-10-14T13:02:15.801Z"
   },
   "leaderboard": [
     {
