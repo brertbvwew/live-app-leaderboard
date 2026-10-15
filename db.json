@@ -39,8 +39,8 @@
       },
       "cratesOpened": 0,
       "lastCoinPurchaseAt": "2026-10-08T12:27:31.647Z",
-      "lastActiveAt": "2026-10-14T19:22:22.430Z",
-      "lastLoginAt": "2026-10-14T19:22:22.430Z"
+      "lastActiveAt": "2026-10-15T06:04:35.441Z",
+      "lastLoginAt": "2026-10-15T06:04:35.441Z"
     },
     {
       "id": "f37cbcb5-80ed-4869-a4e4-2e7e19b0c0aa",
@@ -171,7 +171,7 @@
       "role": "user",
       "referralCode": "匚尺乇卂-U3JA6",
       "transferHash": "QT4M6UG",
-      "coins": 15183,
+      "coins": 19007,
       "tickets": 0,
       "totalReferrals": 3,
       "monthlyReferrals": 3,
@@ -180,17 +180,17 @@
       "lastSpinAt": null,
       "lastCoinPurchaseAt": null,
       "trophies": 0,
-      "banned": true,
+      "banned": false,
       "createdAt": "2026-10-05T15:28:52.837Z",
-      "currentStreak": 1,
+      "currentStreak": 2,
       "longestStreak": 3,
       "lastClaimDate": null,
-      "gamesPlayed": 17,
-      "gamesWon": 6,
-      "lifetimeCoinsEarned": 12557,
-      "lifetimeCoinsSpent": 5424,
-      "level": 2,
-      "xp": 1310,
+      "gamesPlayed": 21,
+      "gamesWon": 8,
+      "lifetimeCoinsEarned": 17843,
+      "lifetimeCoinsSpent": 6886,
+      "level": 3,
+      "xp": 496,
       "rewardCoins": 40,
       "cosmetics": {
         "frames": [
@@ -213,13 +213,13 @@
         "profileArt": null
       },
       "cratesOpened": 0,
-      "lastLoginAt": "2026-10-14T18:33:23.145Z",
-      "lastActiveAt": "2026-10-14T18:33:23.145Z",
+      "lastLoginAt": "2026-10-15T04:40:05.120Z",
+      "lastActiveAt": "2026-10-15T04:40:05.120Z",
       "updatedAt": "2026-10-14T18:16:24.294Z",
-      "botLoginKeyHash": "d83aad8f4df678472c5e8429ee03bcc70e1057f65cf000dace66dc82d8adfe25",
-      "botLoginKeyExpiresAt": "2026-10-15T05:28:09.678Z",
-      "banExpiresAt": "2026-10-14T22:44:16.018Z",
-      "bannedBy": "13746bbd-147f-4979-945f-4f7eb28f19e3"
+      "botLoginKeyHash": "3909802c26f733cedd70434b7610edf84b058ee7a5ce691db63f8a3b100bca67",
+      "botLoginKeyExpiresAt": "2026-10-15T15:36:03.112Z",
+      "banExpiresAt": null,
+      "bannedBy": null
     },
     {
       "id": "6870c0c5-afa8-4107-8013-dc1cd0e70adc",
@@ -270,7 +270,7 @@
       "role": "user",
       "referralCode": "1-GI1UX",
       "transferHash": "D0ASA08",
-      "coins": 0,
+      "coins": 9901,
       "tickets": 0,
       "totalReferrals": 0,
       "monthlyReferrals": 0,
@@ -284,12 +284,12 @@
       "currentStreak": 5,
       "longestStreak": 5,
       "lastClaimDate": null,
-      "gamesPlayed": 188,
-      "gamesWon": 55,
-      "lifetimeCoinsEarned": 164965,
-      "lifetimeCoinsSpent": 47231,
+      "gamesPlayed": 191,
+      "gamesWon": 57,
+      "lifetimeCoinsEarned": 165559,
+      "lifetimeCoinsSpent": 47924,
       "level": 100,
-      "xp": 73197,
+      "xp": 73309,
       "rewardCoins": 1060,
       "cosmetics": {
         "frames": [
@@ -312,10 +312,10 @@
         "profileArt": null
       },
       "cratesOpened": 0,
-      "lastLoginAt": "2026-10-14T19:17:09.074Z",
-      "lastActiveAt": "2026-10-14T19:17:09.074Z",
-      "botLoginKeyHash": "bd0fb0583415dc9fbfe304631182edcba6587bbcc01b72429d1db190892b6368",
-      "botLoginKeyExpiresAt": "2026-10-15T01:36:27.978Z",
+      "lastLoginAt": "2026-10-15T06:33:42.946Z",
+      "lastActiveAt": "2026-10-15T06:33:42.946Z",
+      "botLoginKeyHash": "f411f33fe1c5ac3831ed27f1f0c8c56470143d507213ee8e26124d0630fb3e8a",
+      "botLoginKeyExpiresAt": "2026-10-15T17:29:48.514Z",
       "banExpiresAt": null,
       "bannedBy": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772"
     },
@@ -520,89 +520,197 @@
         "frame": null,
         "profileArt": null
       },
-      "lastActiveAt": "2026-10-14T18:38:54.449Z",
+      "lastActiveAt": "2026-10-14T22:24:50.759Z",
       "rewardCoins": 0,
-      "cratesOpened": 0
+      "cratesOpened": 0,
+      "lastLoginAt": "2026-10-14T22:24:50.759Z"
+    },
+    {
+      "id": "5a29d448-104c-4edb-aaa4-9d86a4bad45f",
+      "username": "clancymack",
+      "email": "blaidedj@gmail.com",
+      "password": "D4xMJZnsvLVhGy2",
+      "passwordHash": null,
+      "role": "user",
+      "referralCode": "CLAN-BKQKU",
+      "transferHash": "3WFZQ3S",
+      "coins": 100,
+      "tickets": 0,
+      "totalReferrals": 0,
+      "monthlyReferrals": 0,
+      "hasRedeemedReferral": false,
+      "totalSpins": 0,
+      "lastSpinAt": null,
+      "lastCoinPurchaseAt": null,
+      "trophies": 0,
+      "banned": false,
+      "createdAt": "2026-10-14T20:30:41.417Z",
+      "currentStreak": 1,
+      "longestStreak": 1,
+      "lastClaimDate": null,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "lifetimeCoinsEarned": 100,
+      "lifetimeCoinsSpent": 0,
+      "level": 1,
+      "xp": 25,
+      "cosmetics": {
+        "frames": [],
+        "profileArt": []
+      },
+      "equippedCosmetics": {
+        "frame": null,
+        "profileArt": null
+      },
+      "lastActiveAt": "2026-10-14T21:01:05.003Z",
+      "lastLoginAt": "2026-10-14T21:01:05.003Z"
+    },
+    {
+      "id": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "username": "Psycho",
+      "email": "joshua.neive@gmail.com",
+      "password": "ABC123",
+      "passwordHash": null,
+      "role": "user",
+      "referralCode": "PSYC-JD5OQ",
+      "transferHash": "DCKNXGO",
+      "coins": 100,
+      "tickets": 0,
+      "totalReferrals": 0,
+      "monthlyReferrals": 0,
+      "hasRedeemedReferral": false,
+      "totalSpins": 0,
+      "lastSpinAt": null,
+      "lastCoinPurchaseAt": null,
+      "trophies": 0,
+      "banned": false,
+      "createdAt": "2026-10-14T20:59:56.676Z",
+      "currentStreak": 1,
+      "longestStreak": 1,
+      "lastClaimDate": null,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "lifetimeCoinsEarned": 100,
+      "lifetimeCoinsSpent": 0,
+      "level": 1,
+      "xp": 25,
+      "referredByCode": "匚尺乇卂-U3JA6",
+      "cosmetics": {
+        "frames": [],
+        "profileArt": []
+      },
+      "equippedCosmetics": {
+        "frame": null,
+        "profileArt": null
+      },
+      "lastActiveAt": "2026-10-14T21:00:10.050Z"
+    },
+    {
+      "id": "23b1274c-10a8-46d3-b153-6eb2c27a7860",
+      "username": "blue_illy",
+      "email": "viljoenclaire01@gmail.com",
+      "password": "M)N)l1th",
+      "passwordHash": null,
+      "role": "user",
+      "referralCode": "BLUE-BL42W",
+      "transferHash": "VL22NAF",
+      "coins": 0,
+      "tickets": 0,
+      "totalReferrals": 0,
+      "monthlyReferrals": 0,
+      "hasRedeemedReferral": false,
+      "totalSpins": 0,
+      "lastSpinAt": null,
+      "lastCoinPurchaseAt": null,
+      "trophies": 0,
+      "banned": false,
+      "createdAt": "2026-10-14T21:24:14.887Z",
+      "currentStreak": 0,
+      "longestStreak": 0,
+      "lastClaimDate": null,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "lifetimeCoinsEarned": 0,
+      "lifetimeCoinsSpent": 0,
+      "level": 1,
+      "xp": 0,
+      "referredByCode": "匚尺乇卂-U3JA6",
+      "cosmetics": {
+        "frames": [],
+        "profileArt": []
+      },
+      "equippedCosmetics": {
+        "frame": null,
+        "profileArt": null
+      },
+      "lastActiveAt": "2026-10-14T21:24:25.616Z"
     }
   ],
   "transactions": [
     {
-      "txId": "blackjack_bet_1792003455309",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "txId": "slots_bet_1792045316254",
+      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
       "type": "DEBIT",
       "currency": "coins",
-      "amount": 250,
-      "reason": "blackjack bet",
+      "amount": 231,
+      "reason": "slots bet",
       "referenceId": null,
-      "balanceBefore": 15433,
-      "balanceAfter": 15183,
-      "createdAt": "2026-10-14T18:44:15.416Z",
-      "recordedAt": "2026-10-14T18:44:15.417Z"
+      "balanceBefore": 10000,
+      "balanceAfter": 9769,
+      "createdAt": "2026-10-15T06:22:06.486Z",
+      "recordedAt": "2026-10-15T06:22:06.488Z"
     },
     {
-      "txId": "work_115560826282077_20740",
-      "userId": "d026db98-fc90-4a31-9b16-d9f19f412f2f",
+      "txId": "slots_win_1792045316651",
+      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
       "type": "CREDIT",
       "currency": "coins",
-      "amount": 2500,
-      "reason": "daily casino work salary",
+      "amount": 330,
+      "reason": "slots win",
       "referenceId": null,
-      "balanceBefore": 0,
-      "balanceAfter": 2500,
-      "createdAt": "2026-10-14T19:13:04.791Z",
-      "recordedAt": "2026-10-14T19:13:04.792Z"
+      "balanceBefore": 9769,
+      "balanceAfter": 10099,
+      "createdAt": "2026-10-15T06:22:06.881Z",
+      "recordedAt": "2026-10-15T06:22:06.883Z"
     },
     {
-      "txId": "693277fa-3317-45c5-abc9-5bb3542ace35",
-      "userId": "d026db98-fc90-4a31-9b16-d9f19f412f2f",
-      "type": "CREDIT",
-      "currency": "rewardCoins",
-      "amount": 20,
-      "reason": "Casino win reward",
-      "referenceId": null,
-      "balanceBefore": 0,
-      "balanceAfter": 20,
-      "createdAt": "2026-10-14T19:37:43.736Z",
-      "recordedAt": "2026-10-14T19:37:43.737Z"
-    },
-    {
-      "txId": "096578c9-f44a-4583-9735-b410c3508a92",
-      "userId": "d026db98-fc90-4a31-9b16-d9f19f412f2f",
+      "txId": "slots_bet_1792045808705",
+      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
       "type": "DEBIT",
       "currency": "coins",
-      "amount": 320,
-      "reason": "Casino wager",
+      "amount": 231,
+      "reason": "slots bet",
       "referenceId": null,
-      "balanceBefore": 2500,
-      "balanceAfter": 2180,
-      "createdAt": "2026-10-14T19:37:43.820Z",
-      "recordedAt": "2026-10-14T19:37:43.821Z"
+      "balanceBefore": 10099,
+      "balanceAfter": 9868,
+      "createdAt": "2026-10-15T06:30:08.827Z",
+      "recordedAt": "2026-10-15T06:30:08.829Z"
     },
     {
-      "txId": "achievement:d026db98-fc90-4a31-9b16-d9f19f412f2f:first_game",
-      "userId": "d026db98-fc90-4a31-9b16-d9f19f412f2f",
+      "txId": "slots_win_1792045808997",
+      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
       "type": "CREDIT",
       "currency": "coins",
-      "amount": 250,
-      "reason": "Achievement: First Blood",
-      "referenceId": "first_game",
-      "balanceBefore": 2180,
-      "balanceAfter": 2430,
-      "createdAt": "2026-10-14T19:37:44.025Z",
-      "recordedAt": "2026-10-14T19:37:44.026Z"
+      "amount": 264,
+      "reason": "slots win",
+      "referenceId": null,
+      "balanceBefore": 9868,
+      "balanceAfter": 10132,
+      "createdAt": "2026-10-15T06:30:09.105Z",
+      "recordedAt": "2026-10-15T06:30:09.106Z"
     },
     {
-      "txId": "achievement:d026db98-fc90-4a31-9b16-d9f19f412f2f:first_win",
-      "userId": "d026db98-fc90-4a31-9b16-d9f19f412f2f",
-      "type": "CREDIT",
+      "txId": "slots_bet_1792046023301",
+      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
+      "type": "DEBIT",
       "currency": "coins",
-      "amount": 400,
-      "reason": "Achievement: Winner!",
-      "referenceId": "first_win",
-      "balanceBefore": 2430,
-      "balanceAfter": 2830,
-      "createdAt": "2026-10-14T19:37:44.127Z",
-      "recordedAt": "2026-10-14T19:37:44.128Z"
+      "amount": 231,
+      "reason": "slots bet",
+      "referenceId": null,
+      "balanceBefore": 10132,
+      "balanceAfter": 9901,
+      "createdAt": "2026-10-15T06:33:43.420Z",
+      "recordedAt": "2026-10-15T06:33:43.421Z"
     }
   ],
   "coin_orders": [
@@ -1313,6 +1421,351 @@
       "betType": "color",
       "betValue": "black",
       "ts": "2026-10-14T19:37:44.220Z"
+    },
+    {
+      "type": "new_user",
+      "username": "clancymack",
+      "referredBy": null,
+      "ts": "2026-10-14T20:30:41.430Z"
+    },
+    {
+      "type": "daily_bonus",
+      "username": "clancymack",
+      "coins": 100,
+      "streak": 1,
+      "ts": "2026-10-14T20:36:53.917Z"
+    },
+    {
+      "type": "user_banned",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "banned": false,
+      "ts": "2026-10-14T20:47:58.089Z"
+    },
+    {
+      "type": "new_user",
+      "username": "Psycho",
+      "referredBy": "匚尺乇卂-U3JA6",
+      "ts": "2026-10-14T20:59:56.682Z"
+    },
+    {
+      "type": "daily_bonus",
+      "username": "Psycho",
+      "coins": 100,
+      "streak": 1,
+      "ts": "2026-10-14T21:01:34.718Z"
+    },
+    {
+      "type": "new_user",
+      "username": "blue_illy",
+      "referredBy": "匚尺乇卂-U3JA6",
+      "ts": "2026-10-14T21:24:14.917Z"
+    },
+    {
+      "type": "daily_bonus",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "coins": 150,
+      "streak": 2,
+      "ts": "2026-10-15T04:36:14.923Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 231,
+      "balance": 16102,
+      "ts": "2026-10-15T04:40:05.601Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "credit",
+      "amount": 264,
+      "balance": 16366,
+      "ts": "2026-10-15T04:40:05.806Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 45,
+      "level": 3,
+      "xp": 241,
+      "hasLeveledUp": false,
+      "ts": "2026-10-15T04:40:06.014Z"
+    },
+    {
+      "type": "bot_games_win",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "gamesWon": 7,
+      "gamesPlayed": 18,
+      "ts": "2026-10-15T04:40:06.389Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 16116,
+      "ts": "2026-10-15T04:40:25.617Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 15866,
+      "ts": "2026-10-15T04:40:25.732Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 15,
+      "level": 3,
+      "xp": 256,
+      "hasLeveledUp": false,
+      "ts": "2026-10-15T04:40:25.821Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "credit",
+      "amount": 543,
+      "balance": 16409,
+      "ts": "2026-10-15T04:40:25.988Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "credit",
+      "amount": 43,
+      "balance": 16452,
+      "ts": "2026-10-15T04:40:26.083Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 55,
+      "level": 3,
+      "xp": 311,
+      "hasLeveledUp": false,
+      "ts": "2026-10-15T04:40:26.198Z"
+    },
+    {
+      "type": "bot_games_lose",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "gamesWon": 7,
+      "gamesPlayed": 19,
+      "ts": "2026-10-15T04:40:26.295Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 16202,
+      "ts": "2026-10-15T04:42:57.289Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "credit",
+      "amount": 700,
+      "balance": 16902,
+      "ts": "2026-10-15T04:42:57.529Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 120,
+      "level": 3,
+      "xp": 431,
+      "hasLeveledUp": false,
+      "ts": "2026-10-15T04:42:57.741Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "credit",
+      "amount": 43,
+      "balance": 16945,
+      "ts": "2026-10-15T04:42:57.967Z"
+    },
+    {
+      "type": "bot_games_win",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "gamesWon": 8,
+      "gamesPlayed": 20,
+      "ts": "2026-10-15T04:42:58.566Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 16695,
+      "ts": "2026-10-15T04:43:19.121Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 231,
+      "balance": 16464,
+      "ts": "2026-10-15T04:43:19.226Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "credit",
+      "amount": 2543,
+      "balance": 19007,
+      "ts": "2026-10-15T04:43:19.409Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 10,
+      "level": 3,
+      "xp": 441,
+      "hasLeveledUp": false,
+      "ts": "2026-10-15T04:43:19.518Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 55,
+      "level": 3,
+      "xp": 496,
+      "hasLeveledUp": false,
+      "ts": "2026-10-15T04:43:19.690Z"
+    },
+    {
+      "type": "bot_games_lose",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "gamesWon": 8,
+      "gamesPlayed": 21,
+      "ts": "2026-10-15T04:43:19.789Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
+      "username": "1",
+      "operation": "debit",
+      "amount": 231,
+      "balance": 9769,
+      "ts": "2026-10-15T06:22:06.492Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
+      "username": "1",
+      "operation": "credit",
+      "amount": 330,
+      "balance": 10099,
+      "ts": "2026-10-15T06:22:06.887Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
+      "username": "1",
+      "amount": 57,
+      "level": 100,
+      "xp": 73254,
+      "hasLeveledUp": false,
+      "ts": "2026-10-15T06:22:07.275Z"
+    },
+    {
+      "type": "bot_games_win",
+      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
+      "username": "1",
+      "gamesWon": 56,
+      "gamesPlayed": 189,
+      "ts": "2026-10-15T06:22:07.655Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
+      "username": "1",
+      "operation": "debit",
+      "amount": 231,
+      "balance": 9868,
+      "ts": "2026-10-15T06:30:08.835Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
+      "username": "1",
+      "operation": "credit",
+      "amount": 264,
+      "balance": 10132,
+      "ts": "2026-10-15T06:30:09.112Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
+      "username": "1",
+      "amount": 45,
+      "level": 100,
+      "xp": 73299,
+      "hasLeveledUp": false,
+      "ts": "2026-10-15T06:30:09.718Z"
+    },
+    {
+      "type": "bot_games_win",
+      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
+      "username": "1",
+      "gamesWon": 57,
+      "gamesPlayed": 190,
+      "ts": "2026-10-15T06:30:09.933Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
+      "username": "1",
+      "operation": "debit",
+      "amount": 231,
+      "balance": 9901,
+      "ts": "2026-10-15T06:33:43.424Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
+      "username": "1",
+      "amount": 10,
+      "level": 100,
+      "xp": 73309,
+      "hasLeveledUp": false,
+      "ts": "2026-10-15T06:33:43.932Z"
+    },
+    {
+      "type": "bot_games_lose",
+      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
+      "username": "1",
+      "gamesWon": 57,
+      "gamesPlayed": 191,
+      "ts": "2026-10-15T06:33:44.129Z"
     }
   ],
   "rewards": [
@@ -2229,6 +2682,12 @@
       "achievementId": "first_win",
       "name": "Winner!",
       "unlockedAt": "2026-10-14T19:37:44.121Z"
+    },
+    {
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "achievementId": "coins_10k",
+      "name": "Pocket Change",
+      "unlockedAt": "2026-10-15T04:36:15.021Z"
     }
   ],
   "challenges": [
@@ -2450,9 +2909,9 @@
     },
     {
       "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "streak": 1,
-      "lastClaimDate": "2026-10-14",
-      "lastClaimAt": "2026-10-14T18:19:50.215Z"
+      "streak": 2,
+      "lastClaimDate": "2026-10-15",
+      "lastClaimAt": "2026-10-15T04:36:14.911Z"
     },
     {
       "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
@@ -2471,6 +2930,18 @@
       "streak": 1,
       "lastClaimDate": "2026-10-14",
       "lastClaimAt": "2026-10-14T18:41:30.247Z"
+    },
+    {
+      "userId": "5a29d448-104c-4edb-aaa4-9d86a4bad45f",
+      "streak": 1,
+      "lastClaimDate": "2026-10-14",
+      "lastClaimAt": "2026-10-14T20:36:53.895Z"
+    },
+    {
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "streak": 1,
+      "lastClaimDate": "2026-10-14",
+      "lastClaimAt": "2026-10-14T21:01:34.635Z"
     }
   ],
   "social_program_submissions": [],
@@ -2493,7 +2964,7 @@
     "jackpot": 0,
     "drawNumber": 1,
     "lastWinner": null,
-    "lastDrawAt": "2026-10-14T13:45:15.729Z",
+    "lastDrawAt": "2026-10-15T00:00:02.215Z",
     "lastDraw": null,
     "status": "open",
     "results": []
@@ -2504,16 +2975,24 @@
     "referralsEnabled": true
   },
   "event_stats": {
-    "totalUsers": 12,
+    "totalUsers": 15,
     "totalTickets": 0,
-    "totalCoins": 57671,
+    "totalCoins": 71596,
     "lastReset": null,
     "lastWinner": null,
-    "snapshotAt": "2026-10-14T19:44:03.830Z"
+    "snapshotAt": "2026-10-15T06:44:03.836Z"
   },
   "leaderboard": [
     {
       "rank": 1,
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "monthlyReferrals": 3,
+      "totalReferrals": 3,
+      "tickets": 0,
+      "trophies": 0
+    },
+    {
+      "rank": 2,
       "username": "admin",
       "monthlyReferrals": 0,
       "totalReferrals": 0,
@@ -2521,7 +3000,7 @@
       "trophies": 0
     },
     {
-      "rank": 2,
+      "rank": 3,
       "username": "kaab0._",
       "monthlyReferrals": 0,
       "totalReferrals": 0,
@@ -2529,7 +3008,7 @@
       "trophies": 0
     },
     {
-      "rank": 3,
+      "rank": 4,
       "username": "alpha",
       "monthlyReferrals": 0,
       "totalReferrals": 0,
@@ -2537,7 +3016,7 @@
       "trophies": 0
     },
     {
-      "rank": 4,
+      "rank": 5,
       "username": "viki loves gift 🌷😘",
       "monthlyReferrals": 0,
       "totalReferrals": 0,
@@ -2545,7 +3024,7 @@
       "trophies": 0
     },
     {
-      "rank": 5,
+      "rank": 6,
       "username": "kingtim920",
       "monthlyReferrals": 0,
       "totalReferrals": 0,
@@ -2553,7 +3032,7 @@
       "trophies": 0
     },
     {
-      "rank": 6,
+      "rank": 7,
       "username": "1",
       "monthlyReferrals": 0,
       "totalReferrals": 0,
@@ -2561,7 +3040,7 @@
       "trophies": 0
     },
     {
-      "rank": 7,
+      "rank": 8,
       "username": "ligmanemo",
       "monthlyReferrals": 0,
       "totalReferrals": 0,
@@ -2569,7 +3048,7 @@
       "trophies": 0
     },
     {
-      "rank": 8,
+      "rank": 9,
       "username": "sxge",
       "monthlyReferrals": 0,
       "totalReferrals": 0,
@@ -2577,7 +3056,7 @@
       "trophies": 0
     },
     {
-      "rank": 9,
+      "rank": 10,
       "username": "Glockonmolly",
       "monthlyReferrals": 0,
       "totalReferrals": 0,
@@ -2585,7 +3064,7 @@
       "trophies": 0
     },
     {
-      "rank": 10,
+      "rank": 11,
       "username": "K4Ý",
       "monthlyReferrals": 0,
       "totalReferrals": 0,
@@ -2593,8 +3072,32 @@
       "trophies": 0
     },
     {
-      "rank": 11,
+      "rank": 12,
       "username": "Azash",
+      "monthlyReferrals": 0,
+      "totalReferrals": 0,
+      "tickets": 0,
+      "trophies": 0
+    },
+    {
+      "rank": 13,
+      "username": "clancymack",
+      "monthlyReferrals": 0,
+      "totalReferrals": 0,
+      "tickets": 0,
+      "trophies": 0
+    },
+    {
+      "rank": 14,
+      "username": "Psycho",
+      "monthlyReferrals": 0,
+      "totalReferrals": 0,
+      "tickets": 0,
+      "trophies": 0
+    },
+    {
+      "rank": 15,
+      "username": "blue_illy",
       "monthlyReferrals": 0,
       "totalReferrals": 0,
       "tickets": 0,
@@ -3160,6 +3663,49 @@
       "targetId": "921a6a5f-39fb-4e57-a81d-8507f2eb0e90",
       "username": "ur mother",
       "email": "u@gmail.com"
+    },
+    {
+      "id": "user_register_1792009841427",
+      "type": "user_register",
+      "timestamp": "2026-10-14T20:30:41.427Z",
+      "userId": "5a29d448-104c-4edb-aaa4-9d86a4bad45f",
+      "username": "clancymack",
+      "referredBy": null
+    },
+    {
+      "id": "admin_ban_1792010878087",
+      "type": "admin_ban",
+      "timestamp": "2026-10-14T20:47:58.087Z",
+      "adminId": "afdd6b55-1597-4a45-86f7-1579c8325dc8",
+      "targetId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "banned": false
+    },
+    {
+      "id": "user_register_1792011596680",
+      "type": "user_register",
+      "timestamp": "2026-10-14T20:59:56.680Z",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "username": "Psycho",
+      "referredBy": "匚尺乇卂-U3JA6"
+    },
+    {
+      "id": "user_register_1792013054895",
+      "type": "user_register",
+      "timestamp": "2026-10-14T21:24:14.895Z",
+      "userId": "23b1274c-10a8-46d3-b153-6eb2c27a7860",
+      "username": "blue_illy",
+      "referredBy": "匚尺乇卂-U3JA6"
+    },
+    {
+      "id": "admin_balance_adjustment_1792045277492",
+      "type": "admin_balance_adjustment",
+      "timestamp": "2026-10-15T06:21:17.492Z",
+      "adminId": "afdd6b55-1597-4a45-86f7-1579c8325dc8",
+      "targetUserId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
+      "targetUsername": "1",
+      "newCoins": 10000,
+      "newTickets": 0
     }
   ]
 }
