@@ -563,7 +563,9 @@
         "profileArt": null
       },
       "lastActiveAt": "2026-10-14T21:01:05.003Z",
-      "lastLoginAt": "2026-10-14T21:01:05.003Z"
+      "lastLoginAt": "2026-10-14T21:01:05.003Z",
+      "rewardCoins": 0,
+      "cratesOpened": 0
     },
     {
       "id": "945efcd5-7902-4f49-8b6a-83f05688f531",
@@ -603,7 +605,9 @@
         "frame": null,
         "profileArt": null
       },
-      "lastActiveAt": "2026-10-14T21:00:10.050Z"
+      "lastActiveAt": "2026-10-14T21:00:10.050Z",
+      "rewardCoins": 0,
+      "cratesOpened": 0
     },
     {
       "id": "23b1274c-10a8-46d3-b153-6eb2c27a7860",
@@ -643,76 +647,12 @@
         "frame": null,
         "profileArt": null
       },
-      "lastActiveAt": "2026-10-14T21:24:25.616Z"
+      "lastActiveAt": "2026-10-14T21:24:25.616Z",
+      "rewardCoins": 0,
+      "cratesOpened": 0
     }
   ],
-  "transactions": [
-    {
-      "txId": "slots_bet_1792045316254",
-      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
-      "type": "DEBIT",
-      "currency": "coins",
-      "amount": 231,
-      "reason": "slots bet",
-      "referenceId": null,
-      "balanceBefore": 10000,
-      "balanceAfter": 9769,
-      "createdAt": "2026-10-15T06:22:06.486Z",
-      "recordedAt": "2026-10-15T06:22:06.488Z"
-    },
-    {
-      "txId": "slots_win_1792045316651",
-      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
-      "type": "CREDIT",
-      "currency": "coins",
-      "amount": 330,
-      "reason": "slots win",
-      "referenceId": null,
-      "balanceBefore": 9769,
-      "balanceAfter": 10099,
-      "createdAt": "2026-10-15T06:22:06.881Z",
-      "recordedAt": "2026-10-15T06:22:06.883Z"
-    },
-    {
-      "txId": "slots_bet_1792045808705",
-      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
-      "type": "DEBIT",
-      "currency": "coins",
-      "amount": 231,
-      "reason": "slots bet",
-      "referenceId": null,
-      "balanceBefore": 10099,
-      "balanceAfter": 9868,
-      "createdAt": "2026-10-15T06:30:08.827Z",
-      "recordedAt": "2026-10-15T06:30:08.829Z"
-    },
-    {
-      "txId": "slots_win_1792045808997",
-      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
-      "type": "CREDIT",
-      "currency": "coins",
-      "amount": 264,
-      "reason": "slots win",
-      "referenceId": null,
-      "balanceBefore": 9868,
-      "balanceAfter": 10132,
-      "createdAt": "2026-10-15T06:30:09.105Z",
-      "recordedAt": "2026-10-15T06:30:09.106Z"
-    },
-    {
-      "txId": "slots_bet_1792046023301",
-      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
-      "type": "DEBIT",
-      "currency": "coins",
-      "amount": 231,
-      "reason": "slots bet",
-      "referenceId": null,
-      "balanceBefore": 10132,
-      "balanceAfter": 9901,
-      "createdAt": "2026-10-15T06:33:43.420Z",
-      "recordedAt": "2026-10-15T06:33:43.421Z"
-    }
-  ],
+  "transactions": [],
   "coin_orders": [
     {
       "id": "COIN-F4378BF7",
@@ -2980,7 +2920,7 @@
     "totalCoins": 71596,
     "lastReset": null,
     "lastWinner": null,
-    "snapshotAt": "2026-10-15T06:44:03.836Z"
+    "snapshotAt": "2026-10-15T08:41:35.073Z"
   },
   "leaderboard": [
     {
