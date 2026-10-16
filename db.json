@@ -39,8 +39,8 @@
       },
       "cratesOpened": 0,
       "lastCoinPurchaseAt": "2026-10-08T12:27:31.647Z",
-      "lastActiveAt": "2026-10-15T18:25:22.707Z",
-      "lastLoginAt": "2026-10-15T18:25:22.707Z"
+      "lastActiveAt": "2026-10-16T17:07:00.004Z",
+      "lastLoginAt": "2026-10-16T17:07:00.004Z"
     },
     {
       "id": "f37cbcb5-80ed-4869-a4e4-2e7e19b0c0aa",
@@ -171,10 +171,10 @@
       "role": "user",
       "referralCode": "匚尺乇卂-U3JA6",
       "transferHash": "QT4M6UG",
-      "coins": 33098,
+      "coins": 67927,
       "tickets": 0,
-      "totalReferrals": 3,
-      "monthlyReferrals": 3,
+      "totalReferrals": 4,
+      "monthlyReferrals": 4,
       "hasRedeemedReferral": true,
       "totalSpins": 0,
       "lastSpinAt": null,
@@ -187,10 +187,10 @@
       "lastClaimDate": null,
       "gamesPlayed": 44,
       "gamesWon": 22,
-      "lifetimeCoinsEarned": 54035,
-      "lifetimeCoinsSpent": 28987,
-      "level": 4,
-      "xp": 1124,
+      "lifetimeCoinsEarned": 102114,
+      "lifetimeCoinsSpent": 54737,
+      "level": 5,
+      "xp": 1334,
       "rewardCoins": 40,
       "cosmetics": {
         "frames": [
@@ -213,13 +213,13 @@
         "profileArt": null
       },
       "cratesOpened": 0,
-      "lastLoginAt": "2026-10-16T03:26:52.479Z",
-      "lastActiveAt": "2026-10-16T03:26:52.479Z",
+      "lastLoginAt": "2026-10-16T17:14:13.452Z",
+      "lastActiveAt": "2026-10-16T17:14:13.452Z",
       "updatedAt": "2026-10-14T18:16:24.294Z",
-      "botLoginKeyHash": "ca6cce2227ced913ddd2ee9a856d7ef4ca2e7019ad35feee1aa45a5a5c5232bc",
-      "botLoginKeyExpiresAt": "2026-10-16T14:22:19.434Z",
+      "botLoginKeyHash": "824f031fa4cda19b685414a17d763139cc5a5879171879d4268e4377c7a7a1ec",
+      "botLoginKeyExpiresAt": "2026-10-17T03:01:13.832Z",
       "banExpiresAt": null,
-      "bannedBy": "13746bbd-147f-4979-945f-4f7eb28f19e3"
+      "bannedBy": null
     },
     {
       "id": "6870c0c5-afa8-4107-8013-dc1cd0e70adc",
@@ -312,8 +312,8 @@
         "profileArt": null
       },
       "cratesOpened": 0,
-      "lastLoginAt": "2026-10-15T20:53:16.824Z",
-      "lastActiveAt": "2026-10-15T20:53:16.824Z",
+      "lastLoginAt": "2026-10-16T10:52:00.126Z",
+      "lastActiveAt": "2026-10-16T10:52:00.126Z",
       "botLoginKeyHash": "057a8f82717eff6d941bce97a4ebca9fa09fadd04e3da141e001d1bdec3c4db5",
       "botLoginKeyExpiresAt": "2026-10-16T07:53:05.448Z",
       "banExpiresAt": null,
@@ -576,26 +576,26 @@
       "role": "user",
       "referralCode": "PSYC-JD5OQ",
       "transferHash": "DCKNXGO",
-      "coins": 100,
+      "coins": 16445,
       "tickets": 0,
       "totalReferrals": 0,
       "monthlyReferrals": 0,
-      "hasRedeemedReferral": false,
+      "hasRedeemedReferral": true,
       "totalSpins": 0,
       "lastSpinAt": null,
-      "lastCoinPurchaseAt": null,
+      "lastCoinPurchaseAt": "2026-10-16T17:17:40.532Z",
       "trophies": 0,
       "banned": false,
       "createdAt": "2026-10-14T20:59:56.676Z",
-      "currentStreak": 1,
-      "longestStreak": 1,
+      "currentStreak": 2,
+      "longestStreak": 2,
       "lastClaimDate": null,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "lifetimeCoinsEarned": 100,
-      "lifetimeCoinsSpent": 0,
-      "level": 1,
-      "xp": 25,
+      "gamesPlayed": 3,
+      "gamesWon": 1,
+      "lifetimeCoinsEarned": 15195,
+      "lifetimeCoinsSpent": 7000,
+      "level": 2,
+      "xp": 1290,
       "referredByCode": "匚尺乇卂-U3JA6",
       "cosmetics": {
         "frames": [],
@@ -605,9 +605,12 @@
         "frame": null,
         "profileArt": null
       },
-      "lastActiveAt": "2026-10-14T21:00:10.050Z",
-      "rewardCoins": 0,
-      "cratesOpened": 0
+      "lastActiveAt": "2026-10-16T17:25:57.465Z",
+      "rewardCoins": 20,
+      "cratesOpened": 0,
+      "lastLoginAt": "2026-10-16T17:25:57.465Z",
+      "botLoginKeyHash": "6f2ae47892c423337d9f0f32183b2f6275382e9d1680521dc48895337bd3df90",
+      "botLoginKeyExpiresAt": "2026-10-17T04:24:24.064Z"
     },
     {
       "id": "23b1274c-10a8-46d3-b153-6eb2c27a7860",
@@ -811,9 +814,1346 @@
         "profileArt": null
       },
       "lastActiveAt": "2026-10-15T17:21:28.757Z"
+    },
+    {
+      "id": "fead2571-2d33-4259-823f-3a8ae91e65ca",
+      "username": "厶卄ㄖ丂ㄒ",
+      "email": "1darkside2knight3@gmail.com",
+      "password": "ABC123",
+      "passwordHash": null,
+      "role": "user",
+      "referralCode": "厶卄ㄖ丂-QOF1I",
+      "transferHash": "7PSYCJX",
+      "coins": 100,
+      "tickets": 0,
+      "totalReferrals": 0,
+      "monthlyReferrals": 0,
+      "hasRedeemedReferral": false,
+      "totalSpins": 0,
+      "lastSpinAt": null,
+      "lastCoinPurchaseAt": null,
+      "trophies": 0,
+      "banned": false,
+      "createdAt": "2026-10-16T16:48:19.612Z",
+      "currentStreak": 1,
+      "longestStreak": 1,
+      "lastClaimDate": null,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "lifetimeCoinsEarned": 100,
+      "lifetimeCoinsSpent": 0,
+      "level": 1,
+      "xp": 25,
+      "referredByCode": "匚尺乇卂-U3JA6",
+      "cosmetics": {
+        "frames": [],
+        "profileArt": []
+      },
+      "equippedCosmetics": {
+        "frame": null,
+        "profileArt": null
+      },
+      "lastActiveAt": "2026-10-16T16:48:26.150Z"
     }
   ],
-  "transactions": [],
+  "transactions": [
+    {
+      "txId": "wheel_bet_1792168946902",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "type": "DEBIT",
+      "currency": "coins",
+      "amount": 250,
+      "reason": "wheel bet",
+      "referenceId": null,
+      "balanceBefore": 50539,
+      "balanceAfter": 50289,
+      "createdAt": "2026-10-16T16:42:27.030Z",
+      "recordedAt": "2026-10-16T16:42:27.033Z"
+    },
+    {
+      "txId": "wheel_win_1792168947211",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "type": "CREDIT",
+      "currency": "coins",
+      "amount": 1293,
+      "reason": "wheel win",
+      "referenceId": null,
+      "balanceBefore": 50289,
+      "balanceAfter": 51582,
+      "createdAt": "2026-10-16T16:42:27.421Z",
+      "recordedAt": "2026-10-16T16:42:27.424Z"
+    },
+    {
+      "txId": "poker_bet_1792168949398",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "type": "DEBIT",
+      "currency": "coins",
+      "amount": 250,
+      "reason": "poker bet",
+      "referenceId": null,
+      "balanceBefore": 51582,
+      "balanceAfter": 51332,
+      "createdAt": "2026-10-16T16:42:29.521Z",
+      "recordedAt": "2026-10-16T16:42:29.524Z"
+    },
+    {
+      "txId": "poker_win_1792168949700",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "type": "CREDIT",
+      "currency": "coins",
+      "amount": 593,
+      "reason": "poker win",
+      "referenceId": null,
+      "balanceBefore": 51332,
+      "balanceAfter": 51925,
+      "createdAt": "2026-10-16T16:42:29.825Z",
+      "recordedAt": "2026-10-16T16:42:29.828Z"
+    },
+    {
+      "txId": "wheel_bet_1792169006970",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "type": "DEBIT",
+      "currency": "coins",
+      "amount": 250,
+      "reason": "wheel bet",
+      "referenceId": null,
+      "balanceBefore": 51925,
+      "balanceAfter": 51675,
+      "createdAt": "2026-10-16T16:43:27.123Z",
+      "recordedAt": "2026-10-16T16:43:27.125Z"
+    },
+    {
+      "txId": "poker_bet_1792169008999",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "type": "DEBIT",
+      "currency": "coins",
+      "amount": 250,
+      "reason": "poker bet",
+      "referenceId": null,
+      "balanceBefore": 51675,
+      "balanceAfter": 51425,
+      "createdAt": "2026-10-16T16:43:29.123Z",
+      "recordedAt": "2026-10-16T16:43:29.127Z"
+    },
+    {
+      "txId": "wheel_bet_1792169073509",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "type": "DEBIT",
+      "currency": "coins",
+      "amount": 250,
+      "reason": "wheel bet",
+      "referenceId": null,
+      "balanceBefore": 51425,
+      "balanceAfter": 51175,
+      "createdAt": "2026-10-16T16:44:33.725Z",
+      "recordedAt": "2026-10-16T16:44:33.728Z"
+    },
+    {
+      "txId": "poker_bet_1792169075701",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "type": "DEBIT",
+      "currency": "coins",
+      "amount": 250,
+      "reason": "poker bet",
+      "referenceId": null,
+      "balanceBefore": 51175,
+      "balanceAfter": 50925,
+      "createdAt": "2026-10-16T16:44:35.837Z",
+      "recordedAt": "2026-10-16T16:44:35.921Z"
+    },
+    {
+      "txId": "wheel_bet_1792169101500",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "type": "DEBIT",
+      "currency": "coins",
+      "amount": 250,
+      "reason": "wheel bet",
+      "referenceId": null,
+      "balanceBefore": 50925,
+      "balanceAfter": 50675,
+      "createdAt": "2026-10-16T16:45:01.626Z",
+      "recordedAt": "2026-10-16T16:45:01.628Z"
+    },
+    {
+      "txId": "wheel_win_1792169101801",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "type": "CREDIT",
+      "currency": "coins",
+      "amount": 543,
+      "reason": "wheel win",
+      "referenceId": null,
+      "balanceBefore": 50675,
+      "balanceAfter": 51218,
+      "createdAt": "2026-10-16T16:45:01.928Z",
+      "recordedAt": "2026-10-16T16:45:01.932Z"
+    },
+    {
+      "txId": "poker_bet_1792169103832",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "type": "DEBIT",
+      "currency": "coins",
+      "amount": 250,
+      "reason": "poker bet",
+      "referenceId": null,
+      "balanceBefore": 51218,
+      "balanceAfter": 50968,
+      "createdAt": "2026-10-16T16:45:03.951Z",
+      "recordedAt": "2026-10-16T16:45:04.025Z"
+    },
+    {
+      "txId": "poker_bet_1792169139101",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "type": "DEBIT",
+      "currency": "coins",
+      "amount": 250,
+      "reason": "poker bet",
+      "referenceId": null,
+      "balanceBefore": 50968,
+      "balanceAfter": 50718,
+      "createdAt": "2026-10-16T16:45:39.220Z",
+      "recordedAt": "2026-10-16T16:45:39.224Z"
+    },
+    {
+      "txId": "poker_win_1792169139406",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "type": "CREDIT",
+      "currency": "coins",
+      "amount": 593,
+      "reason": "poker win",
+      "referenceId": null,
+      "balanceBefore": 50718,
+      "balanceAfter": 51311,
+      "createdAt": "2026-10-16T16:45:39.523Z",
+      "recordedAt": "2026-10-16T16:45:39.530Z"
+    },
+    {
+      "txId": "wheel_bet_1792169141869",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "type": "DEBIT",
+      "currency": "coins",
+      "amount": 250,
+      "reason": "wheel bet",
+      "referenceId": null,
+      "balanceBefore": 51311,
+      "balanceAfter": 51061,
+      "createdAt": "2026-10-16T16:45:42.019Z",
+      "recordedAt": "2026-10-16T16:45:42.024Z"
+    },
+    {
+      "txId": "wheel_win_1792169142204",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "type": "CREDIT",
+      "currency": "coins",
+      "amount": 543,
+      "reason": "wheel win",
+      "referenceId": null,
+      "balanceBefore": 51061,
+      "balanceAfter": 51604,
+      "createdAt": "2026-10-16T16:45:42.321Z",
+      "recordedAt": "2026-10-16T16:45:42.328Z"
+    },
+    {
+      "txId": "poker_bet_1792169165401",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "type": "DEBIT",
+      "currency": "coins",
+      "amount": 250,
+      "reason": "poker bet",
+      "referenceId": null,
+      "balanceBefore": 51604,
+      "balanceAfter": 51354,
+      "createdAt": "2026-10-16T16:46:05.529Z",
+      "recordedAt": "2026-10-16T16:46:05.534Z"
+    },
+    {
+      "txId": "wheel_bet_1792169167805",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "type": "DEBIT",
+      "currency": "coins",
+      "amount": 250,
+      "reason": "wheel bet",
+      "referenceId": null,
+      "balanceBefore": 51354,
+      "balanceAfter": 51104,
+      "createdAt": "2026-10-16T16:46:07.920Z",
+      "recordedAt": "2026-10-16T16:46:07.923Z"
+    },
+    {
+      "txId": "wheel_bet_1792169196309",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "type": "DEBIT",
+      "currency": "coins",
+      "amount": 250,
+      "reason": "wheel bet",
+      "referenceId": null,
+      "balanceBefore": 51104,
+      "balanceAfter": 50854,
+      "createdAt": "2026-10-16T16:46:36.824Z",
+      "recordedAt": "2026-10-16T16:46:36.827Z"
+    },
+    {
+      "txId": "wheel_win_1792169197016",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "type": "CREDIT",
+      "currency": "coins",
+      "amount": 2543,
+      "reason": "wheel win",
+      "referenceId": null,
+      "balanceBefore": 50854,
+      "balanceAfter": 53397,
+      "createdAt": "2026-10-16T16:46:37.228Z",
+      "recordedAt": "2026-10-16T16:46:37.232Z"
+    },
+    {
+      "txId": "poker_bet_1792169198602",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "type": "DEBIT",
+      "currency": "coins",
+      "amount": 250,
+      "reason": "poker bet",
+      "referenceId": null,
+      "balanceBefore": 53397,
+      "balanceAfter": 53147,
+      "createdAt": "2026-10-16T16:46:38.729Z",
+      "recordedAt": "2026-10-16T16:46:38.733Z"
+    },
+    {
+      "txId": "7c719f0c-b1b4-446d-abbe-9a3db42f0c94",
+      "userId": "fead2571-2d33-4259-823f-3a8ae91e65ca",
+      "type": "CREDIT",
+      "currency": "coins",
+      "amount": 100,
+      "reason": "Daily Streak Bonus (Day 1)",
+      "referenceId": null,
+      "balanceBefore": 0,
+      "balanceAfter": 100,
+      "createdAt": "2026-10-16T16:48:45.733Z",
+      "recordedAt": "2026-10-16T16:48:45.822Z"
+    },
+    {
+      "txId": "wheel_bet_1792169366820",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "type": "DEBIT",
+      "currency": "coins",
+      "amount": 250,
+      "reason": "wheel bet",
+      "referenceId": null,
+      "balanceBefore": 53147,
+      "balanceAfter": 52897,
+      "createdAt": "2026-10-16T16:49:27.029Z",
+      "recordedAt": "2026-10-16T16:49:27.033Z"
+    },
+    {
+      "txId": "wheel_win_1792169367320",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "type": "CREDIT",
+      "currency": "coins",
+      "amount": 543,
+      "reason": "wheel win",
+      "referenceId": null,
+      "balanceBefore": 52897,
+      "balanceAfter": 53440,
+      "createdAt": "2026-10-16T16:49:27.532Z",
+      "recordedAt": "2026-10-16T16:49:27.536Z"
+    },
+    {
+      "txId": "poker_bet_1792169369952",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "type": "DEBIT",
+      "currency": "coins",
+      "amount": 250,
+      "reason": "poker bet",
+      "referenceId": null,
+      "balanceBefore": 53440,
+      "balanceAfter": 53190,
+      "createdAt": "2026-10-16T16:49:30.120Z",
+      "recordedAt": "2026-10-16T16:49:30.123Z"
+    },
+    {
+      "txId": "wheel_bet_1792169438112",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "type": "DEBIT",
+      "currency": "coins",
+      "amount": 250,
+      "reason": "wheel bet",
+      "referenceId": null,
+      "balanceBefore": 53190,
+      "balanceAfter": 52940,
+      "createdAt": "2026-10-16T16:50:38.325Z",
+      "recordedAt": "2026-10-16T16:50:38.329Z"
+    },
+    {
+      "txId": "poker_bet_1792169448863",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "type": "DEBIT",
+      "currency": "coins",
+      "amount": 250,
+      "reason": "poker bet",
+      "referenceId": null,
+      "balanceBefore": 52940,
+      "balanceAfter": 52690,
+      "createdAt": "2026-10-16T16:50:49.029Z",
+      "recordedAt": "2026-10-16T16:50:49.033Z"
+    },
+    {
+      "txId": "poker_win_1792169449211",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "type": "CREDIT",
+      "currency": "coins",
+      "amount": 593,
+      "reason": "poker win",
+      "referenceId": null,
+      "balanceBefore": 52690,
+      "balanceAfter": 53283,
+      "createdAt": "2026-10-16T16:50:49.333Z",
+      "recordedAt": "2026-10-16T16:50:49.336Z"
+    },
+    {
+      "txId": "wheel_bet_1792169476801",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "type": "DEBIT",
+      "currency": "coins",
+      "amount": 250,
+      "reason": "wheel bet",
+      "referenceId": null,
+      "balanceBefore": 53283,
+      "balanceAfter": 53033,
+      "createdAt": "2026-10-16T16:51:17.236Z",
+      "recordedAt": "2026-10-16T16:51:17.323Z"
+    },
+    {
+      "txId": "poker_bet_1792169479486",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "type": "DEBIT",
+      "currency": "coins",
+      "amount": 250,
+      "reason": "poker bet",
+      "referenceId": null,
+      "balanceBefore": 53033,
+      "balanceAfter": 52783,
+      "createdAt": "2026-10-16T16:51:19.629Z",
+      "recordedAt": "2026-10-16T16:51:19.633Z"
+    },
+    {
+      "txId": "poker_win_1792169479817",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "type": "CREDIT",
+      "currency": "coins",
+      "amount": 593,
+      "reason": "poker win",
+      "referenceId": null,
+      "balanceBefore": 52783,
+      "balanceAfter": 53376,
+      "createdAt": "2026-10-16T16:51:19.925Z",
+      "recordedAt": "2026-10-16T16:51:19.928Z"
+    },
+    {
+      "txId": "wheel_bet_1792169508815",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "type": "DEBIT",
+      "currency": "coins",
+      "amount": 250,
+      "reason": "wheel bet",
+      "referenceId": null,
+      "balanceBefore": 53376,
+      "balanceAfter": 53126,
+      "createdAt": "2026-10-16T16:51:48.932Z",
+      "recordedAt": "2026-10-16T16:51:49.022Z"
+    },
+    {
+      "txId": "poker_bet_1792169509512",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "type": "DEBIT",
+      "currency": "coins",
+      "amount": 250,
+      "reason": "poker bet",
+      "referenceId": null,
+      "balanceBefore": 53126,
+      "balanceAfter": 52876,
+      "createdAt": "2026-10-16T16:51:49.928Z",
+      "recordedAt": "2026-10-16T16:51:49.931Z"
+    },
+    {
+      "txId": "poker_win_1792169510682",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "type": "CREDIT",
+      "currency": "coins",
+      "amount": 593,
+      "reason": "poker win",
+      "referenceId": null,
+      "balanceBefore": 52876,
+      "balanceAfter": 53469,
+      "createdAt": "2026-10-16T16:51:50.928Z",
+      "recordedAt": "2026-10-16T16:51:50.934Z"
+    },
+    {
+      "txId": "poker_bet_1792169540268",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "type": "DEBIT",
+      "currency": "coins",
+      "amount": 250,
+      "reason": "poker bet",
+      "referenceId": null,
+      "balanceBefore": 53469,
+      "balanceAfter": 53219,
+      "createdAt": "2026-10-16T16:52:20.724Z",
+      "recordedAt": "2026-10-16T16:52:20.727Z"
+    },
+    {
+      "txId": "poker_win_1792169540906",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "type": "CREDIT",
+      "currency": "coins",
+      "amount": 593,
+      "reason": "poker win",
+      "referenceId": null,
+      "balanceBefore": 53219,
+      "balanceAfter": 53812,
+      "createdAt": "2026-10-16T16:52:21.026Z",
+      "recordedAt": "2026-10-16T16:52:21.029Z"
+    },
+    {
+      "txId": "wheel_bet_1792169575804",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "type": "DEBIT",
+      "currency": "coins",
+      "amount": 250,
+      "reason": "wheel bet",
+      "referenceId": null,
+      "balanceBefore": 53812,
+      "balanceAfter": 53562,
+      "createdAt": "2026-10-16T16:52:55.926Z",
+      "recordedAt": "2026-10-16T16:52:55.929Z"
+    },
+    {
+      "txId": "poker_bet_1792169581393",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "type": "DEBIT",
+      "currency": "coins",
+      "amount": 250,
+      "reason": "poker bet",
+      "referenceId": null,
+      "balanceBefore": 53562,
+      "balanceAfter": 53312,
+      "createdAt": "2026-10-16T16:53:01.523Z",
+      "recordedAt": "2026-10-16T16:53:01.526Z"
+    },
+    {
+      "txId": "wheel_bet_1792169614610",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "type": "DEBIT",
+      "currency": "coins",
+      "amount": 250,
+      "reason": "wheel bet",
+      "referenceId": null,
+      "balanceBefore": 53312,
+      "balanceAfter": 53062,
+      "createdAt": "2026-10-16T16:53:34.823Z",
+      "recordedAt": "2026-10-16T16:53:34.827Z"
+    },
+    {
+      "txId": "wheel_win_1792169615013",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "type": "CREDIT",
+      "currency": "coins",
+      "amount": 793,
+      "reason": "wheel win",
+      "referenceId": null,
+      "balanceBefore": 53062,
+      "balanceAfter": 53855,
+      "createdAt": "2026-10-16T16:53:35.223Z",
+      "recordedAt": "2026-10-16T16:53:35.227Z"
+    },
+    {
+      "txId": "poker_bet_1792169616884",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "type": "DEBIT",
+      "currency": "coins",
+      "amount": 250,
+      "reason": "poker bet",
+      "referenceId": null,
+      "balanceBefore": 53855,
+      "balanceAfter": 53605,
+      "createdAt": "2026-10-16T16:53:37.026Z",
+      "recordedAt": "2026-10-16T16:53:37.028Z"
+    },
+    {
+      "txId": "poker_win_1792169617305",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "type": "CREDIT",
+      "currency": "coins",
+      "amount": 593,
+      "reason": "poker win",
+      "referenceId": null,
+      "balanceBefore": 53605,
+      "balanceAfter": 54198,
+      "createdAt": "2026-10-16T16:53:37.530Z",
+      "recordedAt": "2026-10-16T16:53:37.534Z"
+    },
+    {
+      "txId": "wheel_bet_1792169672500",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "type": "DEBIT",
+      "currency": "coins",
+      "amount": 250,
+      "reason": "wheel bet",
+      "referenceId": null,
+      "balanceBefore": 54198,
+      "balanceAfter": 53948,
+      "createdAt": "2026-10-16T16:54:33.023Z",
+      "recordedAt": "2026-10-16T16:54:33.026Z"
+    },
+    {
+      "txId": "poker_bet_1792169674745",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "type": "DEBIT",
+      "currency": "coins",
+      "amount": 250,
+      "reason": "poker bet",
+      "referenceId": null,
+      "balanceBefore": 53948,
+      "balanceAfter": 53698,
+      "createdAt": "2026-10-16T16:54:34.926Z",
+      "recordedAt": "2026-10-16T16:54:34.930Z"
+    },
+    {
+      "txId": "poker_win_1792169675115",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "type": "CREDIT",
+      "currency": "coins",
+      "amount": 593,
+      "reason": "poker win",
+      "referenceId": null,
+      "balanceBefore": 53698,
+      "balanceAfter": 54291,
+      "createdAt": "2026-10-16T16:54:35.226Z",
+      "recordedAt": "2026-10-16T16:54:35.229Z"
+    },
+    {
+      "txId": "poker_bet_1792169706004",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "type": "DEBIT",
+      "currency": "coins",
+      "amount": 250,
+      "reason": "poker bet",
+      "referenceId": null,
+      "balanceBefore": 54291,
+      "balanceAfter": 54041,
+      "createdAt": "2026-10-16T16:55:06.134Z",
+      "recordedAt": "2026-10-16T16:55:06.137Z"
+    },
+    {
+      "txId": "poker_win_1792169706313",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "type": "CREDIT",
+      "currency": "coins",
+      "amount": 593,
+      "reason": "poker win",
+      "referenceId": null,
+      "balanceBefore": 54041,
+      "balanceAfter": 54634,
+      "createdAt": "2026-10-16T16:55:06.522Z",
+      "recordedAt": "2026-10-16T16:55:06.526Z"
+    },
+    {
+      "txId": "wheel_bet_1792169707724",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "type": "DEBIT",
+      "currency": "coins",
+      "amount": 250,
+      "reason": "wheel bet",
+      "referenceId": null,
+      "balanceBefore": 54634,
+      "balanceAfter": 54384,
+      "createdAt": "2026-10-16T16:55:07.926Z",
+      "recordedAt": "2026-10-16T16:55:07.929Z"
+    },
+    {
+      "txId": "wheel_win_1792169708110",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "type": "CREDIT",
+      "currency": "coins",
+      "amount": 1293,
+      "reason": "wheel win",
+      "referenceId": null,
+      "balanceBefore": 54384,
+      "balanceAfter": 55677,
+      "createdAt": "2026-10-16T16:55:08.232Z",
+      "recordedAt": "2026-10-16T16:55:08.321Z"
+    },
+    {
+      "txId": "poker_bet_1792170081897",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "type": "DEBIT",
+      "currency": "coins",
+      "amount": 250,
+      "reason": "poker bet",
+      "referenceId": null,
+      "balanceBefore": 55677,
+      "balanceAfter": 55427,
+      "createdAt": "2026-10-16T17:01:22.125Z",
+      "recordedAt": "2026-10-16T17:01:22.230Z"
+    },
+    {
+      "txId": "c8b420a1-99ce-449d-a349-b592ee3cc2a0",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "type": "CREDIT",
+      "currency": "coins",
+      "amount": 150,
+      "reason": "Daily Streak Bonus (Day 2)",
+      "referenceId": null,
+      "balanceBefore": 100,
+      "balanceAfter": 250,
+      "createdAt": "2026-10-16T17:07:00.735Z",
+      "recordedAt": "2026-10-16T17:07:00.824Z"
+    },
+    {
+      "txId": "8d99cab7-d026-4fe8-a875-1d5920ea37d7",
+      "type": "deposit",
+      "toUserId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "toUsername": "Psycho",
+      "amount": 4750,
+      "source": "app_deposit",
+      "recordedAt": "2026-10-16T17:17:40.630Z"
+    },
+    {
+      "txId": "034776ed-6f97-4826-909a-1d414c62df0d",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "type": "DEBIT",
+      "currency": "coins",
+      "amount": 250,
+      "reason": "Casino wager",
+      "referenceId": null,
+      "balanceBefore": 8500,
+      "balanceAfter": 8250,
+      "createdAt": "2026-10-16T17:22:43.933Z",
+      "recordedAt": "2026-10-16T17:22:44.022Z"
+    },
+    {
+      "txId": "95609d66-9bf7-4c00-8f11-1c955df2bd63",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "type": "CREDIT",
+      "currency": "rewardCoins",
+      "amount": 20,
+      "reason": "Casino win reward",
+      "referenceId": null,
+      "balanceBefore": 0,
+      "balanceAfter": 20,
+      "createdAt": "2026-10-16T17:22:54.227Z",
+      "recordedAt": "2026-10-16T17:22:54.230Z"
+    },
+    {
+      "txId": "achievement:945efcd5-7902-4f49-8b6a-83f05688f531:first_game",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "type": "CREDIT",
+      "currency": "coins",
+      "amount": 250,
+      "reason": "Achievement: First Blood",
+      "referenceId": "first_game",
+      "balanceBefore": 8250,
+      "balanceAfter": 8500,
+      "createdAt": "2026-10-16T17:22:55.031Z",
+      "recordedAt": "2026-10-16T17:22:55.034Z"
+    },
+    {
+      "txId": "achievement:945efcd5-7902-4f49-8b6a-83f05688f531:first_win",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "type": "CREDIT",
+      "currency": "coins",
+      "amount": 400,
+      "reason": "Achievement: Winner!",
+      "referenceId": "first_win",
+      "balanceBefore": 8500,
+      "balanceAfter": 8900,
+      "createdAt": "2026-10-16T17:22:55.720Z",
+      "recordedAt": "2026-10-16T17:22:55.724Z"
+    },
+    {
+      "txId": "7b84ed1f-abc0-43a2-8fc4-b6cf6177fbaa",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "type": "DEBIT",
+      "currency": "coins",
+      "amount": 250,
+      "reason": "Casino wager",
+      "referenceId": null,
+      "balanceBefore": 8900,
+      "balanceAfter": 8650,
+      "createdAt": "2026-10-16T17:23:00.432Z",
+      "recordedAt": "2026-10-16T17:23:00.520Z"
+    },
+    {
+      "txId": "cd9f22f6-99b4-4a26-9506-c37240c764b1",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "type": "DEBIT",
+      "currency": "coins",
+      "amount": 250,
+      "reason": "Casino wager",
+      "referenceId": null,
+      "balanceBefore": 8650,
+      "balanceAfter": 8400,
+      "createdAt": "2026-10-16T17:23:08.633Z",
+      "recordedAt": "2026-10-16T17:23:08.722Z"
+    },
+    {
+      "txId": "70397819-6729-44ce-81df-78a6d12c4df9",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "type": "CREDIT",
+      "currency": "coins",
+      "amount": 500,
+      "reason": "Challenge: Action Packed",
+      "referenceId": null,
+      "balanceBefore": 8400,
+      "balanceAfter": 8900,
+      "createdAt": "2026-10-16T17:23:57.536Z",
+      "recordedAt": "2026-10-16T17:23:57.622Z"
+    },
+    {
+      "txId": "dd10994b-425e-4b47-8445-48d32af8a8fe",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "type": "CREDIT",
+      "currency": "coins",
+      "amount": 350,
+      "reason": "Challenge: Winner Circle",
+      "referenceId": null,
+      "balanceBefore": 8900,
+      "balanceAfter": 9250,
+      "createdAt": "2026-10-16T17:23:58.632Z",
+      "recordedAt": "2026-10-16T17:23:58.720Z"
+    },
+    {
+      "txId": "work_126882712432848_20742",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "type": "CREDIT",
+      "currency": "coins",
+      "amount": 1500,
+      "reason": "daily casino work salary",
+      "referenceId": null,
+      "balanceBefore": 9250,
+      "balanceAfter": 10750,
+      "createdAt": "2026-10-16T17:26:02.433Z",
+      "recordedAt": "2026-10-16T17:26:02.527Z"
+    },
+    {
+      "txId": "poker_bet_1792171655905",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "type": "DEBIT",
+      "currency": "coins",
+      "amount": 250,
+      "reason": "poker bet",
+      "referenceId": null,
+      "balanceBefore": 10750,
+      "balanceAfter": 10500,
+      "createdAt": "2026-10-16T17:27:36.323Z",
+      "recordedAt": "2026-10-16T17:27:36.421Z"
+    },
+    {
+      "txId": "poker_win_1792171656706",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "type": "CREDIT",
+      "currency": "coins",
+      "amount": 593,
+      "reason": "poker win",
+      "referenceId": null,
+      "balanceBefore": 10500,
+      "balanceAfter": 11093,
+      "createdAt": "2026-10-16T17:27:36.834Z",
+      "recordedAt": "2026-10-16T17:27:36.838Z"
+    },
+    {
+      "txId": "wheel_bet_1792171659713",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "type": "DEBIT",
+      "currency": "coins",
+      "amount": 250,
+      "reason": "wheel bet",
+      "referenceId": null,
+      "balanceBefore": 11093,
+      "balanceAfter": 10843,
+      "createdAt": "2026-10-16T17:27:39.937Z",
+      "recordedAt": "2026-10-16T17:27:40.022Z"
+    },
+    {
+      "txId": "wheel_win_1792171660212",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "type": "CREDIT",
+      "currency": "coins",
+      "amount": 543,
+      "reason": "wheel win",
+      "referenceId": null,
+      "balanceBefore": 10843,
+      "balanceAfter": 11386,
+      "createdAt": "2026-10-16T17:27:40.428Z",
+      "recordedAt": "2026-10-16T17:27:40.436Z"
+    },
+    {
+      "txId": "wheel_bet_1792171700502",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "type": "DEBIT",
+      "currency": "coins",
+      "amount": 250,
+      "reason": "wheel bet",
+      "referenceId": null,
+      "balanceBefore": 11386,
+      "balanceAfter": 11136,
+      "createdAt": "2026-10-16T17:28:20.721Z",
+      "recordedAt": "2026-10-16T17:28:20.726Z"
+    },
+    {
+      "txId": "wheel_win_1792171701106",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "type": "CREDIT",
+      "currency": "coins",
+      "amount": 1293,
+      "reason": "wheel win",
+      "referenceId": null,
+      "balanceBefore": 11136,
+      "balanceAfter": 12429,
+      "createdAt": "2026-10-16T17:28:21.232Z",
+      "recordedAt": "2026-10-16T17:28:21.321Z"
+    },
+    {
+      "txId": "poker_bet_1792171701805",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "type": "DEBIT",
+      "currency": "coins",
+      "amount": 250,
+      "reason": "poker bet",
+      "referenceId": null,
+      "balanceBefore": 12429,
+      "balanceAfter": 12179,
+      "createdAt": "2026-10-16T17:28:22.324Z",
+      "recordedAt": "2026-10-16T17:28:22.330Z"
+    },
+    {
+      "txId": "poker_win_1792171702985",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "type": "CREDIT",
+      "currency": "coins",
+      "amount": 593,
+      "reason": "poker win",
+      "referenceId": null,
+      "balanceBefore": 12179,
+      "balanceAfter": 12772,
+      "createdAt": "2026-10-16T17:28:23.123Z",
+      "recordedAt": "2026-10-16T17:28:23.126Z"
+    },
+    {
+      "txId": "wheel_bet_1792171744348",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "type": "DEBIT",
+      "currency": "coins",
+      "amount": 250,
+      "reason": "wheel bet",
+      "referenceId": null,
+      "balanceBefore": 12772,
+      "balanceAfter": 12522,
+      "createdAt": "2026-10-16T17:29:04.531Z",
+      "recordedAt": "2026-10-16T17:29:04.627Z"
+    },
+    {
+      "txId": "wheel_win_1792171745013",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "type": "CREDIT",
+      "currency": "coins",
+      "amount": 793,
+      "reason": "wheel win",
+      "referenceId": null,
+      "balanceBefore": 12522,
+      "balanceAfter": 13315,
+      "createdAt": "2026-10-16T17:29:05.234Z",
+      "recordedAt": "2026-10-16T17:29:05.321Z"
+    },
+    {
+      "txId": "poker_bet_1792171745718",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "type": "DEBIT",
+      "currency": "coins",
+      "amount": 250,
+      "reason": "poker bet",
+      "referenceId": null,
+      "balanceBefore": 13315,
+      "balanceAfter": 13065,
+      "createdAt": "2026-10-16T17:29:06.142Z",
+      "recordedAt": "2026-10-16T17:29:06.153Z"
+    },
+    {
+      "txId": "poker_win_1792171746696",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "type": "CREDIT",
+      "currency": "coins",
+      "amount": 1418,
+      "reason": "poker win",
+      "referenceId": null,
+      "balanceBefore": 13065,
+      "balanceAfter": 14483,
+      "createdAt": "2026-10-16T17:29:06.843Z",
+      "recordedAt": "2026-10-16T17:29:06.937Z"
+    },
+    {
+      "txId": "wheel_bet_1792171841621",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "type": "DEBIT",
+      "currency": "coins",
+      "amount": 250,
+      "reason": "wheel bet",
+      "referenceId": null,
+      "balanceBefore": 14483,
+      "balanceAfter": 14233,
+      "createdAt": "2026-10-16T17:30:41.827Z",
+      "recordedAt": "2026-10-16T17:30:41.831Z"
+    },
+    {
+      "txId": "poker_bet_1792171843194",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "type": "DEBIT",
+      "currency": "coins",
+      "amount": 250,
+      "reason": "poker bet",
+      "referenceId": null,
+      "balanceBefore": 14233,
+      "balanceAfter": 13983,
+      "createdAt": "2026-10-16T17:30:43.332Z",
+      "recordedAt": "2026-10-16T17:30:43.422Z"
+    },
+    {
+      "txId": "poker_win_1792171843686",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "type": "CREDIT",
+      "currency": "coins",
+      "amount": 593,
+      "reason": "poker win",
+      "referenceId": null,
+      "balanceBefore": 13983,
+      "balanceAfter": 14576,
+      "createdAt": "2026-10-16T17:30:43.847Z",
+      "recordedAt": "2026-10-16T17:30:43.923Z"
+    },
+    {
+      "txId": "poker_bet_1792171883962",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "type": "DEBIT",
+      "currency": "coins",
+      "amount": 250,
+      "reason": "poker bet",
+      "referenceId": null,
+      "balanceBefore": 14576,
+      "balanceAfter": 14326,
+      "createdAt": "2026-10-16T17:31:24.128Z",
+      "recordedAt": "2026-10-16T17:31:24.132Z"
+    },
+    {
+      "txId": "wheel_bet_1792171885707",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "type": "DEBIT",
+      "currency": "coins",
+      "amount": 250,
+      "reason": "wheel bet",
+      "referenceId": null,
+      "balanceBefore": 14326,
+      "balanceAfter": 14076,
+      "createdAt": "2026-10-16T17:31:25.927Z",
+      "recordedAt": "2026-10-16T17:31:25.931Z"
+    },
+    {
+      "txId": "wheel_win_1792171886109",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "type": "CREDIT",
+      "currency": "coins",
+      "amount": 543,
+      "reason": "wheel win",
+      "referenceId": null,
+      "balanceBefore": 14076,
+      "balanceAfter": 14619,
+      "createdAt": "2026-10-16T17:31:26.328Z",
+      "recordedAt": "2026-10-16T17:31:26.333Z"
+    },
+    {
+      "txId": "wheel_bet_1792171913413",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "type": "DEBIT",
+      "currency": "coins",
+      "amount": 250,
+      "reason": "wheel bet",
+      "referenceId": null,
+      "balanceBefore": 14619,
+      "balanceAfter": 14369,
+      "createdAt": "2026-10-16T17:31:53.526Z",
+      "recordedAt": "2026-10-16T17:31:53.529Z"
+    },
+    {
+      "txId": "poker_bet_1792171915001",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "type": "DEBIT",
+      "currency": "coins",
+      "amount": 250,
+      "reason": "poker bet",
+      "referenceId": null,
+      "balanceBefore": 14369,
+      "balanceAfter": 14119,
+      "createdAt": "2026-10-16T17:31:55.123Z",
+      "recordedAt": "2026-10-16T17:31:55.128Z"
+    },
+    {
+      "txId": "wheel_bet_1792171966705",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "type": "DEBIT",
+      "currency": "coins",
+      "amount": 250,
+      "reason": "wheel bet",
+      "referenceId": null,
+      "balanceBefore": 14119,
+      "balanceAfter": 13869,
+      "createdAt": "2026-10-16T17:32:46.829Z",
+      "recordedAt": "2026-10-16T17:32:46.832Z"
+    },
+    {
+      "txId": "poker_bet_1792171968201",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "type": "DEBIT",
+      "currency": "coins",
+      "amount": 250,
+      "reason": "poker bet",
+      "referenceId": null,
+      "balanceBefore": 13869,
+      "balanceAfter": 13619,
+      "createdAt": "2026-10-16T17:32:48.328Z",
+      "recordedAt": "2026-10-16T17:32:48.332Z"
+    },
+    {
+      "txId": "poker_win_1792171968713",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "type": "CREDIT",
+      "currency": "coins",
+      "amount": 593,
+      "reason": "poker win",
+      "referenceId": null,
+      "balanceBefore": 13619,
+      "balanceAfter": 14212,
+      "createdAt": "2026-10-16T17:32:48.924Z",
+      "recordedAt": "2026-10-16T17:32:48.928Z"
+    },
+    {
+      "txId": "wheel_bet_1792171999565",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "type": "DEBIT",
+      "currency": "coins",
+      "amount": 250,
+      "reason": "wheel bet",
+      "referenceId": null,
+      "balanceBefore": 14212,
+      "balanceAfter": 13962,
+      "createdAt": "2026-10-16T17:33:19.729Z",
+      "recordedAt": "2026-10-16T17:33:19.734Z"
+    },
+    {
+      "txId": "poker_bet_1792172001704",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "type": "DEBIT",
+      "currency": "coins",
+      "amount": 250,
+      "reason": "poker bet",
+      "referenceId": null,
+      "balanceBefore": 13962,
+      "balanceAfter": 13712,
+      "createdAt": "2026-10-16T17:33:21.829Z",
+      "recordedAt": "2026-10-16T17:33:21.833Z"
+    },
+    {
+      "txId": "wheel_bet_1792172230304",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "type": "DEBIT",
+      "currency": "coins",
+      "amount": 250,
+      "reason": "wheel bet",
+      "referenceId": null,
+      "balanceBefore": 13712,
+      "balanceAfter": 13462,
+      "createdAt": "2026-10-16T17:37:10.526Z",
+      "recordedAt": "2026-10-16T17:37:10.530Z"
+    },
+    {
+      "txId": "wheel_win_1792172230799",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "type": "CREDIT",
+      "currency": "coins",
+      "amount": 543,
+      "reason": "wheel win",
+      "referenceId": null,
+      "balanceBefore": 13462,
+      "balanceAfter": 14005,
+      "createdAt": "2026-10-16T17:37:11.233Z",
+      "recordedAt": "2026-10-16T17:37:11.322Z"
+    },
+    {
+      "txId": "poker_bet_1792172231604",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "type": "DEBIT",
+      "currency": "coins",
+      "amount": 250,
+      "reason": "poker bet",
+      "referenceId": null,
+      "balanceBefore": 14005,
+      "balanceAfter": 13755,
+      "createdAt": "2026-10-16T17:37:12.027Z",
+      "recordedAt": "2026-10-16T17:37:12.121Z"
+    },
+    {
+      "txId": "poker_win_1792172232383",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "type": "CREDIT",
+      "currency": "coins",
+      "amount": 593,
+      "reason": "poker win",
+      "referenceId": null,
+      "balanceBefore": 13755,
+      "balanceAfter": 14348,
+      "createdAt": "2026-10-16T17:37:12.523Z",
+      "recordedAt": "2026-10-16T17:37:12.526Z"
+    },
+    {
+      "txId": "wheel_bet_1792172279698",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "type": "DEBIT",
+      "currency": "coins",
+      "amount": 250,
+      "reason": "wheel bet",
+      "referenceId": null,
+      "balanceBefore": 14348,
+      "balanceAfter": 14098,
+      "createdAt": "2026-10-16T17:38:00.224Z",
+      "recordedAt": "2026-10-16T17:38:00.228Z"
+    },
+    {
+      "txId": "poker_bet_1792172281700",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "type": "DEBIT",
+      "currency": "coins",
+      "amount": 250,
+      "reason": "poker bet",
+      "referenceId": null,
+      "balanceBefore": 14098,
+      "balanceAfter": 13848,
+      "createdAt": "2026-10-16T17:38:01.928Z",
+      "recordedAt": "2026-10-16T17:38:01.931Z"
+    },
+    {
+      "txId": "wheel_bet_1792172335157",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "type": "DEBIT",
+      "currency": "coins",
+      "amount": 250,
+      "reason": "wheel bet",
+      "referenceId": null,
+      "balanceBefore": 13848,
+      "balanceAfter": 13598,
+      "createdAt": "2026-10-16T17:38:55.331Z",
+      "recordedAt": "2026-10-16T17:38:55.334Z"
+    },
+    {
+      "txId": "wheel_win_1792172335702",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "type": "CREDIT",
+      "currency": "coins",
+      "amount": 1293,
+      "reason": "wheel win",
+      "referenceId": null,
+      "balanceBefore": 13598,
+      "balanceAfter": 14891,
+      "createdAt": "2026-10-16T17:38:55.826Z",
+      "recordedAt": "2026-10-16T17:38:55.829Z"
+    },
+    {
+      "txId": "poker_bet_1792172337080",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "type": "DEBIT",
+      "currency": "coins",
+      "amount": 250,
+      "reason": "poker bet",
+      "referenceId": null,
+      "balanceBefore": 14891,
+      "balanceAfter": 14641,
+      "createdAt": "2026-10-16T17:38:57.625Z",
+      "recordedAt": "2026-10-16T17:38:57.629Z"
+    },
+    {
+      "txId": "poker_win_1792172337986",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "type": "CREDIT",
+      "currency": "coins",
+      "amount": 1418,
+      "reason": "poker win",
+      "referenceId": null,
+      "balanceBefore": 14641,
+      "balanceAfter": 16059,
+      "createdAt": "2026-10-16T17:38:58.135Z",
+      "recordedAt": "2026-10-16T17:38:58.224Z"
+    },
+    {
+      "txId": "wheel_bet_1792172388226",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "type": "DEBIT",
+      "currency": "coins",
+      "amount": 250,
+      "reason": "wheel bet",
+      "referenceId": null,
+      "balanceBefore": 16059,
+      "balanceAfter": 15809,
+      "createdAt": "2026-10-16T17:39:48.430Z",
+      "recordedAt": "2026-10-16T17:39:48.521Z"
+    },
+    {
+      "txId": "wheel_win_1792172388700",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "type": "CREDIT",
+      "currency": "coins",
+      "amount": 543,
+      "reason": "wheel win",
+      "referenceId": null,
+      "balanceBefore": 15809,
+      "balanceAfter": 16352,
+      "createdAt": "2026-10-16T17:39:48.826Z",
+      "recordedAt": "2026-10-16T17:39:48.829Z"
+    },
+    {
+      "txId": "poker_bet_1792172389109",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "type": "DEBIT",
+      "currency": "coins",
+      "amount": 250,
+      "reason": "poker bet",
+      "referenceId": null,
+      "balanceBefore": 16352,
+      "balanceAfter": 16102,
+      "createdAt": "2026-10-16T17:39:49.632Z",
+      "recordedAt": "2026-10-16T17:39:49.720Z"
+    },
+    {
+      "txId": "poker_win_1792172390091",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "type": "CREDIT",
+      "currency": "coins",
+      "amount": 593,
+      "reason": "poker win",
+      "referenceId": null,
+      "balanceBefore": 16102,
+      "balanceAfter": 16695,
+      "createdAt": "2026-10-16T17:39:50.223Z",
+      "recordedAt": "2026-10-16T17:39:50.227Z"
+    },
+    {
+      "txId": "poker_bet_1792172417108",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "type": "DEBIT",
+      "currency": "coins",
+      "amount": 250,
+      "reason": "poker bet",
+      "referenceId": null,
+      "balanceBefore": 16695,
+      "balanceAfter": 16445,
+      "createdAt": "2026-10-16T17:40:17.521Z",
+      "recordedAt": "2026-10-16T17:40:17.526Z"
+    }
+  ],
   "coin_orders": [
     {
       "id": "COIN-F4378BF7",
@@ -849,895 +2189,6 @@
   ],
   "withdrawal_requests": [],
   "activity_logs": [
-    {
-      "type": "new_user",
-      "username": "SLICKDOESIT",
-      "referredBy": "匚尺乇卂-U3JA6",
-      "ts": "2026-10-15T10:44:01.525Z"
-    },
-    {
-      "type": "daily_bonus",
-      "username": "1",
-      "coins": 100,
-      "streak": 1,
-      "ts": "2026-10-15T11:27:18.720Z"
-    },
-    {
-      "type": "bot_coin_adjustment",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "operation": "debit",
-      "amount": 250,
-      "balance": 18757,
-      "ts": "2026-10-15T12:00:39.543Z"
-    },
-    {
-      "type": "bot_coin_adjustment",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "operation": "credit",
-      "amount": 1293,
-      "balance": 20050,
-      "ts": "2026-10-15T12:00:40.122Z"
-    },
-    {
-      "type": "bot_xp_update",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "amount": 55,
-      "level": 3,
-      "xp": 551,
-      "hasLeveledUp": false,
-      "ts": "2026-10-15T12:00:40.358Z"
-    },
-    {
-      "type": "bot_coin_adjustment",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "operation": "debit",
-      "amount": 231,
-      "balance": 19819,
-      "ts": "2026-10-15T12:00:43.514Z"
-    },
-    {
-      "type": "bot_coin_adjustment",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "operation": "credit",
-      "amount": 462,
-      "balance": 20281,
-      "ts": "2026-10-15T12:00:43.717Z"
-    },
-    {
-      "type": "bot_xp_update",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "amount": 80,
-      "level": 3,
-      "xp": 631,
-      "hasLeveledUp": false,
-      "ts": "2026-10-15T12:00:43.938Z"
-    },
-    {
-      "type": "bot_games_win",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "gamesWon": 9,
-      "gamesPlayed": 22,
-      "ts": "2026-10-15T12:00:44.140Z"
-    },
-    {
-      "type": "bot_coin_adjustment",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "operation": "debit",
-      "amount": 250,
-      "balance": 20031,
-      "ts": "2026-10-15T12:00:49.661Z"
-    },
-    {
-      "type": "bot_xp_update",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "amount": 15,
-      "level": 3,
-      "xp": 646,
-      "hasLeveledUp": false,
-      "ts": "2026-10-15T12:00:49.937Z"
-    },
-    {
-      "type": "bot_coin_adjustment",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "operation": "credit",
-      "amount": 43,
-      "balance": 20074,
-      "ts": "2026-10-15T12:00:50.139Z"
-    },
-    {
-      "type": "bot_games_lose",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "gamesWon": 9,
-      "gamesPlayed": 23,
-      "ts": "2026-10-15T12:00:50.430Z"
-    },
-    {
-      "type": "bot_coin_adjustment",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "operation": "debit",
-      "amount": 250,
-      "balance": 19824,
-      "ts": "2026-10-15T12:01:45.538Z"
-    },
-    {
-      "type": "bot_coin_adjustment",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "operation": "credit",
-      "amount": 2543,
-      "balance": 22367,
-      "ts": "2026-10-15T12:01:45.838Z"
-    },
-    {
-      "type": "bot_xp_update",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "amount": 55,
-      "level": 3,
-      "xp": 701,
-      "hasLeveledUp": false,
-      "ts": "2026-10-15T12:01:46.472Z"
-    },
-    {
-      "type": "bot_coin_adjustment",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "operation": "debit",
-      "amount": 231,
-      "balance": 22136,
-      "ts": "2026-10-15T12:01:48.355Z"
-    },
-    {
-      "type": "bot_coin_adjustment",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "operation": "credit",
-      "amount": 44,
-      "balance": 22180,
-      "ts": "2026-10-15T12:01:48.625Z"
-    },
-    {
-      "type": "bot_xp_update",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "amount": 7,
-      "level": 3,
-      "xp": 708,
-      "hasLeveledUp": false,
-      "ts": "2026-10-15T12:01:48.845Z"
-    },
-    {
-      "type": "bot_games_win",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "gamesWon": 10,
-      "gamesPlayed": 24,
-      "ts": "2026-10-15T12:01:49.069Z"
-    },
-    {
-      "type": "bot_coin_adjustment",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "operation": "debit",
-      "amount": 250,
-      "balance": 21930,
-      "ts": "2026-10-15T12:01:51.421Z"
-    },
-    {
-      "type": "bot_xp_update",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "amount": 15,
-      "level": 3,
-      "xp": 723,
-      "hasLeveledUp": false,
-      "ts": "2026-10-15T12:01:51.643Z"
-    },
-    {
-      "type": "bot_coin_adjustment",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "operation": "credit",
-      "amount": 43,
-      "balance": 21973,
-      "ts": "2026-10-15T12:01:51.945Z"
-    },
-    {
-      "type": "bot_games_lose",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "gamesWon": 10,
-      "gamesPlayed": 25,
-      "ts": "2026-10-15T12:01:52.189Z"
-    },
-    {
-      "type": "bot_coin_adjustment",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "operation": "debit",
-      "amount": 250,
-      "balance": 21723,
-      "ts": "2026-10-15T12:07:42.931Z"
-    },
-    {
-      "type": "bot_xp_update",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "amount": 20,
-      "level": 3,
-      "xp": 743,
-      "hasLeveledUp": false,
-      "ts": "2026-10-15T12:07:43.227Z"
-    },
-    {
-      "type": "bot_coin_adjustment",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "operation": "debit",
-      "amount": 231,
-      "balance": 21492,
-      "ts": "2026-10-15T12:07:44.621Z"
-    },
-    {
-      "type": "bot_xp_update",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "amount": 10,
-      "level": 3,
-      "xp": 753,
-      "hasLeveledUp": false,
-      "ts": "2026-10-15T12:07:44.818Z"
-    },
-    {
-      "type": "bot_games_lose",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "gamesWon": 10,
-      "gamesPlayed": 26,
-      "ts": "2026-10-15T12:07:45.016Z"
-    },
-    {
-      "type": "user_banned",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "banned": true,
-      "permanent": false,
-      "durationHours": 4,
-      "banExpiresAt": "2026-10-15T16:07:45.247Z",
-      "bannedBy": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "ts": "2026-10-15T12:07:45.254Z"
-    },
-    {
-      "type": "casino_slots",
-      "username": "K4Ý",
-      "action": "spin",
-      "bet": 250,
-      "isWin": false,
-      "payout": 0,
-      "multiplier": 0,
-      "symbols": [
-        "BELL",
-        "STAR",
-        "CHERRY"
-      ],
-      "winType": null,
-      "ts": "2026-10-15T12:08:52.530Z"
-    },
-    {
-      "type": "casino_roulette",
-      "username": "K4Ý",
-      "action": "spin_color_black",
-      "bet": 320,
-      "isWin": false,
-      "payout": 0,
-      "multiplier": 0,
-      "rolledNumber": 25,
-      "color": "red",
-      "betType": "color",
-      "betValue": "black",
-      "ts": "2026-10-15T12:09:53.448Z"
-    },
-    {
-      "type": "user_banned",
-      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
-      "username": "1",
-      "banned": true,
-      "permanent": false,
-      "durationHours": 4,
-      "banExpiresAt": "2026-10-15T16:11:18.925Z",
-      "bannedBy": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
-      "ts": "2026-10-15T12:11:18.936Z"
-    },
-    {
-      "type": "new_user",
-      "username": "⪼`•♰⧼JØKĒR-->XD⧽♰•`⪻",
-      "referredBy": "匚尺乇卂-U3JA6",
-      "ts": "2026-10-15T16:22:58.121Z"
-    },
-    {
-      "type": "new_user",
-      "username": "kirito",
-      "referredBy": "匚尺乇卂-U3JA6",
-      "ts": "2026-10-15T16:38:45.025Z"
-    },
-    {
-      "type": "new_user",
-      "username": "SP~ƊΞM۝N",
-      "referredBy": "匚尺乇卂-U3JA6",
-      "ts": "2026-10-15T17:21:24.060Z"
-    },
-    {
-      "type": "bot_coin_adjustment",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "operation": "debit",
-      "amount": 250,
-      "balance": 21242,
-      "ts": "2026-10-15T17:48:18.480Z"
-    },
-    {
-      "type": "bot_xp_update",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "amount": 20,
-      "level": 3,
-      "xp": 773,
-      "hasLeveledUp": false,
-      "ts": "2026-10-15T17:48:18.683Z"
-    },
-    {
-      "type": "bot_coin_adjustment",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "operation": "debit",
-      "amount": 231,
-      "balance": 21011,
-      "ts": "2026-10-15T17:59:59.020Z"
-    },
-    {
-      "type": "bot_xp_update",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "amount": 10,
-      "level": 3,
-      "xp": 783,
-      "hasLeveledUp": false,
-      "ts": "2026-10-15T17:59:59.218Z"
-    },
-    {
-      "type": "bot_games_lose",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "gamesWon": 10,
-      "gamesPlayed": 27,
-      "ts": "2026-10-15T17:59:59.403Z"
-    },
-    {
-      "type": "bot_coin_adjustment",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "operation": "debit",
-      "amount": 250,
-      "balance": 20761,
-      "ts": "2026-10-15T18:01:51.601Z"
-    },
-    {
-      "type": "bot_xp_update",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "amount": 20,
-      "level": 3,
-      "xp": 803,
-      "hasLeveledUp": false,
-      "ts": "2026-10-15T18:01:51.820Z"
-    },
-    {
-      "type": "bot_coin_adjustment",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "operation": "debit",
-      "amount": 231,
-      "balance": 20530,
-      "ts": "2026-10-15T18:01:55.928Z"
-    },
-    {
-      "type": "bot_coin_adjustment",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "operation": "credit",
-      "amount": 528,
-      "balance": 21058,
-      "ts": "2026-10-15T18:01:56.130Z"
-    },
-    {
-      "type": "bot_xp_update",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "amount": 91,
-      "level": 3,
-      "xp": 894,
-      "hasLeveledUp": false,
-      "ts": "2026-10-15T18:01:56.333Z"
-    },
-    {
-      "type": "bot_games_win",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "gamesWon": 11,
-      "gamesPlayed": 28,
-      "ts": "2026-10-15T18:01:56.537Z"
-    },
-    {
-      "type": "bot_coin_adjustment",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "operation": "debit",
-      "amount": 250,
-      "balance": 20808,
-      "ts": "2026-10-15T18:13:40.540Z"
-    },
-    {
-      "type": "bot_xp_update",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "amount": 20,
-      "level": 3,
-      "xp": 914,
-      "hasLeveledUp": false,
-      "ts": "2026-10-15T18:13:40.920Z"
-    },
-    {
-      "type": "bot_coin_adjustment",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "operation": "debit",
-      "amount": 231,
-      "balance": 20577,
-      "ts": "2026-10-15T18:13:42.444Z"
-    },
-    {
-      "type": "bot_xp_update",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "amount": 10,
-      "level": 3,
-      "xp": 924,
-      "hasLeveledUp": false,
-      "ts": "2026-10-15T18:13:42.718Z"
-    },
-    {
-      "type": "bot_games_lose",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "gamesWon": 11,
-      "gamesPlayed": 29,
-      "ts": "2026-10-15T18:13:42.940Z"
-    },
-    {
-      "type": "bot_coin_adjustment",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "operation": "debit",
-      "amount": 250,
-      "balance": 20327,
-      "ts": "2026-10-15T18:14:25.121Z"
-    },
-    {
-      "type": "bot_coin_adjustment",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "operation": "credit",
-      "amount": 543,
-      "balance": 20870,
-      "ts": "2026-10-15T18:14:25.436Z"
-    },
-    {
-      "type": "bot_xp_update",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "amount": 55,
-      "level": 3,
-      "xp": 979,
-      "hasLeveledUp": false,
-      "ts": "2026-10-15T18:14:25.703Z"
-    },
-    {
-      "type": "bot_coin_adjustment",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "operation": "debit",
-      "amount": 231,
-      "balance": 20639,
-      "ts": "2026-10-15T18:14:30.319Z"
-    },
-    {
-      "type": "bot_coin_adjustment",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "operation": "credit",
-      "amount": 880,
-      "balance": 21519,
-      "ts": "2026-10-15T18:14:30.526Z"
-    },
-    {
-      "type": "bot_xp_update",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "amount": 100,
-      "level": 3,
-      "xp": 1079,
-      "hasLeveledUp": false,
-      "ts": "2026-10-15T18:14:30.727Z"
-    },
-    {
-      "type": "bot_games_win",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "gamesWon": 12,
-      "gamesPlayed": 30,
-      "ts": "2026-10-15T18:14:30.905Z"
-    },
-    {
-      "type": "bot_coin_adjustment",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "operation": "debit",
-      "amount": 250,
-      "balance": 21269,
-      "ts": "2026-10-15T18:15:48.826Z"
-    },
-    {
-      "type": "bot_coin_adjustment",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "operation": "credit",
-      "amount": 2543,
-      "balance": 23812,
-      "ts": "2026-10-15T18:15:49.048Z"
-    },
-    {
-      "type": "bot_xp_update",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "amount": 55,
-      "level": 3,
-      "xp": 1134,
-      "hasLeveledUp": false,
-      "ts": "2026-10-15T18:15:49.353Z"
-    },
-    {
-      "type": "bot_coin_adjustment",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "operation": "debit",
-      "amount": 231,
-      "balance": 23581,
-      "ts": "2026-10-15T18:15:51.624Z"
-    },
-    {
-      "type": "bot_coin_adjustment",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "operation": "credit",
-      "amount": 264,
-      "balance": 23845,
-      "ts": "2026-10-15T18:15:51.911Z"
-    },
-    {
-      "type": "bot_xp_update",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "amount": 45,
-      "level": 3,
-      "xp": 1179,
-      "hasLeveledUp": false,
-      "ts": "2026-10-15T18:15:52.126Z"
-    },
-    {
-      "type": "bot_games_win",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "gamesWon": 13,
-      "gamesPlayed": 31,
-      "ts": "2026-10-15T18:15:52.314Z"
-    },
-    {
-      "type": "bot_coin_adjustment",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "operation": "debit",
-      "amount": 250,
-      "balance": 23595,
-      "ts": "2026-10-15T18:17:06.420Z"
-    },
-    {
-      "type": "bot_xp_update",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "amount": 20,
-      "level": 3,
-      "xp": 1199,
-      "hasLeveledUp": false,
-      "ts": "2026-10-15T18:17:06.647Z"
-    },
-    {
-      "type": "bot_coin_adjustment",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "operation": "debit",
-      "amount": 231,
-      "balance": 23364,
-      "ts": "2026-10-15T18:17:08.121Z"
-    },
-    {
-      "type": "bot_coin_adjustment",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "operation": "credit",
-      "amount": 264,
-      "balance": 23628,
-      "ts": "2026-10-15T18:17:08.329Z"
-    },
-    {
-      "type": "bot_xp_update",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "amount": 45,
-      "level": 3,
-      "xp": 1244,
-      "hasLeveledUp": false,
-      "ts": "2026-10-15T18:17:08.522Z"
-    },
-    {
-      "type": "bot_games_win",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "gamesWon": 14,
-      "gamesPlayed": 32,
-      "ts": "2026-10-15T18:17:08.712Z"
-    },
-    {
-      "type": "bot_coin_adjustment",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "operation": "debit",
-      "amount": 250,
-      "balance": 23378,
-      "ts": "2026-10-15T18:18:04.120Z"
-    },
-    {
-      "type": "bot_coin_adjustment",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "operation": "credit",
-      "amount": 543,
-      "balance": 23921,
-      "ts": "2026-10-15T18:18:04.331Z"
-    },
-    {
-      "type": "bot_xp_update",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "amount": 55,
-      "level": 3,
-      "xp": 1299,
-      "hasLeveledUp": false,
-      "ts": "2026-10-15T18:18:04.527Z"
-    },
-    {
-      "type": "bot_coin_adjustment",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "operation": "debit",
-      "amount": 231,
-      "balance": 23690,
-      "ts": "2026-10-15T18:18:05.423Z"
-    },
-    {
-      "type": "bot_coin_adjustment",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "operation": "credit",
-      "amount": 330,
-      "balance": 24020,
-      "ts": "2026-10-15T18:18:05.622Z"
-    },
-    {
-      "type": "bot_xp_update",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "amount": 57,
-      "level": 3,
-      "xp": 1356,
-      "hasLeveledUp": false,
-      "ts": "2026-10-15T18:18:05.812Z"
-    },
-    {
-      "type": "bot_games_win",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "gamesWon": 15,
-      "gamesPlayed": 33,
-      "ts": "2026-10-15T18:18:06.115Z"
-    },
-    {
-      "type": "bot_coin_adjustment",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "operation": "debit",
-      "amount": 231,
-      "balance": 23789,
-      "ts": "2026-10-15T18:19:17.223Z"
-    },
-    {
-      "type": "bot_xp_update",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "amount": 10,
-      "level": 3,
-      "xp": 1366,
-      "hasLeveledUp": false,
-      "ts": "2026-10-15T18:19:17.431Z"
-    },
-    {
-      "type": "bot_games_lose",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "gamesWon": 15,
-      "gamesPlayed": 34,
-      "ts": "2026-10-15T18:19:17.618Z"
-    },
-    {
-      "type": "bot_coin_adjustment",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "operation": "debit",
-      "amount": 250,
-      "balance": 23539,
-      "ts": "2026-10-15T18:19:18.938Z"
-    },
-    {
-      "type": "bot_xp_update",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "amount": 20,
-      "level": 3,
-      "xp": 1386,
-      "hasLeveledUp": false,
-      "ts": "2026-10-15T18:19:19.229Z"
-    },
-    {
-      "type": "bot_coin_adjustment",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "operation": "debit",
-      "amount": 250,
-      "balance": 23289,
-      "ts": "2026-10-15T18:19:58.125Z"
-    },
-    {
-      "type": "bot_coin_adjustment",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "operation": "credit",
-      "amount": 2543,
-      "balance": 25832,
-      "ts": "2026-10-15T18:19:58.333Z"
-    },
-    {
-      "type": "bot_xp_update",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "amount": 55,
-      "level": 3,
-      "xp": 1441,
-      "hasLeveledUp": false,
-      "ts": "2026-10-15T18:19:58.936Z"
-    },
-    {
-      "type": "bot_coin_adjustment",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "operation": "debit",
-      "amount": 231,
-      "balance": 25601,
-      "ts": "2026-10-15T18:20:01.032Z"
-    },
-    {
-      "type": "bot_coin_adjustment",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "operation": "credit",
-      "amount": 33,
-      "balance": 25634,
-      "ts": "2026-10-15T18:20:01.335Z"
-    },
-    {
-      "type": "bot_xp_update",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "amount": 5,
-      "level": 3,
-      "xp": 1446,
-      "hasLeveledUp": false,
-      "ts": "2026-10-15T18:20:01.623Z"
-    },
-    {
-      "type": "bot_games_win",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "gamesWon": 16,
-      "gamesPlayed": 35,
-      "ts": "2026-10-15T18:20:01.865Z"
-    },
-    {
-      "type": "bot_coin_adjustment",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "operation": "debit",
-      "amount": 250,
-      "balance": 25384,
-      "ts": "2026-10-15T18:21:14.324Z"
-    },
-    {
-      "type": "bot_coin_adjustment",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "operation": "credit",
-      "amount": 793,
-      "balance": 26177,
-      "ts": "2026-10-15T18:21:14.728Z"
-    },
-    {
-      "type": "bot_xp_update",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "amount": 55,
-      "level": 3,
-      "xp": 1501,
-      "hasLeveledUp": false,
-      "ts": "2026-10-15T18:21:15.126Z"
-    },
-    {
-      "type": "bot_coin_adjustment",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "operation": "debit",
-      "amount": 231,
-      "balance": 25946,
-      "ts": "2026-10-15T18:21:16.545Z"
-    },
-    {
-      "type": "bot_coin_adjustment",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "operation": "credit",
-      "amount": 99,
-      "balance": 26045,
-      "ts": "2026-10-15T18:21:16.843Z"
-    },
-    {
-      "type": "bot_xp_update",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "username": "匚尺乇卂ㄒㄖ尺",
-      "amount": 17,
-      "level": 3,
-      "xp": 1518,
-      "hasLeveledUp": false,
-      "ts": "2026-10-15T18:21:17.128Z"
-    },
     {
       "type": "bot_games_win",
       "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
@@ -3228,6 +3679,3213 @@
       "xp": 1124,
       "hasLeveledUp": false,
       "ts": "2026-10-16T03:34:06.729Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 32848,
+      "ts": "2026-10-16T16:01:56.986Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "credit",
+      "amount": 543,
+      "balance": 33391,
+      "ts": "2026-10-16T16:01:57.219Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 55,
+      "level": 4,
+      "xp": 1179,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:01:57.419Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 33141,
+      "ts": "2026-10-16T16:01:58.324Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 25,
+      "level": 4,
+      "xp": 1204,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:01:58.526Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 32891,
+      "ts": "2026-10-16T16:02:27.324Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 20,
+      "level": 4,
+      "xp": 1224,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:02:27.529Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 32641,
+      "ts": "2026-10-16T16:02:28.720Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 25,
+      "level": 4,
+      "xp": 1249,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:02:28.931Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 32391,
+      "ts": "2026-10-16T16:02:53.019Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 25,
+      "level": 4,
+      "xp": 1274,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:02:53.216Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 32141,
+      "ts": "2026-10-16T16:03:28.727Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 25,
+      "level": 4,
+      "xp": 1299,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:03:28.938Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 31891,
+      "ts": "2026-10-16T16:03:30.224Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 20,
+      "level": 4,
+      "xp": 1319,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:03:30.520Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 31641,
+      "ts": "2026-10-16T16:04:00.930Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "credit",
+      "amount": 1293,
+      "balance": 32934,
+      "ts": "2026-10-16T16:04:01.423Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 55,
+      "level": 4,
+      "xp": 1374,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:04:01.822Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 32684,
+      "ts": "2026-10-16T16:04:02.627Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "credit",
+      "amount": 593,
+      "balance": 33277,
+      "ts": "2026-10-16T16:04:02.923Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 60,
+      "level": 4,
+      "xp": 1434,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:04:03.124Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 33027,
+      "ts": "2026-10-16T16:04:42.021Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 20,
+      "level": 4,
+      "xp": 1454,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:04:42.220Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 32777,
+      "ts": "2026-10-16T16:04:43.924Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 25,
+      "level": 4,
+      "xp": 1479,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:04:44.123Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 32527,
+      "ts": "2026-10-16T16:05:08.930Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 20,
+      "level": 4,
+      "xp": 1499,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:05:09.122Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 32277,
+      "ts": "2026-10-16T16:05:10.677Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 25,
+      "level": 4,
+      "xp": 1524,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:05:10.934Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 32027,
+      "ts": "2026-10-16T16:05:28.301Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "credit",
+      "amount": 793,
+      "balance": 32820,
+      "ts": "2026-10-16T16:05:28.521Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 55,
+      "level": 4,
+      "xp": 1579,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:05:29.027Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 32570,
+      "ts": "2026-10-16T16:05:30.224Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "credit",
+      "amount": 593,
+      "balance": 33163,
+      "ts": "2026-10-16T16:05:30.421Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 60,
+      "level": 4,
+      "xp": 1639,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:05:30.641Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 32913,
+      "ts": "2026-10-16T16:05:57.540Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 20,
+      "level": 4,
+      "xp": 1659,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:05:57.847Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 32663,
+      "ts": "2026-10-16T16:06:00.023Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "credit",
+      "amount": 593,
+      "balance": 33256,
+      "ts": "2026-10-16T16:06:00.225Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 60,
+      "level": 4,
+      "xp": 1719,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:06:00.417Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 33006,
+      "ts": "2026-10-16T16:06:24.426Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "credit",
+      "amount": 793,
+      "balance": 33799,
+      "ts": "2026-10-16T16:06:24.732Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 55,
+      "level": 4,
+      "xp": 1774,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:06:25.123Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 33549,
+      "ts": "2026-10-16T16:06:26.428Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 25,
+      "level": 4,
+      "xp": 1799,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:06:26.725Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 33299,
+      "ts": "2026-10-16T16:06:57.825Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "credit",
+      "amount": 1293,
+      "balance": 34592,
+      "ts": "2026-10-16T16:06:58.030Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 55,
+      "level": 4,
+      "xp": 1854,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:06:58.227Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 34342,
+      "ts": "2026-10-16T16:06:59.734Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 25,
+      "level": 4,
+      "xp": 1879,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:07:00.131Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 34092,
+      "ts": "2026-10-16T16:07:22.522Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 25,
+      "level": 4,
+      "xp": 1904,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:07:22.820Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 33842,
+      "ts": "2026-10-16T16:07:44.128Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "credit",
+      "amount": 793,
+      "balance": 34635,
+      "ts": "2026-10-16T16:07:44.633Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 55,
+      "level": 4,
+      "xp": 1959,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:07:44.922Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 34385,
+      "ts": "2026-10-16T16:07:46.624Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 25,
+      "level": 4,
+      "xp": 1984,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:07:46.828Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 34135,
+      "ts": "2026-10-16T16:08:12.330Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "credit",
+      "amount": 593,
+      "balance": 34728,
+      "ts": "2026-10-16T16:08:12.521Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 60,
+      "level": 4,
+      "xp": 2044,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:08:12.726Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 34478,
+      "ts": "2026-10-16T16:08:48.129Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 20,
+      "level": 4,
+      "xp": 2064,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:08:48.345Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 34228,
+      "ts": "2026-10-16T16:08:49.935Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 25,
+      "level": 4,
+      "xp": 2089,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:08:50.328Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 33978,
+      "ts": "2026-10-16T16:09:14.302Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "credit",
+      "amount": 793,
+      "balance": 34771,
+      "ts": "2026-10-16T16:09:14.967Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 55,
+      "level": 4,
+      "xp": 2144,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:09:15.405Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 34521,
+      "ts": "2026-10-16T16:09:15.552Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 25,
+      "level": 4,
+      "xp": 2169,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:09:16.321Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 34271,
+      "ts": "2026-10-16T16:09:52.728Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "credit",
+      "amount": 1418,
+      "balance": 35689,
+      "ts": "2026-10-16T16:09:52.929Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 60,
+      "level": 4,
+      "xp": 2229,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:09:53.221Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 35439,
+      "ts": "2026-10-16T16:09:54.325Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 20,
+      "level": 4,
+      "xp": 2249,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:09:54.528Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 35189,
+      "ts": "2026-10-16T16:10:33.634Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 20,
+      "level": 4,
+      "xp": 2269,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:10:33.923Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 34939,
+      "ts": "2026-10-16T16:10:35.827Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 25,
+      "level": 4,
+      "xp": 2294,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:10:36.130Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 34689,
+      "ts": "2026-10-16T16:11:26.325Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "credit",
+      "amount": 1293,
+      "balance": 35982,
+      "ts": "2026-10-16T16:11:26.629Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 55,
+      "level": 4,
+      "xp": 2349,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:11:26.923Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 35732,
+      "ts": "2026-10-16T16:11:28.927Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 25,
+      "level": 4,
+      "xp": 2374,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:11:29.221Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 35482,
+      "ts": "2026-10-16T16:12:16.241Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 25,
+      "level": 4,
+      "xp": 2399,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:12:16.538Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 35232,
+      "ts": "2026-10-16T16:12:18.436Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "credit",
+      "amount": 2543,
+      "balance": 37775,
+      "ts": "2026-10-16T16:12:18.823Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 55,
+      "level": 4,
+      "xp": 2454,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:12:19.029Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 37525,
+      "ts": "2026-10-16T16:19:54.432Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 25,
+      "level": 4,
+      "xp": 2479,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:19:54.732Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 37275,
+      "ts": "2026-10-16T16:19:57.328Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 20,
+      "level": 4,
+      "xp": 2499,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:19:57.526Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 37025,
+      "ts": "2026-10-16T16:20:31.125Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 20,
+      "level": 4,
+      "xp": 2519,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:20:31.332Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 36775,
+      "ts": "2026-10-16T16:20:31.532Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 25,
+      "level": 4,
+      "xp": 2544,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:20:32.333Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 36525,
+      "ts": "2026-10-16T16:21:04.229Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "credit",
+      "amount": 543,
+      "balance": 37068,
+      "ts": "2026-10-16T16:21:04.435Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 55,
+      "level": 4,
+      "xp": 2599,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:21:04.727Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 36818,
+      "ts": "2026-10-16T16:21:05.927Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "credit",
+      "amount": 593,
+      "balance": 37411,
+      "ts": "2026-10-16T16:21:06.224Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 60,
+      "level": 4,
+      "xp": 2659,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:21:06.626Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 37161,
+      "ts": "2026-10-16T16:21:56.429Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 20,
+      "level": 4,
+      "xp": 2679,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:21:56.726Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 36911,
+      "ts": "2026-10-16T16:21:59.674Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "credit",
+      "amount": 1418,
+      "balance": 38329,
+      "ts": "2026-10-16T16:21:59.947Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 60,
+      "level": 4,
+      "xp": 2739,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:22:00.240Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 38079,
+      "ts": "2026-10-16T16:22:28.333Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "credit",
+      "amount": 593,
+      "balance": 38672,
+      "ts": "2026-10-16T16:22:28.658Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 60,
+      "level": 4,
+      "xp": 2799,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:22:29.236Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 38422,
+      "ts": "2026-10-16T16:22:30.327Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "credit",
+      "amount": 1293,
+      "balance": 39715,
+      "ts": "2026-10-16T16:22:30.929Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 55,
+      "level": 4,
+      "xp": 2854,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:22:31.241Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 39465,
+      "ts": "2026-10-16T16:23:15.524Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "credit",
+      "amount": 543,
+      "balance": 40008,
+      "ts": "2026-10-16T16:23:15.822Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 55,
+      "level": 4,
+      "xp": 2909,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:23:16.139Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 39758,
+      "ts": "2026-10-16T16:23:17.439Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "credit",
+      "amount": 593,
+      "balance": 40351,
+      "ts": "2026-10-16T16:23:17.736Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 60,
+      "level": 4,
+      "xp": 2969,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:23:18.192Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 40101,
+      "ts": "2026-10-16T16:23:51.428Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 20,
+      "level": 4,
+      "xp": 2989,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:23:52.028Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 39851,
+      "ts": "2026-10-16T16:23:53.130Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "credit",
+      "amount": 843,
+      "balance": 40694,
+      "ts": "2026-10-16T16:23:53.524Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 60,
+      "level": 4,
+      "xp": 3049,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:23:53.827Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 40444,
+      "ts": "2026-10-16T16:24:29.440Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 20,
+      "level": 4,
+      "xp": 3069,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:24:29.733Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 40194,
+      "ts": "2026-10-16T16:24:31.320Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "credit",
+      "amount": 593,
+      "balance": 40787,
+      "ts": "2026-10-16T16:24:31.633Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 60,
+      "level": 4,
+      "xp": 3129,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:24:32.041Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 40537,
+      "ts": "2026-10-16T16:25:09.924Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "credit",
+      "amount": 1293,
+      "balance": 41830,
+      "ts": "2026-10-16T16:25:10.230Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 41580,
+      "ts": "2026-10-16T16:25:10.427Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 55,
+      "level": 4,
+      "xp": 3184,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:25:10.620Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "credit",
+      "amount": 593,
+      "balance": 42173,
+      "ts": "2026-10-16T16:25:10.733Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 60,
+      "level": 4,
+      "xp": 3244,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:25:11.621Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 41923,
+      "ts": "2026-10-16T16:25:43.633Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 20,
+      "level": 4,
+      "xp": 3264,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:25:44.025Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 41673,
+      "ts": "2026-10-16T16:25:45.726Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "credit",
+      "amount": 593,
+      "balance": 42266,
+      "ts": "2026-10-16T16:25:46.135Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 60,
+      "level": 4,
+      "xp": 3324,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:25:46.519Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "credit",
+      "amount": 2500,
+      "balance": 44766,
+      "ts": "2026-10-16T16:26:42.333Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 50,
+      "level": 4,
+      "xp": 3374,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:26:42.923Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 44516,
+      "ts": "2026-10-16T16:26:58.530Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "credit",
+      "amount": 793,
+      "balance": 45309,
+      "ts": "2026-10-16T16:26:58.834Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 55,
+      "level": 4,
+      "xp": 3429,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:26:59.222Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 45059,
+      "ts": "2026-10-16T16:27:00.624Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "credit",
+      "amount": 593,
+      "balance": 45652,
+      "ts": "2026-10-16T16:27:01.121Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 60,
+      "level": 4,
+      "xp": 3489,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:27:01.420Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 45402,
+      "ts": "2026-10-16T16:37:43.929Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "credit",
+      "amount": 543,
+      "balance": 45945,
+      "ts": "2026-10-16T16:37:44.225Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 55,
+      "level": 4,
+      "xp": 3544,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:37:44.435Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 45695,
+      "ts": "2026-10-16T16:37:44.727Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "credit",
+      "amount": 593,
+      "balance": 46288,
+      "ts": "2026-10-16T16:37:45.426Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 60,
+      "level": 4,
+      "xp": 3604,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:37:45.726Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 46038,
+      "ts": "2026-10-16T16:38:52.928Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "credit",
+      "amount": 543,
+      "balance": 46581,
+      "ts": "2026-10-16T16:38:53.422Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 55,
+      "level": 4,
+      "xp": 3659,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:38:53.720Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 46331,
+      "ts": "2026-10-16T16:38:55.625Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "credit",
+      "amount": 593,
+      "balance": 46924,
+      "ts": "2026-10-16T16:38:56.040Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 60,
+      "level": 4,
+      "xp": 3719,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:38:56.344Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 46674,
+      "ts": "2026-10-16T16:39:41.723Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "credit",
+      "amount": 593,
+      "balance": 47267,
+      "ts": "2026-10-16T16:39:42.021Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 60,
+      "level": 4,
+      "xp": 3779,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:39:42.421Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 47017,
+      "ts": "2026-10-16T16:39:43.422Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "credit",
+      "amount": 1293,
+      "balance": 48310,
+      "ts": "2026-10-16T16:39:43.721Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 55,
+      "level": 4,
+      "xp": 3834,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:39:43.929Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 48060,
+      "ts": "2026-10-16T16:40:40.741Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 20,
+      "level": 4,
+      "xp": 3854,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:40:41.135Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 47810,
+      "ts": "2026-10-16T16:40:42.330Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "credit",
+      "amount": 593,
+      "balance": 48403,
+      "ts": "2026-10-16T16:40:42.629Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 60,
+      "level": 4,
+      "xp": 3914,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:40:42.926Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 48153,
+      "ts": "2026-10-16T16:41:17.725Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 20,
+      "level": 4,
+      "xp": 3934,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:41:18.041Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 47903,
+      "ts": "2026-10-16T16:41:19.127Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "credit",
+      "amount": 593,
+      "balance": 48496,
+      "ts": "2026-10-16T16:41:19.733Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 60,
+      "level": 4,
+      "xp": 3994,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:41:20.125Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 48246,
+      "ts": "2026-10-16T16:41:52.028Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "credit",
+      "amount": 2543,
+      "balance": 50789,
+      "ts": "2026-10-16T16:41:52.327Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 55,
+      "level": 5,
+      "xp": 49,
+      "hasLeveledUp": true,
+      "ts": "2026-10-16T16:41:52.633Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 50539,
+      "ts": "2026-10-16T16:41:52.834Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 25,
+      "level": 5,
+      "xp": 74,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:41:53.726Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 50289,
+      "ts": "2026-10-16T16:42:27.126Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "credit",
+      "amount": 1293,
+      "balance": 51582,
+      "ts": "2026-10-16T16:42:27.431Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 55,
+      "level": 5,
+      "xp": 129,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:42:27.726Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 51332,
+      "ts": "2026-10-16T16:42:29.531Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "credit",
+      "amount": 593,
+      "balance": 51925,
+      "ts": "2026-10-16T16:42:29.919Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 60,
+      "level": 5,
+      "xp": 189,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:42:30.133Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 51675,
+      "ts": "2026-10-16T16:43:27.220Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 20,
+      "level": 5,
+      "xp": 209,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:43:27.428Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 51425,
+      "ts": "2026-10-16T16:43:29.134Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 25,
+      "level": 5,
+      "xp": 234,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:43:29.530Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 51175,
+      "ts": "2026-10-16T16:44:33.823Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 20,
+      "level": 5,
+      "xp": 254,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:44:34.129Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 50925,
+      "ts": "2026-10-16T16:44:35.930Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 25,
+      "level": 5,
+      "xp": 279,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:44:36.325Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 50675,
+      "ts": "2026-10-16T16:45:01.635Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "credit",
+      "amount": 543,
+      "balance": 51218,
+      "ts": "2026-10-16T16:45:02.025Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 55,
+      "level": 5,
+      "xp": 334,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:45:02.422Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 50968,
+      "ts": "2026-10-16T16:45:04.120Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 25,
+      "level": 5,
+      "xp": 359,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:45:04.528Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 50718,
+      "ts": "2026-10-16T16:45:39.235Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "credit",
+      "amount": 593,
+      "balance": 51311,
+      "ts": "2026-10-16T16:45:39.623Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 60,
+      "level": 5,
+      "xp": 419,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:45:40.228Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 51061,
+      "ts": "2026-10-16T16:45:42.032Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "credit",
+      "amount": 543,
+      "balance": 51604,
+      "ts": "2026-10-16T16:45:42.423Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 55,
+      "level": 5,
+      "xp": 474,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:45:42.730Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 51354,
+      "ts": "2026-10-16T16:46:05.629Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 25,
+      "level": 5,
+      "xp": 499,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:46:05.827Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 51104,
+      "ts": "2026-10-16T16:46:07.930Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 20,
+      "level": 5,
+      "xp": 519,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:46:08.223Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 50854,
+      "ts": "2026-10-16T16:46:36.921Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "credit",
+      "amount": 2543,
+      "balance": 53397,
+      "ts": "2026-10-16T16:46:37.327Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 55,
+      "level": 5,
+      "xp": 574,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:46:37.824Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 53147,
+      "ts": "2026-10-16T16:46:38.827Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 25,
+      "level": 5,
+      "xp": 599,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:46:39.224Z"
+    },
+    {
+      "type": "new_user",
+      "username": "厶卄ㄖ丂ㄒ",
+      "referredBy": "匚尺乇卂-U3JA6",
+      "ts": "2026-10-16T16:48:19.724Z"
+    },
+    {
+      "type": "daily_bonus",
+      "username": "厶卄ㄖ丂ㄒ",
+      "coins": 100,
+      "streak": 1,
+      "ts": "2026-10-16T16:48:45.829Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 52897,
+      "ts": "2026-10-16T16:49:27.130Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "credit",
+      "amount": 543,
+      "balance": 53440,
+      "ts": "2026-10-16T16:49:27.634Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 55,
+      "level": 5,
+      "xp": 654,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:49:27.944Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 53190,
+      "ts": "2026-10-16T16:49:30.420Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 25,
+      "level": 5,
+      "xp": 679,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:49:30.720Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 52940,
+      "ts": "2026-10-16T16:50:38.428Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 20,
+      "level": 5,
+      "xp": 699,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:50:38.822Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 52690,
+      "ts": "2026-10-16T16:50:49.127Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "credit",
+      "amount": 593,
+      "balance": 53283,
+      "ts": "2026-10-16T16:50:49.427Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 60,
+      "level": 5,
+      "xp": 759,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:50:49.920Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 53033,
+      "ts": "2026-10-16T16:51:17.341Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 20,
+      "level": 5,
+      "xp": 779,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:51:17.927Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 52783,
+      "ts": "2026-10-16T16:51:19.728Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "credit",
+      "amount": 593,
+      "balance": 53376,
+      "ts": "2026-10-16T16:51:20.022Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 60,
+      "level": 5,
+      "xp": 839,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:51:20.235Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 53126,
+      "ts": "2026-10-16T16:51:49.036Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 20,
+      "level": 5,
+      "xp": 859,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:51:49.626Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 52876,
+      "ts": "2026-10-16T16:51:50.024Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "credit",
+      "amount": 593,
+      "balance": 53469,
+      "ts": "2026-10-16T16:51:51.030Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 60,
+      "level": 5,
+      "xp": 919,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:51:51.423Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 53219,
+      "ts": "2026-10-16T16:52:20.820Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "credit",
+      "amount": 593,
+      "balance": 53812,
+      "ts": "2026-10-16T16:52:21.121Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 60,
+      "level": 5,
+      "xp": 979,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:52:21.335Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 53562,
+      "ts": "2026-10-16T16:52:56.020Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 20,
+      "level": 5,
+      "xp": 999,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:52:56.225Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 53312,
+      "ts": "2026-10-16T16:53:01.534Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 25,
+      "level": 5,
+      "xp": 1024,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:53:01.834Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 53062,
+      "ts": "2026-10-16T16:53:34.921Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "credit",
+      "amount": 793,
+      "balance": 53855,
+      "ts": "2026-10-16T16:53:35.325Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 55,
+      "level": 5,
+      "xp": 1079,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:53:35.723Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 53605,
+      "ts": "2026-10-16T16:53:37.121Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "credit",
+      "amount": 593,
+      "balance": 54198,
+      "ts": "2026-10-16T16:53:37.632Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 60,
+      "level": 5,
+      "xp": 1139,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:53:38.123Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 53948,
+      "ts": "2026-10-16T16:54:33.033Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 20,
+      "level": 5,
+      "xp": 1159,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:54:33.331Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 53698,
+      "ts": "2026-10-16T16:54:35.024Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "credit",
+      "amount": 593,
+      "balance": 54291,
+      "ts": "2026-10-16T16:54:35.322Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 60,
+      "level": 5,
+      "xp": 1219,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:54:35.821Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 54041,
+      "ts": "2026-10-16T16:55:06.227Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "credit",
+      "amount": 593,
+      "balance": 54634,
+      "ts": "2026-10-16T16:55:06.624Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 60,
+      "level": 5,
+      "xp": 1279,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:55:06.924Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 54384,
+      "ts": "2026-10-16T16:55:08.024Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "credit",
+      "amount": 1293,
+      "balance": 55677,
+      "ts": "2026-10-16T16:55:08.332Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "amount": 55,
+      "level": 5,
+      "xp": 1334,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T16:55:08.822Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 55427,
+      "ts": "2026-10-16T17:01:22.420Z"
+    },
+    {
+      "type": "user_banned",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "banned": true,
+      "permanent": false,
+      "durationHours": 4,
+      "banExpiresAt": "2026-10-16T21:01:22.538Z",
+      "bannedBy": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "ts": "2026-10-16T17:01:22.721Z"
+    },
+    {
+      "type": "user_banned",
+      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "banned": false,
+      "ts": "2026-10-16T17:04:54.827Z"
+    },
+    {
+      "type": "daily_bonus",
+      "username": "Psycho",
+      "coins": 150,
+      "streak": 2,
+      "ts": "2026-10-16T17:07:00.922Z"
+    },
+    {
+      "type": "new_user",
+      "username": "test",
+      "referredBy": "CRYPT",
+      "ts": "2026-10-16T17:07:50.030Z"
+    },
+    {
+      "type": "referral_redeemed",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "coins": 2500,
+      "ts": "2026-10-16T17:17:55.844Z"
+    },
+    {
+      "type": "referral_bonus",
+      "username": "Psycho",
+      "coins": 3500,
+      "ts": "2026-10-16T17:17:55.932Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "Psycho",
+      "action": "hold",
+      "bet": 250,
+      "isWin": true,
+      "payout": 20,
+      "multiplier": 0.08,
+      "playerCards": [
+        "8♣",
+        "7♦",
+        "A♠"
+      ],
+      "dealerCards": [
+        "4♣",
+        "Q♥",
+        "J♥"
+      ],
+      "playerTotal": 16,
+      "dealerTotal": 24,
+      "ts": "2026-10-16T17:22:55.833Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "Psycho",
+      "action": "hold",
+      "bet": 250,
+      "isWin": false,
+      "payout": 0,
+      "multiplier": 0,
+      "playerCards": [
+        "6♥",
+        "J♠"
+      ],
+      "dealerCards": [
+        "4♥",
+        "8♦",
+        "9♦"
+      ],
+      "playerTotal": 16,
+      "dealerTotal": 21,
+      "ts": "2026-10-16T17:23:04.839Z"
+    },
+    {
+      "type": "casino_blackjack",
+      "username": "Psycho",
+      "action": "deal",
+      "bet": 250,
+      "isWin": false,
+      "payout": 0,
+      "multiplier": 0,
+      "playerCards": [
+        "7♣",
+        "8♣"
+      ],
+      "dealerCards": [
+        "A♠",
+        "Q♣"
+      ],
+      "playerTotal": 15,
+      "dealerTotal": 21,
+      "ts": "2026-10-16T17:23:09.124Z"
+    },
+    {
+      "type": "challenge_claim",
+      "username": "Psycho",
+      "challengeTitle": "Action Packed",
+      "coins": 500,
+      "xp": 150,
+      "ts": "2026-10-16T17:23:57.630Z"
+    },
+    {
+      "type": "challenge_claim",
+      "username": "Psycho",
+      "challengeTitle": "Winner Circle",
+      "coins": 350,
+      "xp": 100,
+      "ts": "2026-10-16T17:23:58.728Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "username": "Psycho",
+      "operation": "credit",
+      "amount": 1500,
+      "balance": 10750,
+      "ts": "2026-10-16T17:26:02.620Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "username": "Psycho",
+      "amount": 50,
+      "level": 2,
+      "xp": 200,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T17:26:03.329Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "username": "Psycho",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 10500,
+      "ts": "2026-10-16T17:27:36.528Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "username": "Psycho",
+      "operation": "credit",
+      "amount": 593,
+      "balance": 11093,
+      "ts": "2026-10-16T17:27:36.935Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "username": "Psycho",
+      "amount": 60,
+      "level": 2,
+      "xp": 260,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T17:27:37.331Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "username": "Psycho",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 10843,
+      "ts": "2026-10-16T17:27:40.036Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "username": "Psycho",
+      "operation": "credit",
+      "amount": 543,
+      "balance": 11386,
+      "ts": "2026-10-16T17:27:40.529Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "username": "Psycho",
+      "amount": 55,
+      "level": 2,
+      "xp": 315,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T17:27:40.934Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "username": "Psycho",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 11136,
+      "ts": "2026-10-16T17:28:21.021Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "username": "Psycho",
+      "operation": "credit",
+      "amount": 1293,
+      "balance": 12429,
+      "ts": "2026-10-16T17:28:21.331Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "username": "Psycho",
+      "amount": 55,
+      "level": 2,
+      "xp": 370,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T17:28:22.031Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "username": "Psycho",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 12179,
+      "ts": "2026-10-16T17:28:22.428Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "username": "Psycho",
+      "operation": "credit",
+      "amount": 593,
+      "balance": 12772,
+      "ts": "2026-10-16T17:28:23.222Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "username": "Psycho",
+      "amount": 60,
+      "level": 2,
+      "xp": 430,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T17:28:23.620Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "username": "Psycho",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 12522,
+      "ts": "2026-10-16T17:29:04.920Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "username": "Psycho",
+      "operation": "credit",
+      "amount": 793,
+      "balance": 13315,
+      "ts": "2026-10-16T17:29:05.334Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "username": "Psycho",
+      "amount": 55,
+      "level": 2,
+      "xp": 485,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T17:29:05.940Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "username": "Psycho",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 13065,
+      "ts": "2026-10-16T17:29:06.237Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "username": "Psycho",
+      "operation": "credit",
+      "amount": 1418,
+      "balance": 14483,
+      "ts": "2026-10-16T17:29:07.141Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "username": "Psycho",
+      "amount": 60,
+      "level": 2,
+      "xp": 545,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T17:29:07.533Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "username": "Psycho",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 14233,
+      "ts": "2026-10-16T17:30:41.924Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "username": "Psycho",
+      "amount": 20,
+      "level": 2,
+      "xp": 565,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T17:30:42.232Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "username": "Psycho",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 13983,
+      "ts": "2026-10-16T17:30:43.520Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "username": "Psycho",
+      "operation": "credit",
+      "amount": 593,
+      "balance": 14576,
+      "ts": "2026-10-16T17:30:44.123Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "username": "Psycho",
+      "amount": 60,
+      "level": 2,
+      "xp": 625,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T17:30:44.522Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "username": "Psycho",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 14326,
+      "ts": "2026-10-16T17:31:24.231Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "username": "Psycho",
+      "amount": 25,
+      "level": 2,
+      "xp": 650,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T17:31:24.631Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "username": "Psycho",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 14076,
+      "ts": "2026-10-16T17:31:26.026Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "username": "Psycho",
+      "operation": "credit",
+      "amount": 543,
+      "balance": 14619,
+      "ts": "2026-10-16T17:31:26.631Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "username": "Psycho",
+      "amount": 55,
+      "level": 2,
+      "xp": 705,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T17:31:27.033Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "username": "Psycho",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 14369,
+      "ts": "2026-10-16T17:31:53.624Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "username": "Psycho",
+      "amount": 20,
+      "level": 2,
+      "xp": 725,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T17:31:53.929Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "username": "Psycho",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 14119,
+      "ts": "2026-10-16T17:31:55.222Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "username": "Psycho",
+      "amount": 25,
+      "level": 2,
+      "xp": 750,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T17:31:55.724Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "username": "Psycho",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 13869,
+      "ts": "2026-10-16T17:32:46.929Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "username": "Psycho",
+      "amount": 20,
+      "level": 2,
+      "xp": 770,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T17:32:47.327Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "username": "Psycho",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 13619,
+      "ts": "2026-10-16T17:32:48.521Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "username": "Psycho",
+      "operation": "credit",
+      "amount": 593,
+      "balance": 14212,
+      "ts": "2026-10-16T17:32:49.023Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "username": "Psycho",
+      "amount": 60,
+      "level": 2,
+      "xp": 830,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T17:32:49.326Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "username": "Psycho",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 13962,
+      "ts": "2026-10-16T17:33:19.831Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "username": "Psycho",
+      "amount": 20,
+      "level": 2,
+      "xp": 850,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T17:33:20.228Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "username": "Psycho",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 13712,
+      "ts": "2026-10-16T17:33:21.929Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "username": "Psycho",
+      "amount": 25,
+      "level": 2,
+      "xp": 875,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T17:33:22.329Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "username": "Psycho",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 13462,
+      "ts": "2026-10-16T17:37:10.628Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "username": "Psycho",
+      "operation": "credit",
+      "amount": 543,
+      "balance": 14005,
+      "ts": "2026-10-16T17:37:11.331Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "username": "Psycho",
+      "amount": 55,
+      "level": 2,
+      "xp": 930,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T17:37:11.724Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "username": "Psycho",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 13755,
+      "ts": "2026-10-16T17:37:12.224Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "username": "Psycho",
+      "operation": "credit",
+      "amount": 593,
+      "balance": 14348,
+      "ts": "2026-10-16T17:37:12.620Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "username": "Psycho",
+      "amount": 60,
+      "level": 2,
+      "xp": 990,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T17:37:12.922Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "username": "Psycho",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 14098,
+      "ts": "2026-10-16T17:38:00.323Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "username": "Psycho",
+      "amount": 20,
+      "level": 2,
+      "xp": 1010,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T17:38:00.826Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "username": "Psycho",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 13848,
+      "ts": "2026-10-16T17:38:02.031Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "username": "Psycho",
+      "amount": 25,
+      "level": 2,
+      "xp": 1035,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T17:38:02.433Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "username": "Psycho",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 13598,
+      "ts": "2026-10-16T17:38:55.429Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "username": "Psycho",
+      "operation": "credit",
+      "amount": 1293,
+      "balance": 14891,
+      "ts": "2026-10-16T17:38:55.938Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "username": "Psycho",
+      "amount": 55,
+      "level": 2,
+      "xp": 1090,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T17:38:56.324Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "username": "Psycho",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 14641,
+      "ts": "2026-10-16T17:38:57.723Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "username": "Psycho",
+      "operation": "credit",
+      "amount": 1418,
+      "balance": 16059,
+      "ts": "2026-10-16T17:38:58.521Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "username": "Psycho",
+      "amount": 60,
+      "level": 2,
+      "xp": 1150,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T17:38:58.829Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "username": "Psycho",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 15809,
+      "ts": "2026-10-16T17:39:48.532Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "username": "Psycho",
+      "operation": "credit",
+      "amount": 543,
+      "balance": 16352,
+      "ts": "2026-10-16T17:39:48.923Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "username": "Psycho",
+      "amount": 55,
+      "level": 2,
+      "xp": 1205,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T17:39:49.233Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "username": "Psycho",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 16102,
+      "ts": "2026-10-16T17:39:49.730Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "username": "Psycho",
+      "operation": "credit",
+      "amount": 593,
+      "balance": 16695,
+      "ts": "2026-10-16T17:39:50.322Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "username": "Psycho",
+      "amount": 60,
+      "level": 2,
+      "xp": 1265,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T17:39:50.623Z"
+    },
+    {
+      "type": "bot_coin_adjustment",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "username": "Psycho",
+      "operation": "debit",
+      "amount": 250,
+      "balance": 16445,
+      "ts": "2026-10-16T17:40:17.628Z"
+    },
+    {
+      "type": "bot_xp_update",
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "username": "Psycho",
+      "amount": 25,
+      "level": 2,
+      "xp": 1290,
+      "hasLeveledUp": false,
+      "ts": "2026-10-16T17:40:18.022Z"
     }
   ],
   "rewards": [
@@ -4150,6 +7808,18 @@
       "achievementId": "coins_10k",
       "name": "Pocket Change",
       "unlockedAt": "2026-10-15T04:36:15.021Z"
+    },
+    {
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "achievementId": "first_game",
+      "name": "First Blood",
+      "unlockedAt": "2026-10-16T17:22:54.922Z"
+    },
+    {
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "achievementId": "first_win",
+      "name": "Winner!",
+      "unlockedAt": "2026-10-16T17:22:55.527Z"
     }
   ],
   "challenges": [
@@ -4336,6 +8006,32 @@
       "completed": false,
       "claimed": false,
       "updatedAt": "2026-10-14T19:37:43.924Z"
+    },
+    {
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "challengeId": "chal_play3",
+      "progress": 3,
+      "completed": true,
+      "claimed": true,
+      "updatedAt": "2026-10-16T17:23:08.922Z",
+      "claimedAt": "2026-10-16T17:23:57.520Z"
+    },
+    {
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "challengeId": "chal_win1",
+      "progress": 1,
+      "completed": true,
+      "claimed": true,
+      "updatedAt": "2026-10-16T17:22:54.528Z",
+      "claimedAt": "2026-10-16T17:23:58.527Z"
+    },
+    {
+      "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "challengeId": "chal_earn2k",
+      "progress": 20,
+      "completed": false,
+      "claimed": false,
+      "updatedAt": "2026-10-16T17:22:54.632Z"
     }
   ],
   "daily_bonuses": [
@@ -4401,9 +8097,15 @@
     },
     {
       "userId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "streak": 2,
+      "lastClaimDate": "2026-10-16",
+      "lastClaimAt": "2026-10-16T17:07:00.621Z"
+    },
+    {
+      "userId": "fead2571-2d33-4259-823f-3a8ae91e65ca",
       "streak": 1,
-      "lastClaimDate": "2026-10-14",
-      "lastClaimAt": "2026-10-14T21:01:34.635Z"
+      "lastClaimDate": "2026-10-16",
+      "lastClaimAt": "2026-10-16T16:48:45.653Z"
     }
   ],
   "social_program_submissions": [],
@@ -4437,19 +8139,19 @@
     "referralsEnabled": true
   },
   "event_stats": {
-    "totalUsers": 19,
+    "totalUsers": 20,
     "totalTickets": 0,
-    "totalCoins": 77816,
+    "totalCoins": 129090,
     "lastReset": null,
     "lastWinner": null,
-    "snapshotAt": "2026-10-16T06:42:12.054Z"
+    "snapshotAt": "2026-10-16T17:42:12.280Z"
   },
   "leaderboard": [
     {
       "rank": 1,
       "username": "匚尺乇卂ㄒㄖ尺",
-      "monthlyReferrals": 3,
-      "totalReferrals": 3,
+      "monthlyReferrals": 4,
+      "totalReferrals": 4,
       "tickets": 0,
       "trophies": 0
     },
@@ -4592,6 +8294,14 @@
     {
       "rank": 19,
       "username": "SP~ƊΞM۝N",
+      "monthlyReferrals": 0,
+      "totalReferrals": 0,
+      "tickets": 0,
+      "trophies": 0
+    },
+    {
+      "rank": 20,
+      "username": "厶卄ㄖ丂ㄒ",
       "monthlyReferrals": 0,
       "totalReferrals": 0,
       "tickets": 0,
@@ -5262,6 +8972,72 @@
       "targetUsername": "匚尺乇卂ㄒㄖ尺",
       "newCoins": 25211,
       "newTickets": 0
+    },
+    {
+      "id": "user_register_1792169299634",
+      "type": "user_register",
+      "timestamp": "2026-10-16T16:48:19.634Z",
+      "userId": "fead2571-2d33-4259-823f-3a8ae91e65ca",
+      "username": "厶卄ㄖ丂ㄒ",
+      "referredBy": "匚尺乇卂-U3JA6"
+    },
+    {
+      "id": "admin_ban_1792170294734",
+      "type": "admin_ban",
+      "timestamp": "2026-10-16T17:04:54.734Z",
+      "adminId": "afdd6b55-1597-4a45-86f7-1579c8325dc8",
+      "targetId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "username": "匚尺乇卂ㄒㄖ尺",
+      "banned": false
+    },
+    {
+      "id": "admin_balance_adjustment_1792170341929",
+      "type": "admin_balance_adjustment",
+      "timestamp": "2026-10-16T17:05:41.929Z",
+      "adminId": "afdd6b55-1597-4a45-86f7-1579c8325dc8",
+      "targetUserId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "targetUsername": "匚尺乇卂ㄒㄖ尺",
+      "newCoins": 65427,
+      "newTickets": 0
+    },
+    {
+      "id": "user_register_1792170470022",
+      "type": "user_register",
+      "timestamp": "2026-10-16T17:07:50.022Z",
+      "userId": "bd07eca5-0ddb-4945-bed7-e6d306fe8c57",
+      "username": "test",
+      "referredBy": "CRYPT"
+    },
+    {
+      "id": "admin_delete_user_1792170660035",
+      "type": "admin_delete_user",
+      "timestamp": "2026-10-16T17:11:00.035Z",
+      "adminId": "afdd6b55-1597-4a45-86f7-1579c8325dc8",
+      "targetId": "bd07eca5-0ddb-4945-bed7-e6d306fe8c57",
+      "username": "test",
+      "email": "test@gmail.com"
+    },
+    {
+      "id": "coin_deposit_1792171060723",
+      "type": "coin_deposit",
+      "timestamp": "2026-10-16T17:17:40.723Z",
+      "transactionId": "8d99cab7-d026-4fe8-a875-1d5920ea37d7",
+      "toUserId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "toUsername": "Psycho",
+      "amount": 4750,
+      "balanceBefore": 250,
+      "balanceAfter": 5000
+    },
+    {
+      "id": "referral_redeemed_1792171076024",
+      "type": "referral_redeemed",
+      "timestamp": "2026-10-16T17:17:56.024Z",
+      "redeemerId": "945efcd5-7902-4f49-8b6a-83f05688f531",
+      "redeemerName": "Psycho",
+      "referrerId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
+      "referrerName": "匚尺乇卂ㄒㄖ尺",
+      "redeemerBonus": 3500,
+      "referrerBonus": 2500
     }
   ]
 }
