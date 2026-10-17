@@ -692,7 +692,9 @@
         "frame": null,
         "profileArt": null
       },
-      "lastActiveAt": "2026-10-15T10:44:55.028Z"
+      "lastActiveAt": "2026-10-15T10:44:55.028Z",
+      "rewardCoins": 0,
+      "cratesOpened": 0
     },
     {
       "id": "b82d750e-2351-4c1b-85dd-98f9529004d7",
@@ -732,7 +734,9 @@
         "frame": null,
         "profileArt": null
       },
-      "lastActiveAt": "2026-10-15T16:23:03.017Z"
+      "lastActiveAt": "2026-10-15T16:23:03.017Z",
+      "rewardCoins": 0,
+      "cratesOpened": 0
     },
     {
       "id": "38a5c3b2-cbca-45c2-bda2-67a96ac8b360",
@@ -773,7 +777,9 @@
         "profileArt": null
       },
       "lastActiveAt": "2026-10-16T18:50:42.786Z",
-      "lastLoginAt": "2026-10-16T18:50:42.786Z"
+      "lastLoginAt": "2026-10-16T18:50:42.786Z",
+      "rewardCoins": 0,
+      "cratesOpened": 0
     },
     {
       "id": "2f1ef2cf-1672-4a98-a422-20c3ac3e6234",
@@ -813,7 +819,9 @@
         "frame": null,
         "profileArt": null
       },
-      "lastActiveAt": "2026-10-15T17:21:28.757Z"
+      "lastActiveAt": "2026-10-15T17:21:28.757Z",
+      "rewardCoins": 0,
+      "cratesOpened": 0
     },
     {
       "id": "fead2571-2d33-4259-823f-3a8ae91e65ca",
@@ -853,297 +861,12 @@
         "frame": null,
         "profileArt": null
       },
-      "lastActiveAt": "2026-10-16T16:48:26.150Z"
+      "lastActiveAt": "2026-10-16T16:48:26.150Z",
+      "rewardCoins": 0,
+      "cratesOpened": 0
     }
   ],
-  "transactions": [
-    {
-      "txId": "b04c000a-52a3-4d64-9efb-c1ba46e33f2e",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "type": "CREDIT",
-      "currency": "coins",
-      "amount": 300,
-      "reason": "Daily Streak Bonus (Day 4)",
-      "referenceId": null,
-      "balanceBefore": 67927,
-      "balanceAfter": 68227,
-      "createdAt": "2026-10-17T04:22:42.224Z",
-      "recordedAt": "2026-10-17T04:22:42.226Z"
-    },
-    {
-      "txId": "achievement:13746bbd-147f-4979-945f-4f7eb28f19e3:coins_50k",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "type": "CREDIT",
-      "currency": "coins",
-      "amount": 2500,
-      "reason": "Achievement: Coin Hoarder",
-      "referenceId": "coins_50k",
-      "balanceBefore": 68227,
-      "balanceAfter": 70727,
-      "createdAt": "2026-10-17T04:22:42.623Z",
-      "recordedAt": "2026-10-17T04:22:42.625Z"
-    },
-    {
-      "txId": "achievement:13746bbd-147f-4979-945f-4f7eb28f19e3:level_5",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "type": "CREDIT",
-      "currency": "coins",
-      "amount": 800,
-      "reason": "Achievement: Rising Star",
-      "referenceId": "level_5",
-      "balanceBefore": 70727,
-      "balanceAfter": 71527,
-      "createdAt": "2026-10-17T04:22:42.925Z",
-      "recordedAt": "2026-10-17T04:22:42.930Z"
-    },
-    {
-      "txId": "wheel_bet_1792211114008",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "type": "DEBIT",
-      "currency": "coins",
-      "amount": 250,
-      "reason": "wheel bet",
-      "referenceId": null,
-      "balanceBefore": 71527,
-      "balanceAfter": 71277,
-      "createdAt": "2026-10-17T04:25:14.132Z",
-      "recordedAt": "2026-10-17T04:25:14.220Z"
-    },
-    {
-      "txId": "poker_bet_1792211117088",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "type": "DEBIT",
-      "currency": "coins",
-      "amount": 250,
-      "reason": "poker bet",
-      "referenceId": null,
-      "balanceBefore": 71277,
-      "balanceAfter": 71027,
-      "createdAt": "2026-10-17T04:25:17.423Z",
-      "recordedAt": "2026-10-17T04:25:17.426Z"
-    },
-    {
-      "txId": "poker_win_1792211117608",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "type": "CREDIT",
-      "currency": "coins",
-      "amount": 593,
-      "reason": "poker win",
-      "referenceId": null,
-      "balanceBefore": 71027,
-      "balanceAfter": 71620,
-      "createdAt": "2026-10-17T04:25:17.713Z",
-      "recordedAt": "2026-10-17T04:25:17.721Z"
-    },
-    {
-      "txId": "wheel_bet_1792211163349",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "type": "DEBIT",
-      "currency": "coins",
-      "amount": 250,
-      "reason": "wheel bet",
-      "referenceId": null,
-      "balanceBefore": 71620,
-      "balanceAfter": 71370,
-      "createdAt": "2026-10-17T04:26:03.522Z",
-      "recordedAt": "2026-10-17T04:26:03.525Z"
-    },
-    {
-      "txId": "poker_bet_1792211164580",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "type": "DEBIT",
-      "currency": "coins",
-      "amount": 250,
-      "reason": "poker bet",
-      "referenceId": null,
-      "balanceBefore": 71370,
-      "balanceAfter": 71120,
-      "createdAt": "2026-10-17T04:26:04.829Z",
-      "recordedAt": "2026-10-17T04:26:04.831Z"
-    },
-    {
-      "txId": "poker_win_1792211165003",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "type": "CREDIT",
-      "currency": "coins",
-      "amount": 1418,
-      "reason": "poker win",
-      "referenceId": null,
-      "balanceBefore": 71120,
-      "balanceAfter": 72538,
-      "createdAt": "2026-10-17T04:26:05.125Z",
-      "recordedAt": "2026-10-17T04:26:05.127Z"
-    },
-    {
-      "txId": "wheel_bet_1792211200177",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "type": "DEBIT",
-      "currency": "coins",
-      "amount": 250,
-      "reason": "wheel bet",
-      "referenceId": null,
-      "balanceBefore": 72538,
-      "balanceAfter": 72288,
-      "createdAt": "2026-10-17T04:26:40.337Z",
-      "recordedAt": "2026-10-17T04:26:40.424Z"
-    },
-    {
-      "txId": "poker_bet_1792211201402",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "type": "DEBIT",
-      "currency": "coins",
-      "amount": 250,
-      "reason": "poker bet",
-      "referenceId": null,
-      "balanceBefore": 72288,
-      "balanceAfter": 72038,
-      "createdAt": "2026-10-17T04:26:41.582Z",
-      "recordedAt": "2026-10-17T04:26:41.620Z"
-    },
-    {
-      "txId": "poker_win_1792211201703",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "type": "CREDIT",
-      "currency": "coins",
-      "amount": 593,
-      "reason": "poker win",
-      "referenceId": null,
-      "balanceBefore": 72038,
-      "balanceAfter": 72631,
-      "createdAt": "2026-10-17T04:26:41.807Z",
-      "recordedAt": "2026-10-17T04:26:41.820Z"
-    },
-    {
-      "txId": "wheel_bet_1792211230317",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "type": "DEBIT",
-      "currency": "coins",
-      "amount": 250,
-      "reason": "wheel bet",
-      "referenceId": null,
-      "balanceBefore": 72631,
-      "balanceAfter": 72381,
-      "createdAt": "2026-10-17T04:27:10.436Z",
-      "recordedAt": "2026-10-17T04:27:10.439Z"
-    },
-    {
-      "txId": "poker_bet_1792211232719",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "type": "DEBIT",
-      "currency": "coins",
-      "amount": 250,
-      "reason": "poker bet",
-      "referenceId": null,
-      "balanceBefore": 72381,
-      "balanceAfter": 72131,
-      "createdAt": "2026-10-17T04:27:12.922Z",
-      "recordedAt": "2026-10-17T04:27:12.924Z"
-    },
-    {
-      "txId": "poker_win_1792211233099",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "type": "CREDIT",
-      "currency": "coins",
-      "amount": 593,
-      "reason": "poker win",
-      "referenceId": null,
-      "balanceBefore": 72131,
-      "balanceAfter": 72724,
-      "createdAt": "2026-10-17T04:27:13.511Z",
-      "recordedAt": "2026-10-17T04:27:13.513Z"
-    },
-    {
-      "txId": "wheel_bet_1792211261664",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "type": "DEBIT",
-      "currency": "coins",
-      "amount": 250,
-      "reason": "wheel bet",
-      "referenceId": null,
-      "balanceBefore": 72724,
-      "balanceAfter": 72474,
-      "createdAt": "2026-10-17T04:27:41.791Z",
-      "recordedAt": "2026-10-17T04:27:41.793Z"
-    },
-    {
-      "txId": "poker_bet_1792211264789",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "type": "DEBIT",
-      "currency": "coins",
-      "amount": 250,
-      "reason": "poker bet",
-      "referenceId": null,
-      "balanceBefore": 72474,
-      "balanceAfter": 72224,
-      "createdAt": "2026-10-17T04:27:44.903Z",
-      "recordedAt": "2026-10-17T04:27:44.905Z"
-    },
-    {
-      "txId": "wheel_bet_1792211303543",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "type": "DEBIT",
-      "currency": "coins",
-      "amount": 250,
-      "reason": "wheel bet",
-      "referenceId": null,
-      "balanceBefore": 72224,
-      "balanceAfter": 71974,
-      "createdAt": "2026-10-17T04:28:23.723Z",
-      "recordedAt": "2026-10-17T04:28:23.726Z"
-    },
-    {
-      "txId": "poker_bet_1792211306399",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "type": "DEBIT",
-      "currency": "coins",
-      "amount": 250,
-      "reason": "poker bet",
-      "referenceId": null,
-      "balanceBefore": 71974,
-      "balanceAfter": 71724,
-      "createdAt": "2026-10-17T04:28:26.525Z",
-      "recordedAt": "2026-10-17T04:28:26.529Z"
-    },
-    {
-      "txId": "wheel_bet_1792211336899",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "type": "DEBIT",
-      "currency": "coins",
-      "amount": 250,
-      "reason": "wheel bet",
-      "referenceId": null,
-      "balanceBefore": 71724,
-      "balanceAfter": 71474,
-      "createdAt": "2026-10-17T04:28:57.026Z",
-      "recordedAt": "2026-10-17T04:28:57.029Z"
-    },
-    {
-      "txId": "poker_bet_1792211340999",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "type": "DEBIT",
-      "currency": "coins",
-      "amount": 250,
-      "reason": "poker bet",
-      "referenceId": null,
-      "balanceBefore": 71474,
-      "balanceAfter": 71224,
-      "createdAt": "2026-10-17T04:29:01.140Z",
-      "recordedAt": "2026-10-17T04:29:01.145Z"
-    },
-    {
-      "txId": "poker_win_1792211341326",
-      "userId": "13746bbd-147f-4979-945f-4f7eb28f19e3",
-      "type": "CREDIT",
-      "currency": "coins",
-      "amount": 593,
-      "reason": "poker win",
-      "referenceId": null,
-      "balanceBefore": 71224,
-      "balanceAfter": 71817,
-      "createdAt": "2026-10-17T04:29:01.440Z",
-      "recordedAt": "2026-10-17T04:29:01.521Z"
-    }
-  ],
+  "transactions": [],
   "coin_orders": [
     {
       "id": "COIN-F4378BF7",
@@ -6613,7 +6336,7 @@
     "totalCoins": 137096,
     "lastReset": null,
     "lastWinner": null,
-    "snapshotAt": "2026-10-17T04:42:12.253Z"
+    "snapshotAt": "2026-10-17T12:21:15.468Z"
   },
   "leaderboard": [
     {
