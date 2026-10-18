@@ -7241,6 +7241,14 @@
       "amount": 500,
       "balanceBefore": 100,
       "balanceAfter": 600
+    },
+    {
+      "id": "user_register_1792312923505",
+      "type": "user_register",
+      "timestamp": "2026-10-18T08:42:03.505Z",
+      "userId": "370120b7-be7d-48dd-808f-e0747c65c9b0",
+      "username": "testuser",
+      "referredBy": null
     }
   ]
 }
