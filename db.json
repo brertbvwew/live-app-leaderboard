@@ -1140,6 +1140,34 @@
       "asset": "https://raw.githubusercontent.com/coderxsa/Assets/refs/heads/main/images/rewards/google-play.png",
       "requiredInput": "Enter Email",
       "status": "ACTIVE"
+    },
+    {
+      "id": "tiktok-followers-free",
+      "name": "TikTok 15 Followers",
+      "category": "Free Orders",
+      "coinCost": 100,
+      "appCoinCost": 100,
+      "discountCoinCost": 100,
+      "discountAppCoinCost": 100,
+      "description": "TikTok promotion package for 15 followers.",
+      "icon": "🎵",
+      "asset": "https://raw.githubusercontent.com/coderxsa/Assets/refs/heads/main/images/rewards/free-tiktok-15.png",
+      "requiredInput": "TikTok Username",
+      "status": "ACTIVE"
+    },
+    {
+      "id": "tiktok-likes-free",
+      "name": "TikTok 30 Likes",
+      "category": "Free Orders",
+      "coinCost": 100,
+      "appCoinCost": 100,
+      "discountCoinCost": 100,
+      "discountAppCoinCost": 100,
+      "description": "TikTok promotion package for 30 likes.",
+      "icon": "🎵",
+      "asset": "https://raw.githubusercontent.com/coderxsa/Assets/refs/heads/main/images/rewards/free-tiktok-likes.png",
+      "requiredInput": "TikTok Url",
+      "status": "ACTIVE"
     }
   ],
   "reward_claims": [],
@@ -2164,13 +2192,36 @@
     "giveawaySpinEnabled": false,
     "referralsEnabled": true
   },
+  "games": [
+    {
+      "id": "game_spinwheel",
+      "name": "Spin Wheel",
+      "icon": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/spinwheel-icon.png",
+      "time": 1,
+      "timeMinutes": 1,
+      "coinReward": 200,
+      "url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/spinwheel.html",
+      "enabled": true,
+      "cooldownMinutes": 3,
+      "submittedBy": null,
+      "submittedByUsername": null,
+      "expiresAt": null,
+      "isUserGame": false,
+      "hostShare": 0,
+      "createdAt": "2026-10-19T15:41:09.408Z"
+    }
+  ],
+  "game_rewards": [],
+  "user_games": [],
+  "sponsorships": [],
+  "social_posts": [],
   "event_stats": {
     "totalUsers": 20,
     "totalTickets": 0,
     "totalCoins": 137096,
     "lastReset": null,
     "lastWinner": null,
-    "snapshotAt": "2026-10-18T11:17:27.457Z"
+    "snapshotAt": "2026-10-19T15:41:09.996Z"
   },
   "leaderboard": [
     {
