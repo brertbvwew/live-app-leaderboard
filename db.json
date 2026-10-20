@@ -26,7 +26,7 @@
       "gamesWon": 0,
       "lifetimeCoinsEarned": 148549,
       "lifetimeCoinsSpent": 0,
-      "level": 100,
+      "level": 1,
       "xp": 63825,
       "rewardCoins": 0,
       "cosmetics": {
@@ -39,8 +39,8 @@
       },
       "cratesOpened": 0,
       "lastCoinPurchaseAt": "2026-10-08T12:27:31.647Z",
-      "lastActiveAt": "2026-10-16T17:07:00.004Z",
-      "lastLoginAt": "2026-10-16T17:07:00.004Z"
+      "lastActiveAt": "2026-10-20T14:43:33.349Z",
+      "lastLoginAt": "2026-10-20T14:43:33.349Z"
     },
     {
       "id": "f37cbcb5-80ed-4869-a4e4-2e7e19b0c0aa",
@@ -270,7 +270,7 @@
       "role": "user",
       "referralCode": "1-GI1UX",
       "transferHash": "D0ASA08",
-      "coins": 600,
+      "coins": 5300,
       "tickets": 0,
       "totalReferrals": 0,
       "monthlyReferrals": 0,
@@ -286,36 +286,24 @@
       "lastClaimDate": null,
       "gamesPlayed": 191,
       "gamesWon": 57,
-      "lifetimeCoinsEarned": 165659,
-      "lifetimeCoinsSpent": 47924,
-      "level": 100,
+      "lifetimeCoinsEarned": 168359,
+      "lifetimeCoinsSpent": 50924,
+      "level": 1,
       "xp": 73334,
-      "rewardCoins": 1060,
+      "rewardCoins": 940,
       "cosmetics": {
-        "frames": [
-          {
-            "id": "pack-frame:ghost-role.png",
-            "name": "Ghost",
-            "category": "frame",
-            "asset": "https://raw.githubusercontent.com/coderxsa/Assets/main/images/frame/ghost-role.png"
-          }
-        ],
+        "frames": [],
         "profileArt": []
       },
       "equippedCosmetics": {
-        "frame": {
-          "id": "pack-frame:ghost-role.png",
-          "name": "Ghost",
-          "category": "frame",
-          "asset": "https://raw.githubusercontent.com/coderxsa/Assets/main/images/frame/ghost-role.png"
-        },
+        "frame": null,
         "profileArt": null
       },
       "cratesOpened": 0,
-      "lastLoginAt": "2026-10-17T04:25:01.505Z",
-      "lastActiveAt": "2026-10-17T04:25:01.505Z",
-      "botLoginKeyHash": "057a8f82717eff6d941bce97a4ebca9fa09fadd04e3da141e001d1bdec3c4db5",
-      "botLoginKeyExpiresAt": "2026-10-16T07:53:05.448Z",
+      "lastLoginAt": "2026-10-20T14:38:06.244Z",
+      "lastActiveAt": "2026-10-20T14:38:06.244Z",
+      "botLoginKeyHash": "5664d81a29f242d5854f52b6b0d763e373d21e32a569b59f3e4c2dad37274ec1",
+      "botLoginKeyExpiresAt": "2026-10-20T23:11:43.277Z",
       "banExpiresAt": null,
       "bannedBy": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772"
     },
@@ -864,9 +852,88 @@
       "lastActiveAt": "2026-10-16T16:48:26.150Z",
       "rewardCoins": 0,
       "cratesOpened": 0
+    },
+    {
+      "id": "fa18399c-10d6-4b30-8783-a9549e5f475c",
+      "username": "demo",
+      "email": "demo@gmail.com",
+      "password": "1234567",
+      "passwordHash": null,
+      "role": "user",
+      "referralCode": "DEMO-TUVE3",
+      "transferHash": "ZHTXDLC",
+      "coins": 0,
+      "tickets": 0,
+      "totalReferrals": 0,
+      "monthlyReferrals": 0,
+      "hasRedeemedReferral": false,
+      "totalSpins": 0,
+      "lastSpinAt": null,
+      "lastCoinPurchaseAt": null,
+      "trophies": 0,
+      "banned": false,
+      "createdAt": "2026-10-20T14:03:30.748Z",
+      "currentStreak": 0,
+      "longestStreak": 0,
+      "lastClaimDate": null,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "lifetimeCoinsEarned": 0,
+      "lifetimeCoinsSpent": 0,
+      "level": 1,
+      "xp": 0,
+      "cosmetics": {
+        "frames": [],
+        "profileArt": []
+      },
+      "equippedCosmetics": {
+        "frame": null,
+        "profileArt": null
+      },
+      "lastActiveAt": "2026-10-20T14:05:42.595Z"
     }
   ],
-  "transactions": [],
+  "transactions": [
+    {
+      "txId": "game_reward_a1c50954-9f7a-4a2e-bd52-d2f4cc03b772_ug_1792495631346_lr1sg_1792506750504",
+      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
+      "type": "CREDIT",
+      "currency": "coins",
+      "amount": 500,
+      "reason": "Game reward: Test",
+      "referenceId": "game_reward_ug_1792495631346_lr1sg",
+      "balanceBefore": 4100,
+      "balanceAfter": 4600,
+      "createdAt": "2026-10-20T14:32:30.510Z",
+      "recordedAt": "2026-10-20T14:32:30.511Z"
+    },
+    {
+      "txId": "game_reward_a1c50954-9f7a-4a2e-bd52-d2f4cc03b772_game_neon_surge_1792506838456",
+      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
+      "type": "CREDIT",
+      "currency": "coins",
+      "amount": 200,
+      "reason": "Game reward: Neon Surge",
+      "referenceId": "game_reward_game_neon_surge",
+      "balanceBefore": 4600,
+      "balanceAfter": 4800,
+      "createdAt": "2026-10-20T14:33:58.461Z",
+      "recordedAt": "2026-10-20T14:33:58.462Z"
+    },
+    {
+      "txId": "game_reward_a1c50954-9f7a-4a2e-bd52-d2f4cc03b772_ug_1792495631346_lr1sg_1792507087753",
+      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
+      "type": "CREDIT",
+      "currency": "coins",
+      "amount": 500,
+      "reason": "Game reward: Test",
+      "referenceId": "game_reward_ug_1792495631346_lr1sg",
+      "balanceBefore": 4800,
+      "balanceAfter": 5300,
+      "createdAt": "2026-10-20T14:38:07.757Z",
+      "recordedAt": "2026-10-20T14:38:07.759Z"
+    }
+  ],
   "coin_orders": [
     {
       "id": "COIN-F4378BF7",
@@ -898,10 +965,108 @@
       "createdAt": "2026-10-08T12:27:08.343Z",
       "paidAt": "2026-10-08T12:27:31.647Z",
       "confirmedBy": "afdd6b55-1597-4a45-86f7-1579c8325dc8"
+    },
+    {
+      "id": "COIN-92373FDE",
+      "reference": "CR-1-COIN-92373FDE-50000",
+      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
+      "username": "1",
+      "email": "1@gmail.com",
+      "coins": 50000,
+      "baseAmount": 12,
+      "discountAmount": 1.2,
+      "amount": 10.8,
+      "currency": "ZAR",
+      "buyCoinsUsed": 120,
+      "status": "pending",
+      "createdAt": "2026-10-20T11:53:32.844Z"
     }
   ],
   "withdrawal_requests": [],
-  "activity_logs": [],
+  "activity_logs": [
+    {
+      "type": "user_game_submitted",
+      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
+      "username": "1",
+      "gameId": "ug_1792495631346_lr1sg",
+      "gameName": "Test",
+      "fee": 3000,
+      "expiresAt": "2026-10-21T11:27:11.346Z",
+      "ts": "2026-10-20T11:27:11.351Z"
+    },
+    {
+      "type": "game_reward",
+      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
+      "username": "1",
+      "game": "Test",
+      "coins": 500,
+      "durationMinutes": 3,
+      "requiredMinutes": 3,
+      "hostShare": null,
+      "ts": "2026-10-20T11:31:58.540Z"
+    },
+    {
+      "type": "game_reward",
+      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
+      "username": "1",
+      "game": "Test",
+      "coins": 500,
+      "durationMinutes": 3,
+      "requiredMinutes": 3,
+      "hostShare": null,
+      "ts": "2026-10-20T11:39:05.257Z"
+    },
+    {
+      "type": "game_reward",
+      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
+      "username": "1",
+      "game": "Test",
+      "coins": 500,
+      "durationMinutes": 3,
+      "requiredMinutes": 3,
+      "hostShare": null,
+      "ts": "2026-10-20T11:50:12.250Z"
+    },
+    {
+      "type": "new_user",
+      "username": "demo",
+      "referredBy": null,
+      "ts": "2026-10-20T14:03:30.754Z"
+    },
+    {
+      "type": "game_reward",
+      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
+      "username": "1",
+      "game": "Test",
+      "coins": 500,
+      "durationMinutes": 4,
+      "requiredMinutes": 3,
+      "hostShare": null,
+      "ts": "2026-10-20T14:32:30.544Z"
+    },
+    {
+      "type": "game_reward",
+      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
+      "username": "1",
+      "game": "Neon Surge",
+      "coins": 200,
+      "durationMinutes": 1,
+      "requiredMinutes": 1,
+      "hostShare": null,
+      "ts": "2026-10-20T14:33:58.467Z"
+    },
+    {
+      "type": "game_reward",
+      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
+      "username": "1",
+      "game": "Test",
+      "coins": 500,
+      "durationMinutes": 3,
+      "requiredMinutes": 3,
+      "hostShare": null,
+      "ts": "2026-10-20T14:38:07.763Z"
+    }
+  ],
   "rewards": [
     {
       "id": "freefire-100",
@@ -2210,7 +2375,7 @@
     "jackpot": 0,
     "drawNumber": 1,
     "lastWinner": null,
-    "lastDrawAt": "2026-10-17T00:00:12.256Z",
+    "lastDrawAt": "2026-10-20T10:39:19.349Z",
     "lastDraw": null,
     "status": "open",
     "results": []
@@ -2273,17 +2438,61 @@
       "createdAt": "2026-10-20T10:38:21.041Z"
     }
   ],
-  "game_rewards": [],
-  "user_games": [],
+  "game_rewards": [
+    {
+      "id": "gr_1792506750540_j6t7m",
+      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
+      "gameId": "ug_1792495631346_lr1sg",
+      "gameName": "Test",
+      "coins": 500,
+      "durationMinutes": 4,
+      "createdAt": "2026-10-20T14:32:30.540Z"
+    },
+    {
+      "id": "gr_1792506838464_fx04e",
+      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
+      "gameId": "game_neon_surge",
+      "gameName": "Neon Surge",
+      "coins": 200,
+      "durationMinutes": 1,
+      "createdAt": "2026-10-20T14:33:58.464Z"
+    },
+    {
+      "id": "gr_1792507087761_kr1tf",
+      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
+      "gameId": "ug_1792495631346_lr1sg",
+      "gameName": "Test",
+      "coins": 500,
+      "durationMinutes": 3,
+      "createdAt": "2026-10-20T14:38:07.761Z"
+    }
+  ],
+  "user_games": [
+    {
+      "id": "ug_1792495631346_lr1sg",
+      "name": "Test",
+      "icon": "https://whatsapp.com",
+      "url": "https://pay.yoco.com",
+      "timeMinutes": 3,
+      "coinReward": 500,
+      "hostShare": 250,
+      "submittedBy": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
+      "submittedByUsername": "1",
+      "expiresAt": "2026-10-21T11:27:11.346Z",
+      "createdAt": "2026-10-20T11:27:11.346Z",
+      "enabled": true,
+      "cooldownMinutes": 3
+    }
+  ],
   "sponsorships": [],
   "social_posts": [],
   "event_stats": {
-    "totalUsers": 20,
+    "totalUsers": 21,
     "totalTickets": 0,
-    "totalCoins": 137096,
+    "totalCoins": 141796,
     "lastReset": null,
     "lastWinner": null,
-    "snapshotAt": "2026-10-20T10:38:21.580Z"
+    "snapshotAt": "2026-10-20T14:43:45.307Z"
   },
   "leaderboard": [
     {
@@ -3188,6 +3397,67 @@
       "amount": 500,
       "balanceBefore": 100,
       "balanceAfter": 600
+    },
+    {
+      "id": "admin_balance_adjustment_1792495553875",
+      "type": "admin_balance_adjustment",
+      "timestamp": "2026-10-20T11:25:53.875Z",
+      "adminId": "afdd6b55-1597-4a45-86f7-1579c8325dc8",
+      "targetUserId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
+      "targetUsername": "1",
+      "newCoins": 600,
+      "newTickets": 0
+    },
+    {
+      "id": "admin_balance_adjustment_1792495581891",
+      "type": "admin_balance_adjustment",
+      "timestamp": "2026-10-20T11:26:21.891Z",
+      "adminId": "afdd6b55-1597-4a45-86f7-1579c8325dc8",
+      "targetUserId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
+      "targetUsername": "1",
+      "newCoins": 5600,
+      "newTickets": 0
+    },
+    {
+      "id": "admin_user_details_updated_1792496419968",
+      "type": "admin_user_details_updated",
+      "timestamp": "2026-10-20T11:40:19.968Z",
+      "adminId": "afdd6b55-1597-4a45-86f7-1579c8325dc8",
+      "targetUserId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
+      "targetUsername": "1",
+      "previous": {
+        "level": 100
+      },
+      "level": 1
+    },
+    {
+      "id": "admin_ghost_frame_updated_1792496421766",
+      "type": "admin_ghost_frame_updated",
+      "timestamp": "2026-10-20T11:40:21.766Z",
+      "adminId": "afdd6b55-1597-4a45-86f7-1579c8325dc8",
+      "targetUserId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
+      "targetUsername": "1",
+      "enabled": false
+    },
+    {
+      "id": "admin_user_details_updated_1792496431519",
+      "type": "admin_user_details_updated",
+      "timestamp": "2026-10-20T11:40:31.519Z",
+      "adminId": "afdd6b55-1597-4a45-86f7-1579c8325dc8",
+      "targetUserId": "afdd6b55-1597-4a45-86f7-1579c8325dc8",
+      "targetUsername": "admin",
+      "previous": {
+        "level": 100
+      },
+      "level": 1
+    },
+    {
+      "id": "user_register_1792505010752",
+      "type": "user_register",
+      "timestamp": "2026-10-20T14:03:30.752Z",
+      "userId": "fa18399c-10d6-4b30-8783-a9549e5f475c",
+      "username": "demo",
+      "referredBy": null
     }
   ]
 }
