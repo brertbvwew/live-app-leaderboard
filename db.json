@@ -1145,7 +1145,7 @@
       "id": "tiktok-followers-free",
       "name": "TikTok 15 Followers",
       "category": "Free Orders",
-      "coinCost": 100,
+      "coinCost": 10,
       "appCoinCost": 100,
       "discountCoinCost": 100,
       "discountAppCoinCost": 100,
@@ -1159,7 +1159,7 @@
       "id": "tiktok-likes-free",
       "name": "TikTok 30 Likes",
       "category": "Free Orders",
-      "coinCost": 0,
+      "coinCost": 10,
       "appCoinCost": 100,
       "discountCoinCost": 100,
       "discountAppCoinCost": 100,
@@ -2221,7 +2221,7 @@
     "totalCoins": 137096,
     "lastReset": null,
     "lastWinner": null,
-    "snapshotAt": "2026-10-19T15:42:54.728Z"
+    "snapshotAt": "2026-10-20T09:11:31.178Z"
   },
   "leaderboard": [
     {
