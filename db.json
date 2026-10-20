@@ -1146,9 +1146,9 @@
       "name": "TikTok 15 Followers",
       "category": "Free Orders",
       "coinCost": 10,
-      "appCoinCost": 100,
-      "discountCoinCost": 100,
-      "discountAppCoinCost": 100,
+      "appCoinCost": 0,
+      "discountCoinCost": 10,
+      "discountAppCoinCost": 0,
       "description": "TikTok promotion package for 15 followers.",
       "icon": "🎵",
       "asset": "https://raw.githubusercontent.com/coderxsa/Assets/refs/heads/main/images/rewards/free-tiktok-15.png",
@@ -1160,13 +1160,41 @@
       "name": "TikTok 30 Likes",
       "category": "Free Orders",
       "coinCost": 10,
-      "appCoinCost": 100,
-      "discountCoinCost": 100,
-      "discountAppCoinCost": 100,
+      "appCoinCost": 0,
+      "discountCoinCost": 10,
+      "discountAppCoinCost": 0,
       "description": "TikTok promotion package for 30 likes.",
       "icon": "🎵",
       "asset": "https://raw.githubusercontent.com/coderxsa/Assets/refs/heads/main/images/rewards/free-tiktok-likes.png",
       "requiredInput": "TikTok Url",
+      "status": "ACTIVE"
+    },
+    {
+      "id": "instagram-likes-free",
+      "name": "Instagram 30 Likes",
+      "category": "Free Orders",
+      "coinCost": 10,
+      "appCoinCost": 0,
+      "discountCoinCost": 10,
+      "discountAppCoinCost": 0,
+      "description": "Instagram promotion package for 30 likes.",
+      "icon": "📸",
+      "asset": "https://raw.githubusercontent.com/coderxsa/Assets/refs/heads/main/images/rewards/free-instagram-likes.png",
+      "requiredInput": "Instagram video/reel Url",
+      "status": "ACTIVE"
+    },
+    {
+      "id": "instagram-followers-free",
+      "name": "Instagram 20 Followers",
+      "category": "Free Orders",
+      "coinCost": 10,
+      "appCoinCost": 0,
+      "discountCoinCost": 10,
+      "discountAppCoinCost": 0,
+      "description": "Instagram promotion package for 20 followers.",
+      "icon": "📸",
+      "asset": "https://raw.githubusercontent.com/coderxsa/Assets/refs/heads/main/images/rewards/free-instagram-followers.png",
+      "requiredInput": "Instagram Username",
       "status": "ACTIVE"
     }
   ],
@@ -2221,7 +2249,7 @@
     "totalCoins": 137096,
     "lastReset": null,
     "lastWinner": null,
-    "snapshotAt": "2026-10-20T09:11:31.178Z"
+    "snapshotAt": "2026-10-20T09:34:21.696Z"
   },
   "leaderboard": [
     {
