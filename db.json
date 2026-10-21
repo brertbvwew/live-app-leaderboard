@@ -39,8 +39,8 @@
       },
       "cratesOpened": 0,
       "lastCoinPurchaseAt": "2026-10-08T12:27:31.647Z",
-      "lastActiveAt": "2026-10-20T17:19:43.461Z",
-      "lastLoginAt": "2026-10-20T17:19:43.461Z"
+      "lastActiveAt": "2026-10-21T10:20:28.127Z",
+      "lastLoginAt": "2026-10-21T10:20:28.127Z"
     },
     {
       "id": "f37cbcb5-80ed-4869-a4e4-2e7e19b0c0aa",
@@ -270,7 +270,7 @@
       "role": "user",
       "referralCode": "1-GI1UX",
       "transferHash": "D0ASA08",
-      "coins": 6069,
+      "coins": 3669,
       "tickets": 0,
       "totalReferrals": 0,
       "monthlyReferrals": 0,
@@ -286,11 +286,11 @@
       "lastClaimDate": null,
       "gamesPlayed": 192,
       "gamesWon": 57,
-      "lifetimeCoinsEarned": 169859,
+      "lifetimeCoinsEarned": 169959,
       "lifetimeCoinsSpent": 51655,
       "level": 11,
-      "xp": 2100,
-      "rewardCoins": 940,
+      "xp": 2125,
+      "rewardCoins": 1080,
       "cosmetics": {
         "frames": [],
         "profileArt": []
@@ -300,10 +300,10 @@
         "profileArt": null
       },
       "cratesOpened": 0,
-      "lastLoginAt": "2026-10-20T18:35:51.924Z",
-      "lastActiveAt": "2026-10-20T18:35:51.924Z",
-      "botLoginKeyHash": "5664d81a29f242d5854f52b6b0d763e373d21e32a569b59f3e4c2dad37274ec1",
-      "botLoginKeyExpiresAt": "2026-10-20T23:11:43.277Z",
+      "lastLoginAt": "2026-10-21T11:39:05.382Z",
+      "lastActiveAt": "2026-10-21T11:39:05.382Z",
+      "botLoginKeyHash": "c23cfa94e354d29b116cfd0abafa8f607548b30cd2131e6e9b5193efa78fac03",
+      "botLoginKeyExpiresAt": "2026-10-21T22:39:15.978Z",
       "banExpiresAt": null,
       "bannedBy": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772"
     },
@@ -903,7 +903,7 @@
       "role": "user",
       "referralCode": "FW_S-226UI",
       "transferHash": "UYGY1GP",
-      "coins": 1600,
+      "coins": 2000,
       "tickets": 0,
       "totalReferrals": 0,
       "monthlyReferrals": 0,
@@ -919,7 +919,7 @@
       "lastClaimDate": null,
       "gamesPlayed": 1,
       "gamesWon": 0,
-      "lifetimeCoinsEarned": 1850,
+      "lifetimeCoinsEarned": 2250,
       "lifetimeCoinsSpent": 250,
       "level": 1,
       "xp": 115,
@@ -931,8 +931,8 @@
         "frame": null,
         "profileArt": null
       },
-      "lastActiveAt": "2026-10-20T22:31:46.950Z",
-      "lastLoginAt": "2026-10-20T22:31:46.950Z"
+      "lastActiveAt": "2026-10-21T05:24:47.356Z",
+      "lastLoginAt": "2026-10-21T05:24:47.356Z"
     }
   ],
   "transactions": [],
@@ -986,49 +986,6 @@
   ],
   "withdrawal_requests": [],
   "activity_logs": [
-    {
-      "type": "user_game_submitted",
-      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
-      "username": "1",
-      "gameId": "ug_1792495631346_lr1sg",
-      "gameName": "Test",
-      "fee": 3000,
-      "expiresAt": "2026-10-21T11:27:11.346Z",
-      "ts": "2026-10-20T11:27:11.351Z"
-    },
-    {
-      "type": "game_reward",
-      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
-      "username": "1",
-      "game": "Test",
-      "coins": 500,
-      "durationMinutes": 3,
-      "requiredMinutes": 3,
-      "hostShare": null,
-      "ts": "2026-10-20T11:31:58.540Z"
-    },
-    {
-      "type": "game_reward",
-      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
-      "username": "1",
-      "game": "Test",
-      "coins": 500,
-      "durationMinutes": 3,
-      "requiredMinutes": 3,
-      "hostShare": null,
-      "ts": "2026-10-20T11:39:05.257Z"
-    },
-    {
-      "type": "game_reward",
-      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
-      "username": "1",
-      "game": "Test",
-      "coins": 500,
-      "durationMinutes": 3,
-      "requiredMinutes": 3,
-      "hostShare": null,
-      "ts": "2026-10-20T11:50:12.250Z"
-    },
     {
       "type": "new_user",
       "username": "demo",
@@ -1261,6 +1218,51 @@
       ],
       "winType": null,
       "ts": "2026-10-20T22:34:31.391Z"
+    },
+    {
+      "type": "game_reward",
+      "userId": "b45a3976-18da-4ab6-ae48-1b098006d3fd",
+      "username": "fw_spiderman",
+      "game": "Neon Surge",
+      "coins": 200,
+      "durationMinutes": 1,
+      "requiredMinutes": 1,
+      "hostShare": null,
+      "ts": "2026-10-21T01:52:17.183Z"
+    },
+    {
+      "type": "game_reward",
+      "userId": "b45a3976-18da-4ab6-ae48-1b098006d3fd",
+      "username": "fw_spiderman",
+      "game": "Neon Surge",
+      "coins": 200,
+      "durationMinutes": 1,
+      "requiredMinutes": 1,
+      "hostShare": null,
+      "ts": "2026-10-21T05:28:23.186Z"
+    },
+    {
+      "type": "coin_exchange",
+      "username": "1",
+      "coinsSpent": 2500,
+      "rewardCoinsAdded": 150,
+      "ts": "2026-10-21T08:58:13.056Z"
+    },
+    {
+      "type": "reward_claim",
+      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
+      "username": "1",
+      "rewardName": "TikTok 15 Followers",
+      "cost": 10,
+      "ref": "#claim_1792573107446_byzo1",
+      "ts": "2026-10-21T08:58:27.484Z"
+    },
+    {
+      "type": "daily_bonus",
+      "username": "1",
+      "coins": 100,
+      "streak": 1,
+      "ts": "2026-10-21T08:58:49.301Z"
     }
   ],
   "rewards": [
@@ -1559,7 +1561,25 @@
       "status": "ACTIVE"
     }
   ],
-  "reward_claims": [],
+  "reward_claims": [
+    {
+      "id": "claim_1792573107481_pq67o",
+      "status": "PENDING",
+      "createdAt": "2026-10-21T08:58:27.481Z",
+      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
+      "username": "1",
+      "rewardId": "tiktok-followers-free",
+      "rewardName": "TikTok 15 Followers",
+      "title": "TikTok 15 Followers",
+      "referenceHash": "#claim_1792573107446_byzo1",
+      "recipientId": "Ur username",
+      "icon": "🎵",
+      "coinCost": 10,
+      "voucherCode": "Pending Delivery...",
+      "idempotencyKey": "claim_a1c50954-9f7a-4a2e-bd52-d2f4cc03b772_tiktok-followers-free_1792573107437",
+      "processingEstimate": "1-2 Days"
+    }
+  ],
   "achievements": [
     {
       "id": "first_game",
@@ -2531,8 +2551,8 @@
     {
       "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
       "streak": 1,
-      "lastClaimDate": "2026-10-15",
-      "lastClaimAt": "2026-10-15T11:27:18.671Z"
+      "lastClaimDate": "2026-10-21",
+      "lastClaimAt": "2026-10-21T08:58:49.290Z"
     },
     {
       "userId": "afdd6b55-1597-4a45-86f7-1579c8325dc8",
@@ -2655,10 +2675,10 @@
   "event_stats": {
     "totalUsers": 22,
     "totalTickets": 0,
-    "totalCoins": 144165,
+    "totalCoins": 142165,
     "lastReset": null,
     "lastWinner": null,
-    "snapshotAt": "2026-10-21T01:46:53.322Z"
+    "snapshotAt": "2026-10-21T12:46:53.322Z"
   },
   "leaderboard": [
     {
