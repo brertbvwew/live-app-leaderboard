@@ -39,8 +39,8 @@
       },
       "cratesOpened": 0,
       "lastCoinPurchaseAt": "2026-10-08T12:27:31.647Z",
-      "lastActiveAt": "2026-10-21T10:20:28.127Z",
-      "lastLoginAt": "2026-10-21T10:20:28.127Z"
+      "lastActiveAt": "2026-10-21T15:05:12.606Z",
+      "lastLoginAt": "2026-10-21T15:05:12.606Z"
     },
     {
       "id": "f37cbcb5-80ed-4869-a4e4-2e7e19b0c0aa",
@@ -290,7 +290,7 @@
       "lifetimeCoinsSpent": 51655,
       "level": 11,
       "xp": 2125,
-      "rewardCoins": 1080,
+      "rewardCoins": 1090,
       "cosmetics": {
         "frames": [],
         "profileArt": []
@@ -987,239 +987,6 @@
   "withdrawal_requests": [],
   "activity_logs": [
     {
-      "type": "new_user",
-      "username": "demo",
-      "referredBy": null,
-      "ts": "2026-10-20T14:03:30.754Z"
-    },
-    {
-      "type": "game_reward",
-      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
-      "username": "1",
-      "game": "Test",
-      "coins": 500,
-      "durationMinutes": 4,
-      "requiredMinutes": 3,
-      "hostShare": null,
-      "ts": "2026-10-20T14:32:30.544Z"
-    },
-    {
-      "type": "game_reward",
-      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
-      "username": "1",
-      "game": "Neon Surge",
-      "coins": 200,
-      "durationMinutes": 1,
-      "requiredMinutes": 1,
-      "hostShare": null,
-      "ts": "2026-10-20T14:33:58.467Z"
-    },
-    {
-      "type": "game_reward",
-      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
-      "username": "1",
-      "game": "Test",
-      "coins": 500,
-      "durationMinutes": 3,
-      "requiredMinutes": 3,
-      "hostShare": null,
-      "ts": "2026-10-20T14:38:07.763Z"
-    },
-    {
-      "type": "bot_coin_adjustment",
-      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
-      "username": "1",
-      "operation": "debit",
-      "amount": 231,
-      "balance": 5069,
-      "ts": "2026-10-20T16:28:39.609Z"
-    },
-    {
-      "type": "bot_xp_update",
-      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
-      "username": "1",
-      "amount": 10,
-      "level": 11,
-      "xp": 2010,
-      "hasLeveledUp": true,
-      "ts": "2026-10-20T16:28:39.737Z"
-    },
-    {
-      "type": "bot_games_lose",
-      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
-      "username": "1",
-      "gamesWon": 57,
-      "gamesPlayed": 192,
-      "ts": "2026-10-20T16:28:39.913Z"
-    },
-    {
-      "type": "bot_coin_adjustment",
-      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
-      "username": "1",
-      "operation": "debit",
-      "amount": 250,
-      "balance": 4819,
-      "ts": "2026-10-20T16:29:04.489Z"
-    },
-    {
-      "type": "bot_xp_update",
-      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
-      "username": "1",
-      "amount": 20,
-      "level": 11,
-      "xp": 2030,
-      "hasLeveledUp": false,
-      "ts": "2026-10-20T16:29:04.624Z"
-    },
-    {
-      "type": "new_user",
-      "username": "fw_spiderman",
-      "referredBy": null,
-      "ts": "2026-10-20T17:01:39.761Z"
-    },
-    {
-      "type": "bot_coin_adjustment",
-      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
-      "username": "1",
-      "operation": "credit",
-      "amount": 1500,
-      "balance": 6319,
-      "ts": "2026-10-20T17:17:51.744Z"
-    },
-    {
-      "type": "bot_xp_update",
-      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
-      "username": "1",
-      "amount": 50,
-      "level": 11,
-      "xp": 2080,
-      "hasLeveledUp": false,
-      "ts": "2026-10-20T17:17:51.882Z"
-    },
-    {
-      "type": "bot_coin_adjustment",
-      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
-      "username": "1",
-      "operation": "debit",
-      "amount": 250,
-      "balance": 6069,
-      "ts": "2026-10-20T17:18:09.159Z"
-    },
-    {
-      "type": "bot_xp_update",
-      "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
-      "username": "1",
-      "amount": 20,
-      "level": 11,
-      "xp": 2100,
-      "hasLeveledUp": false,
-      "ts": "2026-10-20T17:18:09.288Z"
-    },
-    {
-      "type": "game_reward",
-      "userId": "b45a3976-18da-4ab6-ae48-1b098006d3fd",
-      "username": "fw_spiderman",
-      "game": "Neon Surge",
-      "coins": 200,
-      "durationMinutes": 1,
-      "requiredMinutes": 1,
-      "hostShare": null,
-      "ts": "2026-10-20T17:31:07.369Z"
-    },
-    {
-      "type": "game_reward",
-      "userId": "b45a3976-18da-4ab6-ae48-1b098006d3fd",
-      "username": "fw_spiderman",
-      "game": "Neon Burst",
-      "coins": 200,
-      "durationMinutes": 1,
-      "requiredMinutes": 1,
-      "hostShare": null,
-      "ts": "2026-10-20T17:32:57.876Z"
-    },
-    {
-      "type": "game_reward",
-      "userId": "b45a3976-18da-4ab6-ae48-1b098006d3fd",
-      "username": "fw_spiderman",
-      "game": "Neon Surge",
-      "coins": 200,
-      "durationMinutes": 2,
-      "requiredMinutes": 1,
-      "hostShare": null,
-      "ts": "2026-10-20T17:36:32.999Z"
-    },
-    {
-      "type": "game_reward",
-      "userId": "b45a3976-18da-4ab6-ae48-1b098006d3fd",
-      "username": "fw_spiderman",
-      "game": "Neon Burst",
-      "coins": 200,
-      "durationMinutes": 1,
-      "requiredMinutes": 1,
-      "hostShare": null,
-      "ts": "2026-10-20T17:38:15.093Z"
-    },
-    {
-      "type": "game_reward",
-      "userId": "b45a3976-18da-4ab6-ae48-1b098006d3fd",
-      "username": "fw_spiderman",
-      "game": "Neon Surge",
-      "coins": 200,
-      "durationMinutes": 1,
-      "requiredMinutes": 1,
-      "hostShare": null,
-      "ts": "2026-10-20T17:39:49.286Z"
-    },
-    {
-      "type": "game_reward",
-      "userId": "b45a3976-18da-4ab6-ae48-1b098006d3fd",
-      "username": "fw_spiderman",
-      "game": "Neon Burst",
-      "coins": 200,
-      "durationMinutes": 1,
-      "requiredMinutes": 1,
-      "hostShare": null,
-      "ts": "2026-10-20T17:42:51.282Z"
-    },
-    {
-      "type": "game_reward",
-      "userId": "b45a3976-18da-4ab6-ae48-1b098006d3fd",
-      "username": "fw_spiderman",
-      "game": "Neon Surge",
-      "coins": 200,
-      "durationMinutes": 1,
-      "requiredMinutes": 1,
-      "hostShare": null,
-      "ts": "2026-10-20T17:46:45.442Z"
-    },
-    {
-      "type": "game_reward",
-      "userId": "b45a3976-18da-4ab6-ae48-1b098006d3fd",
-      "username": "fw_spiderman",
-      "game": "Neon Surge",
-      "coins": 200,
-      "durationMinutes": 1,
-      "requiredMinutes": 1,
-      "hostShare": null,
-      "ts": "2026-10-20T22:33:40.887Z"
-    },
-    {
-      "type": "casino_slots",
-      "username": "fw_spiderman",
-      "action": "spin",
-      "bet": 250,
-      "isWin": false,
-      "payout": 0,
-      "multiplier": 0,
-      "symbols": [
-        "GRAPE",
-        "DIAMOND",
-        "ORANGE"
-      ],
-      "winType": null,
-      "ts": "2026-10-20T22:34:31.391Z"
-    },
-    {
       "type": "game_reward",
       "userId": "b45a3976-18da-4ab6-ae48-1b098006d3fd",
       "username": "fw_spiderman",
@@ -1564,7 +1331,7 @@
   "reward_claims": [
     {
       "id": "claim_1792573107481_pq67o",
-      "status": "PENDING",
+      "status": "CANCELLED",
       "createdAt": "2026-10-21T08:58:27.481Z",
       "userId": "a1c50954-9f7a-4a2e-bd52-d2f4cc03b772",
       "username": "1",
@@ -1577,7 +1344,9 @@
       "coinCost": 10,
       "voucherCode": "Pending Delivery...",
       "idempotencyKey": "claim_a1c50954-9f7a-4a2e-bd52-d2f4cc03b772_tiktok-followers-free_1792573107437",
-      "processingEstimate": "1-2 Days"
+      "processingEstimate": "1-2 Days",
+      "processedAt": "2026-10-21T15:05:35.809Z",
+      "processedBy": "admin"
     }
   ],
   "achievements": [
@@ -2678,7 +2447,7 @@
     "totalCoins": 142165,
     "lastReset": null,
     "lastWinner": null,
-    "snapshotAt": "2026-10-21T12:46:53.322Z"
+    "snapshotAt": "2026-10-21T23:46:53.286Z"
   },
   "leaderboard": [
     {
