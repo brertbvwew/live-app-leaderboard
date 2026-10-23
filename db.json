@@ -890,9 +890,10 @@
         "frame": null,
         "profileArt": null
       },
-      "lastActiveAt": "2026-10-20T14:05:42.595Z",
+      "lastActiveAt": "2026-10-23T11:55:32.887Z",
       "rewardCoins": 0,
-      "cratesOpened": 0
+      "cratesOpened": 0,
+      "lastLoginAt": "2026-10-23T11:55:32.887Z"
     },
     {
       "id": "b45a3976-18da-4ab6-ae48-1b098006d3fd",
@@ -2401,7 +2402,7 @@
     "totalCoins": 142165,
     "lastReset": null,
     "lastWinner": null,
-    "snapshotAt": "2026-10-23T08:46:53.403Z"
+    "snapshotAt": "2026-10-23T19:46:53.347Z"
   },
   "leaderboard": [
     {
