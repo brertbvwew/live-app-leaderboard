@@ -2329,7 +2329,7 @@
     "jackpot": 0,
     "drawNumber": 1,
     "lastWinner": null,
-    "lastDrawAt": "2026-10-23T00:00:55.092Z",
+    "lastDrawAt": "2026-10-24T00:00:58.247Z",
     "lastDraw": null,
     "status": "open",
     "results": []
@@ -2402,7 +2402,7 @@
     "totalCoins": 142165,
     "lastReset": null,
     "lastWinner": null,
-    "snapshotAt": "2026-10-23T19:46:53.347Z"
+    "snapshotAt": "2026-10-24T06:46:53.385Z"
   },
   "leaderboard": [
     {
