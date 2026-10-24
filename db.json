@@ -39,8 +39,8 @@
       },
       "cratesOpened": 0,
       "lastCoinPurchaseAt": "2026-10-08T12:27:31.647Z",
-      "lastActiveAt": "2026-10-22T14:09:11.264Z",
-      "lastLoginAt": "2026-10-22T14:09:11.264Z"
+      "lastActiveAt": "2026-10-24T12:36:55.250Z",
+      "lastLoginAt": "2026-10-24T12:36:55.250Z"
     },
     {
       "id": "f37cbcb5-80ed-4869-a4e4-2e7e19b0c0aa",
@@ -51,7 +51,7 @@
       "role": "user",
       "referralCode": "KAAB-9TVEA",
       "transferHash": "9DDVA1O",
-      "coins": 30500,
+      "coins": 1500,
       "tickets": 0,
       "totalReferrals": 0,
       "monthlyReferrals": 0,
@@ -67,11 +67,11 @@
       "lastClaimDate": null,
       "gamesPlayed": 1,
       "gamesWon": 0,
-      "lifetimeCoinsEarned": 250,
+      "lifetimeCoinsEarned": 1250,
       "lifetimeCoinsSpent": 250,
       "level": 1,
-      "xp": 115,
-      "rewardCoins": 0,
+      "xp": 415,
+      "rewardCoins": 1790,
       "cosmetics": {
         "frames": [],
         "profileArt": []
@@ -80,7 +80,9 @@
         "frame": null,
         "profileArt": null
       },
-      "cratesOpened": 0
+      "cratesOpened": 0,
+      "lastLoginAt": "2026-10-24T10:57:09.762Z",
+      "lastActiveAt": "2026-10-24T10:57:09.762Z"
     },
     {
       "id": "51378108-d6dd-46a4-9d88-d5112bfb73f0",
@@ -300,8 +302,8 @@
         "profileArt": null
       },
       "cratesOpened": 0,
-      "lastLoginAt": "2026-10-22T09:23:34.623Z",
-      "lastActiveAt": "2026-10-22T09:23:34.623Z",
+      "lastLoginAt": "2026-10-24T11:10:36.339Z",
+      "lastActiveAt": "2026-10-24T11:10:36.339Z",
       "botLoginKeyHash": "916ac12e65756ba778fc5eaf9d0c6f15a02467c9f9b1b0347b43387e45d60f93",
       "botLoginKeyExpiresAt": "2026-10-22T20:23:22.504Z",
       "banExpiresAt": null,
@@ -890,10 +892,10 @@
         "frame": null,
         "profileArt": null
       },
-      "lastActiveAt": "2026-10-23T11:55:32.887Z",
+      "lastActiveAt": "2026-10-24T14:05:39.113Z",
       "rewardCoins": 0,
       "cratesOpened": 0,
-      "lastLoginAt": "2026-10-23T11:55:32.887Z"
+      "lastLoginAt": "2026-10-24T14:05:39.113Z"
     },
     {
       "id": "b45a3976-18da-4ab6-ae48-1b098006d3fd",
@@ -986,7 +988,30 @@
     }
   ],
   "withdrawal_requests": [],
-  "activity_logs": [],
+  "activity_logs": [
+    {
+      "type": "coin_exchange",
+      "username": "kaab0._",
+      "coinsSpent": 30000,
+      "rewardCoinsAdded": 1800,
+      "ts": "2026-10-24T11:14:41.272Z"
+    },
+    {
+      "type": "reward_claim",
+      "userId": "f37cbcb5-80ed-4869-a4e4-2e7e19b0c0aa",
+      "username": "kaab0._",
+      "rewardName": "Instagram 20 Followers",
+      "cost": 10,
+      "ref": "#claim_1792841001982_btujo",
+      "ts": "2026-10-24T11:23:21.991Z"
+    },
+    {
+      "type": "reward_fulfilled",
+      "username": "kaab0._",
+      "rewardName": "Instagram 20 Followers",
+      "ts": "2026-10-24T11:25:34.770Z"
+    }
+  ],
   "rewards": [
     {
       "id": "freefire-100",
@@ -1301,6 +1326,25 @@
       "idempotencyKey": "claim_a1c50954-9f7a-4a2e-bd52-d2f4cc03b772_tiktok-followers-free_1792573107437",
       "processingEstimate": "1-2 Days",
       "processedAt": "2026-10-21T15:05:35.809Z",
+      "processedBy": "admin"
+    },
+    {
+      "id": "claim_1792841001987_p1418",
+      "status": "FULFILLED",
+      "createdAt": "2026-10-24T11:23:21.987Z",
+      "userId": "f37cbcb5-80ed-4869-a4e4-2e7e19b0c0aa",
+      "username": "kaab0._",
+      "rewardId": "instagram-followers-free",
+      "rewardName": "Instagram 20 Followers",
+      "title": "Instagram 20 Followers",
+      "referenceHash": "#claim_1792841001982_btujo",
+      "recipientId": "kaab0._",
+      "icon": "📸",
+      "coinCost": 10,
+      "voucherCode": "",
+      "idempotencyKey": "claim_f37cbcb5-80ed-4869-a4e4-2e7e19b0c0aa_instagram-followers-free_1792841001934",
+      "processingEstimate": "1-2 Days",
+      "processedAt": "2026-10-24T11:25:34.765Z",
       "processedBy": "admin"
     }
   ],
@@ -2013,6 +2057,12 @@
       "achievementId": "first_game",
       "name": "First Blood",
       "unlockedAt": "2026-10-20T22:34:31.286Z"
+    },
+    {
+      "userId": "f37cbcb5-80ed-4869-a4e4-2e7e19b0c0aa",
+      "achievementId": "first_claim",
+      "name": "First Redemption",
+      "unlockedAt": "2026-10-24T11:23:22.082Z"
     }
   ],
   "challenges": [
@@ -2399,10 +2449,10 @@
   "event_stats": {
     "totalUsers": 22,
     "totalTickets": 0,
-    "totalCoins": 142165,
+    "totalCoins": 113165,
     "lastReset": null,
     "lastWinner": null,
-    "snapshotAt": "2026-10-24T06:46:53.385Z"
+    "snapshotAt": "2026-10-24T17:46:53.354Z"
   },
   "leaderboard": [
     {
